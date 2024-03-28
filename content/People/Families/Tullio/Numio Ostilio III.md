@@ -1,0 +1,1 @@
+Attuale Re di Patriagis.
