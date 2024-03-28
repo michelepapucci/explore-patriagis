@@ -1,0 +1,10 @@
+La BDP è la mafia più potente e conosciuta a Nova. [[Tracco (Il Pissero)|Tracco]], conosciuto anche come Il Pissero, il loro capo, è un potente personaggio pubblico, un ruffiano, che è riuscito a farsi accettare nella alta società grazie al potere della sua banda. Tutti sanno chi è e cosa fa per vivere, ma riesce a sfruttare la sua posizione, la sua ricchezza e il suo potere sugli aristocratici della città per farla franca e continuare con le malefatte. 
+
+La BDP si occupa del traffico clandestino di [[Lapisma]], della gestione della microcriminalità, dello spaccio e della prostituzione. Mantiene il potere nei confronti del popolo grazie a minacce e pizzi, e tiene in scacco gli aristocratici grazie ad un sistema di ricatti basati sulle informazioni che il loro Maestro dei Sussurri, [[Cianciaratti]] ottiene comunicando con tutte le bestie che infestano la città grazie alla sua istruzione druidica.
+
+## Rattari
+[[Numio Ostilio III |Re Numio]], pressato dagli aristocratici di [[Nova]], ha emesso un editto speciale con il solo scopo di colpire la rete di informazioni della banda, gestita dal Cianciaratti. Ha messo una taglia su tutti i ratti e le altre creature infestanti di Nova, con lo scopo di eliminare gli informatori della BDP.
+
+Questo non ha avuto l'effetto desiderato: la BDP si è prontamente organizzata alla creazione di allevamenti clandestini di ratti, al solo scopo di farli riprodurre e poi di ucciderli per reclamare la taglia dagli organi di stato. Questa pratica ha subito arricchito le tasche della banda, e ha creato una nuova professione clandestina: il rattaro. 
+
+Re Numio ha prontamente proclamato un nuovo editto con lo scopo di criminalizzare pesantemente la nuova professione clandestina, e sebbene questo abbia detratto molti dal provarci, la banda continua ad avere un ampia rete di rattari che con sotterfugi sempre nuovi riesce a truffare le casse dello stato.
