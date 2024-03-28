@@ -29,32 +29,36 @@ I territori dei Tiarna sono la valle a nord di Nova, conosciuta in comune come P
 
 Fin da sempre quindi la loro società si è scontrata sia con il regno di Patriagis, trovandosi così vicini alla loro capitale. Da quando è stato istituito l’accordo con i Popoli Liberi, i rapporti tra i Tiarna e il Regno sono stati pacifici e di mutuo rispetto. Il Regno commercia spesso con i Tiarna per i loro eccellenti beni alimentari, come grano, riso e verdure, e le loro pregiate lavorazioni casearie. I Tiarna comprano principalmente beni tecnologici a base di Lapisma, poiché dal punto di vista dei beni di prima necessità sono completamente indipendenti.
 
+![[Tiarna.png]]
+
 ## Caratteristiche
 
-**Tipo di Creatura**. Sei un umanoide
-**Dimensione**. Taglia media. 
-**Velocità**. 7.5 metri
-**Bonus abilità**. +2 a piacere. +1 a piacere. 
-**Età**. I Tiarna raggiungono la maturità alla stessa età degli umani, possono vivere fino a 250-300 anni. 
-**Cavaliere esperto**. I Tiarna vivono in comunità con i loro cani, i Madranam e vengono addestrati a cavalcare queste enormi creature fin da piccoli. A cavallo di un Madranam ottieni i seguenti benefici: 
-- Hai vantaggio ai tiri per colpire per attacchi corpo a corpo contro bersagli non a cavallo, che sono di taglia media o inferiore;
-- Puoi forzare un attacco diretto al tuo Madranam verso di te;
-- Se il tuo Madranam è soggetto ad un effetto che gli farebbe prendere metà del danno se supera un tiro salvezza su destrezza, prende invece zero danni se lo supera e solo metà danni se fallisce. 
- **Parlare con le creature**. Attraverso suoni e gesti puoi comunicare semplici idee con creature piccole o più piccole. Inoltre sei in grado di comunicare completamente con un Madranam e di comprendere i suoi pensieri e le sue idee. 
-**Linguaggi**. Parli comune, Gaelgem e un linguaggio a scelta. 
+**Tipo di Creatura**. Sei un umanoide.  
+**Dimensione**. Taglia media.   
+**Velocità**. 7.5 metri.  
+**Bonus abilità**. +2 a piacere. +1 a piacere.   
+**Età**. I Tiarna raggiungono la maturità alla stessa età degli umani, possono vivere fino a 250-300 anni.   
+**Cavaliere esperto**. I Tiarna vivono in comunità con i loro cani, i Madranam e vengono addestrati a cavalcare queste enormi creature fin da piccoli. A cavallo di un Madranam ottieni i seguenti benefici:   
+- Hai vantaggio ai tiri per colpire per attacchi corpo a corpo contro bersagli non a cavallo, che sono di taglia media o inferiore;  
+- Puoi forzare un attacco diretto al tuo Madranam verso di te;  
+- Se il tuo Madranam è soggetto ad un effetto che gli farebbe prendere metà del danno se supera un tiro salvezza su destrezza, prende invece zero danni se lo supera e solo metà danni se fallisce.   
+ **Parlare con le creature**. Attraverso suoni e gesti puoi comunicare semplici idee con creature piccole o più piccole. Inoltre sei in grado di comunicare completamente con un Madranam e di comprendere i suoi pensieri e le sue idee.   
+**Linguaggi**. Parli comune, Gaelgem e un linguaggio a scelta.   
 
 ## Caratteristiche di una cavalcatura Madranam
 
-**Classe Armatura**. 11
-**Punti Ferita**. 25 (3d10 + 6)
-**Velocità**. 15m. 
-**Caratteristiche**. Forza: 18 (+4), Destrezza: 13 (+1), Costituzione: 14 (+2), Intelligenza: 8 (-1), Saggezza: 14 (+2), Carisma: 6 (-2)
-**Percezione Passiva**: 12
-### Azioni
-**Carica Dirompente**. Se il Madranam si muove per almeno 6 metri nella stessa direzione verso una creatura che colpisce con un Morso nello stesso turno, il bersaglio deve superare un Tiro Salvezza su Forza con CD 14 o cadere a terra prono. Se il bersaglio cade a terra prono, può usare un’azione bonus per colpirlo nuovamente con l’attacco Morso. 
-**Morso**. Attacco in Mischia +6 per colpire, raggiunge 1.5 metri, un bersaglio. Colpito: 2d6 + 4 (11) danni perforanti. 
+![[madranam.png]]
 
-È possibile, oltre a sellare l’animale, installare su di esso delle armature specifiche, fatte dai fabbri Tiarna, che possono aumentare la resilienza della cavalcatura. La C.A. dell’animale diventa quella indicata nella tabella. Tutte le armature, tranne quella di Pelle e di Pelle Rinforzata danno un -2 alle prove di furtività dell’animale. 
+**Classe Armatura**. 11  
+**Punti Ferita**. 25 (3d10 + 6)  
+**Velocità**. 15m.   
+**Caratteristiche**. Forza: 18 (+4), Destrezza: 13 (+1), Costituzione: 14 (+2), Intelligenza: 8 (-1), Saggezza: 14 (+2), Carisma: 6 (-2)  
+**Percezione Passiva**: 12  
+### Azioni
+**Carica Dirompente**. Se il Madranam si muove per almeno 6 metri nella stessa direzione verso una creatura che colpisce con un Morso nello stesso turno, il bersaglio deve superare un Tiro Salvezza su Forza con CD 14 o cadere a terra prono. Se il bersaglio cade a terra prono, può usare un’azione bonus per colpirlo nuovamente con l’attacco Morso.   
+**Morso**. Attacco in Mischia +6 per colpire, raggiunge 1.5 metri, un bersaglio. Colpito: 2d6 + 4 (11) danni perforanti.   
+
+È possibile, oltre a sellare l’animale, installare su di esso delle armature specifiche, fatte dai fabbri Tiarna, che possono aumentare la resilienza della cavalcatura. La C.A. dell’animale diventa quella indicata nella tabella. Tutte le armature, tranne quella di Pelle e di Pelle Rinforzata danno un -2 alle prove di furtività dell’animale.   
 
 | Tipo di Armatura             | Beneficio CA |
 | ---------------------------- | ------------ |
