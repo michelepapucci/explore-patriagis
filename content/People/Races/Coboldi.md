@@ -1,8 +1,8 @@
 I coboldi sono la seconda e più comune razza draconica che abita le terre di Patriagis, essi sono arrivati dalle terre a est, nella regione dove ora sorge [[Garoth-Mùk]], e attraversando il [[Mare Stretto]] hanno raggiunto la penisola. 
 
-Grazie alla loro discendenza, sono stati fin subito rispettati, specialmente nel sud della Penisola, dove dopo il devasto causato dalla Febbre Indaco, l’arrivo di questa stirpe draconica fu visto come un segno positivo.
+Grazie alla loro discendenza, sono stati fin subito rispettati, specialmente nel sud della Penisola, dove dopo il devasto causato dalla [[Febbre Indaco]], l’arrivo di questa stirpe draconica fu visto come un segno positivo.
 
-I coboldi sono piccole creature, dove gli esemplari più alti raggiungono il metro. Le scaglie tendono ad essere di colori rossicci, come il mattone o la ruggine, anche se talvolta esibiscono scaglie di colori vivaci e brillanti. Come i dragonidi, sono privi di ali e coda ma esibiscono rispetto a questi, un aspetto con delle caratteristiche fisiche più simili ai draghi, come la testa affusolata e una dentatura più aguzza. 
+I coboldi sono piccole creature, dove gli esemplari più alti raggiungono il metro. Le scaglie tendono ad essere di colori rossicci, come il mattone o la ruggine, anche se talvolta esibiscono scaglie di colori vivaci e brillanti. Come i [[Dragonidi|dragonidi]], sono privi di ali e coda ma esibiscono rispetto a questi, un aspetto con delle caratteristiche fisiche più simili ai draghi, come la testa affusolata e una dentatura più aguzza. 
 
 ![[cobold.png]]
 ## Vita e Società

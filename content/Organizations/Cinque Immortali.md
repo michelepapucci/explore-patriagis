@@ -9,7 +9,6 @@ Di essi non si è mai saputo molto da dove venissero o della loro vita privata, 
 I due meno conosciuti sono [[Aron]] il Dottore e [[Ageus]] il Gigante. 
 
 Elencare le gesta dei cinque eroi è impossibile, tra di esse però si sa che:
-
 - Distrussero [[Conrad]], il signore dei vampiri, nel suo semipiano dell’orrore, celato nella Coltre Oscura;
 - Sconfissero in battaglia, su una sola nave, la flotta di [[Gorgans]], la regina medusa di [[Garoth-Mùk]]; 
 - Decapitarono [[Ocipete]], regina delle arpie, e bandirono le sue figlie dall'altro lato dell'Alto Muro; 

@@ -1,0 +1,1 @@
+Storica guerra tra il [[Regno dell’Alba]] e il [[Regno dell'Ovest]].
