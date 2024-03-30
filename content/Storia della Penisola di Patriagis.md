@@ -1,4 +1,3 @@
-
 ```mermaid
 timeline
         title Storia della Penisola di Patriagis
@@ -15,28 +14,5 @@ timeline
 					: test.	    
 	    section Epoca d'Oro
 			1800 BC : test.
-		section La Decadenza
-			1600 BC : test.
-		section Dalle Città al Regno
-			2000 BC : test.
-					: test.	    
-	    section Epoca d'Oro
-			1800 BC : test.
-		section La Decadenza
-			1600 BC : test.
-		section Dalle Città al Regno
-			2000 BC : test.
-					: test.	    
-	    section Epoca d'Oro
-			1800 BC : test.
-		section La Decadenza
-			1600 BC : test.
-		section Dalle Città al Regno
-			2000 BC : test.
-					: test.	    
-	    section Epoca d'Oro
-			1800 BC : test.
-		section La Decadenza
-			1600 BC : test.
 ```
 
