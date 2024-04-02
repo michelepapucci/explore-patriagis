@@ -27,6 +27,7 @@ timeline
 			1800 BC : test.
 ```
 
+
 > [!timeline|red] Title
-> Lorem, ipsum dolor sit amet consectetur, [[adipisicing]] elit.
+> Lorem, ipsum dolor sit amet consectetur, adipisicing elit.
 
