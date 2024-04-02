@@ -28,6 +28,7 @@ timeline
 ```
 
 
-> [!timeline|red] Title
+> [!timeline] Title
+> 
 > Lorem, ipsum dolor sit amet consectetur, adipisicing elit.
 
