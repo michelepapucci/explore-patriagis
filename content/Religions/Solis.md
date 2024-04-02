@@ -11,7 +11,7 @@ La chiesa è formata da un ordine di chierici conosciuti come **Portatori d’Al
 
 Il clero di Solis rispetta l’arte, la natura, la cultura e la libertà. Promuove la crescita personale e cerca di diffondere speranza. 
 
-I **luoghi sacri** dediti a Solis sono solitamente piccoli templi, costruiti in stile Nifilim, con un tetto a forma di cerchio e un foro centrale, che lascia passare la luce del giorno. Questi sono chiamati **Case del Mattino**, e nonostante la natura nomade del clero di Solis, solitamente ci sono sempre dei chierici a risiedervi. Le Case sono solitamente abitate dai novizi e dai maestri, solitamente anziani, non più in grado di viaggiare. 
+I **luoghi sacri** dediti a Solis sono solitamente piccoli templi, costruiti in stile Nifilim (ovvero, uno stile greco classico), con un tetto a forma di cerchio e un foro centrale, che lascia passare la luce del giorno. Questi sono chiamati **Case del Mattino**, e nonostante la natura nomade del clero di Solis, solitamente ci sono sempre dei chierici a risiedervi. Le Case sono solitamente abitate dai novizi e dai maestri, solitamente anziani, non più in grado di viaggiare. 
 Le Case del Mattino solitamente provvedono a dare un tetto ai più poveri e a sfamarli, a curare i feriti e a benedire i campi. 
 
 Il tipico rito sacro della Chiesa è l'**Offerta al Sole** che viene svolta ogni tre giorni a mezzogiorno all'interno delle Case del Mattino, o se non ve ne fosse una presente, in luoghi ben soleggiati. Il rito serve a ringraziare il sole per i suoi benefici e i suoi doni, e vengono bruciati ed offerti a lui alcuni doni simbolici (solitamente delle spighe di grano, o altri prodotti dei campi della zona).

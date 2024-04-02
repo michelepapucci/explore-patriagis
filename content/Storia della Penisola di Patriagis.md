@@ -34,3 +34,16 @@ timeline
 			: Romio I viene incoronato Re di Patriagis
 
 ```
+
+## - 15000
+[[Drago|Draghi]] e [[Nifilim]] si estinguono in seguito ad un [[Estinzione dei Draghi e dei Nifilim|misterioso cataclisma]]. In seguito all'energia rilasciata durante questo evento, la [[Trama]] e il [[Piano Materiale]] vengono fortemente scossi. Da quest'ultimo nascono due echi intrisi di un enorme quantità di magia: la [[Selva Fatata]] e la [[Coltre Oscura]].
+
+Nel Piano Materiale e nei suoi echi, cominciano a nascere i primi umanoidi.
+Gli [[Umani]] nel Piano Materiale, gli [[Eladrin]] nella Selva, e gli [[Shadar-kai]] nella Coltre. 
+
+In seguito, alcuni Eladrin, in cerca di un posto più tranquillo, decidono di trasferirsi nel Piano Materiale. Negli anni, la lontananza dalla magia fatata della Selva, li ha resi più ferali e meno magici, diventando [[Elfi]].
+
+Similmente, alcuni Shadar-kai si trasferiscono nel Piano Materiale, nel tempo diventeranno i [[Drow]].
+
+
+## -9000
