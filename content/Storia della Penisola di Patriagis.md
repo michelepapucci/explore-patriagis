@@ -1,7 +1,7 @@
 
 ```mermaid
 timeline
-        title Storia della Penisola di Patriagis
+        title   
         section Dai Villaggi ai Regni
         -15000 : Draghi e Nifilim si estinguono in seguito ad un misterioso cataclisma.
 			    : Il cataclisma scuote il piano materiale, creandone due echi: La Coltre Oscura e La Selva  Fatata.
@@ -27,6 +27,3 @@ timeline
 	    section Epoca d'Oro
 			1800 BC : test.
 ```
-
-> [!timeline] Title
-> Lorem, ipsum dolor sit amet consectetur, adipisicing elit.
