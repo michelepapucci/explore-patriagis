@@ -1,6 +1,6 @@
 I Dragonidi sono creature misteriose e inconcepibili, le cui fattezze sono simili a quelle di antiche creature ormai estinte: i [[Drago|draghi]]. 
 Come queste creature siano comparse su Patriagis è un mistero. Tuttavia, ancora oggi, in eccezionali e rari casi, capita che da coppie di altri umanoidi, come [[Umani|umani]] o [[Mezzelfi|mezzelfi]], talvolta nasca un Dragonide. 
-Il loro antico nome, *Draconi-facti*, è ancora in uso, specie nelle regioni a sud della penisola. I Dragonidi hanno scaglie di colori brillanti e uniformi, che vanno dal rosso, al bianco, al verde e all'oro. Al contrario dei loro estinti antenati, sono privi di ali o di code.
+Il loro antico nome, *Draconi-facti*, è ancora in uso, specie nelle regioni a sud della penisola. I Dragonidi hanno scaglie di colori brillanti e uniformi, che vanno dal rosso, al bianco, al verde e all'oro. Al contrario dei loro [[Drago|estinti antenati]], sono privi di ali o di code.
 
 ## Vita e Società
 

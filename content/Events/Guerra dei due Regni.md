@@ -1,1 +1,1 @@
-Storica guerra tra il [[Regno dell’Alba]] e il [[Regno dell'Ovest]].
+Storica guerra tra il [[Regno dell’Alba]] e il [[Regno dell'Ovest]]. Iniziata nel [[Storia della Penisola di Patriagis#-900|-900]] e ufficialmente terminata nel [[Storia della Penisola di Patriagis#-80|-80]].
