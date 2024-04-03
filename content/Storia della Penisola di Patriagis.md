@@ -52,7 +52,7 @@ In questo periodo la penisola è popolata da insediamenti che vanno dai villaggi
 ## -6000
 In questo periodo città umane ed elfiche raggiungono uno sviluppo e un'estensione non indifferente. Le altre razze sono solitamente accettate, seppur non ben viste, da entrambi i popoli. Iniziano anche delle vere e proprie guerre territoriali, che rendono difficile ricostruire i confini dell'epoca.
 
-# -5800
+## -5800
 A Nord-Est di Patriagis, vicino a dove ora sorge la città di [[Tronh]], avviene la più grande battaglia del periodo: La [[Battaglia del Crepuscolo]], che termina la guerra tra una società elfica e una drow della zona. 
 È considerata una delle più catastrofiche battaglie, in termini di vite perse, della storia, ed è comunemente considerata una delle principali cause della quasi estinzione della razza elfica è oggi così rara. Una delle conseguenze della battaglia e della fine di questa guerra è la [[Battaglia del Crepuscolo#Conseguenze La Diaspora Drow|Diaspora Drow]]. Il popolo drow, sconfitto e decimato, si disperde per la penisola: alcuni, ricchi e benestanti, riescono a comprarsi titoli nobiliari presso la società elfica vincente, che diventerà il [[Regno dell’Alba]], altri si rifugiano in reti di caverne sotterranee dell'[[Alto Muro]], altri ancora salpano per la regione di [[Garoth-Mùk]].
 
