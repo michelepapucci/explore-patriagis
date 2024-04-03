@@ -14,7 +14,7 @@ timeline
 		-5800: Nel Nord-Est della penisola una guerra tra una società elfica e una drow riduce notevolmente i numeri di entrambe.
 			: In seguito alla guerra avviene la Diaspora Drow, la maggior parte di essi si rifugia in società sotterranee. 
 			: I nani in questo periodo fondano la città di Zubduzurak sull'Alto Muro. 
-			: Gli Elfi rimasti fondano il Regno dell'Alba, che controlla quasi tutto l'Est della Penisola, dal mare fino ai Pendici. 
+		-5500: Gli Elfi rimasti fondano il Regno dell'Alba, che controlla quasi tutto l'Est della Penisola, dal mare fino ai Pendici. 
 			: Gli umani controllano l'ovest, e fondando il Regno dell'Ovest.
         section Guerra e Pestilenza
         -3000: Nasce lo studio della magia.
@@ -47,3 +47,19 @@ Similmente, alcuni Shadar-kai si trasferiscono nel Piano Materiale, nel tempo di
 
 
 ## -9000
+In questo periodo la penisola è popolata da insediamenti che vanno dai villaggi a città-stato, perlopiù razziali, spesso arroccate intorno a rovine Niflim, che forniscono supporto e riparo alle città. 
+
+## -6000
+In questo periodo città umane ed elfiche raggiungono uno sviluppo e un'estensione non indifferente. Le altre razze sono solitamente accettate, seppur non ben viste, da entrambi i popoli. Iniziano anche delle vere e proprie guerre territoriali, che rendono difficile ricostruire i confini dell'epoca.
+
+# -5800
+A Nord-Est di Patriagis, vicino a dove ora sorge la città di [[Tronh]], avviene la più grande battaglia del periodo: La [[Battaglia del Crepuscolo]], che termina la guerra tra una società elfica e una drow della zona. 
+È considerata una delle più catastrofiche battaglie, in termini di vite perse, della storia, ed è comunemente considerata una delle principali cause della quasi estinzione della razza elfica è oggi così rara. Una delle conseguenze della battaglia e della fine di questa guerra è la [[Battaglia del Crepuscolo#Conseguenze La Diaspora Drow|Diaspora Drow]]. Il popolo drow, sconfitto e decimato, si disperde per la penisola: alcuni, ricchi e benestanti, riescono a comprarsi titoli nobiliari presso la società elfica vincente, che diventerà il [[Regno dell’Alba]], altri si rifugiano in reti di caverne sotterranee dell'[[Alto Muro]], altri ancora salpano per la regione di [[Garoth-Mùk]].
+
+In questo stesso periodo, i Nani che vivono nel nord-ovest della penisola fondano [[Zubduzurak]], la prima città dei Signori dei Picchi, che preso si allargherà e colonizzerà i migliori picchi dell'Alto Muro. 
+
+## -5500
+Dopo la fine della Battaglia del Crepuscolo, gli elfi della parte est di Patriagis, dai [[Pendici]], fino al [[Mare Stretto]], fondano un enorme regno chiamato [[Regno dell’Alba]], o *Aranië*, in elfico. 
+
+Spinti dalla paura del nuovo e portentoso regno elfico a est, gli umani delle città a ovest dei Pendici, si unificano sotto il [[Regno dell'Ovest]].
+
