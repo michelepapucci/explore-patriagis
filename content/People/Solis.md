@@ -1,4 +1,4 @@
-Durante l’epidemia della [[Febbre Indaco]], una giovane [[halfling]], il cui nome è perduto, iniziò a viaggiare per Patriagis. Lei credeva che l'unico modo di guarire dalla [[Febbre Indaco|terribile pestilenza]] era affidarsi alla luce solare e al giovamento che essa portava. 
+Durante l’epidemia della [[Febbre Indaco]], una giovane [[Halfling]], il cui nome è perduto, iniziò a viaggiare per Patriagis. Lei credeva che l'unico modo di guarire dalla [[Febbre Indaco|terribile pestilenza]] era affidarsi alla luce solare e al giovamento che essa portava. 
 La giovane proveniva dal sud di Patriagis, probabilmente dalle campagne intorno a [[Thurii]], dove riti religiosi legati al Sole erano spesso praticati, specialmente nelle realtà contadine, dove si pregava il corpo celeste per avere buoni raccolti e climi miti. 
 La fede dell'halfling era però totale e assoluta e la spinse a iniziare a predicare vagabondando di città in città per la penisola. 
 
