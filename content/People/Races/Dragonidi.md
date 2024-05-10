@@ -9,7 +9,7 @@ Ad oggi, i Dragonidi vivono in piccoli clan e sono totalmente leali ad essi. Il 
 
 ## Riproduzione e Magia
 
-I Dragonidi sono privi di genere sessuale, e la loro riproduzione avviene quando un individuo depone un uovo. Durante la loro vita, i Dragonidi producano uno, massimo due uova, che per schiudersi devono essere esposte a fonti magiche naturali estremamente potenti. 
+I Dragonidi sono privi di genere sessuale, e la loro riproduzione avviene quando un individuo depone un uovo. Durante la loro vita, i Dragonidi producano uno, massimo due uova, che per schiudersi devono essere esposte a fonti magiche naturali estremamente potenti, chiamate [[Fonti di Magia]]. 
 Queste sono zone dove la Trama sembra essere particolarmente forte e selvaggia. Proprio a causa dell’eccessiva natura magica necessaria, queste fonti si trovano spesso in luoghi disabitati e lontani dalla civilizzazione, come antiche foreste, a largo negli oceani o nelle grotte più profonde di catene montuose.  
 Le uova inizialmente hanno l’aspetto di rocce, e, man mano che vengono esposte a concentrazioni di Trama, il guscio diventa sempre più fragile, finché il neonato non riesce a romperlo e ad uscire. Si dice che la particolare fonte a cui un uovo è esposto possa determinare alcune caratteristiche del Dragonide che nascerà. 
 Non è raro che al momento della deposizione di un nuovo uovo, il clan organizzi delle spedizioni per permettere al Dragonide di far nascere il piccolo in tutta sicurezza. Solitamente, i clan storici, conoscono l’ubicazione di alcune di queste fonti, che tengono segrete e che proteggono allo scopo di garantire un futuro al per la loro specie. 

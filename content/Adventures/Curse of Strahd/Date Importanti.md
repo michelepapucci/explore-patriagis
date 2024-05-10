@@ -1,0 +1,60 @@
+- 352 B.C. Matrimonio di Tatyana e Sergei, Trasformazione di [[Strahd von Zarovich]]. 
+- 392 B.C. Tatyana, re-incarnata in Marina Ulrich, muore. Figlio maggiore dei Martikovs si sposa con la figlia dei Krezkovs.
+- 407 B.C. Il patriarca dei Krezkovs muore, e la discendente dei Martikov ottiene la "[[Maghi del Vino]]"
+- 532 B.C. Arriva l'[[Abate]]. 
+- 600 B.C. Strahd si assopisce in attesa che i piani si avvicinino. 
+	- I vampiri di Strahd spargono sangue a Barovia;
+	
+- 662 B.C.: Lugdana, paladina del Signore del Mattino, Ismark Antonovich, borgomastro del Villaggio di Barovia e Livius Martikov rubano dal [[Castello di Ravenloft]] il [[Sigillo del Sole]]. Con esso distruggono diversi vampiri in giro per la regione, ri-accendendo la fede nel Signore del Mattino.
+	- Il simbolo viene rinominato [[Sigillo del Sole|Simbolo sacro dei Corvidi]]. 
+	- Viene fondata l'associazione [[Guardiani delle Piume]]. 
+	- [[Baba Lysaga]] fonda una Congrega di Streghe. 
+	- Con Strahd addormentato, la Congrega di Streghe di Baba Lysaga segretamente inizia il Culto di Chernovg, un principe dei demoni, che voglio evocare per sconfiggere Strahd, guidate da Baba Zalenna. 
+	-  Zalenna e il resto della Congrega evocano Chernovg, il Dio Verde, che inizia a distruggere la vallata. 
+	- Con Ismark morto, Lugdana e Livius si recano alla [[Collina di Yester]] per difendere la valle. Ma grazie a l Simbolo sacro e all'aiuto dei [[Guardiani delle Piume]] Chernovg fu sconfitto.
+	- Durante la battaglia, Lugdana muore e il Simbolo sacro viene perduto. 
+- 665 B.C.: Fuori da Barovia nasce [[Rudolph van Richten]].
+- 693 B.C.: Rudolph è un dottore di successo, sposato con Inrid.
+	- Il nipote di Livius Martikov, Davian, diventa padre di Urwin Martikov. 
+	- [[Fiona Wachter]], sedicenne, scappa da Vallaki dopo un litigio con la famiglia e si ritrova nel Vecchio Bosco di Svalich, dove [[Baba Lysaga]] la trova. 
+	- Lysaga la porta nelle rovine di Berez dove diventa membra della Congrega, seppur non riesce a sentire quella che Baba Lysaga chiama "La voce della Notte". 
+- 694 B.C.: La famiglia Watcher muore, Fiona torna a Vallaki, e per questa decisione viene bandita da Lysaga da Berez. Tornata a casa Fiona viene corrotta da Ezra, la dea della Nebbia, nonché una maschera dei Poteri Oscuri. 
+- 699 B.C.: Erasmus, figlio di Van Richten, Nasce.
+- 713 B.C.: Madame Irene Radanavich, capa della carovana di Vistani Radanavich, si allea con il vampiro Barone Metus, che viveva nella zona intorno a Van Richten. 
+	- Baron Metus, chiede a Madame Radanavich di rapire per lui consorti e vittime, ma il primo rapimento va male e il figlio di Madame, Radovan, rimane gravemente ferito. 
+	- Madame Radanavich e gli altri vistani, tra cui i genitori di [[Ezmeralda D'Avenir]], portano Radovan da Van Richten, dottore locale. 
+	- Rudolph non fu in grado di curarlo e Radovan morì. 
+	- Madame, infuriata col dottore, rapì Erasmus e lo vendette al Barone Metus, completata la vendetta fuggirono a Barovia, dove né Metus né Rudolph potevano raggiungerli.
+	- Rudolph interrogò i genitori di Ezmeralda e andò in cerca del figlio, ma sia lui che la moglie erano morti. Infuriato, riuscì a uccidere Metus e giurò vendetta contro i Vistani.
+- 717 B.C.: Per tre anni Rudolph cercò la famiglia Radanavich, ma non riuscì a trovare il modo di entrare a Barovia. Grazie ad un talismano di platino "Il talismano della Nebbia", ottenuto da una veggente, Rudolph trovò un passaggio profondo tra le montagne, e trovò un portale per Barovia, il portale che, per sbaglio, fu creato anni prima da Khazan.
+	- Attraversato il portale, lo spirito di [[Khazan]] ascoltò la richiesta di Van Richten, e creò un esercito di non-morti che Rudolph rilasciò contro la famiglia Radanavich, uccidendoli tutti, tranne uno, [[Arturi Radanavich]], che si nascose e riuscì a sopravvivere. Prima di morire Madame Radanavich maledice Rudolph. 
+	- [[Madame Eve]] dona a Rudolph un nuovo medaglione che gli permette di fuggire da Barovia. 
+	- Nello stesso periodo [[Izek Strazni]] e [[Ireena Kolyana|Ireena Strazni]] vengono attaccati da un meta-lupo e Izek perde un braccio. Sul punto di morte, un frammento d'ambra che aveva raccolto al [[Lago Zarovich]] iniziò a parlargli, chiedendogli se voleva il potere per proteggere la sorella. Izek accetta e distrugge il meta-lupo coi suoi nuovi poteri. Una volta ripresi i sensi, si accorge che però Ireena è fuggita spaventata. Sarebbe riapparsa poi al [[Villaggio Barovia]] senza memorie, dove il Borgomastro [[Kolyan Indirovich]] la crebbe come sua figlia. 
+	- I genitori di Izek morirono poco dopo, e lui, in preda alla furia, uccise diversi bambini. 
+	- Fu perdonato dal figlio del Barone Valentin Vallakovich, Vargas. Sua moglia, impaurita da Izek, si chiuse nel prendersi cura del suo neonato: Victor. 
+- 729 B.C.: Izek, mentre faceva l'esattore per Vargas, fu attaccato da una dozzina di cittadini di Vallaki arrabbiati, insanguinato e arrabbiato, l'ambra gli parlò di nuovo donandogli un braccio infernale in grado di creare e lanciare fiamme. 
+	- Tornato da Vargas, il Barone Valentin, estremamente religioso, lo condanna per la sua blasfemia. Izek, lo soffoca con un cuscino. Vargas assiste alla scena ma non interviene, diventando così Barone con Izek come suo braccio destro.
+	- Izek inizia a sognare la sorella Ireena e chiede al giocattolaio Gadof Blinsky di fare giochi nelle sue fattezze. 
+	- Nel frattempo alla [[Maghi del Vino]], [[Danika Dorakova]], agente dei [[Guardiani delle Piume]], rimane incinta da [[Urwin Martikov]] e si sposano. 
+	- Poco dopo le nozze, una Vistani, sotto ordine di [[Madame Eve]],  ruba una delle tre [[Gemme delle Vigne]]. Questo portò zizzagna tra i Martikov con Davian che incolpò Urwin del furto. Urwin e la moglie se ne andarono a Vallaki dove comprarono La [[Locanda dell'Acqua Blu]]. Madame Eve aveva avuto una visione che Urwin a Vallaki avrebbe un giorno aiutato degli avventurieri a sconfiggere Strahd. La loro locanda divenne ben presto una base per i [[Guardiani delle Piume]] e la loro rete di spie. 
+- 730 B.C.: Nell'accampamento Vistani fuori da [[Vallaki]], Luvash diventa padre di [[Arabelle]], discendente del sangue di [[Madame Eve]]. 
+	- [[Ezmeralda D'Avenir]] fugge da casa in cerca di [[Rudolph van Richten]]. Una volta trovato, diventa sua apprendista. Rimangono insieme per due anni, dopo i quali Rudolph scopre la natura della maledizione che gli fu scagliata contro e finge un brutto litigio con Ezmeralda e gli altri apprendisti, facendoli andare via tutti.
+- 732 B.C.: Ezmeralda, nel tentativo di dimostrare la sua abilità come cacciatrice di mostri, affronta un Lupo Mannaro, Kiril Stoyanovich contro il quale perde una gamba. Gadof Blinsky gliene crea una prostetica. 
+	- Lo spirito vendicativo di Madame Irene Radanovich, che aveva maledetto Rudolph, appare in sogno a Ezmeralda, per ingannarla a portare Rudolph alla sua morte: dice lei che a breve, Strahd si sarebbe risvegliato e che Rudolph Van Richten sarebbe stata la figura chiave per sconfiggerlo. Radanavich però, non rivela un'informazione chiave: sarebbe stato proprio Rudolph la chiave del risveglio del vampiro. 
+	- Mentre Ezmeralda parte da Barovia per avvertire Rudolph, Victor Vallakovich, trova un vecchio libro nella libreria del padre: l'antico libro di incantesimi del lich [[Khazan]] e inizia ad apprendere la magia da esso. 
+	- Nello stesso periodo, il marito di [[Fiona Wachter]], Nikolai, muore di malattia. 
+	- Luvash, insieme al fratellino Arrigal, diventano i capi della carovana Vistani stazionata fuori da [[Vallaki]]. 
+- 735 B.C.: Van Richten riceve la lettera di Ezmeralda, avvertendolo della sua visione. Rudolph, determinato a far sì che la sua maledizione non faccia del male a nessun altro, decide di partire. 
+	- Sei mesi dopo Van Richten viene accolto da [[Kolyan Indirovich]] nella sua casa;
+	- Due settimane dopo Van Richten rivela la sua identità per salvare un gruppo di bambini baroviani da un meta-lupo, perdendo il suo Cappello del Travestimento. 
+	- Il figlio di [[Padre Donavich]], [[Doru]], lo vede. 
+	- Doru confronta Van Richten chiedendogli di accompagnarlo in una marca contro il [[Castello di Ravenloft]].
+	- Van Richten sa che è un suicidio, ma non riesce a dissuaderlo, e decide di accompagnarlo almeno per far sì che le loro vite non vengano spente invano. 
+	- La Marcia fu invano, invece di uccidere Strahd, i Baroviani guidati da Doru e Van Richten non fecero altro che risvegliarlo dal suo torpore.
+	- Furono tutti uccisi, Van Richten riuscì a fuggire, mentre [[Doru]] e Escher divennero due progenie. Doru fu poi inviato a terrorizzare il villaggio. 
+	- Strahd risvegliato, parla del suo piano a Rahadin e gli da un compito importante: portare voce che il diavolo si è risvegliato.
+	- Rahadin giunge a Borovia, dove da loro tre mesi di tempo prima dell'attacco. 
+- Due settimane dopo l'attacco fallito, inizia la campagna, la sera in cui arriva il gruppo è il 27 di Ugavr.
+- 28 di Ugavr il gruppo arriva a Barovia e dorme a casa di Ireena ([[(2) Sessione]]). 
+- Il primo di Ugavr il gruppo arriva alla Pozza di Tser dopo un incontro con Strahd, e riceve la lettura delle carte da [[Madame Eve]] ([[(3) Sessione]], [[(4) Sessione]]).
+- Il 2 di Neyavr, il gruppo riparte dalle Pozze di Tser, affronta lo Strix, incontra un Revenant originario di [[Argynvostholt]], affronta dei lupi mannari e [[Rinn]] contrae la licantropia. Raggiunge infine [[Vallaki]] dopo un incontro con Morgantha dove non apprendono dell'effetto dei [[Pasticcini da Sogno]] ([[(5) Sessione]]).
