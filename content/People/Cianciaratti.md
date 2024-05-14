@@ -1,1 +1,0 @@
-![[Cianciaratti.jpg]]

@@ -1,0 +1,1 @@
+Composti da: [[Gontràn de Larcher]], [[Kalandyr]], [[Taximundar, Il Fuoco Fatuo]], [[Archias di Turii]], [[Furio]], [[Thodor Spezzaossa]].

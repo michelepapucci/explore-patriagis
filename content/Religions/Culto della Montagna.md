@@ -1,0 +1,1 @@
+Il Culto della Montagna è un’antica religione nanica, nella quale si ritiene che le montagne siano creature viventi, ognuna un'antica divinità che protegge e sfama i nani che la abitano. Proprio per questo, gli insediamenti più ricchi si impegnano molto a proteggere e decorare le montagne che abitano.

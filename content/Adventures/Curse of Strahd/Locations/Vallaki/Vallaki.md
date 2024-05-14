@@ -19,7 +19,7 @@ Al centro della piazza, cittadini in abiti rattoppati vi guardano con sospetto m
 > 
 > *È richiesta la presenza di bambini.*
 > 
-> *Le picche saranno forniti.*
+> *Le picche saranno fornite.*
 > 
 > *TUTTO ANDRÀ BENE!*
 > 

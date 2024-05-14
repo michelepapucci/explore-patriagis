@@ -1,1 +1,0 @@
-Ageus, il Gigante.

@@ -1,0 +1,1 @@
+Arcidruido di [[Nova]] e punto di riferimento per diverse comunità druidiche di [[Patriagis]] e della [[Selva Fatata]].

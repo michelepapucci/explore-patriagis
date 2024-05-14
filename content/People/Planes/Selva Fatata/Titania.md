@@ -1,0 +1,1 @@
+Regina della [[Corte d'Estate]], una delle regioni geopolitiche della [[Selva Fatata]]. 

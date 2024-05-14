@@ -1,0 +1,1 @@
+![[Tracco.jpg]]
