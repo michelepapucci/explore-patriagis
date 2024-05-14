@@ -1,0 +1,1 @@
+Portale che permette il passaggio dal [[Piano Materiale]] alla [[Selva Fatata]]. Questi luoghi possono essere estremamente appariscenti o estremamente nascosti e il loro funzionamento è caotico e confusionario. Senza sapere come utilizzare il portale, è pressoché impossibile scovarlo, tanto meno attivarlo. 

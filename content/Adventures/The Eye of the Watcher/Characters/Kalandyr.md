@@ -1,4 +1,4 @@
-![](https://lh7-us.googleusercontent.com/X5aoS6dQkQswdiIgU5v2H5b_dJ3h0liiI3fw5ZxyIzJwznzFx6jugC97wsdf7vCQ4KN_mLirQaOocZLr6b2DDtQsaogm_veStwCD6S1SHVwJoMxQ00DM1t7SGJSeAR_xDklDGbaL8FcTQXkc_PbHM5s)
+![[Pasted image 20240514155242.png]]
 
 ### Background
 Kalandyr è un [[Eladrin]] della [[Selva Fatata]], appartenente al Circolo druidico dei Sogni. Il suo circolo è alleato delle fate [[Seelie]], fedeli alla Regina [[Titania]] della [[Corte d'Estate]]. Lo scopo del circolo è quello di riempire di stupore il mondo, curando le ferite del corpo e della mente, rallegrando i cuori infranti e proteggendo quei luoghi la cui natura è così magnificamente spettacolare da portare gioia nei cuori di chi le guarda. 

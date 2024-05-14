@@ -12,17 +12,23 @@ Il professore ringrazia il gruppo e gli comunica che veglierà su Godfrey. Si ac
 
 Il gruppo si dirige poi a casa di Manistrad, dove comunicano con Zaldak che li avverte che non avendo fatto entrare Patric nella scuola non saranno pagati. E comunica loro che il giorno seguente sarebbero stati presi dall'[[Areonave]] con cui erano arrivati, ma che avrebbero dovuta dividerla con un altro gruppi di avventurieri.
 
-Michele, [10/11/23 16:27]
 Il giorno seguente, il gruppo si dirige a [[Malporto]] e la esplora finché non incontra un gruppo, gli [[Squarciaviverne]]. Ognuno ha un breve scambio:
-Gontràn e Gaius hanno un litigio sullo status delle loro famiglie, Dardul avverte Thodor che ha ricevuto un avvertimento dal loro villaggio: solo uno dei due potrà rimanere in giro per Patriagis, l'altro dovrà tornare a casa, Despair e Archias hanno cominciato una gara di perculamenti, mentre Keon Spargimembra ha rivelato il triste passato di Furio, suo concittadino, al resto del gruppo. L'unica interazione positiva è stata quella tra Kinded e Taximundar. Infine, Avra, ha chiesto in maniera intimidatoria e retorica a Kalandyr dove fosse finito l'arcidruido Gwenc'hlan. 
+- [[Gontràn de Larcher]] e [[Gaius de Romolio]] hanno un litigio sullo status delle loro famiglie; 
+- [[Dardul Solcacieli]] avverte [[Thodor Spezzaossa]] che ha ricevuto un avvertimento dal loro villaggio: solo uno dei due potrà rimanere in giro per [[Patriagis]], l'altro dovrà tornare a casa;
+- [[Despair]] e [[Archias di Turii]] hanno cominciato una gara di prese in giro;
+- [[Avra]], ha chiesto in maniera intimidatoria e retorica a [[Kalandyr]] dove fosse finito l'arcidruido [[Gwenc'hlan]]; 
+- [[Keon Spargimembra]] ha rivelato il triste passato di [[Furio]], suo concittadino, al resto del gruppo; 
+- [[Kinded Spaccapietre]] e [[Taximundar, Il Fuoco Fatuo]] hanno commentato sul litigio del resto del gruppo. 
 
-Il gruppo continua poi l'esplorazione e trova uno strano negozio chiamato Il Gruzzolo del Drago gestito da un simpatico dragonide bronzeo di nome Bormeth che gestisce questo negozio pieno di ninnoli. Bormeth dice loro che il negozio è in realtà un magazzino di doni che i marinai gli portano in cambio di benedizioni per i loro viaggi. Bormeth dice che fiuta dell'avventura nel futuro del gruppo e suggerisce loro di approfittare della sua benedizione.
-Thodor e Taximundar donano un piccolo ninnolo di valore pressappoco nullo al dragonide e ricevono una piccola benedizione, mentre Gontràn dona lui un bottone del suo vestito di lusso con lo stemma di famiglia e promette lui ospitalità a Nova. In cambio del dono Bormeth lancia una benedizione su Gontràn che lo rende più eroico e coraggioso. 
+Il gruppo continua poi l'esplorazione e trova uno strano negozio chiamato [[Il Gruzzolo del Drago]] gestito da un simpatico [[Dragonidi|dragonide]] bronzeo di nome [[Bormeth]] che gestisce questo negozio pieno di ninnoli. 
+Bormeth dice loro che il negozio è in realtà un magazzino di doni che i marinai gli portano in cambio di benedizioni per i loro viaggi. Bormeth dice che fiuta dell'avventura nel futuro del gruppo e suggerisce loro di approfittare della sua benedizione.
+Thodor e Taximundar donano un piccolo ninnolo di valore pressappoco nullo al dragonide e ricevono una piccola benedizione, mentre Gontràn dona lui un bottone del suo vestito di lusso con lo stemma di famiglia e promette lui ospitalità a [[Nova]]. In cambio del dono Bormeth lancia una benedizione su Gontràn che lo rende più eroico e coraggioso. 
 
-Mentre hanno a che fare con Bormeth notano in cielo l'areonave che parte e se ne va senza di loro... 
+Mentre hanno a che fare con Bormeth notano in cielo l'[[areonave]] che parte e se ne va senza di loro.
 
-Il gruppo chiama da casa di Manistrad, il loro capo Zaldak con un comunicatore, che sostanzialmente li sfotte, dicendo che gli Squarciaviverne son più furbi. Inoltre dice loro che se sono interessati seriamente a competere con la loro popolarità dovranno dirigersi al più presto a Nova, a piedi, poiché gli Squarciaviverne stanno andando forte e hanno 4 giorni di vantaggio.
-Inoltre il gruppo dovrà raggiungere Nova passando per il territorio dei Tiarna na Madrai, il popolo di alti gnomi che vivono insieme ai loro giganteschi mastinini: I Madranam, popolo originario di Furio e dal quale lui è bandito.
-Per passare, dovranno chiedere un lasciapassare al re, nella capitale, a Seòrmgra. 
+Il gruppo chiama da casa di [[Manistrad Spaccascudi]] il loro capo [[Zaldak Versabirra|Zaldak]] con un comunicatore, che, sostanzialmente, dice loro che dovranno tornare a piede a causa della furba e improvvisa partenza degli Squarciaviverne. 
+Inoltre dice loro che se sono interessati seriamente a competere con la loro popolarità dovranno dirigersi al più presto a [[Nova]], a piedi, poiché gli Squarciaviverne stanno andando forte e hanno 4 giorni di vantaggio.
+Inoltre, comunica loro che il gruppo dovrà raggiungere [[Nova]] passando per il territorio dei [[Tiarna na Madraì]], il popolo di alti gnomi che vivono insieme ai loro giganteschi mastini: I [[Madranam]]. Furio è originario della capitale, [[Seormgrà]], dove il gruppo si dovrà dirigere, ma dalla quale è stato bandito.
+Per passare dalla loro sezione di [[Piana Marittima]] per dirigersi a [[Nova]], dovranno chiedere un lasciapassare direttamente al re nella capitale.
 
 il gruppo inizia i preparativi.

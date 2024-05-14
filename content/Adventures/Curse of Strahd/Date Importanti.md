@@ -56,5 +56,5 @@
 	- Rahadin giunge a Borovia, dove da loro tre mesi di tempo prima dell'attacco. 
 - Due settimane dopo l'attacco fallito, inizia la campagna, la sera in cui arriva il gruppo è il 27 di Ugavr.
 - 28 di Ugavr il gruppo arriva a Barovia e dorme a casa di Ireena ([[Adventures/Curse of Strahd/Sessions/(2) Sessione]]). 
-- Il primo di Ugavr il gruppo arriva alla Pozza di Tser dopo un incontro con Strahd, e riceve la lettura delle carte da [[Madame Eve]] ([[(3) Sessione]], [[(4) Sessione]]).
-- Il 2 di Neyavr, il gruppo riparte dalle Pozze di Tser, affronta lo Strix, incontra un Revenant originario di [[Argynvostholt]], affronta dei lupi mannari e [[Rinn]] contrae la licantropia. Raggiunge infine [[Vallaki]] dopo un incontro con Morgantha dove non apprendono dell'effetto dei [[Pasticcini da Sogno]] ([[(5) Sessione]]).
+- Il primo di Ugavr il gruppo arriva alla Pozza di Tser dopo un incontro con Strahd, e riceve la lettura delle carte da [[Madame Eve]] ([[Adventures/Curse of Strahd/Sessions/(3) Sessione]], [[Adventures/Curse of Strahd/Sessions/(4) Sessione]]).
+- Il 2 di Neyavr, il gruppo riparte dalle Pozze di Tser, affronta lo Strix, incontra un Revenant originario di [[Argynvostholt]], affronta dei lupi mannari e [[Rinn]] contrae la licantropia. Raggiunge infine [[Vallaki]] dopo un incontro con Morgantha dove non apprendono dell'effetto dei [[Pasticcini da Sogno]] ([[Adventures/Curse of Strahd/Sessions/(5) Sessione]]).

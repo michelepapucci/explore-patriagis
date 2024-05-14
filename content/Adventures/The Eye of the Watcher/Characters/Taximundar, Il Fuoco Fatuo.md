@@ -1,4 +1,11 @@
-![](https://lh7-us.googleusercontent.com/YGyOjPbFe454ilGDRFG-k0D5UEHrTXwhSFB6KdEr7QTMPGaLWfEs0eViCpjlAzrV_t7KmD232CtfNBUo3DNH6hbHcFvweFgQ5OWOnS8RJG95n1NPi4Bl3ZQNMDT-V5Hruu4P8c1aiCb9wHPNHpbiW00)
+---
+aliases:
+  - taximundar
+  - Taximundar
+---
+
+
+![[Pasted image 20240514155250.png]]
 
 ### Giuramento
 ***Combatti il male maggiore***. Tra la scelta di perseguire un piccolo male e un male maggiore, persegui il maggiore.
