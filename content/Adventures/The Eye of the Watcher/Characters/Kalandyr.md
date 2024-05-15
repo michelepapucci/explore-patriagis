@@ -1,3 +1,8 @@
+---
+aliases:
+  - Kalandyr, L'Orso Ruggente
+  - L'Orso Ruggente
+---
 ![[Pasted image 20240514155242.png]]
 
 ### Background

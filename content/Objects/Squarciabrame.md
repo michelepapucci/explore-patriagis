@@ -1,0 +1,1 @@
+Spadone magico, fu diviso in quattro per forgiare [[Frammento]] e [[Filo]] dalla sua lama, [[Diga]] dalla sua guardia e [[Pugno]] dal manico e dal pomolo. 

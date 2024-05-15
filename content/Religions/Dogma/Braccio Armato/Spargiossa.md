@@ -1,0 +1,1 @@
+Gli Spargiossa sono a capo di una squadriglia di [[Incutipaura]]. Fanno capo direttamente al [[Tenente Mitrato]] locale. 

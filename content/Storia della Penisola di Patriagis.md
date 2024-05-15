@@ -134,7 +134,7 @@ La popolazione di Patriagis infatti andando avanti di generazione in generazione
 
 Durante la formazione del [[Regno di Patriagis]], tutti i territori della penisola sono stati considerati di proprietà del regno. Questo però comprende molti territori che non sono mai appartenuti né a [[Zubduzurak]], né al [[Regno dell’Alba]], né al [[Regno dell'Ovest]], né tanto meno a qualche città stato parte delle trattative. 
 
-La città libera di [[Ceneria]], [[Seormgrà]] la capitale dei [[Tiarna na Madraì|Tiarna]], [[Ta-Peara]] la città-perla dei Tritoni e molte altre con loro, si uniscono in un alleanza per chiedere pacificamente al [[Regno di Patriagis|Regno]], di lasciare i loro territori sulla penisola.
+Il [[Regno di Ceneria]], [[Seormgrà]] la capitale dei [[Tiarna na Madraì|Tiarna]], [[Ta-Peara]] la città-perla dei Tritoni, capitale della [[Repubblica di Nén]], e molte altre con loro, si uniscono in un alleanza per chiedere pacificamente al [[Regno di Patriagis|Regno]], di lasciare i loro territori sulla penisola.
 
 L'alleanza, conosciuta come [[Popoli Liberi di Patriagis]], ottiene molti sostenitori anche tra gli abitanti del regno, che chiedono a gran voce a Re [[Romio I]] di lasciare ai popoli indigeni della penisola i loro territori ancestrali.
 

@@ -1,0 +1,1 @@
+Bastone magico creato con il manico e il pomolo di [[Squarciabrame]]. 

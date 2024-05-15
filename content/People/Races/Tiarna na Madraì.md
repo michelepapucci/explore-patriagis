@@ -2,6 +2,7 @@
 aliases:
   - tiarna
   - Tiarna
+  - Signori dei Cani
 ---
 
 I Tiarna na madraí sono un popolo discendente dagli gnomi delle foreste. Prima ancora della formazione degli antichi regni di Patriagis, il popolo abitava le valli erbose e le colline del centro della penisola. Esperti cacciatori e agricoltori, i Signori dei cani, così conosciuti nella lingua comune, prendono questo nome dalla loro soprannaturale condivisione della vita con le bestie che da secoli e secoli convivono con loro, i [[Madranam]]. 
