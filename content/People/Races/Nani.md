@@ -1,3 +1,13 @@
+---
+aliases:
+  - nano
+  - nani
+  - Nano
+  - Nana
+  - nana
+---
+
+
 I nani sono umanoidi tozzi e fieri, tanto abili nel combattimento e alla forgia, quanto nella diplomazia e nell'artigianato.  
 I nani raggiungono il metro e mezzo di altezza, e, nonostante questo, arrivano a pesare quanto un umano 30 cm più alto. La loro pelle va dal marrone chiaro al rosso, anche se la maggior parte ha un colore simile ad un’abbronzatura profonda. I loro capelli, solitamente portati lunghi in stili di acconciature molto elaborate, vanno dal rosso, al castano scuro e fino al nero. 
 

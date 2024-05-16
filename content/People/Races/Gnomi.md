@@ -1,0 +1,6 @@
+---
+aliases:
+  - gnomo
+  - Gnomo
+  - gnomi
+---

@@ -1,3 +1,9 @@
+---
+aliases:
+  - Orla
+---
+
+
 Nome: Orla Gorunn
 Razza: Nana
 Classe: Paladina
