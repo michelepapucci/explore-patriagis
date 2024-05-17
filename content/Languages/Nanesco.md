@@ -4,17 +4,21 @@
 articoli e generi non esistenti
 
 ## Lessico
+Mostra le prime 10 parole in ordine alfabetico in base al risultato.
 
 ```dataviewjs
 
 	const {SearchBar} = await cJS()
 	
 	let input = this.container.createEl('input');
-	let p = this.container.createEl('p');
 	
 	const data = await dv.io.csv("dbs/nanesco.csv");
 
-	dv.table(["Comune", "Nanesco", "Note"], data.map(r => [r.comune, r.nanesco, r.note]));
+	let rows = data.map(r => [r.comune, r.nanesco, r.note])
+
+	rows = rows.slice(0, 10)
+	
+	dv.table(["Comune", "Nanesco", "Note"], rows);
 
 	function clearTable() {
 		document.querySelectorAll('.table-view-table').forEach(e => e.parentNode.remove());
@@ -29,12 +33,16 @@ articoli e generi non esistenti
 				if (item.comune.startsWith(filter) || filter == "") {
 					console.log(item)
 					rows.push([item.comune, item.nanesco, item.note]);
+					if (rows.length >= 10) {
+						break;
+					}
 				}
 			}
 			clearTable()
 			dv.table(["Comune", "Nanesco", "Note"], rows);
 
 	}
+	
 	input.addEventListener('change',renderTable);
 	
 ```

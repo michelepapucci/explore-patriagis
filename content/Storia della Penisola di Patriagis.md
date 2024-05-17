@@ -1,4 +1,4 @@
-
+#evento 
 ```mermaid
 timeline
         title   
@@ -34,8 +34,8 @@ timeline
 			: Romio I viene incoronato Re di Patriagis
 
 ```
-
-## - 15000
+## -15000
+<span data-date='-15000' data-name='Draghi e Nifilim'></span>
 [[Drago|Draghi]] e [[Nifilim]] si estinguono in seguito ad un [[Estinzione dei Draghi e dei Nifilim|misterioso cataclisma]]. In seguito all'energia rilasciata durante questo evento, la [[Trama]] e il [[Piano Materiale]] vengono fortemente scossi. Da quest'ultimo nascono due echi intrisi di un enorme quantità di magia: la [[Selva Fatata]] e la [[Coltre Oscura]].
 
 Nel Piano Materiale e nei suoi echi, cominciano a nascere i primi umanoidi.
@@ -45,40 +45,48 @@ In seguito, alcuni Eladrin, in cerca di un posto più tranquillo, decidono di tr
 
 Similmente, alcuni Shadar-kai si trasferiscono nel Piano Materiale, nel tempo diventeranno i [[Drow]].
 
-
 ## -9000
+<span data-date='-9000' data-name='Primi Insediamenti'></span>
 In questo periodo la penisola è popolata da insediamenti che vanno dai villaggi a città-stato, perlopiù razziali, spesso arroccate intorno a rovine Niflim, che forniscono supporto e riparo alle città. 
 
 ## -6000
+<span data-date='-6000' data-name='Crescita'></span>
 In questo periodo città umane ed elfiche raggiungono uno sviluppo e un'estensione non indifferente. Le altre razze sono solitamente accettate, seppur non ben viste, da entrambi i popoli. Iniziano anche delle vere e proprie guerre territoriali, che rendono difficile ricostruire i confini dell'epoca.
 
 ## -5800
+<span data-date='-5800' data-name='Battaglia del Crepuscolo'></span>
 A Nord-Est di Patriagis, vicino a dove ora sorge la città di [[Tronh]], avviene la più grande battaglia del periodo: La [[Battaglia del Crepuscolo]], che termina la guerra tra una società elfica e una drow della zona. 
 È considerata una delle più catastrofiche battaglie, in termini di vite perse, della storia, ed è comunemente considerata una delle principali cause della quasi estinzione della razza elfica è oggi così rara. Una delle conseguenze della battaglia e della fine di questa guerra è la [[Battaglia del Crepuscolo#Conseguenze La Diaspora Drow|Diaspora Drow]]. Il popolo drow, sconfitto e decimato, si disperde per la penisola: alcuni, ricchi e benestanti, riescono a comprarsi titoli nobiliari presso la società elfica vincente, che diventerà il [[Regno dell’Alba]], altri si rifugiano in reti di caverne sotterranee dell'[[Alto Muro]], altri ancora salpano per la regione di [[Garoth-Mùk]].
 
+<span data-date='-5700' data-name='Fondazione di Zubduzurak'></span>
 In questo stesso periodo, i Nani che vivono nel nord-ovest della penisola fondano [[Zubduzurak]], la prima città dei Signori dei Picchi, che preso si allargherà e colonizzerà i migliori picchi dell'Alto Muro. 
 
 ## -5500
+<span data-date='-5500' data-name="Fondazione Regno dell'Alba e dell'Ovest"></span>
 Dopo la fine della Battaglia del Crepuscolo, gli elfi della parte est di Patriagis, dai [[Pendici]], fino al [[Mare Stretto]], fondano un enorme regno chiamato [[Regno dell’Alba]], o *Aranië*, in elfico. 
 
 Spinti dalla paura del nuovo e portentoso regno elfico a est, gli umani delle città a ovest dei Pendici, si unificano sotto il [[Regno dell'Ovest]].
 
 ## -3000
+<span data-date='-3000' data-name="Studio della Magia"></span>
 Fino a questo periodo, la magia era usata in maniera istintiva da individui capaci di connettersi naturalmente alla [[Trama]]. Stregoni, Bardi, Druidi e Chierici erano visti come fattucchieri dotati di potere, e spesso, specialmente nelle parti più rurali della penisola, visti come profeti o messia. 
 Intorno a questo anno però, si inizia a comprendere meglio il funzionamento della magia e della trama, e inizia a venire usata per scopi civili e militari.
 
 ## -900
+<span data-date='-900' data-name="Inizio della Guerra"></span>
 Il [[Regno dell’Alba]] e il [[Regno dell'Ovest]] entrano in uno stato di guerra aperta e continua per motivi di espansione. La guerra consiste principalmente in schermaglie lungo i [[Pendici]], dove però nessuno dei due regni sembra avanzare. L'ammontare dei morti è ignoto, ma si crede che sia nell'ordine delle decine di migliaia per tutta la durata della guerra. 
 
 La guerra prosegue per più di 300 anni e stanca velocemente entrambi i popoli, ciononostante le famiglie reali dei regni non sembrano voler firmare un armistizio. 
 
 ## -642
+<span data-date='-642' data-name="Febbre Indaco"></span>
 In questo anno colpisce la penisola la terribile [[Febbre Indaco]]. L'epidemia divaga velocemente dal [[Regno dell'Ovest]] al [[Regno dell’Alba]], sterminando decine di migliaia di persone. 
 
 I nani di [[Zubduzurak]] riescono, grazie alla loro posizione e a una repentina chiusura dei loro contatti con il mondo esterno, ad uscire illesi dall'epidemia.
 
 In questo periodo nasce il culto di [[Solis]], formalizzato poi nella [[Chiesa di Solis]]. Nello stesso periodo, nasce anche il [[Dogma]], una delle religioni più influenti della penisola.
 
+<span data-date='-630' data-name="Crollo dei Regni"></span>
 Durante la pestilenza, sia il Regno dell'Ovest che quello dell'Alba, iniziano a frammentarsi e dividersi internamente. Ogni villaggio e città pensa a sé stesso, creando tante piccole città stato.
 
 A Est dei Pendici, nel Regno dell'Alba la situazione è particolarmente tragica: la popolazione elfica, che non si è mai ripresa dalla [[Battaglia del Crepuscolo]] a causa della lentezza con la quale si riproduce, è decimata dalla guerra e dalla pestilenza ed è ridotta a una decina di migliaia di individui. 
@@ -86,6 +94,7 @@ A Est dei Pendici, nel Regno dell'Alba la situazione è particolarmente tragica:
 Molte delle città elfiche del regno vengono abbandonate, e l'unico centro abitato ancora di dimensioni notevoli è [[Arum]], capitale del Regno dell'Alba. 
 
 ## -400
+<span data-date='-400' data-name="Crescita della popolazione Mezzelfa"></span>
 Intorno a questo periodo, la maggior parte della popolazione vive in città stato sparse per la regione, senza alcuna lealtà od obbligo verso le famiglie reali del [[Regno dell’Alba]] e del [[Regno dell'Ovest]]. 
 
 Le città combattono tra di loro per territorio e per risorse, ma sviluppano anche legami commerciali e militari. Specialmente le città intorno ai [[Pendici]], indifferenti alla loro precedente appartenenza ai due regni, iniziano a collaborare data la loro vicinanza. 
@@ -94,9 +103,11 @@ Nel giro di tre generazioni, la demografia di queste città cambia:
 * a ovest, la popolazione elfica e la successiva popolazione mezzelfa, si mescola con gli umani locali; 
 * A est invece, molte famiglie di umani partono per ripopolare le città elfiche abbandonate o semi-abbandonate dopo la pestilenza. Mescolandosi con i locali rimasti, queste città diventano velocemente a maggioranza mezzelfa, portando lentamente all'estinzione gli elfi purosangue rimasti. 
 
+<span data-date='-240' data-name="Arum è a maggioranza mezzelfa"></span>
 Persino la capitale del [[Regno dell’Alba]], [[Arum]], intorno al -240 è a maggioranza mezzelfa. 
 
 ## -200
+<span data-date='-200' data-name="Fine ufficiale della Guerra"></span>
 In questi anni, i nani di [[Zubduzurak]] fanno forte pressioni alle famiglie reali del [[Regno dell’Alba]] e del [[Regno dell'Ovest]] per porre fine ufficialmente alla [[Guerra dei due Regni]], che comunque non viene più seriamente combattuta dal almeno 400 anni. 
 
 I nani vogliono una Patriagis unita sotto un'unica nazione: nuove sfide arrivano da fuori la penisola, e ci vuole una nazione forte e unita per combatterle. 
@@ -104,10 +115,12 @@ I nani vogliono una Patriagis unita sotto un'unica nazione: nuove sfide arrivano
 Ci vorranno comunque quasi 120 anni di trattative prima di ottenere un accordo che metta d'accordo tutte le città stato e le famiglie reali di Patragis coinvolte. 
 
 ## -80
+<span data-date='-80' data-name="Firma della Pace"></span>
 Il [[Regno dell’Alba]] e il [[Regno dell'Ovest]] firmano la pace, dando fine alla [[Guerra dei due Regni]]. 
 Iniziano subito le trattative per la formazione di un unico Regno, che rappresenti tutta Patriagis. 
 
 ## 0
+<span data-date='0-6-17' data-name="Fondazione del Regno di Patriagis"></span>
 Viene ufficialmente fondato il [[Regno di Patriagis]], sposando il Re elfico [[Andúnië]] e la principessa umana [[Stella Larenzia]], creando la nuova famiglia reale [[Tullio]]. 
 
 Le città stato, accettano di entrare a far parte del Regno, mantenendo però forti autonomie. Ogni città infatti avrà un capo locale, il [[Sindaco]] che amministra la città insieme al [[Consiglio del Comune]]. Inoltre, avrà un esercito locale, al cui comando è posto un'altra figura elettiva chiamata [[Capitano del Popolo]].
@@ -120,6 +133,7 @@ La capitale del regno viene posta a [[Nova]], dove la famiglia reale risiede.
 
 
 ## 2
+<span data-date='2-10-24' data-name="Nascita di Romio I de Tullio"></span>
 Nasce [[Romio I]], il primo mezzelfo membro della famiglia reale [[Tullio]].
 
 
