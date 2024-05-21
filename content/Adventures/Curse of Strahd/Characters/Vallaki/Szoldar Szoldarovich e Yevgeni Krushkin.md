@@ -1,3 +1,13 @@
+---
+aliases:
+  - Szoldar Szoldarovich
+  - Szoldar
+  - Yevgeni
+  - Yevgeni Krushkin
+  - Szoldar e Yevgeni
+---
+
+
 Szoldar Szoldarovich e Yevgeni Krushkin (scout umani maschi) sono cacciatori locali che frequentano la [[Locanda dell'Acqua Blu]]. Uccidono i lupi e vendono la carne per vivere, e il loro lavoro è pericoloso e sanguinoso. Entrambi gli uomini sono cupi e hanno sguardi tormentati.
 
 Sono due tipi tetri, ma raramente si lasciano sfuggire l'occasione di guadagnare denaro. Se i personaggi cercano guide o informazioni sulle zone di Barovia, Szoldar e Yevgeni possono essere utili. 

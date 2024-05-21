@@ -27,7 +27,7 @@ La figura ammantata è Willemina Rikalova, come descritto nella [[Chiesa di Sant
 Quando i giocatori arrivano per la prima volta, la locanda contiene i seguenti PNG di rilievo:
 
 [[Urwin Martikov]], che cucina pane e stufato di barbabietole in Cucina;
-Brom e Bray Martikov, che giocano con i giocattoli nella loro camera, [[Rudolph van Richten|Rictavio]], racconta storie agli avventori in nella taproom, tra cui [[Nikolai Watcher]] e [[Karl Wachter]];
+Brom e Bray Martikov, che giocano con i giocattoli nella loro camera, [[Rudolph van Richten|Rictavio]], racconta storie agli avventori in nella taproom, tra cui [[Nikolai Wachter]] e [[Karl Wachter]];
 
 *Quasi una dozzina di Vallakiani siedono sparsi tra i vari tavoli, accudendo boccali di vino o ciotole di sostanzioso stufato. Lungo la scalinata, un uomo vestito in modo variopinto con un cappello a tesa larga e piumato gesticola selvaggiamente a capo di un lungo tavolo, attirando l'attenzione dei diversi avventori seduti lì. Si sente un'ondata di risate attraversare il gruppo, seguita da un leggero applauso.*
 
@@ -146,7 +146,7 @@ In entrambi i casi, Danika si scusa con i giocatori e offre loro pasti gratuiti 
 
 Se i giocatori chiedono delle maschere dei bambini, Danika dice loro che Urwin le ha comprate dal giocattolaio locale, [[Gadolf Blinsky]], nel negozio [[I giocattoli di Blinksy]].
 
-La taverna si svuota lentamente nelle due ore successive. [[Nikolai Watcher|Nikolai]] e [[Karl Wachter]] inciampano fuori e crollano nel capannone della locanda, troppo ubriachi per tornare a casa.
+La taverna si svuota lentamente nelle due ore successive. [[Nikolai Wachter|Nikolai]] e [[Karl Wachter]] inciampano fuori e crollano nel capannone della locanda, troppo ubriachi per tornare a casa.
 
 Se i giocatori hanno affittato delle stanze per la notte, Danika si avvicina al loro tavolo e si offre di accompagnarli nelle loro stanze. Durante la visita, Danika fa sapere loro che sono liberi di richiedere lenzuola fresche o una vasca d'acqua calda (per il bagno) da portare in camera. “*La colazione viene servita alle prime luci dell'alba*”, dice calorosamente, e aggiunge: “*Non esitate a farci sapere se avete bisogno di qualcos'altro*”.
 
@@ -198,7 +198,7 @@ Una volta lasciata la stalla della Locanda dell'Acqua Blu, Rictavio si dirige ve
 
 ## Uscire dalla Locanda
 Quando i giocatori lasciano la locanda la prima mattina a Vallaki, trovano la strada piena di cittadini. Supponendo che i giocatori non interferiscano, si svolge la scena seguente:
-- I giocatori sentono il nitrito di un cavallo in fondo alla strada e gli abitanti della città si bloccano e tacciono. Un piccolo corteo si trova a sud: Il [[barone Vargas Vallakovich]] (come descritto in Giocare di ruolo con la famiglia Vallakovich, p. 105) che cavalca il suo cavallo castagno, affiancato dai suoi due mastini chiamati Artiglio e Zanna e seguito da tre guardie. [[Izek Strazni]] guida il corteo.
+- I giocatori sentono il nitrito di un cavallo in fondo alla strada e gli abitanti della città si bloccano e tacciono. Un piccolo corteo si trova a sud: Il [[Barone Vargas Vallakovich]] (come descritto in Giocare di ruolo con la famiglia Vallakovich, p. 105) che cavalca il suo cavallo castagno, affiancato dai suoi due mastini chiamati Artiglio e Zanna e seguito da tre guardie. [[Izek Strazni]] guida il corteo.
 - I giocatori possono vedere che una vecchia donna dall'aspetto spaventato, che indossa abiti da popolano logori, è appena scivolata via dal cavallo ed è caduta in una pozza di fango a pochi metri dal cavallo. Il cavallo si è fermato bruscamente e il corteo si è fermato con lui. Il braccio diabolico di Izek è teso, suggerendo che ha appena spinto - o gettato - la vecchia nel fango. (La donna è Willemina Rikalova, la madre del calzolaio imprigionato Udo Lukovich).
 - Il barone rimprovera con rabbia la donna per aver sporcato di fango il suo mantello con le sue “sporche mani da contadina”. L'anziana donna, con la voce tremolante, si scusa e supplica il barone di liberare il figlio Udo, sostenendo che non intendeva fare del male con il suo “sciocco scherzo”.
 - Il barone insiste sul fatto che Udo ha bisogno di una “riabilitazione” per la sua “maligna infelicità” e suggerisce che anche la donna ne abbia bisogno. Ordina a Izek di catturarla e di rinchiuderla alla gogna, suggerendo che “qualche giorno alla gogna dovrebbe farle stringere la lingua”. Izek si fa avanti, flettendo il suo braccio diabolico con un luccichio crudele negli occhi.

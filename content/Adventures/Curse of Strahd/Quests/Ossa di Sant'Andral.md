@@ -145,6 +145,7 @@ Se gli viene chiesto il motivo per cui ha rubato le ossa, [[Milivoj]] può condi
 Se viene informato che le ossa potrebbero essere state rubate per consentire un attacco alla chiesa, Milivoj respinge l'idea, insistendo sul fatto che le ossa sono solo una “*vecchia reliquia ammuffita*” e che “*non posso permettermi di credere alle favole*”. Può anche raccontare che [[Henrik van der Voort]] gli ha detto che le ossa erano un cimelio di famiglia senza potere e che Henrik ha cercato di recuperarle per onorare il suo antenato.
 
 #### La rivelazione
+
 > [!tip]- La Rivelazione di Millivoj
 > Se in seguito viene informato che le azioni di Henrik sono state dirette da uno dei vampiri figli di Strahd e che il furto delle ossa avrebbe potuto permettere un massacro nella chiesa, Milivoj viene sopraffatto dall'ansia, dall'orrore e dal senso di colpa. Si prostra davanti a Padre Lucian e implora il suo perdono, offrendosi di esiliarsi nei Boschi Svalich se questo può compensare il danno che ha causato. (Padre Lucian, naturalmente, rifiuta, abbracciando e perdonando Milivoj in lacrime).
 
@@ -170,12 +171,12 @@ Se uno dei giocatori esprime l'interesse a scassinare il carro, Padre Lucian lo 
 
 Se un giocatore tenta comunque di aprire o forzare la porta del carro, l'intero carro dondola improvvisamente e violentemente da una parte all'altra. I giocatori possono anche sentire il rumore di qualcosa con grandi e pesanti artigli che graffiano l'interno del carro. (Il dondolio e i graffi sono provocati dal fantasma di Erasmus van Richten, un poltergeist che cerca di proteggere [[Arabelle]] spaventando i visitatori).
 
-Se i giocatori riescono a rompere la porta del carro o a forzare il lucchetto, scoprono che l'interno del carro contiene un soffice giaciglio di paglia, una comoda coperta di lana, alcuni libri e una giovane ragazza Vistana, Arabelle, che stringe al petto una tigre dai denti a sciabola di peluche e indossa una collana di perline con un amuleto di rame intagliato. (Per maggiori informazioni su Arabelle, vedere [[La Vistana scomparsa]]).
+Se i giocatori riescono a rompere la porta del carro o a forzare il lucchetto, scoprono che l'interno del carro contiene un soffice giaciglio di paglia, una comoda coperta di lana, alcuni libri e una giovane ragazza Vistana, [[Arabelle]], che stringe al petto una tigre dai denti a sciabola di peluche e indossa una collana di perline con un amuleto di rame intagliato. (Per maggiori informazioni su [[Arabelle]], vedere [[La Vistana scomparsa]]).
 
 
 ### [[Negozio del Necroforo]]
 
- Tuttavia, le casse di N6f. Nido dei Vampiri (p. 118) sono state sostituite da tre bare riempite di terra di tomba prov\enienti da Castle Ravenloft, che contengono due vampiri e [[Volenta Popofsky]], una delle spose vampiriche di Strahd. Inoltre, i giocatori che esplorano N6f. trovano un pentagramma verde sbiadito di un metro e mezzo di diametro bruciato sul pavimento ai margini della stanza, appena oltre le bare dei vampiri.
+ Tuttavia, le casse di (f) sono state sostituite da tre bare riempite di terra di tomba provenienti da Castle Ravenloft, che contengono due vampiri e [[Volenta Popofsky]], una delle spose vampiriche di Strahd. Inoltre, i giocatori che esplorano (f). trovano un pentagramma verde sbiadito di un metro e mezzo di diametro bruciato sul pavimento ai margini della stanza, appena oltre le bare dei vampiri.
 
 > [!tip] Il pentagramma bruciato
 > Il pentagramma verde è un residuo dell'uso del braciere del teletrasporto da parte di Volenta nel K78. Stanza del braciere (p. 82). Se glielo si chiede, Henrik non sa cosa significhi. Tuttavia, può raccontare ai giocatori che una notte, poco dopo il suo primo incontro con Volenta, una luce verde malata ha attraversato il negozio, con i suoi due compagni vampiri che uscivano da N6f. Nido dei vampiri (p. 118) poco dopo.
