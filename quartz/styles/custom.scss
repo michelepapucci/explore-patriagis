@@ -5,18 +5,23 @@ pre>code.mermaid{
     overflow-x: auto;
 }
 
-.callout[data-callout="book"] {
-    --callout-color: 237, 184, 139;
-    --callout-icon: lucide-book;
+callout {
+    &[data-callout="book"] {
+        --callout-color: 237, 184, 139;
+        --callout-icon: lucide-book;
+    }
 }
 
-.callout[data-callout="letter"] {
+callout {
+    &[data-callout="letter"] {
     --callout-color: 149, 184, 209;
     --callout-icon: lucide-mail;
+    }
 }
 
-
-.callout[data-callout="not-known"] {
+callout {
+    &[data-callout="not-known"] {
     --callout-color: 166, 52, 70;
     --callout-icon: lucide-ban;
+    }
 }
