@@ -1,0 +1,4 @@
+---
+aliases:
+  - Elementali dell'Aria
+---

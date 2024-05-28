@@ -3,9 +3,9 @@
 La busta è indirizzata a [[Stafir]].
 [[Urwin Martikov|Urwin]] non sa chi sia il mittente della lettera, ma può dire ai giocatori che è stata consegnata da un uomo dall'aspetto trasandato che indossava un mantello marrone infangato, ma ben fatto, e che ha insistito molto affinché i giocatori la ricevessero. (L'uomo era Ernst Larnak, la spia di Lady Wachter).
 
-La busta contiene la seguente lettera, con lo spazio vuoto riempito con il nome del giocatore a cui la busta era indirizzata:
+La busta contiene la seguente lettera:
 
-> [!tip] Lettera da Lady Wachter
+> [!letter] Lettera da Lady Wachter
 > *Caro Stafir e stimati compagni,*
 > 
 > *spero che questa missiva vi trovi in buona salute e di buon umore. [[Vallaki]] sembra essere stata benedetta dalla vostra presenza e dalla promessa di buona volontà che portate con voi.*
@@ -14,7 +14,7 @@ La busta contiene la seguente lettera, con lo spazio vuoto riempito con il nome 
 > 
 > *Confido che questo ambiente sia tranquillo e accogliente per discutere di questioni di reciproco interesse e preoccupazione. Le mie porte, come sempre, sono aperte a coloro che desiderano il meglio per il buon popolo di Barovia.*
 > 
-> *Se deciderete di accettare, vi basterà presentare questo invito alla porta della mia tenuta. Attendo con piacere la vostra presenza domani sera. Fino ad allora, io rimango,*
+> *Se deciderete di accettare, vi basterà presentare questo invito alla porta della mia tenuta. Attendo con piacere la vostra presenza domani sera. Fino ad allora, io rimango in attesa.*
 > 
 > *Cordiali saluti,*
 > *Lady Fiona Wachter*

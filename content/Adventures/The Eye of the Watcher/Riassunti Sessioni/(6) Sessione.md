@@ -14,7 +14,7 @@ Il gruppo, inizialmente sospettoso, vedendo la spilla della Gilda, e la lettera 
 
 La lettera di Zaldak legge:
 
-> [!info] *Lettera di Zaldak*
+> [!letter] *Lettera di Zaldak*
 > *Cari Fendisquame,* 
 > 
 > *Per quanto possa capire il vostro stizzo nei confronti della Gilda, dopo che siete rimasti a piedi a [[Malporto]], sareste dovuti arrivare a Nova già da due giorni. Il vostro ritardo, se inspiegato, è inaccettabile.*
