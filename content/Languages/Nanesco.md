@@ -16,7 +16,7 @@ Mostra le prime 10 parole in ordine alfabetico in base al risultato.
 
 	let rows = data.map(r => [r.comune, r.nanesco, r.note])
 
-	rows = rows.slice(0, 10)
+	rows = rows.slice(0, 30)
 	
 	dv.table(["Comune", "Nanesco", "Note"], rows);
 

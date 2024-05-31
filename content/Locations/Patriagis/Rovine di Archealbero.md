@@ -16,8 +16,7 @@ Finirono la loro chimera e la riuscirono a resuscitare tramite un rituale, il pr
 Il drago, chiamato Zanna Velenosa, è semi-cosciente e semi pazzo. Qualcosa di vero del suo istinto dragonico e della sua intelligenza c'è ancora, e si comporta come un astuto drago verde, a volte, però, le sue parti più bestiali e istintive escono allo scoperto, prendendo la meglio su di lui. 
 
 
-
-> [!info] **Lettera di Zalthar a Yvun**
+> [!letter] **Lettera di Zalthar a Yvun**
 >*Caro Yvun,*
 >
  >*Mi rivolgo a te avvolto dal manto di segretezza che le circostanze richiedono, e sotto la promessa di discrezione e compenso che ci hai fornito. Parlo in rappresentanza di un legame che risale alle radici stesse di Nova, un legame che la mia gente, il clan di Ghorzaan, ha custodito per generazioni ininterrotte.*
@@ -29,8 +28,7 @@ Il drago, chiamato Zanna Velenosa, è semi-cosciente e semi pazzo. Qualcosa di v
  >*Zalthar Ghorzaan*
 
 
-
-> [!info] Diario di Fildrit
+> [!book] Diario di Fildrit
 > **Giorno 1**  
 > *Arrivo oggi alle rovine con Yvun e una squadra di archeologi. Il nostro obiettivo è trovare artefatti contenenti Lapisma, un tempo, infatti, Archealbero era un insediamento Nifilim e per anni, prima dell'eruzione si estraeva Lapisma qui. L'aria è carica di eccitazione e mistero*. 
 > 
@@ -63,4 +61,3 @@ Il drago, chiamato Zanna Velenosa, è semi-cosciente e semi pazzo. Qualcosa di v
 > 
 > **Giorno 153**  
 > *La situazione è critica. Zanna Velenosa ha avuto un altro scatto di follia. Stiamo facendo del nostro meglio per controllarlo, ma temo che possa essere troppo pericoloso. Yvun è convinto che, con un rituale sperimentale, potremo controllare l'energia magica dragonica della Fonte, e utilizzarla per dominare Zanna e assoggettarlo al nostro controllo*. 
-

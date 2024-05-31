@@ -1,3 +1,9 @@
+---
+tags:
+  - organizzazione
+  - Patriagis
+  - Nova
+---
 La BDP è una potente banda criminale di [[Nova]]. [[Tracco (Il Pissero)|Tracco]], conosciuto anche come Il Pissero, il loro capo, è un potente personaggio pubblico, un ruffiano, che è riuscito a farsi accettare nella alta società grazie a favori, corruzione e minacce. Tutti sanno chi è e cosa fa per vivere, ma riesce a sfruttare la sua posizione, la sua ricchezza e il suo potere sugli aristocratici della città per farla franca e continuare con le malefatte della banda. 
 
 La BDP si occupa del traffico clandestino di [[Lapisma]], della gestione della microcriminalità, dello spaccio e della prostituzione. In particolare tiene in scacco diverse zone nei bassifondi di [[Nova]], dove ha creato un potere di stampo mafioso, che tramite minacce e pizzi tiene in scacco la popolazione locale. I membri del BDP non sono solo temuti, ma sono anche profondamente rispettati negli ambienti più bassolocati della città proprio perché grazie ai loro sistemi di controllo e di potere, rendono di fatto più sicure le strade, a patto, ovviamente, che tu non sia nel loro mirino.

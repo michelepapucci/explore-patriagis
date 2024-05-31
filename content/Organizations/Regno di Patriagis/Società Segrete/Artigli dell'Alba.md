@@ -1,3 +1,9 @@
+---
+tags:
+  - organizzazione
+  - Patriagis
+  - Nova
+---
 Gli Artigli dell'Alba sono una società segreta di [[Gatto Mannaro|gatti mannari]] che abitano i bassifondi di [[Nova]]. Pochi conoscono effettivamente il gruppo, ma corrono voci e leggende nei bassifondi di [[Nova]]: si sa che, prima di fare qualcosa di illegale o immorale, è bene guardarsi intorno *per controllare che un gatto non ti osservi*.
 
 ## Codice Morale

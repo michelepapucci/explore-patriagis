@@ -1,3 +1,9 @@
+---
+tags:
+  - organizzazione
+  - Patriagis
+  - Nova
+---
 La comunità è formata da abitanti dei Bassifondi che accettano di lasciarsi alle spalle una vita criminale, e di dedicarsi non al proprio benestare, ma a quello di tutta la comunità. È formata da circa duemila individui. 
 
 Lo scopo della Comunità è quello di aiutarsi a vicenda, creando una rete di contatti e di supporto in grado di beneficiare tutti i membri. 
