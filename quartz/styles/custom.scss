@@ -7,21 +7,21 @@ pre>code.mermaid{
 
 .callout {
     &[data-callout="book"] {
-        --color: #edb88b;
+        --callout-color: rgba(237, 184, 139, 0.6);
         --callout-icon: lucide-book;
     }
 }
 
 .callout {
     &[data-callout="letter"] {
-    --color: #95b8d1;
+    --callout-color: rgba(149, 184, 209, 0.6);
     --callout-icon: lucide-mail;
     }
 }
 
 .callout {
     &[data-callout="not-known"] {
-    --color: rgb(166, 52, 70);
+    --callout-color: rgba(166, 52, 70, 0.6);
     --callout-icon: lucide-ban;
     }
 }
