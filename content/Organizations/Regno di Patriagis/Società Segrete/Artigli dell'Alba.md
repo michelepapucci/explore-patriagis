@@ -24,9 +24,9 @@ Gli Artigli dell'Alba svolgono di tanto in tanto lavoro *sporco* per [[Zaldak Ve
 Gli Artigli proteggono, aiutano e coltivano una comunità nei Bassifondi di [[Nova]].
 La comunità è formata da abitanti dei Bassifondi che accettano di lasciarsi alle spalle una vita criminale, e di dedicarsi non al proprio benestare, ma a quello di tutta la comunità. È formata da circa duemila individui. Tra questi, solo un centinaio fa parte della società segreta degli Artigli. 
 
-Nella Comunità, ad eccezione dei membri, nessuno è veramente a conoscenza della natura e dell'esistenza degli Artigli, ma tutti sanno che, un gruppo di persone della comunità si sporca le mani. Inoltre, i membri della comunità imparano velocemente che aiutare, cibare e prendersi cura dei gatti, simbolo della Comunità, porta sempre cose buone. Nonostante i sospetti e gli indizi, i membri della Comunità non fanno domande, e proteggono col silenzio i membri degli Artigli che lavorano per il bene di tutti. 
+Nella [[Comunità dei Bassifondi]], ad eccezione degli altri membri degli Artigli, nessuno è veramente a conoscenza della natura e dell'esistenza della società segreta, ma tutti sanno che, un gruppo di persone della comunità si sporca le mani quando serve. Inoltre, i membri della comunità imparano velocemente che aiutare, cibare e prendersi cura dei gatti, simbolo della Comunità, porta sempre cose buone. Nonostante i sospetti e gli indizi, i membri della Comunità non fanno domande, e proteggono col silenzio i membri degli Artigli che lavorano per il bene di tutti. 
 
-La Comunità e gli Artigli sono infatti due cose ben distinte. Gli Artigli hanno creato la Comunità, la frequentano, e la proteggono segretamente da attacchi esterni. Saltuariamente, risolvono conflitti o la controllano dall'ombra, con alcuni membri importanti della Comunità che fanno parte anche degli Artigli. La Società segreta, invita alcuni individui presi dalla comunità a far parte della loro associazione, in modo da continuare a crescere ed espandere le mira della loro associazione a tutti i Bassifondi. 
+La Comunità e gli Artigli sono infatti due cose ben distinte. Gli Artigli hanno creato la Comunità, la frequentano, e la proteggono segretamente da attacchi esterni. Saltuariamente, risolvono conflitti o la controllano dall'ombra, con alcuni membri importanti della [[Comunità dei Bassifondi]] che fanno parte anche degli Artigli. La Società segreta, invita alcuni individui presi dalla comunità a far parte della loro associazione, in modo da continuare a crescere ed espandere le mira della loro associazione a tutti i [[Bassifondi di Nova|Bassifondi]]. 
 
 ## Influenza
 La Comunità controlla ormai circa un decimo dei territori dei Bassifondi e gli Artigli sono tutti membri di rilievo della comunità, rispettati ed amati. Qualsiasi membro della Comunità mette quindi a disposizione i propri talenti agli Artigli, senza fare domande. 
@@ -36,6 +36,7 @@ Il nemico principale della società è oggi la [[BDP]], che tiene sotto scacco e
 Gli Artigli, sono anche estremamente attenti alla presenza di Guardie Cittadine nei bassifondi, poiché sanno bene che molte di loro sono sui libri paga del BDP. 
 
 ## Gatti Mannari
+
 La società è formata da un gruppo di famiglie, ormai da secoli maledetti da una forma di licantropia che permette loro di trasformarsi in gatti, oppure in ibridi. 
 Gli Artigli dell'Alba usano questo potere, in particolare quello di trasformarsi in semplici gatti, per sorvegliare i bassifondi, ottenere informazioni, consegnare messaggi, ecc. 
 

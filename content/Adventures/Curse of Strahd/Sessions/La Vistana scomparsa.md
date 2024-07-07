@@ -1,3 +1,4 @@
+
 Dopo aver ricevuto la richiesta di [[Madame Eve]] di acquistare e consegnare un giocattolo per la sua pronipote [[Arabelle]], i giocatori possono ottenere indicazioni sul negozio di giocattoli locale di Vallaki, [[I giocattoli di Blinksy]], chiedendo a [[Urwin Martikov]], [[Danika Dorakova]] o alla maggior parte dei vallakiani. [[I giocattoli di Blinksy]] si trova sul lato nord della piazza della città di [[Vallaki]]. 
 
 ## [[I giocattoli di Blinksy]]
@@ -338,21 +339,21 @@ Le casse in questa stanza sono tutte vuote.
 *Il tempo e gli elementi hanno quasi distrutto questa camera, lasciando uno squarcio nella parete nord-ovest e una muffa nera e viscida sulle pareti. Il pavimento in legno è completamente marcio e in alcuni punti ha cominciato a cadere. In un angolo della torre, vedete una vecchia culla di legno ammuffita.*
 
 ### Terzo Piano
-A differenza dei livelli sottostanti, questa stanza mostra i segni di essere stata abitata di recente e, sebbene il posto puzzi di muffa e di funghi, è dotato di molti comfort, tra cui un letto accogliente, una scrivania con sedia abbinata, arazzi luminosi e una grande stufa di ferro con molta legna per alimentarla. La luce entra dalle fessure delle frecce e dalle finestre sporche con le persiane rotte. Tra gli altri elementi della stanza vi è una possente armatura. Le vecchie travi di legno si piegano sotto il peso del tetto della torre, che in qualche modo è rimasto intatto. Sulle travi sono montate carrucole attorno alle quali pendono catene di ferro che sostengono la piattaforma dell'ascensore della torre.
+*A differenza dei livelli sottostanti, questa stanza mostra i segni di essere stata abitata di recente e, sebbene il posto puzzi di muffa e di funghi, è dotato di molti comfort, tra cui un letto accogliente, una scrivania con sedia abbinata, arazzi luminosi e una grande stufa di ferro con molta legna per alimentarla. La luce entra dalle fessure delle frecce e dalle finestre sporche con le persiane rotte. Tra gli altri elementi della stanza vi è una possente armatura. Le vecchie travi di legno si piegano sotto il peso del tetto della torre, che in qualche modo è rimasto intatto. Sulle travi sono montate carrucole attorno alle quali pendono catene di ferro che sostengono la piattaforma dell'ascensore della torre*.
 
-Una prova di Intelligenza (Investigazione) con CD 15 o una ricerca di dieci minuti al quarto piano rivelano due indizi:
+Una prova di Intelligenza (Investigazione) con CD 15 o una ricerca di dieci minuti al terzo piano rivelano due indizi:
 - Un braccialetto di perline colorate con diversi ciondoli di legno a misura di bambino, avvolto intorno a un pugnale argentato e a una carta dei Tarocchi (l'Incappucciato). (Un giocatore che effettua con successo un test di Intelligenza (Storia o Arcano) con CD 13 ricorda che l'Incappucciato rappresenta misteri, nuovi arrivati e identità nascoste).
-- Due pezzi di pergamena bruciati in mezzo a un mucchio di cenere carbonizzata nella stufa, tra cui una pagina bruciata del diario di [[Rudolph van Richten]] e uno schizzo bruciacchiato di un'insegna che annuncia il Carnevale delle Meraviglie di Rictavio. (Lo schizzo sembra essere stato fatto molto più di recente rispetto all'annotazione del diario).
-
+- Due pezzi di pergamena bruciati in mezzo a un mucchio di cenere carbonizzata nella stufa, tra cui una pagina bruciata del diario di [[Rudolph van Richten]] e uno schizzo bruciacchiato di un'insegna che annuncia il **Carnevale delle Meraviglie di Rictavio**. (Lo schizzo sembra essere stato fatto molto più di recente rispetto all'annotazione del diario).
 
 > [!book] Pagina del diario di [[Rudolph van Richten]]
 > Da oltre tre decenni mi impegno a indagare e a esporre le creature delle tenebre alla luce purificatrice della verità e della conoscenza. In alcuni ambienti mi chiamano “eroe”, in altri “saggio” e “Maestro Cacciatore”. Il fatto che io sia sopravvissuto a innumerevoli assalti soprannaturali è visto come una meraviglia tra i miei pari; il mio nome è pronunciato con paura e disgusto tra i miei nemici.
 > 
 > In realtà, questa vocazione “virtuosa” è iniziata come uno sforzo ossessivo per distruggere un vampiro che aveva ucciso mio figlio, ed è diventata per me una carriera noiosa e squallida. Anche quando è iniziata la mia vita di cacciatore di mostri, ho sentito il peso del tempo sulle mie spalle stanche. Oggi sono un uomo che ha semplicemente vissuto troppo a lungo. Come un lich rimpianto, mi trovo inesorabilmente legato a un'esistenza che ho cercato per follia e che, a quanto pare, ora devo sopportare per l'eternità. Naturalmente morirò, ma se mai potrò riposare nella mia tomba, i miei pensieri oziosi mi ossessionano e mi tormentano nei miei sogni.
 
-La calligrafia corrisponde a quella dell'estratto della Guida di Van Richten ai vampiri trovato al [[Villaggio Barovia]] e a quella del manoscritto sui lupi mannari ottenuto alle [[Pozze di Tser]]. Il resto del testo è illeggibile, bruciato dal calore o ridotto in cenere.
+La calligrafia corrisponde a quella dell'estratto della **Guida di Van Richten ai vampiri** trovata al [[Villaggio Barovia]] e a quella del manoscritto sui lupi mannari ottenuto alle [[Pozze di Tser]]. Il resto del testo è illeggibile, bruciato dal calore o ridotto in cenere.
 
 ## Tornando indietro
+
 *Una voce profonda chiama: “Chi va là?”. Attraverso la nebbia gelida si intravede un grande uomo vestito in modo dimesso e con un mantello grigio a brandelli. Ha capelli neri e arruffati e spesse costole di montone. Si appoggia pesantemente a una lancia e ha un piccolo fascio di pelli di animali sulle spalle.*
 
 *Dietro di lui, appena visibile nella penombra, si trova una donna dal volto accigliato, con i capelli lunghi e scuri annodati in una treccia. Impugna una lancia, la cui punta scintilla nella scarsa luce, e indossa un mantello avvolto strettamente intorno al petto.*
@@ -376,6 +377,7 @@ Se almeno due personaggi dimostrano di avere con sé armi argentate o munizioni,
 Altrimenti, se nessun personaggio mostra di portare con sé armi o munizioni argentate, un sorriso beffardo si insinua sul volto di Zsolt, che dice: “*Sembrate davvero dei potenti guerrieri! Ma sembra che abbiate dimenticato qualcosa di importante*”. Se i giocatori chiedono cosa hanno dimenticato, gli occhi di Zsolt lampeggiano di fame e sibila: “*Argento*”. Lui e Mathilda assumono quindi le loro forme ibride e attaccano.
 
 ## Ritorno a [[Vallaki]] e Rictavio
+
 Se i giocatori visitano prima la locanda dell'Acqua Blu, possono apprendere da Danika che Rictavio è uscito di recente dalla locanda e che ha parlato di “*ispezionare il suo carro per alcune riparazioni necessarie*”. Se i giocatori chiedono dove Rictavio ha tenuto il suo carro, [[Danika Dorakova|Danika]] ricorda di avergli parlato di tenerlo nel [[Magazzino di Arasek]].
 
 Se i giocatori si dichiarano interessati a seguire [[Rudolph van Richten|Rictavio]] al magazzino, [[Danika Dorakova|Danika]] li avverte scherzosamente di stare attenti alle bestie pericolose: voci locali suggeriscono che il capobanda tenga qualcosa di grosso e mortale nel suo carro.
@@ -385,12 +387,12 @@ Se i giocatori aspettano il ritorno di [[Rudolph van Richten|Rictavio]] prima di
 Una volta che lui e i giocatori sono soli nella suite degli ospiti, Rictavio estrae la spada-canna e chiede di provare che i giocatori non sono servi di [[Strahd von Zarovich]]. Se i giocatori raccolgono prove sufficienti o riescono a superare una prova di Carisma (Persuasione) a CD 15, Rictavio ripone con riluttanza la spada, controlla la finestra e il corridoio alla ricerca di spie di [[Strahd von Zarovich|Strahd]] e chiude bene le imposte della finestra. Si toglie quindi il cappello di travestimento e confessa la sua identità di Dr. [[Rudolph van Richten]].
 
 [[Rudolph van Richten]] può condividere le seguenti informazioni:
-- Fino a poco tempo fa, era rimasto nascosto nella torre del lago Baratok. Tuttavia, la situazione è cambiata quando ha visto un uomo di Vistana che portava un sacco guizzante a un vampiro dai capelli dorati sulle rive del fiume Luna. (Van Richten riconobbe il vampiro come un uomo di nome Escher, un bardo di Barovia che si era unito alla rivolta dei Baroviani).
+- Fino a poco tempo fa, era rimasto nascosto nella torre del lago Baratok. Tuttavia, la situazione è cambiata quando ha visto un Vistana che portava un sacco guizzante a un vampiro dai capelli dorati sulle rive del fiume Luna. (Van Richten riconobbe il vampiro come un uomo di nome Escher, un bardo di Barovia che si era unito alla rivolta dei Baroviani).
 - Van Richten attaccò la coppia, uccidendo il Vistana e sfregiando il vampiro, che fuggì. Quando aprì il sacco, vi trovò una giovane Vistana.
-- La ragazza, che si presentò come [[Arabelle]], non sapeva perché fosse stata rapita. Van Richten usò il suo talismano dell'eco per interrogare la testa mozzata della Vistana morta e apprese che Strahd aveva emesso una taglia sulle giovani ragazze che corrispondevano alla descrizione precisa e unica di [[Arabelle]]: capelli scuri e pelle olivastra, con iridi color lavanda. [[Rudolph van Richten|Van Richten]] e [[Arabelle]] convennero che riportarla all'accampamento vistani l'avrebbe lasciata esposta a [[Strahd von Zarovich|Strahd]], e che quindi era troppo pericoloso.
+- La ragazza, che si presentò come [[Arabelle]], non sapeva perché fosse stata rapita. Van Richten usò il suo Talismano degli Echi per interrogare la testa mozzata della Vistana morta e apprese che Strahd aveva emesso una taglia sulle giovani ragazze che corrispondevano alla descrizione precisa e unica di [[Arabelle]]: capelli scuri e pelle olivastra, con iridi color lavanda. [[Rudolph van Richten|Van Richten]] e [[Arabelle]] convennero che riportarla all'accampamento vistani l'avrebbe lasciata esposta a [[Strahd von Zarovich|Strahd]], e che quindi era troppo pericoloso.
 - I due tornarono alla torre del lago Baratok, dove [[Rudolph van Richten|Van Richten]] aveva precedentemente nascosto il suo cavallo, Drusilla, e un carro coperto Vistani che aveva usato per entrare a Barovia. Usando il suo cappello da travestimento, Van Richten assunse le sembianze della defunta Vistana e si intrufolò nell'accampamento vistani di [[Vallaki]] per rubare tre vasi di vernice, che usò per camuffare il suo carro come “Il Carnevale delle Meraviglie di Rictavio”.
 - [[Rudolph van Richten|Van Richten]] e [[Arabelle]] si recarono quindi a [[Vallaki]], dove Van Richten assunse l'identità di Rictavio per nascondersi in piena vista. Da allora [[Arabelle]] è rimasta nascosta nel suo carro.
-- Sebbene la torre del lago Baratok contenga un campo antimagico permanente che blocca l'esplorazione di [[Strahd von Zarovich|Strahd]], [[Rudolph van Richten|Van Richten]] credeva che Strahd fosse ben consapevole di questo fatto e che la torre sarebbe stata uno dei primi posti in cui avrebbe guardato. Per questo motivo, Van Richten, che già indossava un amuleto di questo tipo, diede ad [[Arabelle]] un amuleto di riserva contro l'individuazione e la localizzazione che una volta aveva dato - e poi ricevuto - da uno dei suoi studenti. (Se interrogato, [[Rudolph van Richten|Van Richten]] ammette che l'amuleto apparteneva a [[Ezmerelda D'Avenir]], ma non approfondisce la questione).
+- Sebbene la torre del lago Baratok contenga un campo antimagico permanente che blocca le magie di localizzazione di [[Strahd von Zarovich|Strahd]], [[Rudolph van Richten|Van Richten]] crede che Strahd fosse ben consapevole di questo fatto e che la torre sarebbe stata uno dei primi posti in cui avrebbe guardato. Per questo motivo, Van Richten, che già indossava un amuleto di questo tipo, diede ad [[Arabelle]] un amuleto di Protezione contro l'individuazione e la localizzazione, che una volta aveva dato - e poi ricevuto - da uno dei suoi studenti. (Se interrogato, [[Rudolph van Richten|Van Richten]] ammette che l'amuleto apparteneva a [[Ezmerelda D'Avenir]], ma non approfondisce la questione).
 
 Se i giocatori chiedono a [[Rudolph van Richten|Van Richten]] del suo arrivo a [[Villaggio Barovia]] o della rivolta contro [[Strahd von Zarovich|Strahd]], può anche condividere le seguenti informazioni:
 
@@ -400,7 +402,7 @@ Se i giocatori chiedono a [[Rudolph van Richten|Van Richten]] del suo arrivo a [
 - Poco dopo essere entrati nel castello, però, sono stati traditi. Escher, il “luogotenente” di [[Doru]], sparì dal gruppo mentre esploravano le catacombe. Non molto tempo dopo, la folla trovò la bara di Strahd vuota e Strahd stesso attaccò poco dopo. [[Rudolph van Richten|Van Richten]] fuggì, sapendo, grazie ai suoi lunghi studi su Strahd, che la vittoria era impossibile.
 - Una volta fuggito dal [[Castello di Ravenloft]] e recuperato il suo cavallo, [[Rudolph van Richten|Van Richten]] iniziò il viaggio per avvertire i Baroviani del risveglio del vampiro. Tuttavia, fu fermato dalla veggente vistana [[Madame Eve]], che lo avvertì: “Il messaggio che porti sarà partorito da un altro. Se dovessi tornare al villaggio mentre la luce indugia nella valle, incontrerai sicuramente la tua tomba”.
 - Conoscendo bene la reputazione di [[Madame Eve]], [[Rudolph van Richten|Van Richten]] si avviò a malincuore verso il lago Baratok, piangendo lacrime amare per i figli e le figlie di Barovia.
-- Se i giocatori lo richiedono, [[Rudolph van Richten|Van Richten]] accetta di portarli al suo carro al [[Magazzino di Arasek]] per vedere [[Arabelle]] di persona.
+Se i giocatori lo richiedono, [[Rudolph van Richten|Van Richten]] accetta di portarli al suo carro al [[Magazzino di Arasek]] per vedere [[Arabelle]] di persona.
 
 ### Seguire Rictavio
 Se i giocatori seguono [[Rudolph van Richten|Rictavio]] al [[Magazzino di Arasek]] invece di aspettarlo alla [[Locanda dell'Acqua Blu]], possono trovarlo inginocchiato vicino al carro, dove sembra stia aggiustando i raggi della ruota di legno posteriore sinistra del carro. Un giocatore con un punteggio di Saggezza passiva (Percezione) pari o superiore a 16 nota che [[Rudolph van Richten|Rictavio]] sta aggiustando e riaggiustando ripetutamente lo stesso raggio e che le labbra di [[Rudolph van Richten|Rictavio]] si muovono, come se stesse parlando con qualcuno. Se i giocatori lo osservano, continua il suo compito per ben cinque minuti - molto più a lungo di quanto un simile compito dovrebbe normalmente richiedere - prima di alzarsi e allontanarsi.
@@ -428,7 +430,7 @@ Durante questa conversazione, [[Rudolph van Richten|Van Richten]] può anche riv
 Mentre la conversazione volge al termine, [[Arrigal]] emerge dalle ombre di un vicolo vicino. Se i giocatori non deviano la conversazione, questa procede come segue:
 
 - [[Arrigal]] ringrazia [[Rudolph van Richten|Van Richten]] per la “*storia affascinante*”, ringrazia i giocatori per il loro “*aiuto e la loro guida*” e ordina ad [[Arabelle]] di uscire dal carro e di tornare con lui.
-- Van Richten accusa immediatamente [[Arrigal]] di essere una spia di Strahd, notando che, mentre rubava i vasi di vernice, ha visto [[Arrigal]] sussurrare a un pipistrello nel bosco vicino. Chiede che [[Arabelle]] rimanga nel carro e chiede ai giocatori di difenderla da [[Arrigal]].
+- Van Richten accusa immediatamente [[Arrigal]] di essere una spia di Strahd, notando che, mentre rubava i vasi di vernice, ha visto [[Arrigal]] sussurrare a un pipistrello nel bosco vicino. Chiede che [[Arabelle]] rimanga nel carro e chiede ai giocatori di difenderla da [[Arrigal]]
 - Le mani di [[Arrigal]] si dirigono verso la spada corta e i pugnali alla cintura, mentre [[Rudolph van Richten|Van Richten]] si prepara ad estrarre la spada-canna per combattere. [[Arabelle]] chiede tranquillamente ai giocatori di aiutarli a ragionare.
 - [[Arrigal]] non sa della taglia di [[Strahd von Zarovich|Strahd]] su [[Arabelle]] e, se glielo si chiede, lo dice sinceramente, trovando l'idea assurda. Se gli viene chiesto se consegnerebbe [[Arabelle]] a [[Strahd von Zarovich|Strahd]] se gli venisse ordinato, rifiuta con ferocia e sincerità di fare una cosa del genere.
 
@@ -468,7 +470,7 @@ Quando si raggiunge un accordo finale, [[Arabelle]] posa una piccola mano sul br
 
 *Nella notte più buia, la luce fuggirà,*
 
-*non sorgerà l'alba, non ci sarà tregua.*
+*non ci sarà tregua e l'alba più non sorgerà,*
 
 *Dalla tomba, i morti saliranno,*
 
@@ -476,11 +478,11 @@ Quando si raggiunge un accordo finale, [[Arabelle]] posa una piccola mano sul br
 
 *Là, dove il cuore batte rosso,*
 
-*la sua fame profonda e sempre alimentata.*
+*dove la sua fame e la sua sete sono infinite.*
 
-*Se il silenzio dovesse cadere, i cieli si spaccherebbero,*
+*Infine, se dovesse cadere il silenzio, il cielo si aprirà,*
 
-*Mille anime in nero tormento.*
+*e mille anime in nero tormento.*
 
 [[Arabelle]] cade a terra svenuta. Qualsiasi personaggio che effettui con successo una prova di Saggezza (Medicina) a DC 10 può facilmente scoprire che è illesa, semplicemente addormentata. Al risveglio, [[Arabelle]] non ricorda la profezia che ha pronunciato.
 

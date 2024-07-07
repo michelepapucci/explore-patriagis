@@ -5,3 +5,6 @@ La popolazione di [[Millepozzi]], pur non conoscendo l'esistenza dell'[[Anime Ma
 Wai-Ma lega le anime delle persone che muoiono cadendo nei pozzi di [[Millepozzi]] a sé, creando degli [[Spiriti]] che usa come compagni, per raccogliere le offerte, e come guardie ai pozzi della città, per prevenire altre cadute. 
 
 ![[Pasted image 20240528151049.png]]
+
+### Note
+Etimologia derivante dal Maori, *Wai* significa *acqua*, *Mea* deriva da *Mea hanga* che sta per *Creatura*. 

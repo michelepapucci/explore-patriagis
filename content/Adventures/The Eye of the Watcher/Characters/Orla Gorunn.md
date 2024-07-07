@@ -1,9 +1,10 @@
 ---
 aliases:
   - Orla
+tags:
+  - Personaggio
+  - Giocatore
 ---
-
-
 Nome: Orla Gorunn
 Razza: Nana
 Classe: Paladina
