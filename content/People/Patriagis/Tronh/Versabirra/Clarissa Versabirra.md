@@ -1,3 +1,9 @@
+---
+aliases:
+  - Clarissa
+---
+
+
 È una delle figlie di [[Zaldak Versabirra]], noto locandiere di [[Nova]]. 
 Vive a [[Tronh]], dove gestisce la [[Gilda degli Avventurieri di Tronh]]. 
 
