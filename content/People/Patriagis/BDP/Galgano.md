@@ -1,6 +1,5 @@
 "Generale" della [[BDP]], è un warlock della spada. 
 
-
 ## Background
 
 > [!book] Dal Diario di Galgano

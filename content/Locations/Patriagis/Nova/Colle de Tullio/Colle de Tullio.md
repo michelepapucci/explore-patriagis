@@ -1,0 +1,1 @@
+Colle su cui sorgono il [[Palazzo Reale dei Tullio]] e gli altri edifici connessi al potere monarchico. È il colle centrale di [[Nova]] e tutto è costruito in modo da dare risalto alla sua centralità.

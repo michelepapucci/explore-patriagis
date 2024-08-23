@@ -34,20 +34,10 @@ timeline
 			: Romio I viene incoronato Re di Patriagis
 
 ```
-## -15000
-<span data-date='-15000' data-name='Draghi e Nifilim'></span>
-[[Drago|Draghi]] e [[Nifilim]] si estinguono in seguito ad un [[Estinzione dei Draghi e dei Nifilim|misterioso cataclisma]]. In seguito all'energia rilasciata durante questo evento, la [[Trama]] e il [[Piano Materiale]] vengono fortemente scossi. Da quest'ultimo nascono due echi intrisi di un enorme quantità di magia: la [[Selva Fatata]] e la [[Coltre Oscura]].
-
-Nel Piano Materiale e nei suoi echi, cominciano a nascere i primi umanoidi.
-Gli [[Umani]] nel Piano Materiale, gli [[Eladrin]] nella Selva, e gli [[Shadar-kai]] nella Coltre. 
-
-In seguito, alcuni Eladrin, in cerca di un posto più tranquillo, decidono di trasferirsi nel Piano Materiale. Negli anni, la lontananza dalla magia fatata della Selva, li ha resi più ferali e meno magici, diventando [[Elfi]].
-
-Similmente, alcuni Shadar-kai si trasferiscono nel Piano Materiale, nel tempo diventeranno i [[Drow]].
 
 ## -9000
 <span data-date='-9000' data-name='Primi Insediamenti'></span>
-In questo periodo la penisola è popolata da insediamenti che vanno dai villaggi a città-stato, perlopiù razziali, spesso arroccate intorno a rovine Niflim, che forniscono supporto e riparo alle città. 
+In questo periodo la penisola è popolata da insediamenti che vanno dai villaggi a città-stato, perlopiù razziali, spesso arroccate intorno a rovine [[Nifilim]], che forniscono supporto e riparo alle città. 
 
 ## -6000
 <span data-date='-6000' data-name='Crescita'></span>
@@ -55,8 +45,9 @@ In questo periodo città umane ed elfiche raggiungono uno sviluppo e un'estensio
 
 ## -5800
 <span data-date='-5800' data-name='Battaglia del Crepuscolo'></span>
-A Nord-Est di Patriagis, vicino a dove ora sorge la città di [[Tronh]], avviene la più grande battaglia del periodo: La [[Battaglia del Crepuscolo]], che termina la guerra tra una società elfica e una drow della zona. 
-È considerata una delle più catastrofiche battaglie, in termini di vite perse, della storia, ed è comunemente considerata una delle principali cause della quasi estinzione della razza elfica è oggi così rara. Una delle conseguenze della battaglia e della fine di questa guerra è la [[Battaglia del Crepuscolo#Conseguenze La Diaspora Drow|Diaspora Drow]]. Il popolo drow, sconfitto e decimato, si disperde per la penisola: alcuni, ricchi e benestanti, riescono a comprarsi titoli nobiliari presso la società elfica vincente, che diventerà il [[Regno dell’Alba]], altri si rifugiano in reti di caverne sotterranee dell'[[Alto Muro]], altri ancora salpano per la regione di [[Garoth-Mùk]].
+
+A Nord-Est di Patriagis, vicino a dove ora sorge la città di [[Tronh]], avviene la più grande battaglia del periodo: La [[Battaglia del Crepuscolo]], che termina la guerra tra il popolo elfico degli [[Ëarwaith]] e quello dei [[Linnor]]. 
+È considerata una delle più catastrofiche battaglie, in termini di vite perse, della storia, ed è comunemente considerata una delle principali cause della quasi estinzione della razza elfica è oggi così rara. In seguito alla battaglia i superstiti furono costretti a collaborare e fu fondata la città di [[Tronh]]. 
 
 <span data-date='-5700' data-name='Fondazione di Zubduzurak'></span>
 In questo stesso periodo, i Nani che vivono nel nord-ovest della penisola fondano [[Zubduzurak]], la prima città dei Signori dei Picchi, che preso si allargherà e colonizzerà i migliori picchi dell'Alto Muro. 
@@ -69,7 +60,7 @@ Spinti dalla paura del nuovo e portentoso regno elfico a est, gli umani delle ci
 
 ## -3000
 <span data-date='-3000' data-name="Studio della Magia"></span>
-Fino a questo periodo, la magia era usata in maniera istintiva da individui capaci di connettersi naturalmente alla [[Trama]]. Stregoni, Bardi, Druidi e Chierici erano visti come fattucchieri dotati di potere, e spesso, specialmente nelle parti più rurali della penisola, visti come profeti o messia. 
+Fino a questo periodo, la magia era usata in maniera istintiva da individui capaci di connettersi naturalmente alla [[Scintilla]]. Stregoni, Bardi, Druidi e Chierici erano visti come fattucchieri dotati di potere, e spesso, specialmente nelle parti più rurali della penisola, visti come profeti o messia. 
 Intorno a questo anno però, si inizia a comprendere meglio il funzionamento della magia e della trama, e inizia a venire usata per scopi civili e militari.
 
 ## -900

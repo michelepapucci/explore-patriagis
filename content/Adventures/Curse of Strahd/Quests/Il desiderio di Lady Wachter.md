@@ -160,3 +160,13 @@ Se i giocatori rifiutano l'argomentazione di Lady Wachter, lei risponde bruscame
 ### Il Traditore
 Se i giocatori chiedono a [[Fiona Wachter|Lady Wachter]] dell'“*antico nemico di una vecchia e nobile casata*” descritto nella lettura dei tarocchi di [[Madame Eve]] riguardo al Tomo di Strahd, lei esita, poi promette di raccontare tutto ciò che sa sulla storia della sua famiglia se riusciranno a sconfiggere [[Izek Strazni|Izek]].
 
+## Ricompensa
+La loro ricompensa è la seguente:
+- Fino a trenta dardi da balestra argentati
+- Fino a quattro lance argentate
+- Fino a due set di armature del valore di 100 gp o meno
+- Fino a un'armatura di valore pari o inferiore a 400 gp
+- Abbastanza argento grezzo per argentare fino a due armi aggiuntive
+Tutte le armi, le munizioni e le armature sono state prese da una vecchia armeria la cui ubicazione è stata persa per diversi anni a causa della cronica cattiva gestione di Izek.
+
+![[Pasted image 20240708154223.png]]

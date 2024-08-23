@@ -150,7 +150,7 @@ Se [[Victor Vallakovich|Victor]] accetta di aiutare i giocatori condividendo inf
 > Il capitolo sulle **Streghe Notturne** si intitola “*Le Streghe: Matrone della malevolenza*”:
 > Subdole e sovversive, le Streghe, conosciute anche come Megere, sono l'epitome della malvagità. Rappresentano tutto ciò che di malvagio e crudele c'è nel mondo e non desiderano altro che vedere i virtuosi trasformarsi in malvagi: l'amore trasformarsi in ossessione, la gentilezza in odio, la devozione in disprezzo e la generosità in egoismo. 
 > 
-> Un tempo le megere notturne erano creature della [[Selva Fatata]], un regno di incanto e bellezza. Tuttavia, la loro ripugnanza le ha viste esiliate nel tetro regno della [[Coltre Oscura]] molto tempo fa, dove sono degenerate in demoni. Le Megere hanno da tempo diffuso la loro malvagità nei Piani Inferiori, come il [[Piano Materiale]].
+> Un tempo le megere notturne erano creature della [[Selva Fatata]], un regno di incanto e bellezza. Tuttavia, la loro ripugnanza le ha viste esiliate nel tetro regno della [[Terra Oscura]] molto tempo fa, dove sono degenerate in demoni. Le Megere hanno da tempo diffuso la loro malvagità nei Piani Inferiori, come il [[Piano Materiale]].
 > 
 > Sebbene le megere assomiglino a vecchiette avvizzite, non c'è nulla di mortale in loro. I loro volti avvizziti sono incorniciati da lunghi capelli sfibrati e corna d'ariete arricciate, orridi nei e verruche punteggiano la loro pelle blu pallido a chiazze e le loro dita lunghe e magre sono sormontate da artigli che possono squarciare la carne con un semplice tocco.
 > 

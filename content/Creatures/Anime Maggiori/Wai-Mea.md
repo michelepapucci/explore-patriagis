@@ -7,4 +7,4 @@ Wai-Ma lega le anime delle persone che muoiono cadendo nei pozzi di [[Millepozzi
 ![[Pasted image 20240528151049.png]]
 
 ### Note
-Etimologia derivante dal Maori, *Wai* significa *acqua*, *Mea* deriva da *Mea hanga* che sta per *Creatura*. 
+Etimologia derivante dal Maori, *Wai* significa *acqua*, *Mea* deriva da *Mea hanga* che sta per *Creatura*. Questo è il suo nome, con la quale si chiama, sicuramente avrà altri nomi nelle leggende. 

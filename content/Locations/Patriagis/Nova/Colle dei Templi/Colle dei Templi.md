@@ -1,0 +1,1 @@
+Uno dei cinque colli di [[Nova]]. Su di esso vi sono i Templi, i Santuari e le chiese delle religioni praticate in città (tranne chiese del [[Dogma]]). È un luogo di onore e rispetto e sui fianchi della collina sono anche terrazzati dei cimiteri e le abitazioni dei predicatori residenti. 

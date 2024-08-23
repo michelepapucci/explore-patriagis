@@ -7,6 +7,8 @@ I fedeli credono che ognuno debba inseguire i suoi sogni credendo nella propria 
 Nei templi di Tiche si va solitamente a pregare per la propria buona sorte prima di un'impresa o di una importante decisione, ma i Chierici di Tiche offrono anche servizi base di cura.
 I servizi e le benedizioni sono sempre elargiti a pagamento, con un'offerta libera, ma è credenza comune che più è grande l'offerta, migliore sarà la sorte di chi offre. In luoghi molto trafficati, non è raro che i templi di Tiche siano estremamente benestanti, e che usino questa ricchezza per migliorare le condizioni di tutti, finanziando opere pubbliche come strade, ponti, o stalle. 
 
+Tiche è solitamente adorata e rispettata anche dai Paladini solitari e senza un ordine, che vivono per aiutare il prossimo e aiutare le imprese eroiche degli avventurieri. 
+
 Tra i fedeli di Tiche è tipico salutarsi scambiandosi una moneta del medesimo valore e pronunciare la formula: "*Che la fortuna ci accompagni*". 
 
 **Domini**: Vita, Pace, Inganno

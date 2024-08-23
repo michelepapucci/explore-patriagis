@@ -1,7 +1,7 @@
 Circa 60 anni fa Archealbero fu fondata su antiche rovine [[Nifilim]] allo scopo di estrarre [[Lapisma]] dagli artefatti del luogo. Divenne velocemente una piccola cittadina che viveva di spedizioni con la vicina [[Nova]], finché tragicamente, quella che si pensava essere una tranquilla montagna, nella cui valle sorgeva Archealbero, era in realtà un vulcano. 
 La sua eruzione fece molte vittime, e la città fu abbandonata.
 
-Qualche anno fa, un gruppo di archeologi guidati da due fratelli [[coboldi]], [[Fildrit]] l'artificiere e [[Yvun]] il mago, che durante i loro studi scoprirono la storia di Archealbero e decisero di tentare la fortuna cercando artefatti.
+Qualche anno fa, un gruppo di archeologi guidati da due fratelli [[Coboldi]], [[Fildrit]] l'artificiere e [[Yvun]] il mago, che durante i loro studi scoprirono la storia di Archealbero e decisero di tentare la fortuna cercando artefatti.
 
 Arrivati, scavarono per mesi, ma non trovarono niente, finché uno degli archeologi non esumò dagli strati di terra e cenere, scavando alle estremità della valle, qualcosa di molto più antico: uno scheletro di [[drago]] in perfette condizioni di conservazione. 
 

@@ -1,0 +1,3 @@
+il [[Bosco di Tronh]], che negli anni si è allargato, crescendo sopra alla valle e alle coste dove sorgevano i villaggi degli [[Ëarwaith]] e dei [[Linnor]]. Il campo di battaglia e le rovine delle città, sono state inglobate dal bosco. La zona che le contiene è chiamata [[Boschetto del Crepuscolo]], come l'[[Battaglia del Crepuscolo|omonima battaglia]]. La popolazione di [[Tronh]] si guarda dal viaggiare in quelle zone, infatti varie superstizioni sul fatto che sia infestato da spiriti vendicativi e maligni girano tra i popolani. 
+
+Il bosco è formato principalmente da faggi, abeti rossi e in minor parte da abeti bianchi. 
