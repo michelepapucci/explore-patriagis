@@ -1,3 +1,9 @@
+---
+aliases:
+  - Hyvää
+Razza: "[[Umani|Umano]]"
+Classe: Paladino
+---
 
 
 ## Background

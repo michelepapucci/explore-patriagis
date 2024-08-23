@@ -33,11 +33,11 @@ Quando i Pirati litigano tra loro è possibile far scappare il peschereccio o at
 
 ```encounter
 players:
-  - Test_1
-  - Test_2
-  - Test_3
-  - Test_4
   - Callius Incantapietre
+  - Kalys
+  - Hyvää
+  - Ricardo Fabrizio Gon
+  - Tonio
 creatures:
   - Pirate Deck Wizard
   - 3: Pirate First Mate
@@ -110,11 +110,11 @@ Il duo è guardingo e osserva i movimenti del gruppo con grande cautela, pronto 
 creatures:
   - 2: Owlbear
 players:
-  - Test_1
-  - Test_2
-  - Test_3
-  - Test_4
-  - Test_5
+  - Hyvää
+  - Tonio
+  - Kalys
+  - Callius Incantapietre
+  - Ricardo Fabrizio Gon
 ```
 
 
@@ -229,11 +229,11 @@ Se il gruppo si rifiuta, i morti dichiarano la loro morte, e inizia un combattim
 
 ```encounter
 players:
-  - Test_1
-  - Test_2
-  - Test_3
-  - Test_4
-  - Test_5
+  - Tonio
+  - Hyvää
+  - Ricardo Fabrizio Gon
+  - Kalys
+  - Callius Incantapietre
 creatures:
   - 2: Ghost
   - 4: Will-o'-Wisp

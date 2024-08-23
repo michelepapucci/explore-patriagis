@@ -1,5 +1,11 @@
-
-
+---
+aliases:
+  - Kalys
+tags:
+  - Giocatore
+Razza: "[[Umani|Umano]]"
+Classe: Ladro
+---
 
 ## Background
 nato da matrimonio combinato. La madre e' sempre stata riluttante alla cosa, quindi non ha mai apprezzato il figlio, che quindi non ha mai ricevuto l'amore di una figura materna (da cui nasce un po' di diffidenza verso le figure femminili).
