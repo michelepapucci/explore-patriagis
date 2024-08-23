@@ -57,14 +57,14 @@ Clarissa fa fare un giro della città ai giocatori, notando come ultimamente le 
 
 Arrivati alla sede della gilda, notano come, al contrario di quella di [[Nova]], non è una locanda, né una taverna, ma più una sorta di piccolo ufficio, con una saletta contenente dei divanetti, dei tavoli e varie mappe della regione. Il tutto, deserto. 
 
-Improvvisamente, sentono il suono di un pianto, e dall'ufficio di [[Clarissa Versabirra]] esce un altro elfo, [[Feredis Erynar]] con in braccio un infante.
+Improvvisamente, sentono il suono di un pianto, e dall'ufficio di [[Clarissa Versabirra]] esce un altro elfo, [[Limlug Ëarechil]] con in braccio un infante.
 
-"*Deve averti sentito rientrare, sei stata via per meno di una mezz'ora e guarda come piange*" - commenta [[Feredis Erynar|Feredis]]. 
+"*Deve averti sentito rientrare, sei stata via per meno di una mezz'ora e guarda come piange*" - commenta [[Limlug Ëarechil|Limlug]]
 "*Grazie per esserti preso cura di lui, tesoro.*" - dice [[Clarissa Versabirra|Clarissa]] prendendo in braccio il bambino. 
 Poi, continua: "*Questi sono gli eroi che ci ha inviato mio padre, e gli stavo giusto parlando del morbo*"
-[[Feredis Erynar|Feredis]] interviene e si presenta: "*Sono lieto di fare la vostra conoscenza, in questo momento ogni braccio in più è una salvezza. Il mio nome è [[Feredis Erynar]], al vostro servizio.*"
+[[Limlug Ëarechil|Limlug]] interviene e si presenta: "*Sono lieto di fare la vostra conoscenza, in questo momento ogni braccio in più è una salvezza. Il mio nome è [[Limlug Ëarechil]], al vostro servizio.*"
 
-[[Clarissa Versabirra|Clarissa]] e [[Feredis Erynar|Feredis]] spiegano quindi ai giocatori la situazione nel dettaglio:
+[[Clarissa Versabirra|Clarissa]] e [[Limlug Ëarechil|Limlug]] spiegano quindi ai giocatori la situazione nel dettaglio:
 
 > [!info]
 > *Da circa due mesi, un morbo che affligge ogni razza di umanoide ha cominciato a manifestarsi, apparentemente a caso. Non sembra preferire i giovani o gli anziani, né donne rispetto agli uomini o viceversa. In paese lo chiamano semplicemente **il morbo**. Al momento non ci sono ancora state vittime, ma il morbo debilita in maniera estremamente severa il corpo e la mente delle persone, costringendole a letto e a essere servite e curate. 
@@ -72,7 +72,7 @@ Poi, continua: "*Questi sono gli eroi che ci ha inviato mio padre, e gli stavo g
 > Tracciando l'origine di questa concentrica onda di pestilenza, abbiamo capito che il suo centro si trova nel [[Bosco di Tronh]] a nord-est di qui, in una zona conosciuta tra i cittadini come [[Boschetto del Crepuscolo]], sulla quale fin da bambini siamo istruiti ad evitare, poiché su di essa girano antiche superstizioni.*
 
 
-Se il gruppo vuole indagare sulle superstizioni, [[Clarissa Versabirra|Clarissa]] ammette di essere cresciuta a [[Nova]] e di non conoscerne, mentre [[Feredis Erynar|Feredis]] è figlio della famiglia [[Erynar]] che non lo ha cresciuto abbastanza a contatto col popolino per poter conoscere queste storie.
+Se il gruppo vuole indagare sulle superstizioni, [[Clarissa Versabirra|Clarissa]] ammette di essere cresciuta a [[Nova]] e di non conoscerne, mentre [[Limlug Ëarechil|Limlug]] è figlio di una famiglia nobile che non lo ha cresciuto abbastanza a contatto col popolino per poter conoscere queste storie.
 
 ## In giro per [[Tronh]]
 
@@ -147,3 +147,84 @@ Se il gruppo menziona a [[Limlug Ëarechil]] e [[Clarissa Versabirra|Clarissa]] 
 ## Casa [[Ëarechil]] 
 
 A casa vengono accolti dalla servitù della magione e [[Limlug Ëarechil]] saluta calorosamente la madre [[Merillë Ëarechil]] e il fratello maggiore [[Mifanto Ëarechil]]. 
+
+[[Limlug Ëarechil|Limlug]] non menziona la profezia alla madre e al fratello, ma presenta semplicemente il gruppo come *dei nuovi avventurieri che lavorano per [[Clarissa Versabirra|Clarissa]] che hanno bisogno di verificare alcune informazioni nei loro annali*. 
+
+Se il gruppo menziona la profezia, [[Merillë Ëarechil|Merillë]] è visibilmente turbata, mentre [[Mifanto Ëarechil|Mifanto]] non sembra saperne nulla, per quanto sia palese che anche lui noti la reazione della madre. 
+
+### Biblioteca
+
+Nella biblioteca di famiglia [[Ëarechil]] ci sono centinaia di libri ben ordinati. [[Limlug Ëarechil|Limlug]] aiuta il gruppo alla ricerca di libri di storia o di informazioni sulla regione e su questi popoli. 
+
+Dopo diverso tempo, finalmente trovano un libro molto antico, scritto ben prima della fondazione del [[Regno di Patriagis]], e che presenta ancora i sigilli reali dell'[[Regno dell’Alba|Aranië]]. Il libro è intitolato *Sulla fondazione di [[Tronh]]* e menziona il popolo dei [[Linnor]] e quello degli [[Ëarwaith]].  Il passaggio che li riguarda, recita:
+
+> [!book] *Sulla fondazione di [[Tronh]]*
+> *Sebbene la fondazione di [[Tronh]] sia avvenuta poco meno di trecento anni fa, le sue origini sono alquanto avvolte nel mistero. I più antichi di noi, che hanno vissuto la fondazione non ne parlano. Dall'unificazione dell'[[Regno dell’Alba|Aranië]], la città è cresciuta e gli originari fondatori sono rimasti pochi, molti hanno lasciato questo luogo nel tempo e le loro conoscenze sono perdute. Tra i fondatori ci sono due famiglie di lignaggio nobile, gli [[Ëarechil]] e gli [[Erynar]] che si dice discendano da due grandi popoli elfici che vivevano nella zona poco prima della fondazione di [[Tronh]], i [[Linnor]] e gli  [[Ëarwaith]], il primo un popolo schivo, abili cacciatori e formidabili musicisti, i secondi invece una potenza costiera che dominava il [[Mare Stretto]]. Sulla fine che hanno fatto questi due grandi popoli, di diverse migliaia di elfi, c'è grande mistero. Mistero sul quale le due famiglie possono sicuramente gettare più luce di quello che fanno, ma sembra che queste conoscenze siano passate di genitore in figlio, senza farne parola con gli estranei.*
+> *Fatto rimane che questi due grandi popoli, forse i più grandi popoli elfici mai esistiti su questa penisola prima dell'unificazione del nostro Regno dell'Alba, sono misteriosamente scomparsi 300 anni fa, poco prima che questa città fu fondata.*
+> *Inoltre, A nord-est di qua, sono presenti resti di una grande battaglia. Non è raro infatti trovare spade e scudi semi-sotterrati passeggiando e, talvolta, anche ossa o teschi divorati dalle carogne. I popolani di [[Tronh]] evitano quelle zone, e fanno bene.* 
+> *Cos'è successo ai [[Linnor]] e agli [[Ëarwaith]]? Sono stati schiacciati da un potere estero? O sono tutti fuggiti combattendo? Noi, possiamo solo speculare.*
+> 
+> [Sael](https://www.elfdict.com/wt/520137), Mastro Cronista dell'[[Regno dell’Alba|Aranië]]
+
+Se confrontata con queste notizie, [[Merillë Ëarechil|Merillë]] chiede, preoccupata, di chiamare immediatamente [[Clarissa Versabirra|Clarissa]]. 
+
+Nel giro di poco, [[Limlug Ëarechil|Limlug]] torna con [[Clarissa Versabirra|Clarissa]] e [[Merillë Ëarechil|Merillë]] chiede insistentemente a [[Clarissa Versabirra|Clarissa]] chi siano i suoi genitori. [[Clarissa Versabirra|Clarissa]] risponde fieramente che lei ha un solo padre e il suo nome è [[Zaldak Versabirra|Zaldak]]. 
+
+[[Merillë Ëarechil|Merillë]], sempre più furiosa, insiste nel voler sapere chi sono i suoi genitori biologici, e afferma che la situazione è estremamente grave. 
+
+Clarissa tiene il suo segreto a meno che il gruppo non riesca a convincerla con una prova a base di Carisma con CD 15. 
+
+Se non riescono a far confessare [[Clarissa Versabirra|Clarissa]], [[Limlug Ëarechil|Limlug]] parla segretamente al gruppo, ricordando che se sua madre [[Merillë Ëarechil|Merillë]] non vuole parlare, loro potrebbero avere più fortuna parlando [[Feredis Erynar]], la attuale capofamiglia degli [[Erynar]], l'altra nobile famiglia menzionata nel libro che potrebbe avere le risposte. 
+
+Se [[Clarissa Versabirra|Clarissa]] ammette di essere una figlia bastarda di [[Feredis Erynar|Feredis]], [[Merillë Ëarechil|Merillë]] si chiude nelle sue stanze e non accetta visitatori. A questo punto, [[Limlug Ëarechil|Limlug]] consiglia segretamente al gruppo di parlare con [[Feredis Erynar|Feredis]].
+
+
+## Incontro con [[Feredis Erynar|Feredis]]
+
+[[Feredis Erynar|Feredis]] può essere incontrata nella piazza di [[Tronh]], dove sta facendo la spesa al mercato. È una bellissima elfa, ormai di 350 anni, vestita con una veste rossa e ricamata d'oro. 
+
+Se il gruppo prova ad approcciarla, lei li ferma con: *Alt. Chi siete. Cosa volete.*
+
+Se il gruppo menziona il fatto che lei sia la madre di [[Clarissa Versabirra|Clarissa]], [[Feredis Erynar|Feredis]] nega, finché non viene menzionata la profezia, il libro e la maledizione che sta ammorbando la città. 
+
+Quando viene menzionato tutto ciò, [[Feredis Erynar|Feredis]] insinua, con fare da saputella: "*Il fatto che [[Clarissa Versabirra|Clarissa]] sia una mia bastarda non ha niente a che fare con le parole dei morti. Hanno parlato di sangue mescolato, quindi a meno che Clarissa non abbia procreato con un discendente diretto degli [[Ëarwaith]], ad esempio un [[Ëarechil]], non ha niente a che fare con questa storia.*"
+
+## Casa [[Ëarechil]]
+
+Quando il gruppo torna, scoprono che [[Merillë Ëarechil|Merillë]] è uscita dalla stanza, passando per una porta di servizio e ha rapito [[Chalf Ëarechil]]. Il bambino è tra le braccia della nonna, che lo sta minacciando di morte con un coltello, davanti a lei [[Limlug Ëarechil|Limlug]], [[Mifanto Ëarechil|Mifanto]] e [[Clarissa Versabirra|Clarissa]] la stanno implorando di fermarsi.
+
+[[Merillë Ëarechil|Merillë]] può essere fermata con una CD 20 in Carisma. Alcune argomentazioni che possono abbassare la CD sono:
+- Menzionare il fatto che i morti possono essere fermati in un altro modo;
+- Menzionare il fatto che il bambino è innocente;
+- Menzionare il fatto che nessuno è ancora morto per il morbo e magari esiste una cura;
+
+[[Merillë Ëarechil|Merillë]] continua a ripetere che i loro antenati si sono dati guerra fino alla morte, e che i pochi sopravvissuti hanno deciso di seppellire l'ascia di guerra e di vivere in pace. I morti questo, non lo hanno mai perdonato. Solo gli [[Ëarechil]] e i [[Erynar]] hanno mantenuto la faida viva per tutti questi secoli e che ora hanno tradito il volere dei morti, creando un nascituro dal sangue misto. 
+
+In ogni caso, [[Merillë Ëarechil|Merillë]] non ha il sangue freddo per uccidere un neonato, e un qualsiasi tipo di attacco rivolto verso di lei fa sì che crolli a terra piangendo col nipote tra le mani. 
+
+[[Merillë Ëarechil|Merillë]] e [[Feredis Erynar|Feredis]] menzionano che solo la morte di [[Chalf Ëarechil]] può calmare i morti. 
+
+Il gruppo può decidere di affrontare le due famiglie e uccidere il bambino, spezzando la maledizione. 
+
+
+## Ritorno al [[Boschetto del Crepuscolo]]
+
+Se il gruppo torna al boschetto senza aver ucciso [[Chalf Ëarechil]], i morti ri-compaiono e avvertono il gruppo che solo la morte del nascituro potrà spezzare il morbo. 
+
+Se il gruppo si rifiuta, i morti dichiarano la loro morte, e inizia un combattimento. 
+
+```encounter
+players:
+  - Test_1
+  - Test_2
+  - Test_3
+  - Test_4
+  - Test_5
+creatures:
+  - 2: Ghost
+  - 4: Will-o'-Wisp
+```
+
+I non-morti combattono finché non sono distrutti. I due fantasmi non possono possedere e non hanno le resistenze a fuoco, fulmine e tuono.
+Inoltre non possono spostarsi nel Piano Etereo.
+I Will-o'-Wisps non possono utilizzare il loro *Consumare Vita*.
