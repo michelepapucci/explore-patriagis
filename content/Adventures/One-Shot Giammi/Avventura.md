@@ -1,18 +1,27 @@
+*Siete a Nova, nella capitale del [[Regno di Patriagis]], fondato nell'omonima penisola. Al limitare della splendida [[Piana Marittima]] e a un tiro di schioppo dai [[Pendici]] si trova [[Nova]], la più grande e importante metropoli della nazione. Siete su uno dei suoi cinque colli, quello conosciuto come Colle dei Mestieri, dove hanno sede tutte le corporazioni e tutte le gilde della città, oltre che a un fiorente mercato costruito sulle sue pendici. Qua si trova [[Il Riposo del Macaco]], una Locanda costruita all'interno delle rovine di un antico tempio gigante ed è anche la sede della [[Gilda degli Avventurieri di Nova]], dove il vostro capo e fondatore della gilda, [[Zaldak Versabirra]], vi ha convocato per una missione.*
+
 [[Zaldak Versabirra]] accoglie il gruppo di avventurieri al [[Il Riposo del Macaco|Riposo del Macaco]] e comunica loro che è stato deciso che per "farsi" le ossa, verranno mandati dove c'è più bisogno. Il gruppo infatti verrà spostato di location a [[Tronh]] uno degli ultimi baluardi di [[Patriagis]] prima dell'ignoto. 
 
-[[Tronh]] è una città originariamente elfica, che faceva parte dell'[[Regno dell’Alba|Aranië]], all'estremo nord-est della penisola. Vicini al confine, i popolani di [[Tronh]] devono difendersi da molti pericoli, dai pirati provenienti da [[Garoth-Mùk]], alle arpie che scendono da quella parte più disabitata dell'[[Alto Muro]] a mostri che, essendo una regione poco popolosa, si riproducono nelle valli e nei boschi, il posto perfetto per degli avventurieri alle prime armi!
+[[Tronh]] è una città originariamente elfica, che faceva parte dell'[[Regno dell’Alba|Aranië]], uno dei due antichi regni che si sono uniti nel regno odierno. La città si trova all'estremo nord-est della penisola. Essendo una zona poco popolata e trovandosi viicini al confine, i popolani di [[Tronh]] devono difendersi da molti pericoli, dai pirati provenienti da [[Garoth-Mùk]], alle arpie che scendono dalla parte più disabitata dell'[[Alto Muro]] fino a mostri che si riproducono nelle valli e nei boschi, insomma, il posto perfetto per degli avventurieri alle prime armi!
 
 Zaldak indica ai giocatori di recarsi velocemente a prendere una aereonave, che li porterà a [[Tronh]], dove dovranno fare rapporto alla [[Gilda degli Avventurieri di Tronh]], dove una delle sue figlie gestisce la filiale. 
 
 ___
 ## Viaggio verso Tronh
 
+*Venite accompagnati da alcuni uomini della società Viaferri, alla base di partenza dell'Areonave. Mentre camminate vi spiegano che questo mezzo di trasporto è altamente innovativo e che non è ancora aperto al pubblico. [[Zaldak Versabirra|Zaldak]], in cambio di un bel compenso, ha gentilmente accettato di poter utilizzare i suoi avventurieri come cavie per i primi trasporti.*
+*Una volta caricati, il mezzo si libera lentamente in aria con il suo pallone, e, raggiunta la quota, comincia a navigare verso nord, grazie alla propulsione che due elementali dell'aria vengono costretti a esercitare nella direzione opposta. Vedete il terreno sotto di voi cambiare lentamente, passate sopra alla [[Piana Marittima]], dove sorge la città di [[Malporto]] e, più a sud, notate la piccola [[Isola di Ceneria]] poco lontana dalla costa. Man mano che camminate, vi ritrovate sopra una distesa enorme di campi di grano, in cui vedete degli alti gnomi cavalcare enormi mastini. Poco più a est, a ridosso delle [[Pendici]] vedete proprio la loro capitale, [[Seormgrà]], la città dei [[Tiarna na Madraì]] e il loro bellissimo palazzo d'oro, il [[Palasorgà]]. Poco oltre, superate i pendici, e vedete la città montana di [[Filobello]], per poi virare a Eest e vedere verso sud, in lontananza, l'antica città elfica di [[Arum]], originariamente capitale dell'[[Regno dell’Alba|Aranië]]. Infine, superate Lerikto, la capitale tecnologica del regno e virando fortemente ancora a est, raggiungete lentamente la città portuale di [[Tronh]], circondata da un bellissimo bosco di abeti rossi e faggi.*
+
 Il viaggio procede bene, con una descrizione della penisola e arrivano nei pressi della cittadina di [[Tronh]].
 ___
 ## Arrivati a [[Tronh]]
 
+*L'areonave atterra nei pressi del porto di [[Tronh]], dove il personale della ditta Viaferri vi saluta e vi augura il meglio. Poco dopo la loro ripartita, sentite delle urla provenire da una delle banchine. Alcuni uomini stanno gesticolando e urlando ad un peschereccio ancora a largo, che sembra essere inseguito da una barca un po' più piccola che batte una bandiera nera con un teschio.*
+
 Il gruppo si ritrova subito immerso nell'azione, perché vede, nei pressi della costa, una nave battente bandiera pirata, che sta attaccando un peschereccio. 
 Dal porto, stanno radunando persone che vogliano andare a salvare il peschereccio, ma ci sono pochi volontari, infatti il porto, nonostante l'ora, sembra abbastanza deserto.
+
+Quando il gruppo si avvicina, i marinai sulla banchina iniziano a urlare "*Ci servono volontari, dobbiamo salvarli! Qualche buon anima è pronto a partire?*"
 
 Il gruppo va a salvare il peschereccio dai Pirati. Il gruppo è composto da 3 Pirati  armati di spada lunga e un pirata armato di bastone, più piccoletto degli altri. 
 
@@ -48,6 +57,8 @@ Se viene raccontata la storia, o altrimenti se si osservano i corpi malnutriti, 
 I marinai, inoltre, una volta arrivati al porto, o prima, se gli viene domandato commentano come *la recente epidemia stia mettendo al tappeto molta della cittadinanza di Tronh, e che pochi pescherecci ormai hanno una flotta ancora in salute da poter operare.*
 
 ## Banchina
+
+*Tornati alla banchina, vedete una donna alta dalla pelle olivastra, e dai capelli biondi chiusi meticolosamente in piccole trecce. "Non fate in tempo ad arrivare che già partite ad aiutare gli altri. Forse papà stavolta mi ha mandato un gruppo buono! È un piacere conoscervi, io sono [[Clarissa Versabirra]].*
 
 Ad aspettare il gruppo alla banchina trovano [[Clarissa Versabirra]], che stava aspettando l'arrivo del gruppo dopo aver ricevuto notizia dal padre del loro spostamento.
 
@@ -89,7 +100,10 @@ Se il gruppo ha accettato di aiutare il peschereccio senza esitazioni, tutti i p
 
 ## Verso il Boschetto
 
-Il gruppo incontra una affamata coppia di Orsigufo al limitare del [[Boschetto del Crepuscolo]]. Il duo è guardingo e osserva i movimenti del gruppo con grande cautela, pronto a sferrare un attacco. 
+*Iniziate a seguire il sentiero nel bosco che porta verso nord-est, e sentite i suoni della natura che vi accompagnano. Man mano che lo percorrete, notate che ad ogni bivio che ignorate, il terreno si fa sempre meno battuto, fino a che non scompare del tutto nel sottobosco. Continuando per questa strada, i rumori della foresta si fanno più forti, e gli incontri con la fauna sempre più frequenti, tra uccellini, volpi e cinghiali. A meno di una decina di minuti dall'inizio del [[Boschetto del Crepuscolo]] incappate però in un incontro diverso. Davanti a voi, ad una decina di metri, sono sbucati due grandi creature dal bosco. Sono due orsi, alti e scuri che vi stanno dando le spalle. Uno dei due è leggermente più piccolo e tozzo, probabilmente una femmina, l'altro invece è grande e possente. Qualcuno di voi, nel camminare, spezza un rametto e i due orsi voltano la testa, mantenendo però il corpo fermo. Vedete che hanno una testa dalle fattezze gufesche: occhi grandi e gialli, piccole orecchie con piume e ciuffi, e un enorme becco famelico. I due orsogufi allineano il proprio corpo a voi e vi osservano. *
+
+Con un tiro in intuizione CD 10 si nota che i due animali appaiono smunti e affamati. 
+Il duo è guardingo e osserva i movimenti del gruppo con grande cautela, pronto a sferrare un attacco. 
 È possibile evitare il combattimento solo con una prova in Addestrare Animali con CD 20. È possibile ottenere vantaggio alla prova e avere una CD ridotta a 15 se il gruppo offre cibo agli animali. 
 
 ```encounter
