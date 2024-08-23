@@ -106,10 +106,44 @@ players:
 
 ## Arrivo al [[Boschetto del Crepuscolo]]
 
-*Percepite di essere entrati in una  zona **diversa** del bosco, più silenziosa e misteriosa. Una leggera nebbia oscura il vostro avvenire, e ad accompagnarvi non ci sono più i rumori degli uccellini e il lontano rumore del mare, ma solamente il rumore dei vostri stivali che infrange il fogliame, e quello delle vostre armi che tintinna o batte contro le vostre armature*. 
+*Percepite di essere entrati in una zona **diversa** del bosco, più silenziosa e misteriosa. Una leggera nebbia oscura il vostro avvenire, e ad accompagnarvi non ci sono più i rumori degli uccellini e il lontano rumore del mare, ma solamente il rumore dei vostri stivali che infrange il fogliame, e quello delle vostre armi che tintinna o batte contro le vostre armature*. 
 *Iniziate a sentire delle voci provenire dal bosco, prima una, poi due, pian piano diventa una cacofonia di centinaia di voci che, come una cantilena, ripetono: **Andatevene o perite!**.*
 
 Se il gruppo chiede alle voci chi esse siano, tutto improvvisamente tace, poi, sole due voci urlano, ognuna una cosa diversa:
 - *[[Ëarwaith]], i navigatori del [[mare stretto]], solcatori di onde e tessitori di vele*;
-- [[Linnor]], *le fiamme del bosco*, DA FINIRE
+- [[Linnor]], *le fiamme del bosco*, cacciatori di orsi e suonatori di liuto;
 
+Dal bosco escono innumerevoli spiriti, la maggior parte di essi sembrano ormai senza forma, come una nebbia senza volto né corpo. Ma da questa coltre nebbia marcia e decadente alcune figure ben formate escono e si dividono in due fazioni, ognuna capeggiata da un elfo con corona.
+
+Le due figure parlano all'unisono:
+
+> [!danger] Il Poema
+> *Tra la costa e la montagna*, 
+> *un popolo separato*,
+> *Due messaggeri, in campagna*, 
+> *un accordo fu firmato*, 
+> 
+> *Ma nella più nera delle ore, 
+> *l'aiuto fu richiesto*, 
+> *ma tra i popoli non vi era più amore*, 
+> *E l'esito fu inevitabilmente funesto
+> 
+> *i campi furono razziati,*
+> *il bosco fu bruciato*, 
+> *gli uomini vennero armati*
+> *e il sangue di innocenti fu versato*
+> 
+> *I superstiti dimenticano il prezzo che i loro avi han pagato*,
+> *ma noi morti, no, non lo dimentichiamo*, 
+> *e coloro che il nostro sangue han mescolato*, 
+> *loro, e tutti i vicini, a morte li malediciamo*.
+
+Dopo che gli spiriti finiscono di pronunciare questa profezia, spariscono, e il gruppo si ritrova immerso nella nebbia, e, una volta diradata, si ritrova al limitare del boschetto, con [[Tronh]] in vista.
+
+## Ritorno alla [[Gilda degli Avventurieri di Tronh]]
+
+Se il gruppo menziona a [[Limlug Ëarechil]] e [[Clarissa Versabirra|Clarissa]] la profezia, [[Limlug Ëarechil]] menziona che la sua famiglia è una delle più antiche di [[Tronh]] e che nella biblioteca della sua magione forse possono trovare degli annali per avere più informazioni riguardanti questi antichi popoli elfici.
+
+## Casa [[Ëarechil]] 
+
+A casa vengono accolti dalla servitù della magione e [[Limlug Ëarechil]] saluta calorosamente la madre [[Merillë Ëarechil]] e il fratello maggiore [[Mifanto Ëarechil]]. 
