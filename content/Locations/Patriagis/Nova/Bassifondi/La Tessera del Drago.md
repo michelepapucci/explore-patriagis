@@ -9,26 +9,20 @@ Anche i membri della [[Gilda degli Avventurieri di Nova]] non sono mai stati be
 C'è un bancone al quale lavora una [[Mezzorchi|mezzorca]] di nome Helga, che è solitamente ostile a tutti i clienti e pertanto nessuno si siede mai al bancone. Fortunatamente ad indorare la pillola ci sono 3 [[Nefele|nefele]] che fanno ampio uso dei loro poteri mutaforma finché non trovano la forma adatta a sedurre e a far spendere ai clienti tutti i propri risparmi.
 
 
-## Regole dei Giochi d'Azzardo
-### Tessere
-È un gioco uno contro uno dove i due giocatori scommettono una somma da vincere. La massima somma che si può scommettere è 50 monete d'oro, e entrambi i giocatori pagano per ogni lancio 1 m.o. alla botte, inserendola nella fessura magica dal proprio lato. Se si provano a lanciare delle tessere sulla botte senza aver pagato, queste vengono immediatamente polverizzate.
-Entrambi i giocatori tirano 3 [[Tessera|tessere]] sfruttando un [[frilitus]]. Chi ottiene il risultato più alto vince. 
-Se un giocatore ottiene un triplo numero uguale, vince anche se la somma è più bassa. 
-Se entrambi i giocatori ottengono un triplo numero uguale, chi ottiene la somma più alta vince. Se i giocatori pareggiano, si ripete il tiro finché non esce un vincitore.
+## Giochi d'azzardo
 
-Durante il lancio, il giocatore può **giocare pulito** oppure **giocare sporco**. 
-Se si gioca pulito, il giocatore fa una prova di Saggezza (Percezione). Se si gioca sporco, il giocatore fa una prova di Destrezza (Rapidità di Mano).
-Quando un giocatore gioca sporco, può alterare il risultato di uno dei suoi tre dadi.
-Quando un giocatore gioca pulito, se la sua prova di Saggezza (Percezione) è inferiore alla sua Percezione Passiva, ripete il tiro finché non ottiene un risultato più alto.
-Se un giocatore gioca pulito e ottiene un risultato alla prova di abilità più alto di quello di un avversario che ha giocato sporco, si rende conto che l'avversario sta barando.
+### [[Botte da Tessere]]
+La scommessa massima è 50 m.o. e il prezzo per 5 round è di 1 m.o. per giocatore. 
+
+Per il regolamento del gioco vedere [[Lancio delle Tessere#Regolamento]]. 
+
+I round sono di 5 tiri. 
 
 ### Rialzo
-È un gioco di carte, giocato con due mazzi da 52 carte, senza numero massimo di giocatori. Ad ogni giocatore al tavolo viene data una carta coperta dal giocatore di turno a dare le carte. Seguendo l'ordine di consegna delle carte, un giocatore può decidere di lasciare la mano, o di rialzare. Il costo del rialzo va da un minimo di 5 ad un massimo di 50 monete d'oro. Ogni altro giocatore al tavolo dopo un rialzo, seguendo l'ordine di consegna delle carte, deve raggiungere il prezzo del rialzo o lasciare la mano (e ogni eventuale moneta già pagata).
-Alla fine del giro di Rialzo, si consegna una seconda carta coperta ad ogni giocare, in seguito alla quale c'è un altro giro di Rialzo. Dopo questo secondo giro si consegna la terza carta coperta ad ogni giocatore.
-Si rivelano le mani, la somma più alta vince. Figure e Jolly contano 10 punti, l'asso conta 1 punto. Le altre carte valgono quanto il loro numero. 
+Il costo del rialzo va da un minimo di 5 ad un massimo di 50 monete d'oro
+
 Il 20% delle monete sul tavolo spettano alla Bisca. Il resto viene dato al vincitore o diviso tra i vincitori se ci sono pareggi. 
-Delle Mani magiche, dall'aspetto femminile raccolgono i soldi della bisca e li fanno cadere in un piccolo foro al centro del tavolo, che li deposita direttamente nelle casseforti di [[Cranxaxomor Spaccatessere||Cranxaxomor]].
-Durante la fase di consegna delle carte, il giocatore che le distribuisce, può fare una prove in Destrezza (Rapidità di Mano) per guardare l'ultima carta del mazzo e darla ad uno dei giocatori (sé stesso incluso). Tutti gli altri giocatori fanno una prova in Saggezza (Percezione) per verificare che non ci siano irregolarità. 
+Delle Mani magiche, dall'aspetto femminile raccolgono i soldi dal tavolo e li fanno cadere in un piccolo foro al centro del tavolo, che li deposita direttamente nelle casseforti di [[Cranxaxomor Spaccatessere||Cranxaxomor]].
 
 ### Corsa del Drago
 Quattro piccole lucertole del deserto sono chiuse in alcune gabbie in fondo ad una pista labirintica sulla quale sono piazzati 3 cancelli intermedi prima del cancello finale. 

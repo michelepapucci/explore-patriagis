@@ -2,7 +2,7 @@ La chiesa è formata da un ordine di chierici conosciuti come **[[Portatore d'Al
 
 Il Clero di Solis rispetta l’arte, la natura, la cultura e la libertà. Promuove la crescita personale e cerca di diffondere speranza. I membri del clero sono visti come persone pie, difensori dei più deboli, e saggi consiglieri. 
 
-I **luoghi sacri** dediti a Solis sono chiamati **[[Casa del Mattino|Case del Mattino]]**, e sono solitamente gestiti dai novizi e dai membri più anziani del culto, ormai non più in grado di viaggiare. Sono solitamente piccole strutture circolari, con un tetto a cupola perforata dalla quale entra la luce solare. Sono piazzati in luoghi ben soleggiati e solitamente vicino ai campi coltivati. 
+I **luoghi sacri** dediti a Solis sono chiamati **[[Religions/Chiesa di Solis/Casa del Mattino|Case del Mattino]]**, e sono solitamente gestiti dai novizi e dai membri più anziani del culto, ormai non più in grado di viaggiare. Sono solitamente piccole strutture circolari, con un tetto a cupola perforata dalla quale entra la luce solare. Sono piazzati in luoghi ben soleggiati e solitamente vicino ai campi coltivati. 
 
 ## Offerta al Sole
 Il tipico rito sacro della Chiesa è l'**Offerta al Sole** che viene svolta ogni tre giorni a mezzogiorno nelle Case del Mattino, o in luoghi ben soleggiati. 

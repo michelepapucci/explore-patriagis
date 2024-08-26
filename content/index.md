@@ -8,7 +8,7 @@ L'ambientazione descrive la penisola di Patriagis e i suoi dintorni. La storia d
 
 ## To-Do
 - Allineare gli eventi in [[Battaglia del Crepuscolo]] con le cronache in [[Avventura#Casa Ëarechil]] e fare lo stesso anche con [[Storia della Penisola di Patriagis#-5800]]. 
-- [[Limlug Ëarechil|Limlug]] ha studiato presso il [[Santuario di Solis di Tronh]] ma ha scelto di non entrare nel clero.
+- [[Limlug Ëarechil|Limlug]] ha studiato presso la [[Casa del Mattino di Tronh]] ma ha scelto di non entrare nel clero.
 - [[Limlug Ëarechil|Limlug]] è un chierico della luce di terzo livello.
 - Creare una religione basata sul mare. 
 	- Creare il dio balena.
@@ -16,4 +16,5 @@ L'ambientazione descrive la penisola di Patriagis e i suoi dintorni. La storia d
 	- Gli animali marini e i pesci acquatici sono suoi fedeli e "spie". Gli animali di mare sono a lui più fedeli e sono visti come più nobili nelle varie religioni legate ai suoi semidei.
 - Trovare un nome migliore alle [[Anime Maggiori]], Incarnazioni? 
 - Finire [[L'origine]].
+- Creare uno "*sport da stadio*" che sfrutti le regole del combattimento di D&D ma che non abbia come obbiettivo semplicemente eliminare gli avversari. 
 
