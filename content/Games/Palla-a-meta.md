@@ -4,6 +4,8 @@ Palla a Giro è un popolare sport di squadra praticato in tutta [[Patriagis]], m
 
 Due squadre composte da quattro membri sono in possesso ognuna di una palla. Il gioco si svolge all'interno di un'arena che ha una pista a forma di quadrato bislungo larga 12 metri. I rettilinei sono lunghi 50 metri e la curva dura altri 12 metri. 
 
+![[Arena_24x50.png]]
+
 Le squadre partono a metà di uno dei rettilinei, alla cui metà è segnata la linea di *inizio* e di *meta*. Ogni squadra deve percorrere la pista in un senso diverso, una in senso orario e l'altra in senso anti-orario. La prima squadra a trasportare la palla oltre la linea di meta vince. 
 
 È considerata una meta valida se la palla è trasportata al di là della linea di meta da uno dei giocatori della squadra. 
