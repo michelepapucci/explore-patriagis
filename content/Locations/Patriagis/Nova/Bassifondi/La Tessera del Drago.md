@@ -11,17 +11,22 @@ C'è un bancone al quale lavora una [[Mezzorchi|mezzorca]] di nome Helga, che 
 
 ## Giochi d'azzardo
 
-### [[Botte da Tessere]]
+### [[Lancio delle Tessere]]
+
+Si gioca sopra delle [[Botte da Tessere]]. 
+
 La scommessa massima è 50 m.o. e il prezzo per 5 round è di 1 m.o. per giocatore. 
 
 Per il regolamento del gioco vedere [[Lancio delle Tessere#Regolamento]]. 
 
 I round sono di 5 tiri. 
 
-### Rialzo
+### [[Rialzo]]
+
 Il costo del rialzo va da un minimo di 5 ad un massimo di 50 monete d'oro
 
-Il 20% delle monete sul tavolo spettano alla Bisca. Il resto viene dato al vincitore o diviso tra i vincitori se ci sono pareggi. 
+Il 20% delle monete sul tavolo spettano alla Bisca. Il resto viene dato al vincitore o diviso tra i vincitori se ci sono pareggi.
+
 Delle Mani magiche, dall'aspetto femminile raccolgono i soldi dal tavolo e li fanno cadere in un piccolo foro al centro del tavolo, che li deposita direttamente nelle casseforti di [[Cranxaxomor Spaccatessere||Cranxaxomor]].
 
 ### Corsa del Drago
