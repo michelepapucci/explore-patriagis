@@ -1,4 +1,7 @@
 
+> [!quote] Title
+> Contents
+
 ## Regolamento
 
 È un gioco da taverna per due giocatori, solitamente con una posta in palio.

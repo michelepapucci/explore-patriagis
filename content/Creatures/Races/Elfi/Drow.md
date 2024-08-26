@@ -1,1 +1,0 @@
-Sotto-classificazione degli [[Elfi]] dalla pelle scura. 

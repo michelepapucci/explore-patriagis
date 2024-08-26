@@ -1,1 +1,0 @@
-Funghi dalla biologia aliena, in grado di saltare nel [[Piano Etereo]]. Solitamente cacciano nella [[Selva Fatata]].

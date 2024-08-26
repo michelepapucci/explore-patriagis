@@ -5,11 +5,13 @@ Alcuni esempi sono gli Spiriti del Bosco al servizio di Driadi, o i Kelpie al se
 Durante il processo di trasformazione in spirito è comune che l’Anima Maggiore decida di far perdere la memoria alla creatura sul suo passato. Nonostante questo, solitamente lo spirito mantiene le capacità che aveva in vita, le conoscenze delle lingue, e l’allineamento.  Il rapporto tra l’Anima Maggiore e lo spirito può essere di varia natura, in alcuni casi è armonioso, e non c’è controllo o soggezione, in altri, specialmente nel caso di Anime di allineamento malvagio, spesso si soggioga l’anima del morto al proprio volere. 
 
 ## Spiriti all'avventura!
+
 Mentre l’Anima Maggiore, seppur più potente, è legata ad un luogo che è solitamente un territorio abbastanza piccolo, gli spiriti non lo sono. Questo fa sì che vengano impiegati per inviare messaggi, per spaventare o soggiogare gli insediamenti vicini, o per raccogliere doni.
 A volte però, l’Anima Maggiore può inviare lo spirito in missioni che richiedono più tempo o che sono geograficamente più lontane. 
 Inoltre, nel caso nel quale l’Anima Maggiore venisse distrutta, lo spirito sarebbe libero da ogni vincolo. Ci sono storie che girano su spiriti che, persa la loro casa, girovagano il mondo in cerca di uno scopo o dei propri ricordi. 
 
 ## Caratteristiche
+
 **Tipo di Creatura**: Sei un umanoide.
 **Età**: Lo spirito è tecnicamente immortale. Finché è vincolato ad un Anima Maggiore, essa può decidere di bandirlo o liberare la sua anima, altrimenti, è costretto a girovagare per il mondo finché non viene distrutto o finché non trova un modo di raggiungere il Piano Astrale. 
 **Taglia**: La tua taglia è media o piccola, secondo la taglia della creatura che era in vita. 

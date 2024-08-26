@@ -1,3 +1,7 @@
+---
+aliases:
+  - nanesco
+---
 ## Grammatica
 -en = genitivo sassone
 -t = plurale
