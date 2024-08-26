@@ -15,6 +15,8 @@ A parte l'eliminazione o la mutilazione permanente di un qualsiasi membro della 
 Quando un giocatore è in possesso della propria palla questa è considerata *equipaggiata*. La palla è considerata un'*arma improvvisata a distanza*. 
 La gittata è 18m/36m. 
 
+### Lanciare la Palla
+
 Il possessore della palla può usare una **Azione** per passare la palla ad un compagno bersaglio entro gittata. Il giocatore fa una prova di Destrezza (Acrobazia) o Forza (Atletica) con CD pari a 10. Il giocatore ha svantaggio se il tiro è nel range 18-36 metri. 
 
 Per ogni avversario entro 1.5m dalla traiettoria della palla, e per ogni attacco che il giocatore ha subito dall'inizio del suo turno, la CD aumenta di 3. 
@@ -48,3 +50,7 @@ Il Lancio della palla è considerato sia un *Tiro per Colpire* che una *Prova di
 > [!info] Esempio di Incantesimi per influenzare il Passaggio
 > Un giocatore può utilizzare *Ispirazione Bardica*, *Guida* o *Benedizione* per influenzare il lancio della palla positivamente, così com'è possibile utilizzare *Vicious Mockery* o *Silvery Barbs* per influenzarne negativamente il lancio. 
 
+
+# Partita
+
+All'inizio della partita, i giocatori di entrambe le squadre fanno un tiro di Iniziativa con Vantaggio.
