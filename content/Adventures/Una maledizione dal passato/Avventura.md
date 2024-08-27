@@ -229,7 +229,7 @@ In ogni caso, [[Merillë Ëarechil|Merillë]] non ha il sangue freddo per uccide
 
 > [!book] Cronaca sulla [[Battaglia del Crepuscolo]]
 > - I [[Linnor]] e gli [[Ëarwaith]] vivevano in pace nelle zone a nord-est di [[Tronh]], uno tra i boschi e uno sulla costa. 
-> - I [[Linnor]] volevano accesso alla costa per pescare e coltivare, ma gli fu negato, poiché secondo antichi accordi il loro diritto andava *dall'Alto Muro fin dove i boschi crescono*. Ma i Linnor contestavano che erano proprio gli [[Ëarwaith]] a impedire la crescita del bosco verso il mare, a causa delle loro coltivazioni.
+> - I [[Linnor]] volevano accesso alla costa per pescare, coltivare e commerciare ma gli fu negato, poiché secondo antichi accordi il loro diritto andava *dall'Alto Muro fin dove i boschi crescono*. Ma i Linnor contestavano che erano proprio gli [[Ëarwaith]] a impedire la crescita del bosco verso il mare, a causa delle loro coltivazioni.
 > - Durante una siccità i [[Linnor]] razziarono dei limitrofi campi degli [[Ëarwaith]] invitando questi ultimi a fare uso del loro amato mare per mangiare. 
 > - Gli [[Ëarwaith]] risposero appiccando alle fiamme alcuni boschi vicino ai campi, cercando di ottenere ancora più terreno per i campi. Purtroppo, a causa del vento e del caldo, il fuoco si spinse ben oltre i piani originali, raggiungendo i villaggi dei [[Linnor]], dove moltissimi perirono bruciati. 
 > - I [[Linnor]] si armarono in cerca di vendetta, e in notturna razziarono, devastarono e bruciarono i villaggi degli [[Ëarwaith]]. Molti dei loro villaggi su palafitte crollarono e solo pochi riuscirono a salvarsi via mare. 

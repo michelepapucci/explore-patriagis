@@ -1,5 +1,11 @@
-Gli spiriti di Patriagis sono creature non-morte, che nascono quando una creatura con un’anima muore nel raggio di influenza di un Anima Maggiore. 
-Quando questo accade, è abbastanza comune che l’Anima Maggiore, trasformi l’anima morente in uno spirito al suo servizio. 
+---
+aliases:
+  - Spirito
+tags:
+  - WIP
+---
+Gli Spiriti sono creature non-morte, che nascono quando una creatura con un’anima muore nel raggio di influenza di un [[Incarnazioni|Incarnazione]], che dona all'anima un nuovo corpo. 
+Quando questo accade, è abbastanza comune che l'[[Incarnazioni|Incarnazione]], sfrutti lo spirito come servitore o compagno. 
 
 Alcuni esempi sono gli Spiriti del Bosco al servizio di Driadi, o i Kelpie al servizio delle Nix. 
 Durante il processo di trasformazione in spirito è comune che l’Anima Maggiore decida di far perdere la memoria alla creatura sul suo passato. Nonostante questo, solitamente lo spirito mantiene le capacità che aveva in vita, le conoscenze delle lingue, e l’allineamento.  Il rapporto tra l’Anima Maggiore e lo spirito può essere di varia natura, in alcuni casi è armonioso, e non c’è controllo o soggezione, in altri, specialmente nel caso di Anime di allineamento malvagio, spesso si soggioga l’anima del morto al proprio volere. 

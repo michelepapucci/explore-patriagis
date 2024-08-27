@@ -13,8 +13,10 @@ Per i locali, l'acqua è alla base della loro società, infatti l'industria citt
 Talvolta capita che alcune persone, specialmente bambini, cadano nei pozzi. Una volta recuperato il corpo, si effettua un rituale particolare davanti al Pozzo Centrale della città, e si crede che le anime dei defunti diventino a loro volta degli spiriti dell'acqua.
 
 > [!not-known]- Spiriti dell'Acqua
-> Sotto Millepozzi è presente una bellissima caverna splendente i cui muri sono rivestiti di un'enorme vena di [[Lapisma]]. Questa, ha manifestato un [[Anime Maggiori|Anima Maggiore]] di nome [[Wai-Mea]]. È un gigantesco Axolotl Rosa, il cui corpo galleggia nuotando nell'aria. La creatura, per aiutare la popolazione di Millepozzi, ha incantato le vene di [[Lapisma]] della sua grotta con un Incantesimo di Creare o Distruggere Acqua, con la quale crea una enorme quantità di acqua potabile. Egli ha legati ha sé un buon numero di [[Spiriti]], dalle fattezze simili alle sue, ma più piccoli. [[Wai-Mea]] usa i suoi spiriti Axolotl per raccogliere le offerte che la popolazione fa lui durante le feste dedicate ai Pozzi e all'acqua, e li tiene di guardia vicino ai pozzi della città, per evitare cadute accidentali nei pozzi. 
-> [[Wai-Mea]] spreca gran parte della sua giornata e della sua vita a rinnovare gli incantesimi nelle vene di [[Lapisma]], specialmente in estate, quando il caldo prosciuga le riserve d'acqua delle falde acquifere sotto Millepozzi. 
+> Sotto Millepozzi è presente una bellissima caverna splendente i cui muri sono rivestiti di un'enorme vena di [[Lapisma]]. Questa, ha manifestato un [[Incarnazioni|Incarnazione]] di nome [[Wai-Mea]]. È un gigantesco Axolotl Rosa, il cui corpo galleggia nuotando nell'aria. 
+> La creatura, per aiutare la popolazione di [[Millepozzi]], ha incantato le vene di [[Lapisma]] della sua grotta con un Incantesimo di *Creare o Distruggere Acqua*, con la quale crea una enorme quantità di acqua potabile. Egli ha legati ha sé un buon numero di [[Spiriti]], dalle fattezze simili alle sue, ma più piccoli. 
+> [[Wai-Mea]] usa i suoi spiriti Axolotl per raccogliere le offerte che la popolazione fa lui durante le feste dedicate ai Pozzi e all'acqua, e li tiene di guardia vicino ai pozzi della città, per evitare cadute accidentali nei pozzi. 
+> [[Wai-Mea]] spreca gran parte della sua giornata e della sua vita a rinnovare gli incantesimi nelle vene di [[Lapisma]], specialmente in estate, quando il caldo prosciuga le riserve d'acqua delle falde acquifere sotto [[Millepozzi]]. 
 
 
 ![[Pasted image 20240528152108.png]]
