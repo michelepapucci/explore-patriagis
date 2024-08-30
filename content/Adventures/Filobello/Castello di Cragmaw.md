@@ -1,3 +1,2 @@
 *Crater Magicus*.
 
-Test chiusura.
