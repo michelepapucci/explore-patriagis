@@ -7,6 +7,17 @@ aliases:
 -t = plurale
 articoli e generi non esistenti
 
+## Presente
+### Verbi che finiscono in -aa
+| Persona | Verbo        | Comune          |
+|---------|--------------|-----------------|
+| mino    | loyta**n**   | Io trovo        |
+| sina    | loyta**t**   | Tu trovi        |
+| han     | loyta**u**   | Egli/Ella Trova |
+| me      | loyta**mme** | Noi Troviamo    |
+| te      | loyta**tte** | Voi Trovate     |
+| he      | loyta**vat** | Essi Trovano    
+
 ## Lessico
 Mostra le prime 10 parole in ordine alfabetico in base al risultato.
 

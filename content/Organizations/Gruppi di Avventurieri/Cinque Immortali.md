@@ -1,5 +1,7 @@
-DA FINIRE
-
+---
+tags:
+  - WIP
+---
 I cinque immortali sono considerati la prima banda di avventurieri di concezione moderna e classica. Comparirono nell'anno 333 in piena era d’oro dell’eroismo di Patriagis.  In quell'epoca, Patriagis viveva un clima teso: dalla città libera di [[Garoth-Mùk]] arrivavano orde di pirati a saccheggiare la costa est, a nord, sul’[[Alto Muro]], i [[Nani|nani]] di Patriagis erano costretti in battaglia contro le Arpie della regina Ocipete, mentre nelle città c’era gran fermento poiché si rimpiangeva la perduta indipendenza e si disprezzava la nuova monarchia. Questo clima di tensione e insicurezza, oggi viene ricordato con candore, grazie alle gesta di grandi persone, che sono rimaste nella storia.  
 
 Tra i più famosi di questi eroi, c’erano sicuramente i Cinque Immortali. 

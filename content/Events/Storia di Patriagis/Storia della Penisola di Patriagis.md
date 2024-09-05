@@ -125,11 +125,12 @@ La capitale del regno viene posta a [[Nova]], dove la famiglia reale risiede.
 
 ## 2
 <span data-date='2-10-24' data-name="Nascita di Romio I de Tullio"></span>
-Nasce [[Romio I]], il primo mezzelfo membro della famiglia reale [[Tullio]].
+Nasce [[Re Romio I dei Tullio]], il primo mezzelfo membro della famiglia reale [[Tullio]].
 
 
 ## 36
-Re [[Andúnië]] muore all'età di 672 anni; la moglie Regina [[Stella Larenzia]] abdica in favore del figlio Re [[Romio I]], primo Re mezzelfo della famiglia [[Tullio]].
+<span data-date='36' data-name="Un Nuovo Re"></span>
+Re [[Andúnië]] muore all'età di 672 anni; la moglie Regina [[Stella Larenzia]] abdica in favore del figlio Re [[Re Romio I dei Tullio]], primo Re mezzelfo della famiglia [[Tullio]].
 
 Questo viene socialmente considerato il vero punto di inizio del [[Regno di Patriagis]], che si lascia alle spalle il passato fatto di violenza razziale e abbraccia il futuro. Inoltre, le vecchie famiglie reali, rappresentate da [[Andúnië]] e da [[Stella Larenzia|Stella]], erano considerate ancorate al passato e non più rappresentative di una popolazione che aveva ormai abbracciato un vita non più legata a questioni di razza. 
 La popolazione di Patriagis infatti andando avanti di generazione in generazione è sempre più mezzelfa, sempre meno umana, e con poche migliaia di elfi purosangue ancora in vita. Le città sono fortemente diventate fortemente multiculturali e il razzismo è visto come un retaggio del passato.
@@ -141,14 +142,29 @@ Durante la formazione del [[Regno di Patriagis]], tutti i territori della peniso
 
 Il [[Regno di Ceneria]], [[Seormgrà]] la capitale dei [[Tiarna na Madraì|Tiarna]], [[Ta-Peara]] la città-perla dei Tritoni, capitale della [[Repubblica di Nén]], e molte altre con loro, si uniscono in un alleanza per chiedere pacificamente al [[Regno di Patriagis|Regno]], di lasciare i loro territori sulla penisola.
 
-L'alleanza, conosciuta come [[Popoli Liberi di Patriagis]], ottiene molti sostenitori anche tra gli abitanti del regno, che chiedono a gran voce a Re [[Romio I]] di lasciare ai popoli indigeni della penisola i loro territori ancestrali.
+L'alleanza, conosciuta come [[Popoli Liberi di Patriagis]], ottiene molti sostenitori anche tra gli abitanti del regno, che chiedono a gran voce a Re [[Re Romio I dei Tullio]] di lasciare ai popoli indigeni della penisola i loro territori ancestrali.
 
 Re Romio I annuncia quindi un consiglio speciale, dove il Re, i Sindaci di tutta Patriagis, e un rappresentante per ognuno di questi popoli tratteranno la questione.
 
 ## 41
-A seguito del [[Gran Consiglio Speciale per i Popoli Liberi]], Re [[Romio I]] annuncia che ai [[Popoli Liberi di Patriagis]] viene concessa la custodia dei territori del Regno nel quale hanno sempre abitato. Essi potranno abitare e trasformare il territorio a loro concesso a proprio piacimento. Il Regno si impegna anche a non usufruire di questi terreni, se non previo accordo. 
+A seguito del [[Gran Consiglio Speciale per i Popoli Liberi]], Re [[Re Romio I dei Tullio]] annuncia che ai [[Popoli Liberi di Patriagis]] viene concessa la custodia dei territori del Regno nel quale hanno sempre abitato. Essi potranno abitare e trasformare il territorio a loro concesso a proprio piacimento. Il Regno si impegna anche a non usufruire di questi terreni, se non previo accordo. 
 I cittadini dei Popoli Liberi sono inoltre riconosciuti come cittadini del [[Regno di Patriagis|Regno]]. A garanzia di rispetto della loro cultura, i villaggi e le città dei Popoli Liberi non devono rispettare la normale struttura dei [[Comune|comuni]] della nazione. Viene inoltre loro concessa rappresentanza presso il [[Regio Consiglio]].
 I cittadini e le città dei Popoli Liberi hanno però gli stessi doveri dei normali cittadini e dei comuni, tra i quali il pagamento delle tasse reali e l'obbligo di difesa del Regno in caso di necessità. 
 
 Inoltre, ogni popolo ha diritto ad un rappresentante presso il [[Popoli Liberi di Patriagis#Consiglio dei Popoli Liberi|Consiglio dei Popoli Liberi]], un organo specificatamente creato a garanzia del rispetto dell'accordo e che tratta materie di salvaguardia e sviluppo di questi popoli con sede a [[Nova]].
 
+## 70
+[[Re Romio I dei Tullio|Re Romio I]] sposa [[Filomena de Romolio|FIlomena]] e nasce la famiglia [[Romolio]]. 
+
+## 74
+Nasce [[Numio Ostilio I]], erede al trono di [[Patriagis]]. 
+
+## 112
+Muore la [[Filomena de Romolio|Regina Filomena]] in seguito ad un incidente in carrozza. 
+
+
+## 178
+Muore [[Re Romio I dei Tullio]] e il figlio [[Numio Ostilio I|Numio Ostilio]] diventa nuovo re del [[Regno di Patriagis]]. 
+
+## 621
+<span data-date='621-06-19' data-name="Scoperta del Lapisma"></span>
