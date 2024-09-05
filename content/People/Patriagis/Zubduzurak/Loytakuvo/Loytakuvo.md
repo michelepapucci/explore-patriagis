@@ -7,7 +7,7 @@ tags:
   - Zubduzurak
   - RegnoPatriagis
 ---
-Famiglia fondata da [[Torrvic Loytakuvo]]. In comune è conosciuta come la famiglia Trovapietre.
+Uno dei clan di [[Zubduzurak]]. In seguito alle scoperte riguardo il [[Lapisma|Jaretkuvo]] da parte di [[Torrvic Loytakuvo|Torrvic]], il [[Regno di Zubduzurak]] ricompensò [[Torrvic Loytakuvo|Torrvic]] rendendolo capo di un nuovo Clan fondato in suo onore. In comune è conosciuto come il clan Trovapietre.
 
 ___
 ***Etimologia***. Dal [[Nanesco]] *loytau* Trova (da Trovare), *kuvo* Pietra.

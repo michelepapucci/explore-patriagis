@@ -2,6 +2,7 @@
 aliases:
   - Jaretkuvo
   - Gondgûl
+  - Pietra Azzurra
 Nanesco: Jaretkuvo
 Elfico: Gondgûl
 tags:

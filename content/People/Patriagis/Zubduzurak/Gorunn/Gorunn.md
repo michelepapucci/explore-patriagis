@@ -1,1 +1,1 @@
-Clan di [[Nani]] originario di [[Zubduzurak]].
+Clan di Mercanti di [[Zubduzurak]].
