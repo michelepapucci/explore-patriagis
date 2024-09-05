@@ -12,7 +12,7 @@ Il Paese di Archealbero fu fondata intorno al -102 A.P. qualche decennio prima d
 Il piccolo insediamento sulle [[Pendici]] nacque come punto di sosta tra [[Nova]] e [[Filobello]], che facevano parte di una via commerciale che arrivava fino ad [[Arum]]. 
 Nonostante fosse tecnicamente parte del [[Regno dell'Ovest]], la città fu fin da subito abitata da persone che arrivavano sia da est che da ovest. 
 
-Archealbero è così chiamata, perché sorge intorno alle rovine di un enorme ed antico albero fatto di marmo. Intorno ad esso, diverse costruzioni gigante, ormai rase al suolo, costruivano un complesso di qualche tipo per la civiltà dei [[Nifilim]]. Data l'architettura, si pensa comunemente che fosse un luogo sacro.
+Archealbero è così chiamata, perché sorge intorno alle rovine di un enorme ed antico albero fatto di marmo conosciuto come [[Albero Bianco]]. Intorno ad esso, diverse costruzioni gigante, ormai rase al suolo, costruivano un complesso di qualche tipo per la civiltà dei [[Nifilim]]. Data l'architettura, si pensa comunemente che fosse un luogo sacro.
 
 Negli anni, la città ha riutilizzato le giganti pietre e marmi che componevano le rovine [[Nifilim]] per costruire la città. Solo l'antica statua di marmo, centrale alla città, che rappresenta un albero secco e senza foglie, è stata lasciata intonsa come fu trovata. 
 
