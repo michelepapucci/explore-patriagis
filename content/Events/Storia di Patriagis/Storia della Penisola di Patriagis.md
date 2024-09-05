@@ -169,3 +169,6 @@ Muore [[Re Romio I dei Tullio]] e il figlio [[Numio Ostilio I|Numio Ostilio]] di
 ## 622
 <span data-date='621-06-19' data-name="Scoperta del Lapisma"></span>
 Il ricercatore [[Torrvic Loytakuvo]] scopre ad [[Archealbero]] un frammento di [[Lapisma]] lavorato e, per la prima volta, riesce ad incantarlo. 
+
+## 667
+Il [[Falso Monte]], un antico e sopito vulcano situato nelle [[Pendici]], erutta improvvisamente, radendo al suolo [[Archealbero]] e incendiando per mesi i boschi intorno. 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - organizzazione
+  - Organizzazione
   - militare
   - Patriagis
   - RegnoPatriagis

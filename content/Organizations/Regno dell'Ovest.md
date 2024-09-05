@@ -1,6 +1,6 @@
 ---
 tags:
-  - nazione
+  - Nazione
   - Patriagis
   - RegnoOvest
 ---

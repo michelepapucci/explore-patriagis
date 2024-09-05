@@ -1,7 +1,7 @@
 ---
 tags:
-  - titolo
-  - amministrazione
+  - Titolo
+  - Amministrazione
   - Patriagis
   - RegnoPatriagis
 ---

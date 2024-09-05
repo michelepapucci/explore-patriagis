@@ -1,6 +1,6 @@
 ---
 tags:
-  - amministrazione
+  - Amministrazione
   - Patriagis
   - Nova
   - RegnoPatriagis

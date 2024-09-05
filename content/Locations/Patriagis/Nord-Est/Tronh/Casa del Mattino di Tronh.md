@@ -1,7 +1,7 @@
 ---
 tags:
   - edificio
-  - religione
+  - Religione
 aliases:
   - Santuario di Solis
 ---

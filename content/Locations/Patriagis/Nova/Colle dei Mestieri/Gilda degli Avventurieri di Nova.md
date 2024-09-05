@@ -1,6 +1,6 @@
 ---
 tags:
-  - organizzazione
+  - Organizzazione
   - WIP
 ---
 Sede della [[Gilda degli Avventurieri]] a [[Nova]]. 

@@ -1,0 +1,1 @@
+È uno dei Cinque Colli di [[Nova]]. Su di esso sono poste le sedi di diverse gilde e corporazioni, oltre che locande, taverne e mercati sulle sue scale. 

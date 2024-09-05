@@ -1,0 +1,1 @@
+Era la sede del [[Comune]] della città. È uno dei pochi edifici di cui è ancora possibile esplorare i resti dopo l'eruzione del [[Falso Monte]]. 
