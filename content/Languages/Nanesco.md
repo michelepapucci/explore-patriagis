@@ -2,6 +2,9 @@
 aliases:
   - nanesco
 ---
+La grammatica è ispirata principalmente al finlandese, così come molti dei lemmi. Altri arrivano da varie fonti tra cui Tolkien, altri ancora sono del tutto inventati.
+L'idea è creare una lingua agglutinante, che suoni dura e decisa. 
+
 ## Grammatica
 -en = genitivo sassone
 -t = plurale

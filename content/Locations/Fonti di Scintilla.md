@@ -1,0 +1,4 @@
+---
+aliases:
+  - Fonte di Scintilla
+---

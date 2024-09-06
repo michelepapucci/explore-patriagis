@@ -1,1 +1,1 @@
-Fu trovata dai 
+Fu trovata dai [[Cinque Immortali]]. 

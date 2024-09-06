@@ -13,12 +13,11 @@ I due [[Coboldi]] capirono che si trattava probabilmente del reperto nel miglior
 
 I due fratelli [[Yvun]] e [[Fildrit]] studiarono per mesi la creatura finché a [[Yvun]] non venne un'idea: il cadavere della creatura era in un così perfetto stato di conservazione che forse poteva addirittura essere rianimato. Un drago vivente, forse con le memorie di un passato così antico, avrebbe accresciuto la conoscenza sul passato di così tante informazioni. 
 
-Col benestare del fratello [[Yvun]] i primi giorni del [[11 - Hibernis|Hibernis]] lottò contro il freddo in una lunga camminata verso [[Malporto]]. Arrivò circa a metà mese per cercare di incontrare il rettore della [[Scuola di Specializzazione in Necromanzia di Malporto]]: 
+Col benestare del fratello [[Yvun]] i primi giorni del [[11 - Hibernis|Hibernis]] lottò contro il freddo in una lunga camminata verso [[Malporto]]. Arrivò circa a metà mese per cercare di incontrare il rettore della [[Scuola di Specializzazione in Necromanzia di Malporto]]: [[Klaus Jaskch]]. 
 
-Yvun e Fildrit, entrambi studiosi, rimasero estremamente affascinati dalla scoperta e passarono mesi a studiarlo, mentre, stufi, la maggior parte degli archeologi se ne andò. 
-Yvun, si recò da una vicina Banshee, alla quale offrì tutto l'oro che gli era rimasto in cambio di un libro di necromanzia. 
+[[Klaus Jaskch|Klaus]], schivo come sempre, rifiutò per settimane i tentativi di [[Yvun]] di contattarlo, finché questo non inviò una lettera sulla cui busta scrisse *TESCHIO DI DRAGO*. [[Klaus Jaskch|Klaus]], incuriosito, la lesse, scoprì le intenzioni di [[Yvun]], e accettò di incontrarlo. 
 
-Yvun e Fildrit si convinsero che era possibile ri-animare il drago, e diventarono totalmente catturati da questa idea. Gli archeologi rimasti, vennero catturati dalla curiosità e, con Yvun e Fildrit, fondarono un culto basato sull'immagine dragonica. Mentre Yvun e Fildrit lavoravano alla loro chimera, mandavano gli archeologi a raccogliere testi sulle leggende dragoniche o sulla necromanzia, e scoprirono, attraverso un clan di [[Dragonidi]] di Nova, che nella zona del vulcano, è presente una [[Fonti di Magia|Fonte di Magia]] dove il clan porta le proprie uova a schiudere. 
+Yvun e Fildrit si convinsero che era possibile ri-animare il drago, e diventarono totalmente catturati da questa idea. Gli archeologi rimasti, vennero catturati dalla curiosità e, con Yvun e Fildrit, fondarono un culto basato sull'immagine dragonica. Mentre Yvun e Fildrit lavoravano alla loro chimera, mandavano gli archeologi a raccogliere testi sulle leggende dragoniche o sulla necromanzia, e scoprirono, attraverso un clan di [[Dragonidi]] di Nova, che nella zona del vulcano, è presente una [[Fonti di Scintilla|Fonte di Scintilla]] dove il clan porta le proprie uova a schiudere. 
 [[Yvun]] e [[Fildrit]] videro questa cosa come un segno inequivocabile del fatto che lo scheletro era lì per un motivo e si era preservato così bene per un motivo ben preciso, ovvero che un giorno qualcuno sarebbe riuscito a riportarlo in vita. 
 
 Finirono la loro chimera e la riuscirono a resuscitare tramite un rituale, il problema è che era estremamente orrenda. Fildrit creò quindi un medaglione di camuffare sé stesso, in modo da far sembrare la chimera fatta di vari parte di animali, come un vero drago.
@@ -35,7 +34,7 @@ Il drago, chiamato Zanna Velenosa, è semi-cosciente e semi pazzo. Qualcosa di v
  >*Affidando a te queste parole, spero di aver aperto una via che porti beneficio a entrambi, senza compromettere l'integrità di ciò che è sacro per noi. Attendiamo conferma del tuo impegno e del trasferimento del compenso pattuito.* 
  >
  >*Con rispetto, e nella più stretta confidenza,*
- >*Zalthar Ghorzaan*
+ >*[[Zalthar Ghorzaan]]*
 
 
 > [!book] Diario di Fildrit
