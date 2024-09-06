@@ -8,5 +8,6 @@
 > - Chi si avvicina al boschetto, dice di vedere strane piante nell'ombra: tremendi rami che escono dal terreno, affilati come spade. 
 
 
-> [!not-known]- Segreto sul Boschetto
+> [!denied]- Segreto sul Boschetto
+>
 > È cresciuto sopra alla piana su cui fu combattuta la [[Battaglia del Crepuscolo]] ed è infestato dagli spiriti degli [[Elfi|elfi]] morti nella guerra. 

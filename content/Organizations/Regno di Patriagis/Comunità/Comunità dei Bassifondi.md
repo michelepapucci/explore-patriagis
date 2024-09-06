@@ -11,5 +11,6 @@ Essendo gli abitanti dei Bassifondi tutti solitamente estremamente poveri, in co
 
 L'idea della Comunità è di sopravvivere alla povertà insieme, creando una rete di sostegno dove la legge del [[Comune di Nova]] non arriva. Oltre alla sopravvivenza vera e propria, la Comunità protegge i propri membri, i propri negozi e i propri territori dagli attacchi, sia frontali sia sotto forma di sotterfugi che riceve costantemente dalle bande e dalle associazioni mafiose che controllano i bassifondi e che non vogliono che la speranza di una vita migliore divampi nei loro territori. 
 
-> [!not-known]- Informazioni non risapute
+> [!denied]- Informazioni non risapute
+>
 > La comunità è stata creata, ed è tutt'ora amministrata e protetta da una società segreta chiamata gli [[Artigli dell'Alba]]. 

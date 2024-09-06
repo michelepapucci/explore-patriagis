@@ -16,7 +16,7 @@ Klaus non sopporta che coloro che *studiano* la magia, come i Maghi, non siano i
 Klaus è l'autore dell'incantesimo [[Trasferimento Vitale di Klaus]], il primo che, usando la *necromanzia*, permette ai maghi di curare ferite altrui. 
 
 
-> [!not-known]- Identità
+> [!denied]- Identità
 > 
 > Klaus è un alter-ego di [[Aron|Aron, il Dottore]], uno dei [[Cinque Immortali]]. 
 

@@ -10,7 +10,8 @@ Limlug è il secondogenito della famiglia [[Ëarechil]], fratello di [[Mifanto �
 
 È sposato con [[Clarissa Versabirra]] e padre di [[Chalf Ëarechil]].
 
-> [!not-known]- Moglie e Figlio
+> [!denied]- Moglie e Figlio
+>
 > Né lui, né la moglie sono al corrente che facendo nascere [[Chalf Ëarechil]], hanno mescolato il sangue di due antiche famiglie e popoli rivali gli [[Ëarechil]] e gli [[Erynar]].  
 
 
