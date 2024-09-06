@@ -1,10 +1,15 @@
 
 TUTTO DA RIVEDERE
+## Storia
 
-Circa 60 anni fa Archealbero fu fondata su antiche rovine [[Nifilim]] allo scopo di estrarre [[Lapisma]] dagli artefatti del luogo. Divenne velocemente una piccola cittadina che viveva di spedizioni con la vicina [[Nova]], finché tragicamente, quella che si pensava essere una tranquilla montagna, nella cui valle sorgeva Archealbero, era in realtà un vulcano. 
-La sua eruzione fece molte vittime, e la città fu abbandonata.
+Qualche anno fa, un gruppo di archeologi guidati da due fratelli [[Coboldi]], [[Fildrit]] l'artificiere e [[Yvun]] il mago, decisero di partire alla volta delle [[Rovine di Archealbero]] per continuare quello che la [[Gilda degli Archeologi di Archealbero]] aveva iniziato anni prima quando [[Torrvic Loytakuvo]] scoprì il [[Lapisma]]. 
 
-Qualche anno fa, un gruppo di archeologi guidati da due fratelli [[Coboldi]], [[Fildrit]] l'artificiere e [[Yvun]] il mago, che durante i loro studi scoprirono la storia di Archealbero e decisero di tentare la fortuna cercando artefatti.
+Il gruppo di archeologi creò un campo base sfruttando le poche strutture ancora in piedi nella città e iniziò a scavare per mesi sotto la terra, la cenere e la roccia vulcanica, sperando di trovare artefatti [[Nifilim]]. 
+Nei mesi il morale pian piano iniziò ad abbassarsi perché non stava venendo fuori nulla di utile e molti membri del gruppo iniziarono a manifestare l'idea di andarsene. 
+
+Cambiò tutto quando, in pieno [[7 - Solsis|solsis]], riesumarono qualcosa di molto più antico: uno scheletro di [[Drago]]. Lo scheletro era sostanzialmente completo, come se la creatura si fosse appena decomposta, in più, molte delle sue scaglie erano ancora attaccate alle ossa. 
+
+I due [[Coboldi]] capirono che si trattava probabilmente del reperto nel miglior stato di conservazione mai trovato. 
 
 Arrivati, scavarono per mesi, ma non trovarono niente, finché uno degli archeologi non esumò dagli strati di terra e cenere, scavando alle estremità della valle, qualcosa di molto più antico: uno scheletro di [[drago]] in perfette condizioni di conservazione. 
 
