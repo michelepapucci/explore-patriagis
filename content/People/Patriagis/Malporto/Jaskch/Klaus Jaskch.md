@@ -19,6 +19,7 @@ Klaus è l'autore dell'incantesimo [[Trasferimento Vitale di Klaus]], il primo c
 > [!not-known]- Identità
 > 
 > Klaus è un alter-ego di [[Aron|Aron, il Dottore]], uno dei [[Cinque Immortali]]. 
-> 
+
+
 
 
