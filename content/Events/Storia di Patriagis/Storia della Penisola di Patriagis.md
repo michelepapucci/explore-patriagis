@@ -122,6 +122,7 @@ Inoltre, ogni questione che abbia a che fare con la magia, è delegata ad un min
 
 La capitale del regno viene posta a [[Nova]], dove la famiglia reale risiede. 
 
+Viene posto in legge il nuovo [[Calendario di Patriagis]] che pone all'anno zero proprio la fondazione del Regno.
 
 ## 2
 <span data-date='2-10-24' data-name="Nascita di Romio I de Tullio"></span>

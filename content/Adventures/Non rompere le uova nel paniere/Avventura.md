@@ -11,7 +11,9 @@ Cambiò tutto quando, in pieno [[7 - Solsis|solsis]], riesumarono qualcosa di mo
 
 I due [[Coboldi]] capirono che si trattava probabilmente del reperto nel miglior stato di conservazione mai trovato. 
 
-Arrivati, scavarono per mesi, ma non trovarono niente, finché uno degli archeologi non esumò dagli strati di terra e cenere, scavando alle estremità della valle, qualcosa di molto più antico: uno scheletro di [[drago]] in perfette condizioni di conservazione. 
+I due fratelli [[Yvun]] e [[Fildrit]] studiarono per mesi la creatura finché a [[Yvun]] non venne un'idea: il cadavere della creatura era in un così perfetto stato di conservazione che forse poteva addirittura essere rianimato. Un drago vivente, forse con le memorie di un passato così antico, avrebbe accresciuto la conoscenza sul passato di così tante informazioni. 
+
+Col benestare del fratello [[Yvun]] i primi giorni del [[11 - Hibernis|Hibernis]] lottò contro il freddo in una lunga camminata verso [[Malporto]]. Arrivò circa a metà mese per cercare di incontrare il rettore della [[Scuola di Specializzazione in Necromanzia di Malporto]]: 
 
 Yvun e Fildrit, entrambi studiosi, rimasero estremamente affascinati dalla scoperta e passarono mesi a studiarlo, mentre, stufi, la maggior parte degli archeologi se ne andò. 
 Yvun, si recò da una vicina Banshee, alla quale offrì tutto l'oro che gli era rimasto in cambio di un libro di necromanzia. 
