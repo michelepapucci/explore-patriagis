@@ -6,19 +6,28 @@ Esplorando Patriagis è un progetto personale di scrittura di un'ambientazione h
 L'ambientazione descrive la penisola di Patriagis e i suoi dintorni. La storia della penisola è riassunta nella pagina [[Storia della Penisola di Patriagis]], dove ci sono vari collegamenti a molti degli eventi, luoghi e personaggi chiave della storia dell'ambientazione.
 [[Nova]] è la capitale del [[Regno di Patriagis]], ed è una città ricca di spunti. 
 
-## To-Do
-- Creare una religione basata sul mare. 
-	- Creare il dio balena.
-	- Creare una serie di suoi servitori/semi dei, che sono adorati "localmente".
-	- Gli animali marini e i pesci acquatici sono suoi fedeli e "spie". Gli animali di mare sono a lui più fedeli e sono visti come più nobili nelle varie religioni legate ai suoi semidei.
-- ~~Trovare un nome migliore alle [[Incarnazioni|Anime Maggiori]], Incarnazioni?~~ 
-	- Sistemare gli [[Spiriti]] come uno dei sottotipi  possibili di [[Incarnazioni Minori|Incarnazione Minore]], ovvero quelle non create direttamente dalle Incarnazioni, ma quando un'Incarnazione lega a sé l'anima di un morto e gli da una forma. 
-- Finire [[L'origine]].
-- Capire il post-vita, eventuale presenza di angeli e demoni.
+# Ispirazioni per Patriagis
 
-## To-Do completati
-- ~~Allineare gli eventi in [[Battaglia del Crepuscolo]] con le cronache in [[Adventures/Una maledizione dal passato/Avventura#Casa Ëarechil]] e fare lo stesso anche con [[Storia della Penisola di Patriagis#-5800]].~~ 
-- ~~[[Limlug Ëarechil|Limlug]] ha studiato presso la [[Casa del Mattino di Tronh]] ma ha scelto di non entrare nel clero.~~
-- ~~[[Limlug Ëarechil|Limlug]] è un chierico della luce di terzo livello.~~
-- ~~Creare uno "*sport da stadio*" che sfrutti le regole del combattimento di D&D ma che non abbia come obbiettivo semplicemente eliminare gli avversari.~~ 
-- ~~Scrivere il [[Boschetto del Crepuscolo]], piccola descrizione della zona e del fatto che è dentro il [[Bosco di Tronh]].~~ 
+- Medioevo e Rinascimento Italiano, in particolare per [[Nova]] le città di Firenze e di Roma;
+- Mitologia latina e greca, ma anche miti pagani del territorio italiano; 
+- Letteratura medievale europea (italiana e germanica in particolare); 
+- Tolkien, Dungeons & Dragons (Forgotten Realms e Eberron);
+
+# Temi di Patriagis
+
+- Tecnologia vs Natura; 
+- Bene vs Male (In una maniera meno epica e più in scala di grigi);
+- Le persone sono formate dalle loro esperienze (Nessuno è cattivo a caso);
+- Mortalità; 
+- Eroismo e sacrificio come mezzo per un mondo migliore per tutti vs Potere, corruzione e individualismo; 
+- Lotta contro la decadenza sociale e culturale; 
+
+# Principi di Patriagis
+
+- Geografia e Topografia dettagliata;
+- Cronologia e Storia ben definite;
+- Numero di razze e società diverse, con costumi, tradizioni e lingue ben definite; 
+- Magia come il fuoco di Prometeo, qualcosa che ha cambiato tutto (e il [[Lapisma]] come secondo evento simile) nel bene e nel male. Qualcosa di rubato a qualcos'altro; 
+- Assenza di provvidenza e di divinità, le religioni sono puramente frutto e mezzo di tradizioni e cultura; 
+- Tutti sono artefici del proprio destino in un mondo che tende verso la decadenza. 
+
