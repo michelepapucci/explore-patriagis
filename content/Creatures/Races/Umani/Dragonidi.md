@@ -11,6 +11,7 @@ tags:
 Nifilim: Draconi-facti
 Elfico: Angonothlir
 Nanesco: Jarletzylum
+Età: Maturano in 15 anni. Vivono fino a circa 80 anni.
 ---
 I dragonidi sono creature misteriose e inconcepibili, le cui fattezze sono simili a quelle di antiche creature ormai estinte: i [[Drago|draghi]]. 
 Come queste creature siano comparse su [[Patriagis]] è un mistero. Tuttavia, ancora oggi, in eccezionali e rari casi, capita che da coppie di altri umanoidi, come [[Umani|umani]] o [[Mezzelfi|mezzelfi]], talvolta nasca un dragonide. 
