@@ -6,6 +6,7 @@
 	- Sistemare gli [[Spiriti]] come uno dei sottotipi  possibili di [[Incarnazioni Minori|Incarnazione Minore]], ovvero quelle non create direttamente dalle Incarnazioni, ma quando un'Incarnazione lega a sé l'anima di un morto e gli da una forma. 
 - Finire [[L'origine]].
 - Capire il post-vita, eventuale presenza di angeli e demoni.
+- Finire [[Adventures/Non rompere le uova nel paniere/Avventura|Avventura]];
 
 ## To-Do completati
 - ~~Allineare gli eventi in [[Battaglia del Crepuscolo]] con le cronache in [[Adventures/Una maledizione dal passato/Avventura#Casa Ëarechil]] e fare lo stesso anche con [[Storia della Penisola di Patriagis#-5800]].~~ 
@@ -13,4 +14,5 @@
 - ~~[[Limlug Ëarechil|Limlug]] è un chierico della luce di terzo livello.~~
 - ~~Creare uno "*sport da stadio*" che sfrutti le regole del combattimento di D&D ma che non abbia come obbiettivo semplicemente eliminare gli avversari.~~ 
 - ~~Scrivere il [[Boschetto del Crepuscolo]], piccola descrizione della zona e del fatto che è dentro il [[Bosco di Tronh]].~~ 
+- ~~Fixare il collapsable *not-known* (rinominato in denied);~~
 
