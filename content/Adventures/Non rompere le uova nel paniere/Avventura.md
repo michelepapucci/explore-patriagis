@@ -1,4 +1,5 @@
 
+
 ## Storia di [[Yvun]] e [[Fildrit]]
 
 Un anno fa, un gruppo di archeologi guidati da due fratelli [[Umani|umani]], [[Fildrit]] l'artificiere e [[Yvun]] il mago, decisero di partire alla volta delle [[Rovine di Archealbero]] per continuare quello che la [[Gilda degli Archeologi di Archealbero]] aveva iniziato anni prima quando [[Torrvic Loytakuvo]] scoprì il [[Lapisma]]. 
@@ -45,15 +46,13 @@ Il drago, chiamato *Zanna Velenosa*, se rianimato è semi-cosciente. Qualcosa di
 > 
  >*Come ben sai, in quanto parte del Consiglio degli Anziani, sono custode dei segreti del [[Clan Ghorzaan]] e possiedo quindi le informazioni che cerchi e per le quali hai offerto un grande compenso.*
  > 
- >*Contro il volere del mio clan, mi sento costretto ad accettare il tuo compenso e ti rivelerò quello che posso*: 
+ >*Contro il volere del mio clan, mi sento uno sciocco a rifiutare il tuo compenso in questo periodo così arido, e quindi ti rivelerò quello che posso*: 
  >*Ai piedi del [[Falso Monte]], in mezzo ai [[Pendici]], a nord di [[Filobello]] ma a sud della scomparsa [[Archealbero]], nascosto tra i vapori sulfurei e le rocce incandescenti, giace un luogo di potere antico come il tempo stesso. 
  >Là, nascosto tra i cunicoli del vulcano, la nostra gente ha scovato una [[Fonti di Scintilla|Fonte di Scintilla]] così pura e potente che da generazioni è in grado di far schiudere le nostre uova. Inutile dire che per noi questo luogo è sacro, poiché da esso dipende la continuazione della nostra stirpe e il mantenimento dei nostri poteri ancestrali.* 
  >
  >*Mai avrei rivelato ciò ad un estraneo, ma tu, [[Yvun]], sei stato nostro ospite, sei stato gradito, e i tuoi scopi sono, a mio giudizio, nobili*. 
  >
  >*Ti esorto, però, a considerare con la massima serietà la delicatezza di queste informazioni. Purtroppo, la posizione esatta di questa fonte, e il percorso sicuro attraverso le grotte vulcaniche, rimane un segreto che a nessun prezzo posso rivelare, poiché io accetto il tuo compenso per il bene del mio clan, ma nessun bene può venire dal mettere su carta il luogo della nostra schiusa. Nonostante questo, spero che queste informazioni approssimative siano a te gradite e sufficienti per i tuoi studi.*
- >
- >*Ti ringrazio ancora per il generoso compenso, che sosterrà le nostre genti per anni a venire.*
  >
  >*Affidando a te queste parole, spero di aver aperto una via che porti beneficio a entrambi, senza compromettere l'integrità di ciò che per noi è sacro.*
  >
