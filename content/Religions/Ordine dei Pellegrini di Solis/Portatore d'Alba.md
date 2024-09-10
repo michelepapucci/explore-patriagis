@@ -1,4 +1,4 @@
-Membro del clero della [[Chiesa di Solis]].
+Membro del clero dell'[[Ordine dei Pellegrini di Solis]].
 
 I Portatori d’alba vestono solitamente in semplici tuniche bianche con armature di pelle sotto alla tunica. È tipico anche avere qualche elemento di color oro, che risplenda sotto la luce del sole. 
 

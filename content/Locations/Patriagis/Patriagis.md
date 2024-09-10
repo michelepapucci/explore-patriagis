@@ -15,3 +15,6 @@ defaultZoom: 8
 unit: meters
 scale: 1
 ```
+
+## Mappa Statica
+![[Mappa del Centro.png]]

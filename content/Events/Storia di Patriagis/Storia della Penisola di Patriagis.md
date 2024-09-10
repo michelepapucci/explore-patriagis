@@ -39,9 +39,11 @@ timeline
 <span data-date='-9000' data-name='Primi Insediamenti'></span>
 In questo periodo la penisola è popolata da insediamenti che vanno dai villaggi a città-stato, perlopiù razziali, spesso arroccate intorno a rovine [[Nifilim]], che forniscono supporto e riparo alle città. 
 
+
 ## -6000
 <span data-date='-6000' data-name='Crescita'></span>
 In questo periodo città umane ed elfiche raggiungono uno sviluppo e un'estensione non indifferente. Le altre razze sono solitamente accettate, seppur non ben viste, da entrambi i popoli. Iniziano anche delle vere e proprie guerre territoriali, che rendono difficile ricostruire i confini dell'epoca.
+
 
 ## -5800
 <span data-date='-5800' data-name='Battaglia del Crepuscolo'></span>
@@ -52,16 +54,19 @@ A Nord-Est di Patriagis, vicino a dove ora sorge la città di [[Tronh]], avviene
 <span data-date='-5700' data-name='Fondazione di Zubduzurak'></span>
 In questo stesso periodo, i Nani che vivono nel nord-ovest della penisola fondano [[Zubduzurak]], la prima città dei Signori dei Picchi, che preso si allargherà e colonizzerà i migliori picchi dell'Alto Muro. 
 
+
 ## -5500
 <span data-date='-5500' data-name="Fondazione Regno dell'Alba e dell'Ovest"></span>
 Dopo la fine della Battaglia del Crepuscolo, gli elfi della parte est di Patriagis, dai [[Pendici]], fino al [[Mare Stretto]], fondano un enorme regno chiamato [[Regno dell’Alba]], o *Aranië*, in elfico. 
 
 Spinti dalla paura del nuovo e portentoso regno elfico a est, gli umani delle città a ovest dei Pendici, si unificano sotto il [[Regno dell'Ovest]].
 
+
 ## -3000
 <span data-date='-3000' data-name="Studio della Magia"></span>
 Fino a questo periodo, la magia era usata in maniera istintiva da individui capaci di connettersi naturalmente alla [[Scintilla]]. Stregoni, Bardi, Druidi e Chierici erano visti come fattucchieri dotati di potere, e spesso, specialmente nelle parti più rurali della penisola, visti come profeti o messia. 
 Intorno a questo anno però, si inizia a comprendere meglio il funzionamento della magia e della trama, e inizia a venire usata per scopi civili e militari.
+
 
 ## -900
 <span data-date='-900' data-name="Inizio della Guerra"></span>
@@ -69,20 +74,46 @@ Il [[Regno dell’Alba]] e il [[Regno dell'Ovest]] entrano in uno stato di guerr
 
 La guerra prosegue per più di 300 anni e stanca velocemente entrambi i popoli, ciononostante le famiglie reali dei regni non sembrano voler firmare un armistizio. 
 
+
+## - 641
+
+> [!denied]- Segreto
+> [[Baldeus Romolio]] trova il Guardingo e lo porta a [[Nova]]. Ottiene il permesso da re [[Ancoria Larenzia]] del [[Regno dell'Ovest]] di sperimentare con la creatura.
+
+
 ## -642
 <span data-date='-642' data-name="Febbre Indaco"></span>
 In questo anno colpisce la penisola la terribile [[Febbre Indaco]]. L'epidemia divaga velocemente dal [[Regno dell'Ovest]] al [[Regno dell’Alba]], sterminando decine di migliaia di persone. 
 
 I nani di [[Zubduzurak]] riescono, grazie alla loro posizione e a una repentina chiusura dei loro contatti con il mondo esterno, ad uscire illesi dall'epidemia.
 
-In questo periodo nasce il culto di [[Solis]], formalizzato poi nella [[Chiesa di Solis]]. Nello stesso periodo, nasce anche il [[Dogma]], una delle religioni più influenti della penisola.
+Una giovani halfling, che verrà chiamata [[Solis]], parte dalle campagne intorno a [[Thurii]] ispirata dalla luce divina del Sole, e inizia un pellegrinaggio per [[Patriagis]] per guarire i malati dalla [[Febbre Indaco]]. [[Solis]] fedele al Sole e alla sua luce, porta giovamento a molti malati e raduna centinaia di pellegrini che ispirati dalle sue gesta imparano miracolosamente a guarire i feriti come lei. 
 
+
+## -641
+<span data-date='-630' data-name="Morte del Re dell'Ovest e nascita del Dogma"></span>
+Re [[Ancoria Larenzia]] muore a causa della [[Febbre Indaco]].
+Nello stesso periodo, si forma un nucleo di maghi e oratori che formano il primo nucleo del [[Dogma]], una delle religioni più influenti della penisola, a [[Nova]]. Gli oratori del [[Dogma]] producono medicine e le distribuiscono alla popolazione nel tentativo di salvare più persone possibili dalla pestilenza. 
+
+
+## - 640
+<span data-date='-630' data-name="Riforma del Dogma"></span>
+Muore [[Baldeus Romolio]] a causa della [[Febbre Indaco]].
+Il [[Dogma]] diventa una Chiesa fortemente gerarchica con l'elezione di [[Anastasio Dono]], primo [[Arcipio]] del [[Dogma]]. Nasce il Braccio Armato della chiesa: [[Spargiossa]], [[Incutipaura]], [[Tenente Mitrato|Tenenti Mitrati]] e viene nominato il primo [[Capo Maggiore del Braccio Armato del Dogma]]. 
+Lo stesso anno viene anche strutturata la parte più divulgativa e assistenziale del dogma in un ordine più rigoroso e con dei dettami precisi: [[Oratore|Oratori]] e [[Pio|Pii]].
+
+
+## - 630
 <span data-date='-630' data-name="Crollo dei Regni"></span>
 Durante la pestilenza, sia il Regno dell'Ovest che quello dell'Alba, iniziano a frammentarsi e dividersi internamente. Ogni villaggio e città pensa a sé stesso, creando tante piccole città stato.
 
 A Est dei Pendici, nel Regno dell'Alba la situazione è particolarmente tragica: la popolazione elfica, che non si è mai ripresa dalla [[Battaglia del Crepuscolo]] a causa della lentezza con la quale si riproduce, è decimata dalla guerra e dalla pestilenza ed è ridotta a una decina di migliaia di individui. 
 
-Molte delle città elfiche del regno vengono abbandonate, e l'unico centro abitato ancora di dimensioni notevoli è [[Arum]], capitale del Regno dell'Alba. 
+Molte delle città elfiche del regno vengono abbandonate, e l'unico centro abitato ancora di dimensioni notevoli è [[Arum]], capitale del [[Regno dell’Alba|Aranië]].
+
+## -628
+Muore, a causa della [[Febbre Indaco]], [[Solis]].
+I suoi pellegrini aprono le prime [[Casa del Mattino|Case del Mattino]] e nasce l'[[Ordine dei Pellegrini di Solis]].
 
 ## -400
 <span data-date='-400' data-name="Crescita della popolazione Mezzelfa"></span>
@@ -97,6 +128,7 @@ Nel giro di tre generazioni, la demografia di queste città cambia:
 <span data-date='-240' data-name="Arum è a maggioranza mezzelfa"></span>
 Persino la capitale del [[Regno dell’Alba]], [[Arum]], intorno al -240 è a maggioranza mezzelfa. 
 
+
 ## -200
 <span data-date='-200' data-name="Fine ufficiale della Guerra"></span>
 In questi anni, i nani di [[Zubduzurak]] fanno forte pressioni alle famiglie reali del [[Regno dell’Alba]] e del [[Regno dell'Ovest]] per porre fine ufficialmente alla [[Guerra dei due Regni]], che comunque non viene più seriamente combattuta dal almeno 400 anni. 
@@ -105,10 +137,12 @@ I nani vogliono una Patriagis unita sotto un'unica nazione: nuove sfide arrivano
 
 Ci vorranno comunque quasi 120 anni di trattative prima di ottenere un accordo che metta d'accordo tutte le città stato e le famiglie reali di Patragis coinvolte. 
 
+
 ## -80
 <span data-date='-80' data-name="Firma della Pace"></span>
 Il [[Regno dell’Alba]] e il [[Regno dell'Ovest]] firmano la pace, dando fine alla [[Guerra dei due Regni]]. 
 Iniziano subito le trattative per la formazione di un unico Regno, che rappresenti tutta Patriagis. 
+
 
 ## 0
 <span data-date='0-6-17' data-name="Fondazione del Regno di Patriagis"></span>
@@ -124,6 +158,7 @@ La capitale del regno viene posta a [[Nova]], dove la famiglia reale risiede.
 
 Viene posto in legge il nuovo [[Calendario di Patriagis]] che pone all'anno zero proprio la fondazione del Regno.
 
+
 ## 2
 <span data-date='2-10-24' data-name="Nascita di Romio I de Tullio"></span>
 Nasce [[Re Romio I dei Tullio]], il primo mezzelfo membro della famiglia reale [[Tullio]].
@@ -136,6 +171,7 @@ Re [[Andúnië]] muore all'età di 672 anni; la moglie Regina [[Stella Larenzia]
 Questo viene socialmente considerato il vero punto di inizio del [[Regno di Patriagis]], che si lascia alle spalle il passato fatto di violenza razziale e abbraccia il futuro. Inoltre, le vecchie famiglie reali, rappresentate da [[Andúnië]] e da [[Stella Larenzia|Stella]], erano considerate ancorate al passato e non più rappresentative di una popolazione che aveva ormai abbracciato un vita non più legata a questioni di razza. 
 La popolazione di Patriagis infatti andando avanti di generazione in generazione è sempre più mezzelfa, sempre meno umana, e con poche migliaia di elfi purosangue ancora in vita. Le città sono fortemente diventate fortemente multiculturali e il razzismo è visto come un retaggio del passato.
 
+
 ## 40
 È in questo clima che vari popoli come i [[Tiarna na Madraì]] e i [[Tritoni]], decidono di far sentire la loro voce.
 
@@ -147,6 +183,7 @@ L'alleanza, conosciuta come [[Popoli Liberi di Patriagis]], ottiene molti sosten
 
 Re Romio I annuncia quindi un consiglio speciale, dove il Re, i Sindaci di tutta Patriagis, e un rappresentante per ognuno di questi popoli tratteranno la questione.
 
+
 ## 41
 A seguito del [[Gran Consiglio Speciale per i Popoli Liberi]], Re [[Re Romio I dei Tullio]] annuncia che ai [[Popoli Liberi di Patriagis]] viene concessa la custodia dei territori del Regno nel quale hanno sempre abitato. Essi potranno abitare e trasformare il territorio a loro concesso a proprio piacimento. Il Regno si impegna anche a non usufruire di questi terreni, se non previo accordo. 
 I cittadini dei Popoli Liberi sono inoltre riconosciuti come cittadini del [[Regno di Patriagis|Regno]]. A garanzia di rispetto della loro cultura, i villaggi e le città dei Popoli Liberi non devono rispettare la normale struttura dei [[Comune|comuni]] della nazione. Viene inoltre loro concessa rappresentanza presso il [[Regio Consiglio]].
@@ -154,11 +191,14 @@ I cittadini e le città dei Popoli Liberi hanno però gli stessi doveri dei norm
 
 Inoltre, ogni popolo ha diritto ad un rappresentante presso il [[Popoli Liberi di Patriagis#Consiglio dei Popoli Liberi|Consiglio dei Popoli Liberi]], un organo specificatamente creato a garanzia del rispetto dell'accordo e che tratta materie di salvaguardia e sviluppo di questi popoli con sede a [[Nova]].
 
+
 ## 70
 [[Re Romio I dei Tullio|Re Romio I]] sposa [[Filomena de Romolio|FIlomena]] e nasce la famiglia [[Romolio]]. 
 
+
 ## 74
 Nasce [[Numio Ostilio I]], erede al trono di [[Patriagis]]. 
+
 
 ## 112
 Muore la [[Filomena de Romolio|Regina Filomena]] in seguito ad un incidente in carrozza. 
@@ -167,9 +207,11 @@ Muore la [[Filomena de Romolio|Regina Filomena]] in seguito ad un incidente in c
 ## 178
 Muore [[Re Romio I dei Tullio]] e il figlio [[Numio Ostilio I|Numio Ostilio]] diventa nuovo re del [[Regno di Patriagis]]. 
 
+
 ## 622
 <span data-date='621-06-19' data-name="Scoperta del Lapisma"></span>
 Il ricercatore [[Torrvic Loytakuvo]] scopre ad [[Archealbero]] un frammento di [[Lapisma]] lavorato e, per la prima volta, riesce ad incantarlo. 
+
 
 ## 667
 Il [[Falso Monte]], un antico e sopito vulcano situato nelle [[Pendici]], erutta improvvisamente, radendo al suolo [[Archealbero]] e incendiando per mesi i boschi intorno. 

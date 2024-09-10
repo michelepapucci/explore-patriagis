@@ -3,8 +3,11 @@ aliases:
   - tiarna
   - Tiarna
   - Signori dei Cani
+  - Draugdor
+Comune: Signori dei Cani
+Elfico: Draugdor
 ---
-
+ 
 I Tiarna na madraí sono un popolo discendente dagli gnomi delle foreste. Prima ancora della formazione degli antichi regni di Patriagis, il popolo abitava le valli erbose e le colline del centro della penisola. Esperti cacciatori e agricoltori, i Signori dei cani, così conosciuti nella lingua comune, prendono questo nome dalla loro soprannaturale condivisione della vita con le bestie che da secoli e secoli convivono con loro, i [[Madranam]]. 
 
 Vivono la vita secondo le loro antiche tradizioni, in villaggi di legno e pietre. Ogni Villaggio è composto da un o più clan familiari i cui capofamiglia eleggono un capo villaggio. I capi villaggio dei Tiarna eleggono il loro re, che è una carica che dura a vita.. 
@@ -52,3 +55,6 @@ Fin da sempre quindi la loro società si è scontrata sia con il regno di Patria
 - Se il tuo Madranam è soggetto ad un effetto che gli farebbe prendere metà del danno se supera un tiro salvezza su destrezza, prende invece zero danni se lo supera e solo metà danni se fallisce.   
  **Parlare con le creature**. Attraverso suoni e gesti puoi comunicare semplici idee con creature piccole o più piccole. Inoltre sei in grado di comunicare completamente con un Madranam e di comprendere i suoi pensieri e le sue idee.   
 **Linguaggi**. Parli comune, Gaelgem e un linguaggio a scelta.   
+
+---
+***Etimologia***. Dal Sindarin. [*Draug*](https://www.elfdict.com/wt/513430) Cane / Lupo + [*-dor*](https://www.elfdict.com/wt/513338) Signore / Re

@@ -9,9 +9,11 @@ L'ambientazione descrive la penisola di Patriagis e i suoi dintorni. La storia d
 # Ispirazioni per Patriagis
 
 - Medioevo e Rinascimento Italiano, in particolare per [[Nova]] le città di Firenze e di Roma;
+- La geografia della penisola di [[Patriagis]] è ispirata a quella della penisola italiana;
 - Mitologia latina e greca, ma anche miti pagani del territorio italiano; 
 - Letteratura medievale europea (italiana e germanica in particolare); 
 - Tolkien, Dungeons & Dragons (Forgotten Realms e Eberron);
+- Per i [[Nifilim]] e il loro rapporto con *Benevolicui* e gli altri cinque *Heathens* - Aurora. 
 
 # Temi di Patriagis
 
