@@ -1,3 +1,5 @@
+Baldeus Romolio è stato un mago nato nel, morto nel [[Storia della Penisola di Patriagis#-640|640]] A.P.
+È stato un grande esperto di creature magiche. 
 
 
 ---
