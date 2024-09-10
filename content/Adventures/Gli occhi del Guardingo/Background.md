@@ -1,7 +1,7 @@
 Il [[Dogma]] si basa sul potere che ha ottenuto durante la [[Febbre Indaco]].
 
 La [[Febbre Indaco]] fu causata, involontariamente, dal fondatore del [[Dogma]].
-[[Baldeus Romolio]] ~~un nobile vicino alla famiglia reale [[Larenzia]] del [[Regno dell'Ovest]]~~, era un potente mago e appassionato studioso delle creature magiche di [[Patriagis]]. 
+[[Baldeus Romolio]] un nobile vicino alla famiglia reale [[Larenzia]] del [[Regno dell'Ovest]] (DA RIVEDERE),  era un potente mago e appassionato studioso delle creature magiche di [[Patriagis]]. 
 
 Durante una spedizione militare lui e il suo gruppo scoprirono, vicino [[Filobello]], a est dei [[Pendici]], un villaggio abbandonato dove, al di sotto, era stato costruita un'enorme rete di cunicoli. Esplorandoli, scoprì un mostro sconosciuto che vi abitava all'interno, una creatura malvagia, egocentrica, e paranoica: un Guardingo. 
 
