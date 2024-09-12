@@ -7,6 +7,7 @@
 - Finire [[L'origine]].
 - Capire il post-vita, eventuale presenza di angeli e demoni.
 - Finire [[Adventures/Non rompere le uova nel paniere/Avventura|Avventura]];
+- Creare un popolo di [[Halfling]] o [[Gnomi]] o similare. Abitano a sud di [[Millepozzi]]. Geograficamente ispirati ai paesi tipo Putignano, Civita di Bagnoregio, arroccati sul Tufo. Storicamente parte del [[Regno dell'Ovest]]. Non fortemente bellicosi, ma ottimi a difendersi. 
 
 ## To-Do completati
 - ~~Allineare gli eventi in [[Battaglia del Crepuscolo]] con le cronache in [[Adventures/Una maledizione dal passato/Avventura#Casa Ëarechil]] e fare lo stesso anche con [[Storia della Penisola di Patriagis#-5800]].~~ 
