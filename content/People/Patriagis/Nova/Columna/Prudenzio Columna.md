@@ -1,4 +1,4 @@
-Padre di [[Dankan Columna|Dankan]]. 
+Padre di [[Daikan Columna|Daikan]]. 
 
 ---
 Un classico nobile stronzetto a cui interessano i vaini e la fama. 

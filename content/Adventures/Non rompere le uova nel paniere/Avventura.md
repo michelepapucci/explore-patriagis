@@ -8,7 +8,7 @@
 > Mentre la mente divagava, le vostre gambe raggiungono la cima, dove un antico tempio [[Nifilim]] vi accoglie. Rimane poco dell'aspetto originale: il marmo del tempio è schiacciato da soppalchi e casupole in legno e mattone, che, seppur raffinati, sono come dei tumori attaccati alle sue superfici. Il pavimento, le pareti e persino il soffitto sono costernati da una bolgia di gilde e corporazioni i cui edifici sono ammassati vicini l'uno all'altro o collegati su più livelli da ponti e passerelle. In questo caos di edifici e persone che corrono indaffarate, sorge un luogo a voi caro e familiare: il [[Il Riposo del Macaco|Riposo del Macaco]] sede della [[Gilda degli Avventurieri di Nova]], capeggiata dal vostro capo e amico [[Zaldak Versabirra]]*. 
 
 Il gruppo entra nella locanda e assiste ad una lite tra due gruppi di avventurieri che si stanno facendo un nome di recente: gli [[Squarciaviverne]] e i [[Fendisquame]]. In particolare, [[Gaius de Romolio]] appartenente alla prima squadra ha di nuovo insultato la famiglia di [[Gontràn de Larcher]] appartenente all'altra. 
-A dividerli c'è [[Dankan Columna|Dankan]], uno dei fondatori dell'[[Orda d'Argento]], il più famoso e importante gruppo di avventurieri della nazione. 
+A dividerli c'è [[Daikan Columna|Daikan]], uno dei fondatori dell'[[Orda d'Argento]], il più famoso e importante gruppo di avventurieri della nazione. 
 
 ## Storia di [[Yvun]] e [[Fildrit]]
 
