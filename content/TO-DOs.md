@@ -1,3 +1,8 @@
+
+## To-Do [[Adventures/Non rompere le uova nel paniere/Avventura|Avventura]]
+
+
+## To-Do
 - Creare una religione basata sul mare. 
 	- Creare il dio balena.
 	- Creare una serie di suoi servitori/semi dei, che sono adorati "localmente".
@@ -8,6 +13,9 @@
 - Capire il post-vita, eventuale presenza di angeli e demoni.
 - Finire [[Adventures/Non rompere le uova nel paniere/Avventura|Avventura]];
 - Creare un popolo di [[Halfling]] o [[Gnomi]] o similare. Abitano a sud di [[Millepozzi]]. Geograficamente ispirati ai paesi tipo Putignano, Civita di Bagnoregio, arroccati sul Tufo. Storicamente parte del [[Regno dell'Ovest]]. Non fortemente bellicosi, ma ottimi a difendersi. 
+- Creare un popolo / famiglia / qualcosa di cavalca viverne. Hanno creato infrastrutture in tutta [[Patriagis]]. Perché? Dominano le viverne e altre creature col potere della loro voce. 
+
+
 
 ## To-Do completati
 - ~~Allineare gli eventi in [[Battaglia del Crepuscolo]] con le cronache in [[Adventures/Una maledizione dal passato/Avventura#Casa Ëarechil]] e fare lo stesso anche con [[Storia della Penisola di Patriagis#-5800]].~~ 
@@ -16,4 +24,7 @@
 - ~~Creare uno "*sport da stadio*" che sfrutti le regole del combattimento di D&D ma che non abbia come obbiettivo semplicemente eliminare gli avversari.~~ 
 - ~~Scrivere il [[Boschetto del Crepuscolo]], piccola descrizione della zona e del fatto che è dentro il [[Bosco di Tronh]].~~ 
 - ~~Fixare il collapsable *not-known* (rinominato in denied);~~
+- ~~Finire Background di [[Yvun]] e [[Fildrit]].~~
+- ~~Finire [[Adventures/Non rompere le uova nel paniere/Avventura|Avventura]].~~
+- ~~Disegnare mappa dungeon delle caverne del [[Falso Monte]].~~ 
 

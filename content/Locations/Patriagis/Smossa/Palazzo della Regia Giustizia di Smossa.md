@@ -1,0 +1,1 @@
+Palazzo dove avvengono i processi a [[Smossa]]. È anche la sede amministrativa della [[Guardia Cittadina]] e ha delle piccole segrete che fungono da prigione temporanea.
