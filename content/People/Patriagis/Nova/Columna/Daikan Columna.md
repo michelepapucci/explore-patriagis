@@ -8,6 +8,7 @@ Classe: Mago
 Livello: "7"
 Multiclasse: Monaco
 Livello Multiclasse: "3"
+Razza: "[[Mezzelfi|Mezzelfo]]"
 ---
 ![[Pasted image 20240912160336.png]]
 

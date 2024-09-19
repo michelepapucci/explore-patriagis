@@ -12,6 +12,11 @@
 - Creare un popolo / famiglia / qualcosa di cavalca viverne. Hanno creato infrastrutture in tutta [[Patriagis]]. Perché? Dominano le viverne e altre creature col potere della loro voce. 
 - [[Ordine dei Cavalieri di Romio]] hanno dentro l'elité delle [[Guardia Cittadina]] e anche del popolo di sopra.
 - Creare e definire meccanicamente degli oggetti a base di [[Lapisma]]. Dato che hanno un numero di usi limitati, creare anche dei servizi (con relativi costi) di ricarica di questi oggetti. 
+- Rendere più definito il conflitto di forze all'interno di [[Nova]]. Creare altre famiglie nobili con milizie. Definire bene i numeri, ad esempio in [[Columna]] è 100 persone poco o tanto? Capire con fonti storiche fiorentine e rapportarle alla popolazione di [[Nova]]. Famiglie nobili di Nova che potrebbero avere un esercito: 
+	- [[Romolio]]
+	- [[Columna]]
+	- [[de Larcher]]
+	- [[Viaferri]]
 
 
 ## To-Do completati

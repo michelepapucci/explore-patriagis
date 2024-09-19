@@ -1,3 +1,8 @@
+---
+Razza: "[[Mezzelfi|Mezzelfo]]"
+tags:
+  - WIP
+---
 Padre di [[Daikan Columna|Daikan]]. 
 
 ---

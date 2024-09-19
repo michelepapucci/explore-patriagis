@@ -1,0 +1,1 @@
+Famiglia nobile di [[Nova]]. È la proprietaria della [[Viaferri Trasporti]], l'azienda che controlla la maggior parte dei mezzi di trasporto di [[Patriagis]]. 
