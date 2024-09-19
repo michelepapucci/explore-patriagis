@@ -77,23 +77,44 @@ Se una delle creature viene uccisa, le altre fuggono.
 
 ## Arrivo a [[Smossa]] e Interrogatorio
 
-La [[Guardia Cittadina]] di [[Smossa]] sta tenendo [[Zalthar Ghorzaan]] in custodia presso il [[Palazzo della Regia Giustizia di Smossa]]. 
-Il gruppo viene accolto da una guardia di nome *Pigano* che riconosce il gruppo grazie alle loro spille. 
-Il soldato accompagna il gruppo al Palazzo dove vengono lasciati da soli in una stanza con [[Zalthar Ghorzaan|Zalthar]]. Questo è un anziano dragonide dalle scaglie verdi, è ormai ingobbito per l'età e veste con un mantello elegante ma semplice. Sul petto porta una spilla di ferro, che rappresenta una zampa da rettile, con quattro artigli incisa su una moneta. 
+La [[Guardia Cittadina]] di [[Smossa]] sta tenendo [[Zalthar Ghorzaan]] in custodia presso il [[Palazzo della Regia Giustizia di Smossa]]. Il gruppo viene accolto alla banchina nella zona sud di [[Smossa]] da una guardia di nome *Pigano* che riconosce il gruppo grazie alle loro spille. 
+Il soldato accompagna il gruppo al Palazzo dove, entrati in un piccolo sotterraneo, vengono lasciati da soli in una stanza con [[Zalthar Ghorzaan|Zalthar]]. Questo è un anziano dragonide dalle scaglie verdi, è ormai ingobbito per l'età e veste con un mantello elegante ma semplice. 
+Sul petto porta una spilla di ferro, che rappresenta una zampa da rettile, con quattro artigli incisa su una moneta. Con una CD 15 in Intelligenza (Storia), con vantaggio se il personaggio è cresciuto a [[Smossa]] o ha passato qui del tempo sostanzioso, è possibile riconoscere la spilla come simbolo del [[Clan Ghorzaan]]:
 
-[[Zalthar Ghorzaan|Zalthar]] chiede al gruppo se sono complici di chi ha ordinato questa sua illegale reclusione. Nonostante si presenti come una persona furba e saggia è anche estremamente conviviale e parla di ciò che ha fatto senza problemi:
+> [!quote] Spilla Ghorzaan
+> *La spilla sul petto di [[Zalthar Ghorzaan|Zalthar]] è composta da una moneta d'argento, sulla quale sono incise delle zampe da rettile. Con tutta probabilità si tratta del simbolo che identifica i membri del [[Clan Ghorzaan]], famosi mercanti della zona.* 
+
+[[Zalthar Ghorzaan|Zalthar]] è restio a parlare e inizia attaccando il gruppo chiedendo loro se sono complici di chi ha ordinato questa sua illegale reclusione. Nonostante svii la conversazione se si parla della *vere* motivazioni della lettera, [[Zalthar Ghorzaan|Zalthar]] si dimostra collaborativo, seppur sempre con un tono sarcastico. È disposto a condividere queste informazioni ed è tranquillo nel parlare delle azioni da lui commesse:
 - [[Zalthar Ghorzaan|Zalthar]] è stato contattato da [[Yvun]], un umano che, insieme al gemello, ha vissuto col [[Clan Ghorzaan]] per diversi anni a [[Smossa]];
 - [[Yvun]] ha chiesto a [[Zalthar Ghorzaan|Zalthar]] delle informazioni riguardanti dove si trova la [[Fonti di Scintilla|Fonte di Scintilla]] che il clan usa per far schiudere le proprie uova. In cambio ha offerto una lauda ricompensa;
-- [[Zalthar Ghorzaan|Zalthar]] ha accettato poiché il [[Clan Ghorzaan]] non sta navigando nell'oro ultimamente, da quando [[Malporto]] ha aperto la [[Stazione Viaferri]] e quindi le loro attività mercantili sono diminuite;
+- [[Zalthar Ghorzaan|Zalthar]] ha accettato poiché il [[Clan Ghorzaan]] non sta navigando nell'oro ultimamente: Anni fa, a [[Malporto]] è stata aperta la [[Stazione Viaferri]] e il porto di riferimento della regione non è più [[Smossa]]. Di conseguenza, il [[Clan Ghorzaan]], che vive di mercatura, ne ha risentito.
 
-[[Zalthar Ghorzaan|Zalthar]] non si lascia intimidire in nessun caso. Con una CD 15 in Carisma (Persuasione) è possibile strappargli qualcosa sul *perché* [[Yvun]] volesse sapere il luogo della schiusa.
-In questo caso, [[Zalthar Ghorzaan|Zalthar]] commenta: "*[[Yvun]] sta per tentare qualcosa di grande, che potrebbe gettare luce sul passato di tutti noi. Se, in qualche modo, posso aiutarlo, lo faccio volentieri*". Nonostante questo non dirà altro.
+[[Zalthar Ghorzaan|Zalthar]] non si lascia intimidire in nessun caso e traspare come una persona lucida, con delle intenzioni precise che è convinta di aver fatto la cosa giusta per il clan.
+
+Con una CD 15 in Carisma (Persuasione) è possibile strappargli qualcosa sul *perché* [[Yvun]] volesse sapere il luogo della schiusa.
+In questo caso, [[Zalthar Ghorzaan|Zalthar]] commenta: "*[[Yvun]] sta per tentare qualcosa di grande, che potrebbe gettare luce sul passato di tutti noi. Se, in qualche modo, posso aiutarlo, lo faccio volentieri*". 
+
+[[Zalthar Ghorzaan|Zalthar]] inoltre non commenta su che informazioni abbia dato a [[Yvun]] riguardo dove si trovi la [[Fonti di Scintilla|Fonte di Scintilla]] che il clan usa per schiudere le uova.
 
 ## Parlare con [[Berti Ghorzaan]] al [[Clan Ghorzaan]]
 
-[[Berti Ghorzaan|Berti]] accoglie il gruppo in uno degli edifici del [[Clan Ghorzaan]]. In particolare, è un asilo dove tengono le uova in attesa dei pellegrinaggi e dove si prendono cura dei cuccioli di [[Dragonidi|dragonidi]]. 
+Se il gruppo decide di investigare altri membri del clan, troveranno al [[Mercato di Smossa]] diversi [[Dragonidi|dragonidi]] con spille simili a quelle di [[Zalthar Ghorzaan|Zalthar]]. 
 
-[[Berti Ghorzaan|Berti]] dona al gruppo la lettera che hanno trovato negli uffici di [[Zalthar Ghorzaan|Zalthar]]:
+I membri fuori dal *Consiglio di Anziani* del Clan non conoscono la faccenda. 
+Se il gruppo si presenta chiedendo informazioni su [[Zalthar Ghorzaan|Zalthar]], i membri del clan possono condividere le seguenti informazioni:
+- [[Zalthar Ghorzaan|Zalthar]] è un membro del *Consiglio degli Anziani* del [[Clan Ghorzaan]]. È un bravo dragonide che si è sempre speso per aiutare il prossimo, anche chi non fa parte del clan;
+- [[Zalthar Ghorzaan|Zalthar]] ama stare insieme ai cuccioli di [[Dragonidi|dragonide]] e, in generale, alla gioventù. Fu lui che, rompendo secoli di tradizioni, accolse due giovani uomini che avevano perso tutto;
+
+Se chiedono chi possono sentire per sapere meglio faccende interne al Consiglio tutti puntano a [[Berti Ghorzaan|Berti]], che si trova all'[[Asilo Ghorzaan]].
+
+Se si recano all'[[Asilo Ghorzaan]], [[Berti Ghorzaan|Berti]] accoglie il gruppo in uno degli edifici del [[Clan Ghorzaan]]. In particolare, è un asilo dove tengono le uova in attesa dei pellegrinaggi e dove si prendono cura dei cuccioli di [[Dragonidi|dragonidi]]. 
+
+Al momento ci sono 4 cuccioli di [[Dragonidi|dragonide]], tutti più o meno coetanei. 
+
+[[Berti Ghorzaan|Berti]] si rivela come il [[Dragonidi|dragonide]] che ha ingaggiato la [[Gilda degli Avventurieri]] per risolvere la questione. Ha saputo della cattura di [[Zalthar Ghorzaan|Zalthar]] e non è felice. 
+[[Berti Ghorzaan|Berti]] ritiene che [[Zalthar Ghorzaan|Zalthar]] abbia agito di buon cuore e non meritava, alla sua età, un tale trattamento. Inoltre, è anche indispettita che nonostante tutto il gruppo non abbia scoperto niente. 
+
+[[Berti Ghorzaan|Berti]] dona, quindi, al gruppo la bozza della lettera che hanno trovato negli uffici di [[Zalthar Ghorzaan|Zalthar]] e del quale egli poi ha spedito una copia a [[Yvun]]:
 
 > [!letter] **Lettera di Zalthar a Yvun**
 >*Caro [[Yvun]],*
@@ -113,7 +134,9 @@ In questo caso, [[Zalthar Ghorzaan|Zalthar]] commenta: "*[[Yvun]] sta per tentar
  >*Con rispetto, e nella più stretta confidenza,*
  >*[[Zalthar Ghorzaan]]*
 
-Poi, racconta queste cose su [[Yvun]] e [[Fildrit]]:
+Purtroppo la lettera che ha iniziato lo scambio, quella da [[Yvun]] a [[Zalthar Ghorzaan|Zalthar]] non è stata ritrovata, probabilmente distrutta ormai.
+
+Se il gruppo chiede informazione su [[Yvun]], [[Berti Ghorzaan|Berti]] racconta queste cose su [[Yvun]] e sul suo gemello [[Fildrit]]:
 - [[Yvun]] e [[Fildrit]] nacquero nei [[Bassifondi di Nova]] dove il padre abbandonò la madre immediatamente dopo aver saputo che era incinta dei gemelli;
 - Hanno vissuto lì fino ai dieci anni quando la madre, una tossicodipendente estremamente indebitata con le mafie locali per procurarsi il [[Fiocco Nero]], la droga di cui era dipendente, scomparì misteriosamente;
 - I due vennero a vivere a [[Smossa]] da dei parenti della madre, ma anche loro dopo poco tempo li abbandonarono per trasferirsi a [[Malporto]]; 
@@ -122,20 +145,36 @@ Poi, racconta queste cose su [[Yvun]] e [[Fildrit]]:
 - Là entrarono in una ditta di archeologi, dove dopo un paio di anni fecero un po' di carriera: [[Yvun]] imparò ad armonizzare il [[Lapisma]] incantando le pietre che la ditta ritrovava. [[Fildrit]] imparò la costruzioni di oggetti magici con il [[Lapisma]] creando prodotti da vendere con le gemme incantate da [[Yvun]] e gli altri armonizzatori; 
 - Dopo questo, il [[Clan Ghorzaan]] non ha avuto più notizie dei due fino ad ora; 
 
+[[Berti Ghorzaan|Berti]] chiede al gruppo di recarsi alle [[Rovine di Archealbero]] e di trovare [[Yvun]] e [[Fildrit]], perché qualsiasi cosa stiano tramando con la [[Fonti di Scintilla|Fonte di Scintilla]] non può essere niente di buono. Inoltre, rivela [[Berti Ghorzaan|Berti]], vuole che la [[Fonti di Scintilla|Fonte di Scintilla]] rimanga segreta e le [[Rovine di Archealbero]] un luogo abbandonato poiché a breve il [[Clan Ghorzaan]] partirà per un pellegrinaggio di schiusa delle uova e non vogliono trovarsi sorprese.
 
 ## Verso le [[Rovine di Archealbero]]
 
-Il viaggio dura 12 ore. Tutto è tranquillo per il viaggio che passa lungo la [[Via Solis]] fino a [[Nova]] e poi sale per [[Filobello]]. 
-Il gruppo imbocca il sentiero per le montagne e, dopo qualche ora incontra un ponte su un ruscello. 
-Il ponte è un normale ponte costruito di ciottoli, ben costruito, al cui centro, però sembra essere crollata una parte, rendendo impossibile attraversarlo. 
+Il viaggio da [[Smossa]] alle [[Rovine di Archealbero]] dura 14-16 ore. Se il gruppo vuole fare una sosta prima di arrivare alle [[Rovine di Archealbero]], il percorso segue la [[Via Solis]] fino [[Nova]], poi passandole sopra da nord, sale sulle colline e poi sui pendici passando per il [[Passo del Castagnone]]. Poco dopo, si incontra la città di [[Filobello]] e, infine, si arriva alle [[Rovine di Archealbero]]. 
 
-CD Storia 15: Questo ponte è stato costruito secoli fa e la sua architettura e tecnica di costruzione ricorda molto quella di un antico popolo di cavalcatori di viverne che da tempo ha lasciato queste zone e il suo nome è perduto. Le leggende dicono che i cavalcatori avevano un potere enorme nella loro *voce*, e che le loro costruzioni erano fatte di *pietre viventi* che erano assopite dai loro canti. "*Meglio non svegliare la pietra che dorme*" sembra riportare un antico proverbio del popolo. 
+Tutto è tranquillo per il viaggio che passa lungo la [[Via Solis]] fino a [[Nova]] e poi sale per [[Filobello]]. A qualche ora dal [[Passo del Castagnone]] il gruppo si rende conto che ha probabilmente sbagliato percorso. 
+Con una prova di Saggezza (Sopravvivenza) CD 10 capiscono che sono nella direzione giusta, ma sono su un percorso secondario, più piccolo, qualche kilometro più a nord.
 
-CD Percezione 22: Il ponte, a volta, sembra tremare, come qualcosa che respira.
+Hanno tre scelte:
+1. Proseguire sul percorso scelto, meno battuto e più selvaggio, e arrivare al [[Passo del Castagnone]] accumulando 30 minuti di ritardo;
+2. Tornare indietro per 2 ore fino al bivio e prendere il percorso giusto, accumulando 2 ore di ritardo;
+3. Attraversare il bosco di sera per raggiungere il percorso principale, accumulando 1 ora di ritardo;
 
-Se il gruppo prova a saltare il ponte si svegliano le rocce, altrimenti, se guadano il ruscello, passano senza intoppi. 
+### Scelta 1
 
-CD Percezione 22: Il ponte, a volta, sembra tremare, come qualcosa che respira.
+Il gruppo continua sul sentiero sbagliato. Dopo una decina di minuti incontrano un ponte su un ruscello con una forte corrente. 
+Il ponte è costruito a secco con pietre fluviali ben levigate ma, al suo centro, mancano diverse pietre rendendo impossibile attraversarlo senza saltare. 
+
+Intelligenza (Storia) CD 15: 
+
+> [!quote] Ponte di Pietra insolito
+> *Il ponte appare vecchio di secoli e, la sua architettura e tecnica di costruzione, ricorda molto quella di un antico popolo di cavalcatori di viverne che da tempo ha lasciato queste zone. Le leggende ricordano che i cavalcatori avevano un potere enorme nella loro voce, in grado di domare ogni tipo di creatura, tra le quali le loro viverne. Si narra che le loro costruzioni erano fatte di pietre viventi che erano assopite dai loro canti. "Meglio non svegliare la pietra che dorme" sembra riportare un antico proverbio del popolo.* 
+
+CD Percezione 22: 
+
+> [!quote] Respiro?
+> Il ponte, a volta, sembra tremare ritmicamente. 
+
+Se il gruppo in qualsiasi modo interagisce col ponte si svegliano le rocce, altrimenti, possono guadare il ruscello. 
 
 ```encounter
 creatures:
@@ -147,6 +186,45 @@ players:
   - Test_3
 ```
 
+Il ruscello è largo 9 metri, e l'acqua è profonda nel punto più basso 130 cm, per guadare il ruscello con successo  è richiesta una prova di Forza (Atletica) o Destrezza (Acrobazia) con CD 15. Se fallita, il giocatore subisce 1d8 danni contundenti scivolando nel letto del fiume e venendo sbalzato. 
+Può ripetere la prova per saldarsi a terra e attraversare. Ogni volta che fallisce la prova, subisce 1d8 danni contundenti e viene sbalzato lungo il corso del fiume di 6 metri. 
+
+### Scelta 2
+
+Il gruppo non ha incontri e accumula 2 ore di ritardo.
+
+### Scelta 3
+Il gruppo entra in una zona della foresta molto oscura. 
+
+> [!quote] Ragnatele
+> *Le fronde degli alberi, man mano che camminate sempre più nel profondo del bosco, sembrano chiudersi sopra di voi, lasciando trapassare pochi fili di luce che non bastano ad illuminare i vostri dintorni.*
+> *Dopo qualche altra decina di minuti di cammino, sentite il terreno fangoso sotto di voi farsi sempre più umido e ogni passo diventa pesante. Avete la costante sensazione che qualcuno, interessato dal vostro lento andare attraverso i fanghi del bosco, vi osservi.*
+> *La poca luce, poi, vi rivela l'osservatore: vi specchiate improvvisamente su grandi gocce di rugiada poggiate in un complesso intrecciato di fragili fili che compongono un enorme tappeto bianco che si regge tutto intorno a voi ai tronchi degli alberi. Su di esso vedete 6 Ragni giganti osservarvi, pronti ad attaccare.*
+
+```encounter
+creatures:
+  - 6: Giant Spider
+
+players:
+  - Test_1
+  - Test_2
+  - Test_3
+```
+
+Tutto il terreno di combattimento è *terreno difficile* per i giocatori. Inoltre, tra ogni albero è presente una passerella larga 1.5m di ragnatela che lo collega all'albero più vicino. I ragni cercano di non entrare nel fango, ma di sfruttare le loro ragnatele per attaccare.
+
+Ogni passerella di ragnatele ha CA 10 e PF 10 (Resistenza ai danni contundenti e perforanti e debolezza ai danni da taglio). 
+
+Se una ragnatela prende fuoco viene distrutta alla prossima conta di Iniziativa 20 e altre 1d4 ragnatele limitrofe prendono fuoco. 
+
+Se ridotti a meno di tre unità, i ragni rimasti scappano.
+
+Una volta sconfitti i ragni, il gruppo poi raggiunge il percorso originale senza ulteriori strani incontri.
+
+## Arrivo a [[Filobello]]
+
+A Filobello possono trovare un [[Tempio di Tiche di Filobello|Tempio di Tiche]], la [[Locanda di Filobello]] e la [[Gilda dei Minatori di Filobello]]. 
+
 ## Arrivo alle [[Rovine di Archealbero]]
 
 La città da lontano appare molto trasandata e abbandonata. Avvicinandosi si scorge il gigante albero di marmo senza foglie, che da il nome alle rovine. [[Archealbero]] prima del'eruzione del [[Falso Monte]] era infatti un centro abitato costruito, come [[Nova]], su delle rovine [[Nifilim]]. 
@@ -156,7 +234,7 @@ In giro, come delle guardie, vedete delle creature umanoidi con gli occhi lumine
 
 In una delle tende, notate un lume acceso e un ombra che si aggira al suo interno. 
 
-In giro per la città ci sono una decina di Zombie di cenere rianimati. Un Cultista sta studiando secondo gli ordini di [[Yvun]] in una tenda il *Manuale di Necromanzia avanzata* che [[Yvun]] ha rubato a [[Malporto]].
+In giro per la città ci sono una decina di Zombie di cenere rianimati. Un Cultista sta studiando secondo gli ordini di [[Yvun]] in una tenda il manuale *Morte e Non-Morte: Tecniche avanzate di resurrezione* che [[Yvun]] ha rubato a [[Malporto]].
 
 Nel frattempo [[Yvun]] e [[Fildrit]] sono entrati nella grotta cercando di rianimare il drago. 
 
