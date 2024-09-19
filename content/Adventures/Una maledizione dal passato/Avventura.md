@@ -139,10 +139,10 @@ Le due figure parlano all'unisono:
 > *Due messaggeri, in campagna*, 
 > *un accordo fu firmato*, 
 > 
-> *Ma nella più nera delle ore, 
+> *Ma nella più nera delle ore*, 
 > *l'aiuto fu richiesto*, 
 > *ma tra i popoli non vi era più amore*, 
-> *E l'esito fu inevitabilmente funesto
+> *E l'esito fu inevitabilmente funesto*
 > 
 > *i campi furono razziati,*
 > *il bosco fu bruciato*, 

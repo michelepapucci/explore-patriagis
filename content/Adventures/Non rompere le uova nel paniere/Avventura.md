@@ -32,20 +32,31 @@ In questo momento, le guardie della città di [[Smossa]] stanno arrestando [[Zal
 > 
 
 Per raggiungere velocemente [[Smossa]], [[Zaldak Versabirra|Zaldak]] da ai giocatori un biglietto ciascuno per il traghetto che parte dalla base del [[Colle dei Mestieri]] di [[Nova]] e ferma a [[Smossa]] percorrendo il [[Tiberino]]. 
-	
+
 ## Traghetto sul [[Tiberino]]
 
-Salite su un piccolo traghetto e partite velocemente alla volta di [[Smossa]]. 
-Sul traghetto siete voi più altre 4 passeggeri. L'equipaggio è formato dal timoniere che funge da capitano e due mozzi che si occupano di scrutare i dintorni. 
+Il traghetto sta aspettando il gruppo e, riconoscendo le spille della [[Gilda degli Avventurieri]], fa montare il gruppo e parte verso [[Smossa]]:
 
-Uscite velocemente da [[Nova]] e il fiume si allarga e scende verso il mare. La crociera diventa più movimentata. Intorno a voi vedete una miriade di canali che irrigano i campi vicini.
+> [!quote] Uscita da Nova
+> *I due mozzi vi fanno strada e salite grazie ad una passerella su un piccolo traghetto ampiamente in ritardo. Il capitano fa levare l'ancora e partite velocemente alla volta di [[Smossa]]. Sul traghetto siete voi più altre 4 passeggeri. L'equipaggio è formato dal timoniere che funge da capitano e due mozzi che si occupano di scrutare i dintorni e, con lunghi bastoni, tengono il mezzo lontano dalle sponde del fiume.*  
+> *Uscite velocemente da [[Nova]] e il fiume si allarga e scende verso il mare. La crociera diventa più movimentata. Intorno a voi vedete una miriade di canali che irrigano i campi vicini.*
 
 Timoniere: *Garillo*
 Mozzi: *Manfredo* e *Vercello*
 
-Percezione passiva CD 15 o superiore: *Avvertite qualcosa che sbatte sulla chiglia del traghetto, una, due volte, poi il silenzio. Avverti poi qualcosa infrangere il pelo dell'acqua, hai un momento per reagire.*. 
+Il vascello è lungo 10 m, il timoniere si trova a poppa, sulla quale girano delle enormi pale. 
 
-Altrimenti: *Senti l'acqua infrangersi, vedete una, due, tre figure umanoidi armate nuotare velocemente intorno al traghetto. Una di loro, notando un passeggero che si è affacciato incuriosito, lancia un arpione e lo trafigge su un braccio, in un attimo, la creatura tira la fune dell'arpione e vola il passeggero in acqua. *
+Dopo essere usciti da [[Nova]] e circa a metà del percorso, leggete questo ai giocatori con Percezione Passiva 15 o superiore:
+
+> [!quote] L'acqua si rompe
+> *Avvertite qualcosa che sbatte sulla chiglia del traghetto, una, due volte, poi il silenzio. Avverti poi qualcosa infrangere il pelo dell'acqua, hai un momento per reagire.*. 
+
+Durante questa reazione, il giocatore può compiere un'azione. Può bersagliare il punto in cui si è infranta l'acqua, senza però capire di preciso che cosa sia. Il punto in cui si infrange l'acqua è a sinistra dell'imbarcazione, qualche metro verso la poppa.
+
+Per tutti i giocatori che non superano la Percezione Passiva: 
+
+> [!quote] L'acqua si rompe
+> *Senti l'acqua infrangersi, vedete una, due, tre figure umanoidi armate nuotare velocemente intorno al traghetto. Una di loro, notando un passeggero che si è affacciato incuriosito, lancia un arpione e lo trafigge su un braccio, in un attimo, la creatura tira la fune dell'arpione e vola il passeggero in acqua. *
 
 ```encounter
 creatures:
@@ -55,6 +66,14 @@ players:
   - Test_2
   - Test_3
 ```
+
+Le creature provano a rimanere nella zona di poppa e bersagliano con i loro *arpioni* chiunque si affacci dall'imbarcazione, tentanto di portarli in acqua. 
+
+Se nessuno si affaccia, le creature tentando di distruggere le pale dell'imbarcazioni (CA 12, PF 60) e di trasportarla a riva per fermarla. Se si sporge il *timoniere* ha la priorità sugli altri.
+
+Se una creatura viene trasportata in qualche modo sulla nave, cerca di tornare in acqua dove ha vantaggio.
+
+Se una delle creature viene uccisa, le altre fuggono. 
 
 ## Arrivo a [[Smossa]] e Interrogatorio
 
