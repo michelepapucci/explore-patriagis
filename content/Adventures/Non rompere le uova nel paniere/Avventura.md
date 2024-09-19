@@ -56,7 +56,7 @@ Durante questa reazione, il giocatore può compiere un'azione. Può bersagliare 
 Per tutti i giocatori che non superano la Percezione Passiva: 
 
 > [!quote] L'acqua si rompe
-> *Senti l'acqua infrangersi, vedete una, due, tre figure umanoidi armate nuotare velocemente intorno al traghetto. Una di loro, notando un passeggero che si è affacciato incuriosito, lancia un arpione e lo trafigge su un braccio, in un attimo, la creatura tira la fune dell'arpione e vola il passeggero in acqua. *
+> *Senti l'acqua infrangersi, vedete una, due, tre figure umanoidi armate nuotare velocemente intorno al traghetto. Una di loro, notando un passeggero che si è affacciato incuriosito, lancia un arpione e lo trafigge su un braccio, in un attimo, la creatura tira la fune dell'arpione e vola il passeggero in acqua.*
 
 ```encounter
 creatures:
