@@ -21,7 +21,7 @@ Il giorno seguente, il gruppo si dirige a [[Malporto]] e la esplora finché non 
 - [[Kinded Spaccapietre]] e [[Taximundar, Il Fuoco Fatuo]] hanno commentato sul litigio del resto del gruppo. 
 
 Il gruppo continua poi l'esplorazione e trova uno strano negozio chiamato [[Il Gruzzolo del Drago]] gestito da un simpatico [[Dragonidi|dragonide]] bronzeo di nome [[Bormeth]] che gestisce questo negozio pieno di ninnoli. 
-Bormeth dice loro che il negozio è in realtà un magazzino di doni che i marinai gli portano in cambio di benedizioni per i loro viaggi. Bormeth dice che fiuta dell'avventura nel futuro del gruppo e suggerisce loro di approfittare della sua benedizione.
+[[Bormeth]] dice loro che il negozio è in realtà un magazzino di doni che i marinai gli portano in cambio di benedizioni per i loro viaggi. Bormeth dice che fiuta dell'avventura nel futuro del gruppo e suggerisce loro di approfittare della sua benedizione.
 Thodor e Taximundar donano un piccolo ninnolo di valore pressappoco nullo al dragonide e ricevono una piccola benedizione, mentre Gontràn dona lui un bottone del suo vestito di lusso con lo stemma di famiglia e promette lui ospitalità a [[Nova]]. In cambio del dono Bormeth lancia una benedizione su Gontràn che lo rende più eroico e coraggioso. 
 
 Mentre hanno a che fare con Bormeth notano in cielo l'[[areonave]] che parte e se ne va senza di loro.

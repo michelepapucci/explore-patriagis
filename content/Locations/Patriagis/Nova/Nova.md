@@ -3,10 +3,15 @@ Nova è la capitale del [[Regno di Patriagis]], che occupa la maggior parte dell
 La popolazione è principalmente fatta di [[Mezzelfi]] e [[Umani]].
 Il [[Regno di Patriagis]] nasce da due antichi regni, uno umano e uno elfico, che dopo anni di guerre firmarono una storica pace. Le due razze, convivendo, si sono incrociate e gli elfi purosangue sono quasi estinti a causa di quest'unione. Il resto delle razze, per quanto minoritarie, è presente e integrata, e in generale si può dire che il regno, ma Nova in particolare, è fortemente multiculturale. 
 
+## Politica
+
 La città è gestita dall'organo politico denominato [[Comune]], al cui capo c'è un [[Sindaco]] che viene eletto ogni 6 mesi da chiunque faccia un mestiere. Il diritto di voto è pertanto esclusivo a chi è iscritto ad una Gilda o ad una Corporazione. 
-Gli organi eletti sono il [[Sindaco]] che amministra la città, e il [[Capitano del Popolo]] che gestisce le forze armate. Ogni Gilda, ogni due mesi, elegge due rappresentati, che hanno il compito di fare appello al sindaco sulle questioni importanti, formando il [[Consiglio del Comune]], che ha il compito di approvare le leggi proposte dal [[Sindaco]] e dalla sua cerchia di consiglieri. 
+Gli organi eletti sono il [[Sindaco]] che amministra la città, e il [[Capitano del Popolo]] che gestisce la [[Guardia Cittadina]]. Ogni Gilda, ogni due mesi, elegge due rappresentati, che hanno il compito di fare appello al sindaco sulle questioni importanti, formando il [[Consiglio del Comune]], che ha il compito di approvare le leggi proposte dal [[Sindaco]] e dalla sua cerchia di consiglieri. 
 Questo sistema di voto esclude totalmente l'aristocrazia e la nobiltà, poiché grazie alle loro ricchezze non praticano alcun mestiere, e pertanto non possono votare. Questo sistema anti-aristocratico crea forti squilibri di potere, che sfociano spesso in dimostrazioni di forza, o vere e proprie guerriglie tra l'aristocrazia e il [[Comune]].
 
-Il Regno è governato da un sistema simile, dove il Re, della famiglia reale Tullio, ha il compito di proporre Leggi. Queste devono venir approvate da un parlamento, composto da un rappresentate di ogni Comune. Il Re in carica è [[Numio Ostilio III]].
+Il fragile equilibrio di potere bilanciato dalla forte economia della città, basata sullo scavo, l'elaborazione e dal commercio del [[Lapisma]], la gemma che alimenta tutta la tecnologia della nazione. Nova ne è una delle principali fonti, grazie al suo posizionamento sopra di una delle più grandi città Nifilim mai scoperte.
 
-Il fragile equilibrio di potere bilanciato dalla forte economia della nazione, basata sullo scavo, l'elaborazione e dal commercio del [[Lapisma]], la gemma che alimenta tutta la tecnologia della nazione. Nova ne è una delle principali fonti, grazie al suo posizionamento sopra di una delle più grandi città Nifilim mai scoperte.
+- A sedici anni ( o equivalente ) le persone devono decidere dove passare due anni: 
+	- Guardia Cittadina;
+	- Studi "avanzati" di qualcosa;
+	- Lavorare presso una gilda o una corporazione

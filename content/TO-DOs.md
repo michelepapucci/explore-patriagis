@@ -1,7 +1,3 @@
-
-## To-Do [[Adventures/Non rompere le uova nel paniere/Avventura|Avventura]]
-
-
 ## To-Do
 - Creare una religione basata sul mare. 
 	- Creare il dio balena.
@@ -14,6 +10,7 @@
 - Finire [[Adventures/Non rompere le uova nel paniere/Avventura|Avventura]];
 - Creare un popolo di [[Halfling]] o [[Gnomi]] o similare. Abitano a sud di [[Millepozzi]]. Geograficamente ispirati ai paesi tipo Putignano, Civita di Bagnoregio, arroccati sul Tufo. Storicamente parte del [[Regno dell'Ovest]]. Non fortemente bellicosi, ma ottimi a difendersi. 
 - Creare un popolo / famiglia / qualcosa di cavalca viverne. Hanno creato infrastrutture in tutta [[Patriagis]]. Perché? Dominano le viverne e altre creature col potere della loro voce. 
+- [[Ordine dei Cavalieri di Romio]] hanno dentro l'elité delle [[Guardia Cittadina]] e anche del popolo di sopra.
 
 
 
