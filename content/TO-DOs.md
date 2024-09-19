@@ -11,7 +11,7 @@
 - Creare un popolo di [[Halfling]] o [[Gnomi]] o similare. Abitano a sud di [[Millepozzi]]. Geograficamente ispirati ai paesi tipo Putignano, Civita di Bagnoregio, arroccati sul Tufo. Storicamente parte del [[Regno dell'Ovest]]. Non fortemente bellicosi, ma ottimi a difendersi. 
 - Creare un popolo / famiglia / qualcosa di cavalca viverne. Hanno creato infrastrutture in tutta [[Patriagis]]. Perché? Dominano le viverne e altre creature col potere della loro voce. 
 - [[Ordine dei Cavalieri di Romio]] hanno dentro l'elité delle [[Guardia Cittadina]] e anche del popolo di sopra.
-
+- Creare e definire meccanicamente degli oggetti a base di [[Lapisma]]. Dato che hanno un numero di usi limitati, creare anche dei servizi (con relativi costi) di ricarica di questi oggetti. 
 
 
 ## To-Do completati
