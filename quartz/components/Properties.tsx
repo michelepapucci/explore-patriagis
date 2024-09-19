@@ -4,10 +4,22 @@ import style from "./styles/properties.scss"
 
 function createLinkedElement(fileData: any, opts: any, value: string) {
     let cleanedValue = value.replace(/['"\[\]]+/g, '')
-    let href = transformLink(fileData.slug!, cleanedValue, opts)
+
+    let href = ""
+    let text = ""
+
+    if (cleanedValue.includes("|")) {
+        href = cleanedValue.split("|")[0]
+        text = cleanedValue.split("|")[1]
+
+        href = transformLink(fileData.slug!, href, opts)
+    } else {
+        href = transformLink(fileData.slug!, cleanedValue, opts)
+        text = transformLink(fileData.slug!, cleanedValue, opts)
+    }
 
     return (
-        <a href={href} class="internal">{cleanedValue}</a>
+        <a href={href} class="internal">{text}</a>
     )
 }
 
@@ -36,9 +48,6 @@ export default (() => {
                     var propertyType = Object.prototype.toString.call(value)
                     if (value) {
                         if (propertyType = "[object String]" && value.includes("[[")) {        //Check if it's a string or string array
-                            if (value.includes("|")) {
-                                linkedElements.push(createLinkedElement(fileData, opts, value.split("|")[0]))
-                            }
                             linkedElements.push(createLinkedElement(fileData, opts, value))
                         }
                         else if (propertyType = "[object Array]") {
@@ -61,12 +70,13 @@ export default (() => {
 
             }
         }
-
-        return (
-            <div class="properties">
-                <ul>{propertiesElements}</ul>
-            </div>
-        )
+        if (propertiesElements.length > 0) {
+            return (
+                <div class="properties">
+                    <ul>{propertiesElements}</ul>
+                </div>
+            )
+        }
 
     }
 
