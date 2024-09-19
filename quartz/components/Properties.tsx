@@ -14,7 +14,7 @@ function createLinkedElement(fileData: any, opts : any, value: string) {
 function createPropertyElement(key: string, value: any) {
   return(
     <li>
-      {key} : {value}
+      <span class="property">{key}</span> : <span class="value">{value}</span>
     </li>
   )
 }
@@ -34,25 +34,25 @@ export default (() => {
         else{
           var linkedElements = []
           var propertyType = Object.prototype.toString.call(value)
-
-          if (propertyType = "[object String]" && value.includes("[[")){        //Check if it's a string or string array
-            linkedElements.push(createLinkedElement(fileData, opts, value))
-          }
-          else if(propertyType = "[object Array]"){
-            for (const [index, arrayItem] of Object.entries(value ?? {})) {     // Check if it's an array
-              var entry = value[index]
-              if(entry.includes("[[")){
-                if(Number(index) > 0){
-                  linkedElements.push(", ")
+          if(value) {
+            if (propertyType = "[object String]" && value.includes("[[")){        //Check if it's a string or string array
+                linkedElements.push(createLinkedElement(fileData, opts, value))
+              }
+              else if(propertyType = "[object Array]"){
+                for (const [index, arrayItem] of Object.entries(value ?? {})) {     // Check if it's an array
+                  var entry = value[index]
+                  if(entry.includes("[[")){
+                    if(Number(index) > 0){
+                      linkedElements.push(", ")
+                    }
+                    linkedElements.push(createLinkedElement(fileData, opts, entry))
+                  }
+                  else{
+                    linkedElements.push(entry)
+                  }
                 }
-                linkedElements.push(createLinkedElement(fileData, opts, entry))
               }
-              else{
-                linkedElements.push(entry)
-              }
-            }
           }
-
         propertiesElements.push(createPropertyElement(key, linkedElements))
       }
 
