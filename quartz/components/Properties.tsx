@@ -30,12 +30,15 @@ export default (() => {
 
     if(Object.keys(fileData.frontmatter ?? {}).length > 0){
       for (const [key, value] of Object.entries(fileData.frontmatter ?? {})) {
-        if(key.includes("draft")||key.includes("title")||key.includes("tags")){} // Add properties you want to ignore here
+        if(key.includes("draft")||key.includes("title")||key.includes("tags")||key.includes("aliases")){} // Add properties you want to ignore here
         else{
           var linkedElements = []
           var propertyType = Object.prototype.toString.call(value)
           if(value) {
             if (propertyType = "[object String]" && value.includes("[[")){        //Check if it's a string or string array
+                if value.includes("|") {
+                    linkedElements.push(createLinkedElement(fileData, opts, value.split("|")[0]))
+                }
                 linkedElements.push(createLinkedElement(fileData, opts, value))
               }
               else if(propertyType = "[object Array]"){
