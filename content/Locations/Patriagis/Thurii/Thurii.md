@@ -12,7 +12,7 @@ Thurii è una città nel sud-est di [[Patriagis]]. La città è oggi famosa poic
 
 Oltre ai motivi religiosi, [[Thurii]] è anche meta culturale, è infatti la città dove è proliferata l'arte teatrale a [[Patriagis]] ed è oggi sede di un prestigioso collegio bardico: il [[Canto dei Satiri]]. 
 
-## Storia della Città
+## Storia della Città nel periodo dei due regni
 
 Thurii è una città molto antica, e si crede sia stata fondata intorno all'anno [[Storia della Penisola di Patriagis#- 1100|-1100]] A.P. come villaggio rurale da delle famiglie di [[Mezzuomini|mezzuomini]]. Essi l'hanno abitata ininterrottamente e in relativa pace per almeno qualche centinaio di anni, finché accettarono nel [[Storia della Penisola di Patriagis#-933|-933]] di entrare nel [[Regno dell'Ovest]]. Questa decisione fu presa poiché pressati dai pirati del [[Mare Stretto]] lontani dalle coste e con continue incursioni da nord da parte dell'[[Regno dell’Alba|Aranië]] che, per contrastare il [[Regno dell'Ovest]] stava cercando velocemente di annettere tutto l'est della penisola, crebbero sarebbe stato un buon deterrente per evitare conflitti con gli [[Elfi|elfi]] a nord. 
 
@@ -33,5 +33,17 @@ Gli [[Elfi|elfi]] dell'[[Regno dell’Alba|Aranië]] sotto ordine di [[Neldor Ar
 Fu imposta l'amministrazione dell'[[Regno dell’Alba|Aranië]] e tutti gli amministratori della città dovevano essere [[Elfi|elfi]] inviati direttamente da [[Arum]]. Questo continuò fino al [[Storia della Penisola di Patriagis#- 630|-630]] quando, in seguito alla [[Febbre Indaco]], il potere centrale dell'[[Regno dell’Alba|Aranië]] crollò e la città, seppur ufficialmente parte del regno, ricominciò ad autogovernarsi. 
 
 Nel [[Storia della Penisola di Patriagis#-642|-642]] una giovane [[Mezzuomini|mezzadonna]] nata nelle campagne di [[Thurii]] parte dalla città e inizia un lungo pellegrinaggio per curare i malati del morbo. Verrà ricordata come [[Solis]], dalla parola [[Nifilim]] per *Sole*. 
+
+## Storia della città nel periodo dei Comuni
+
+- Nasce un'importante corrente artistica teatrale che da qui si sposta in tutta [[Patriagis]]; 
+- Viene fondato il [[Canto dei Satiri]], collegio bardico e drammaturgico;
+- Una delle più importanti messe in scena teatrali parla della Banda dei Sette, i [[Mezzuomini|mezzuomini]] che, in preda alla ribellione di [[Thurii]] dall'attacco dell'[[Regno dell’Alba|Aranië]], sconfiggono i più importanti guerrieri [[Elfi|elfici]] posti a difesa del Re [[Sononel Aravir]], e una volta sconfitto, lo condannano a morte;
+- Un'altra importante messa in scena è quella sul sacrificio di [[Solis]];
+
+## Storia della città nel [[Regno di Patriagis]]
+
+
+
 
 
