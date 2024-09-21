@@ -67,13 +67,29 @@ Spinti dalla paura del nuovo e portentoso regno elfico a est, gli umani delle ci
 Fino a questo periodo, la magia era usata in maniera istintiva da individui capaci di connettersi naturalmente alla [[Scintilla]]. Stregoni, Bardi, Druidi e Chierici erano visti come fattucchieri dotati di potere, e spesso, specialmente nelle parti più rurali della penisola, visti come profeti o messia. 
 Intorno a questo anno però, si inizia a comprendere meglio il funzionamento della magia e della trama, e inizia a venire usata per scopi civili e militari.
 
+## - 1100
+Fondazione di [[Thurii]]. 
 
-## -900
+
+## -933
+[[Thurii]] viene annessa al [[Regno dell'Ovest]]. 
+
+## -906
 <span data-date='-900' data-name="Inizio della Guerra"></span>
-Il [[Regno dell’Alba]] e il [[Regno dell'Ovest]] entrano in uno stato di guerra aperta e continua per motivi di espansione. La guerra consiste principalmente in schermaglie lungo i [[Pendici]], dove però nessuno dei due regni sembra avanzare. L'ammontare dei morti è ignoto, ma si crede che sia nell'ordine delle decine di migliaia per tutta la durata della guerra. 
+Il [[Regno dell’Alba]] e il [[Regno dell'Ovest]] entrano in uno stato di guerra aperta e continua per motivi di espansione. La guerra consiste principalmente in schermaglie lungo i [[Pendici]], e nel sud della penisola, che era interamente controllato dal [[Regno dell'Ovest]]. Inizialmente però però nessuno dei due regni sembra avanzare. 
 
-La guerra prosegue per più di 300 anni e stanca velocemente entrambi i popoli, ciononostante le famiglie reali dei regni non sembrano voler firmare un armistizio. 
+L'ammontare dei morti è ignoto, ma si crede che sia nell'ordine delle centinaia di migliaia per tutta la durata della guerra.
 
+## -905
+L'[[Regno dell’Alba|Aranië]] attacca [[Thurii]] due volte, ma viene respinta. 
+In battaglia muore [[Sononel Aravir]] re dell'[[Regno dell’Alba|Aranië]]. 
+
+## -904
+Viene incoronato 
+L'[[Regno dell’Alba|Aranië]] sposta molte delle sue forze a sud verso [[Thurii]] e la conquista annettendola al [[Regno dell’Alba]]. 
+
+## -899
+L'[[Regno dell’Alba|Aranië]] finisce di annettere il resto del sud-est di [[Patriagis]] al suo potere. 
 
 ## - 641
 
@@ -146,7 +162,7 @@ Iniziano subito le trattative per la formazione di un unico Regno, che rappresen
 
 ## 0
 <span data-date='0-6-17' data-name="Fondazione del Regno di Patriagis"></span>
-Viene ufficialmente fondato il [[Regno di Patriagis]], sposando il Re elfico [[Andúnië]] e la principessa umana [[Stella Larenzia]], creando la nuova famiglia reale [[Tullio]]. 
+Viene ufficialmente fondato il [[Regno di Patriagis]], sposando il Re elfico [[Andúnië Aravir]] e la principessa umana [[Stella Larenzia]], creando la nuova famiglia reale [[Tullio]]. 
 
 Le città stato, accettano di entrare a far parte del Regno, mantenendo però forti autonomie. Ogni città infatti avrà un capo locale, il [[Sindaco]] che amministra la città insieme al [[Consiglio del Comune]]. Inoltre, avrà un esercito locale, al cui comando è posto un'altra figura elettiva chiamata [[Capitano del Popolo]].
 
@@ -166,9 +182,9 @@ Nasce [[Re Romio I dei Tullio]], il primo mezzelfo membro della famiglia reale [
 
 ## 36
 <span data-date='36' data-name="Un Nuovo Re"></span>
-Re [[Andúnië]] muore all'età di 672 anni; la moglie Regina [[Stella Larenzia]] abdica in favore del figlio Re [[Re Romio I dei Tullio]], primo Re mezzelfo della famiglia [[Tullio]].
+Re [[Andúnië Aravir]] muore all'età di 672 anni; la moglie Regina [[Stella Larenzia]] abdica in favore del figlio Re [[Re Romio I dei Tullio]], primo Re mezzelfo della famiglia [[Tullio]].
 
-Questo viene socialmente considerato il vero punto di inizio del [[Regno di Patriagis]], che si lascia alle spalle il passato fatto di violenza razziale e abbraccia il futuro. Inoltre, le vecchie famiglie reali, rappresentate da [[Andúnië]] e da [[Stella Larenzia|Stella]], erano considerate ancorate al passato e non più rappresentative di una popolazione che aveva ormai abbracciato un vita non più legata a questioni di razza. 
+Questo viene socialmente considerato il vero punto di inizio del [[Regno di Patriagis]], che si lascia alle spalle il passato fatto di violenza razziale e abbraccia il futuro. Inoltre, le vecchie famiglie reali, rappresentate da [[Andúnië Aravir]] e da [[Stella Larenzia|Stella]], erano considerate ancorate al passato e non più rappresentative di una popolazione che aveva ormai abbracciato un vita non più legata a questioni di razza. 
 La popolazione di Patriagis infatti andando avanti di generazione in generazione è sempre più mezzelfa, sempre meno umana, e con poche migliaia di elfi purosangue ancora in vita. Le città sono fortemente diventate fortemente multiculturali e il razzismo è visto come un retaggio del passato.
 
 
