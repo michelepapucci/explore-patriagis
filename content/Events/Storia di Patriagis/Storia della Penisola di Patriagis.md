@@ -1,49 +1,16 @@
-#evento 
-```mermaid
-timeline
-        title   
-        section Dai Villaggi ai Regni
-        -15000 : Draghi e Nifilim si estinguono in seguito ad un misterioso cataclisma.
-			    : Il cataclisma scuote il piano materiale, creando i suoi due echi, la Coltre Oscura e la Selva  Fatata.
-				: Nella Selva e nella Coltre nascono rispettivamente i primi Eladrin e i primi Shadar-Kai.
-				: Da Eladrin fuggiti dalla Selva nel Piano Materiale nascono gli elfi.
-				: Da Shadar-Kai fuggiti dalla Coltre Nascono i Drow.
-				: Nascono i primi Uomini. 	
-		-9000: Piccole città-stato razziali popolano la penisola di Patriagis. 
-		-6000: Le Città elfiche e umane cominciano ad annettersi diventando regni sempre più grandi.
-		-5800: Nel Nord-Est della penisola una guerra tra una società elfica e una drow riduce notevolmente i numeri di entrambe.
-			: In seguito alla guerra avviene la Diaspora Drow, la maggior parte di essi si rifugia in società sotterranee. 
-			: I nani in questo periodo fondano la città di Zubduzurak sull'Alto Muro. 
-		-5500: Gli Elfi rimasti fondano il Regno dell'Alba, che controlla quasi tutto l'Est della Penisola, dal mare fino ai Pendici. 
-			: Gli umani controllano l'ovest, e fondando il Regno dell'Ovest.
-        section Guerra e Pestilenza
-        -3000: Nasce lo studio della magia.
-			: In meno di cento anni la magia acquisisce ruoli civili e militari.
-        -900: Il Regno dell'Alba e il Regno dell'Ovest entrano in uno stato di guerra aperta continua.
-        -642: La Febbre Indaco divaga per la penisola sterminando la maggior parte della popolazione.
-	        : Nascita del Dogma.
-	        : Nascita del Culto di Solis.
-	    section Dalle Città al Regno
-		-200: Le famiglie reali dei due regni in guerra annunciano il cessate il fuoco.
-		-80: Viene stipulata la pace e iniziano le trattative per la formazione del Regno di Patriagis.
-		0: Il Re elfico Andúnië sposa la principesa umana Stella Larenzia, formando la nuova famiglia reale Tullio. 
-			: Nova diventa la capitale del Regno e la sede della monarchia.
-	    section Epoca d'Oro
-		2: Nasce Romio I dei Tullio, primo principe mezzelfo del Regno.
-		36: Re Andúnië muore a 672 anni, e la moglie Stella abdica. 
-			: Romio I viene incoronato Re di Patriagis
-
-```
+---
+tags:
+  - evento
+---
+# Inizio dell'Età Antica
 
 ## -9000
 <span data-date='-9000' data-name='Primi Insediamenti'></span>
 In questo periodo la penisola è popolata da insediamenti che vanno dai villaggi a città-stato, perlopiù razziali, spesso arroccate intorno a rovine [[Nifilim]], che forniscono supporto e riparo alle città. 
 
-
 ## -6000
 <span data-date='-6000' data-name='Crescita'></span>
 In questo periodo città umane ed elfiche raggiungono uno sviluppo e un'estensione non indifferente. Le altre razze sono solitamente accettate, seppur non ben viste, da entrambi i popoli. Iniziano anche delle vere e proprie guerre territoriali, che rendono difficile ricostruire i confini dell'epoca.
-
 
 ## -5800
 <span data-date='-5800' data-name='Battaglia del Crepuscolo'></span>
@@ -67,9 +34,10 @@ Spinti dalla paura del nuovo e portentoso regno elfico a est, gli umani delle ci
 Fino a questo periodo, la magia era usata in maniera istintiva da individui capaci di connettersi naturalmente alla [[Scintilla]]. Stregoni, Bardi, Druidi e Chierici erano visti come fattucchieri dotati di potere, e spesso, specialmente nelle parti più rurali della penisola, visti come profeti o messia. 
 Intorno a questo anno però, si inizia a comprendere meglio il funzionamento della magia e della trama, e inizia a venire usata per scopi civili e militari.
 
+# Inizio dell'Età dei Due Regni
+
 ## - 1100
 Fondazione di [[Thurii]]. 
-
 
 ## -933
 [[Thurii]] viene annessa al [[Regno dell'Ovest]]. 
@@ -126,6 +94,7 @@ Durante la pestilenza, sia il Regno dell'Ovest che quello dell'Alba, iniziano a 
 A Est dei Pendici, nel Regno dell'Alba la situazione è particolarmente tragica: la popolazione elfica, che non si è mai ripresa dalla [[Battaglia del Crepuscolo]] a causa della lentezza con la quale si riproduce, è decimata dalla guerra e dalla pestilenza ed è ridotta a una decina di migliaia di individui. 
 
 Molte delle città elfiche del regno vengono abbandonate, e l'unico centro abitato ancora di dimensioni notevoli è [[Arum]], capitale del [[Regno dell’Alba|Aranië]].
+# Inizio dell'Età Comunale
 
 ## -628
 Muore, a causa della [[Febbre Indaco]], [[Solis]].
@@ -159,6 +128,7 @@ Ci vorranno comunque quasi 120 anni di trattative prima di ottenere un accordo c
 Il [[Regno dell’Alba]] e il [[Regno dell'Ovest]] firmano la pace, dando fine alla [[Guerra dei due Regni]]. 
 Iniziano subito le trattative per la formazione di un unico Regno, che rappresenti tutta Patriagis. 
 
+# Inizio dell'Età del Regno
 
 ## 0
 <span data-date='0-6-17' data-name="Fondazione del Regno di Patriagis"></span>
