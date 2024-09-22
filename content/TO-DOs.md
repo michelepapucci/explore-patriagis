@@ -39,3 +39,5 @@
 	- ~~Gli [[Elfi]] lasciarono liberi i [[Mezzuomini]] ma li costrinsero a ingenti tasse agricole per supportare gli sforzi di guerra, e impiantarono un governatore fedele all'[[Regno dell’Alba|Aranië]];~~
 	- ~~Tutto avvenuto realisticamente tra il [[Storia della Penisola di Patriagis#-900|-900]] e il [[Storia della Penisola di Patriagis#-641|-641]];~~
 
+
+

@@ -6,11 +6,17 @@ tags:
 
 ## -9000
 <span data-date='-9000' data-name='Primi Insediamenti'></span>
-In questo periodo la penisola è popolata da insediamenti che vanno dai villaggi a città-stato, perlopiù razziali, spesso arroccate intorno a rovine [[Nifilim]], che forniscono supporto e riparo alle città. 
+
+> [!event] [[Età Antica#-9000|-9000]]
+> 
+> A [[Patriagis]] nascono piccoli insediamenti, principalmente intorno a rovine [[Nifilim]].
 
 ## -6000
 <span data-date='-6000' data-name='Crescita'></span>
-In questo periodo città umane ed elfiche raggiungono uno sviluppo e un'estensione non indifferente. Le altre razze sono solitamente accettate, seppur non ben viste, da entrambi i popoli. Iniziano anche delle vere e proprie guerre territoriali, che rendono difficile ricostruire i confini dell'epoca.
+
+> [!event] [[Età Antica#- 6000|-6000]]
+> 
+> [[Umani]] e [[Elfi|elfi]] prendono il sopravvento numericamente sul resto delle razze. 
 
 ## -5800
 <span data-date='-5800' data-name='Battaglia del Crepuscolo'></span>
