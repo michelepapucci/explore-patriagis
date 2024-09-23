@@ -223,7 +223,7 @@ Una volta sconfitti i ragni, il gruppo poi raggiunge il percorso originale senza
 
 ## Arrivo a [[Filobello]]
 
-A Filobello possono trovare un [[Tempio di Tiche di Filobello|Tempio di Tiche]], la [[Locanda di Filobello]] e la [[Gilda dei Minatori di Filobello]]. 
+A Filobello possono trovare un [[Tempio di Tiche di Filobello|Tempio di Tiche]], la [[Il Riposo del Mercante]] e la [[Gilda dei Minatori di Filobello]]. 
 
 ## Arrivo alle [[Rovine di Archealbero]]
 

@@ -1,8 +1,4 @@
 ## To-Do
-- Creare una religione basata sul mare. 
-	- Creare il dio balena.
-	- Creare una serie di suoi servitori/semi dei, che sono adorati "localmente".
-	- Gli animali marini e i pesci acquatici sono suoi fedeli e "spie". Gli animali di mare sono a lui più fedeli e sono visti come più nobili nelle varie religioni legate ai suoi semidei.
 - ~~Trovare un nome migliore alle [[Incarnazioni|Anime Maggiori]], Incarnazioni?~~ 
 	- Sistemare gli [[Spiriti]] come uno dei sottotipi  possibili di [[Incarnazioni Minori|Incarnazione Minore]], ovvero quelle non create direttamente dalle Incarnazioni, ma quando un'Incarnazione lega a sé l'anima di un morto e gli da una forma. 
 - Finire [[L'origine]].
@@ -19,6 +15,27 @@
 - Definire meglio l'epoca cittadina che avviene tra il [[Storia della Penisola di Patriagis#- 630|-630]] e il [[Storia della Penisola di Patriagis#-200|-200]] in cui i due regni esistono ancora *ufficialmente* ma la maggior parte delle città diventa di fatto indipendente. Ispirarsi alle relazioni tra i comuni medievali italiani e il Sacro Romano Impero; 
 - In generale, dividere la [[Storia della Penisola di Patriagis]] in 4 epoche. L'epoca *prima* dei due regni, l'epoca dei due regni, l'epoca dei comuni e l'epoca contemporanea con la fondazione del [[Regno di Patriagis]]; 
 - Definire bene la [[Storia dell'uso della Scintilla a Patriagis]] come veniva utilizzata storicamente nei vari periodi (Regni, Comuni, [[Regno di Patriagis]]) nella vita di tutti i giorni, religiosamente e in guerra; 
+
+## To-Do Religioni
+- Creare una religione basata sul mare. 
+	- Creare il dio balena.
+	- Creare una serie di suoi servitori/semi dei, che sono adorati "localmente".
+	- Gli animali marini e i pesci acquatici sono suoi fedeli e "spie". Gli animali di mare sono a lui più fedeli e sono visti come più nobili nelle varie religioni legate ai suoi semidei.
+- Creare delle proto-credi per il [[Regno dell'Ovest]] e per l'[[Regno dell’Alba|Aranië]]:
+	- Per il Regno dell'Ovest, ispirarsi a culti romani in epoca monarchica Penati, Lari e Vesta come multitudine di divinità;
+		- Culti sul fine-vita;
+		- Come sta roba si integra con le [[Incarnazioni]], forse i Penati e i Lari sono [[Spiriti]] in qualche modo legati a [[Incarnazioni]] che aiutavano il regno per qualche motivo? 
+	- Per l'[[Regno dell’Alba|Aranië]] il fatto che la loro vita è molto lunga, forse ha un impatto minore sugli [[Elfi|elfi]] e le religioni sono più druidiche, legati alla natura, al riciclo. 
+		- Riti di fertilità, legati al fatto che gli [[Elfi|elfi]] si riproducono poco
+- Capire come si evolvono le varie religioni già descritte. 
+	- [[Solis]] probabilmente nasce da culti legati al raccolto e al sole. 
+		- Creare un Dio Sole? O comunque un culto specifico intorno alla luce solare;
+	- [[Ordine Immortale]] probabilmente va bene così, semplicemente sono un culto cavalleresco intorno ad una figura "vivente" e ben documentata e portano avanti [[Immeral]] nel suo fare.
+	- [[Tiche]] potrebbe essere una roba tipo un Penato/lari comune, che è rimasta particolarmente "famosa". Potrebbe essere un'[[Incarnazioni|Incarnazione]] da qualche parte che dona fortuna alle persone;
+	- [[Zurakenkultii]] probabilmente va bene così ma da rivedere. 
+	- [[Dogma]] va bene la radice storica, ma va un attimo rivisto il culto vero e proprio e come si è insediato. 
+- Capire le interazioni tra le varie religioni. 
+
 
 
 ## To-Do completati
