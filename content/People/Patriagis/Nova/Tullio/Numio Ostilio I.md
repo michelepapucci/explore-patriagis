@@ -8,5 +8,5 @@ tags:
   - RegnoPatriagis
   - Patriagis
 ---
-Figlio di [[Re Romio I dei Tullio|Re Romio I]] e 
+Figlio di [[Re Novio I dei Tullio|Re Novio I]] e 
 

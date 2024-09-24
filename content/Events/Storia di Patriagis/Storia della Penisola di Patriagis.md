@@ -68,7 +68,7 @@ L'[[Regno dell’Alba|Aranië]] finisce di annettere il resto del sud-est di [[P
 ## - 641
 
 > [!denied]- Segreto
-> [[Baldeus Romolio]] trova il Guardingo e lo porta a [[Nova]]. Ottiene il permesso da re [[Ancoria Larenzia]] del [[Regno dell'Ovest]] di sperimentare con la creatura.
+> [[Baldeus de Novoli]] trova il Guardingo e lo porta a [[Nova]]. Ottiene il permesso da re [[Ancoria Larenzia]] del [[Regno dell'Ovest]] di sperimentare con la creatura.
 
 
 ## -642
@@ -88,7 +88,7 @@ Nello stesso periodo, si forma un nucleo di maghi e oratori che formano il primo
 
 ## - 640
 <span data-date='-630' data-name="Riforma del Dogma"></span>
-Muore [[Baldeus Romolio]] a causa della [[Febbre Indaco]].
+Muore [[Baldeus de Novoli]] a causa della [[Febbre Indaco]].
 Il [[Dogma]] diventa una Chiesa fortemente gerarchica con l'elezione di [[Anastasio Dono]], primo [[Arcipio]] del [[Dogma]]. Nasce il Braccio Armato della chiesa: [[Spargiossa]], [[Incutipaura]], [[Tenente Mitrato|Tenenti Mitrati]] e viene nominato il primo [[Capo Maggiore del Braccio Armato del Dogma]]. 
 Lo stesso anno viene anche strutturata la parte più divulgativa e assistenziale del dogma in un ordine più rigoroso e con dei dettami precisi: [[Oratore|Oratori]] e [[Pio|Pii]].
 
@@ -152,13 +152,13 @@ Viene posto in legge il nuovo [[Calendario di Patriagis]] che pone all'anno zero
 
 
 ## 2
-<span data-date='2-10-24' data-name="Nascita di Romio I de Tullio"></span>
-Nasce [[Re Romio I dei Tullio]], il primo mezzelfo membro della famiglia reale [[Tullio]].
+<span data-date='2-10-24' data-name="Nascita di Novio I de Tullio"></span>
+Nasce [[Re Novio I dei Tullio]], il primo mezzelfo membro della famiglia reale [[Tullio]].
 
 
 ## 36
 <span data-date='36' data-name="Un Nuovo Re"></span>
-Re [[Andúnië Aravir]] muore all'età di 672 anni; la moglie Regina [[Stella Larenzia]] abdica in favore del figlio Re [[Re Romio I dei Tullio]], primo Re mezzelfo della famiglia [[Tullio]].
+Re [[Andúnië Aravir]] muore all'età di 672 anni; la moglie Regina [[Stella Larenzia]] abdica in favore del figlio Re [[Re Novio I dei Tullio]], primo Re mezzelfo della famiglia [[Tullio]].
 
 Questo viene socialmente considerato il vero punto di inizio del [[Regno di Patriagis]], che si lascia alle spalle il passato fatto di violenza razziale e abbraccia il futuro. Inoltre, le vecchie famiglie reali, rappresentate da [[Andúnië Aravir]] e da [[Stella Larenzia|Stella]], erano considerate ancorate al passato e non più rappresentative di una popolazione che aveva ormai abbracciato un vita non più legata a questioni di razza. 
 La popolazione di Patriagis infatti andando avanti di generazione in generazione è sempre più mezzelfa, sempre meno umana, e con poche migliaia di elfi purosangue ancora in vita. Le città sono fortemente diventate fortemente multiculturali e il razzismo è visto come un retaggio del passato.
@@ -171,13 +171,13 @@ Durante la formazione del [[Regno di Patriagis]], tutti i territori della peniso
 
 Il [[Regno di Ceneria]], [[Seormgrà]] la capitale dei [[Tiarna na Madraì|Tiarna]], [[Ta-Peara]] la città-perla dei Tritoni, capitale della [[Repubblica di Nén]], e molte altre con loro, si uniscono in un alleanza per chiedere pacificamente al [[Regno di Patriagis|Regno]], di lasciare i loro territori sulla penisola.
 
-L'alleanza, conosciuta come [[Popoli Liberi di Patriagis]], ottiene molti sostenitori anche tra gli abitanti del regno, che chiedono a gran voce a Re [[Re Romio I dei Tullio]] di lasciare ai popoli indigeni della penisola i loro territori ancestrali.
+L'alleanza, conosciuta come [[Popoli Liberi di Patriagis]], ottiene molti sostenitori anche tra gli abitanti del regno, che chiedono a gran voce a Re [[Re Novio I dei Tullio]] di lasciare ai popoli indigeni della penisola i loro territori ancestrali.
 
-Re Romio I annuncia quindi un consiglio speciale, dove il Re, i Sindaci di tutta Patriagis, e un rappresentante per ognuno di questi popoli tratteranno la questione.
+[[Re Novio I dei Tullio|Re Novio]] annuncia quindi un consiglio speciale, dove il Re, i Sindaci di tutta Patriagis, e un rappresentante per ognuno di questi popoli tratteranno la questione.
 
 
 ## 41
-A seguito del [[Gran Consiglio Speciale per i Popoli Liberi]], Re [[Re Romio I dei Tullio]] annuncia che ai [[Popoli Liberi di Patriagis]] viene concessa la custodia dei territori del Regno nel quale hanno sempre abitato. Essi potranno abitare e trasformare il territorio a loro concesso a proprio piacimento. Il Regno si impegna anche a non usufruire di questi terreni, se non previo accordo. 
+A seguito del [[Gran Consiglio Speciale per i Popoli Liberi]], Re [[Re Novio I dei Tullio]] annuncia che ai [[Popoli Liberi di Patriagis]] viene concessa la custodia dei territori del Regno nel quale hanno sempre abitato. Essi potranno abitare e trasformare il territorio a loro concesso a proprio piacimento. Il Regno si impegna anche a non usufruire di questi terreni, se non previo accordo. 
 I cittadini dei Popoli Liberi sono inoltre riconosciuti come cittadini del [[Regno di Patriagis|Regno]]. A garanzia di rispetto della loro cultura, i villaggi e le città dei Popoli Liberi non devono rispettare la normale struttura dei [[Comune|comuni]] della nazione. Viene inoltre loro concessa rappresentanza presso il [[Regio Consiglio]].
 I cittadini e le città dei Popoli Liberi hanno però gli stessi doveri dei normali cittadini e dei comuni, tra i quali il pagamento delle tasse reali e l'obbligo di difesa del Regno in caso di necessità. 
 
@@ -185,7 +185,7 @@ Inoltre, ogni popolo ha diritto ad un rappresentante presso il [[Popoli Liberi d
 
 
 ## 70
-[[Re Romio I dei Tullio|Re Romio I]] sposa [[Filomena de Romolio|FIlomena]] e nasce la famiglia [[Romolio]]. 
+[[Re Novio I dei Tullio|Re Novio I]] sposa [[Filomena de Novoli|FIlomena]] e nasce la famiglia [[Novoli]]. 
 
 
 ## 74
@@ -193,11 +193,11 @@ Nasce [[Numio Ostilio I]], erede al trono di [[Patriagis]].
 
 
 ## 112
-Muore la [[Filomena de Romolio|Regina Filomena]] in seguito ad un incidente in carrozza. 
+Muore la [[Filomena de Novoli|Regina Filomena]] in seguito ad un incidente in carrozza. 
 
 
 ## 178
-Muore [[Re Romio I dei Tullio]] e il figlio [[Numio Ostilio I|Numio Ostilio]] diventa nuovo re del [[Regno di Patriagis]]. 
+Muore [[Re Novio I dei Tullio]] e il figlio [[Numio Ostilio I|Numio Ostilio]] diventa nuovo re del [[Regno di Patriagis]]. 
 
 
 ## 622

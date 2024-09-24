@@ -1,1 +1,0 @@
-Fratello di [[Gaius de Romolio]], ultimo Mago del [[Dogma]] che conosceva la procedura per ricaricare i [[Lapisma]]. 

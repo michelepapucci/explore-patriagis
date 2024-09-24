@@ -1,0 +1,1 @@
+Fratello di [[Gaius de Novoli]], ultimo Mago del [[Dogma]] che conosceva la procedura per ricaricare i [[Lapisma]]. 

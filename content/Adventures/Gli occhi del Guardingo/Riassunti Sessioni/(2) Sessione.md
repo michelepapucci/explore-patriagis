@@ -13,7 +13,7 @@ Il professore ringrazia il gruppo e gli comunica che veglierà su Godfrey. Si ac
 Il gruppo si dirige poi a casa di Manistrad, dove comunicano con Zaldak che li avverte che non avendo fatto entrare Patric nella scuola non saranno pagati. E comunica loro che il giorno seguente sarebbero stati presi dall'[[Areonave]] con cui erano arrivati, ma che avrebbero dovuta dividerla con un altro gruppi di avventurieri.
 
 Il giorno seguente, il gruppo si dirige a [[Malporto]] e la esplora finché non incontra un gruppo, gli [[Squarciaviverne]]. Ognuno ha un breve scambio:
-- [[Gontràn de Larcher]] e [[Gaius de Romolio]] hanno un litigio sullo status delle loro famiglie; 
+- [[Gontràn de Larcher]] e [[Gaius de Novoli]] hanno un litigio sullo status delle loro famiglie; 
 - [[Dardul Solcacieli]] avverte [[Thodor Spezzaossa]] che ha ricevuto un avvertimento dal loro villaggio: solo uno dei due potrà rimanere in giro per [[Patriagis]], l'altro dovrà tornare a casa;
 - [[Despair]] e [[Archias di Turii]] hanno cominciato una gara di prese in giro;
 - [[Avra]], ha chiesto in maniera intimidatoria e retorica a [[Kalandyr]] dove fosse finito l'arcidruido [[Gwenc'hlan]]; 

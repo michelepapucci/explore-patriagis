@@ -51,7 +51,7 @@ Il contenuto della lettera è il seguente:
 > *Caro Grerres,* 
 > 
 > *come tu e pochi altri ben sanno, il tempo sta finendo.* 
-> *A Nova, non possiamo più permetterci di essere cauti. Stiamo continuando a cercare tra gli alunni del [[Consiglio Arcano di Patriagis]], ma nessun candidato sembra all'altezza di [[Atticus de Romolio|Atticus]]. Le indagini sulla sua scomparsa non sembrano ancora aver fruttato niente, ma non può essere una coincidenza che sia morto la sera prima del rituale.* 
+> *A Nova, non possiamo più permetterci di essere cauti. Stiamo continuando a cercare tra gli alunni del [[Consiglio Arcano di Patriagis]], ma nessun candidato sembra all'altezza di [[Atticus de Novoli|Atticus]]. Le indagini sulla sua scomparsa non sembrano ancora aver fruttato niente, ma non può essere una coincidenza che sia morto la sera prima del rituale.* 
 > 
 > *Spero che a [[Seormgrà]] stia andando tutto come previsto e che a breve [[Tadhg Spargimembra|Tadgh, Re]] ci permetta di utilizzare la sua forza militare nel caso in cui ce ne fosse bisogno.* 
 > 

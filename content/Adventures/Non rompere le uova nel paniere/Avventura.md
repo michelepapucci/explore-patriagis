@@ -8,15 +8,15 @@
 > Riportando la mente a [[Nova]], osservate le grandi mura cittadine che sovrastano, ignorati dal fiume, i [[Bassifondi di Nova|Bassifondi]] della città. Questi, schiacciati tra le mura e i colli, sembrano aggrapparsi con forza al terreno, quasi come se la città stesse cercando di sputarli via, lontani. 
 > Mentre le vostre menti divagavano, le vostre gambe raggiungono la cima, e venite accolti da un antico tempio [[Nifilim]]. Rimane poco dell'aspetto originale: il marmo del tempio è schiacciato da soppalchi e casupole in legno e mattone, che, seppur raffinate, appaiono come dei tumori attaccati alle sue superfici. Il pavimento, le pareti e persino il soffitto sono costernati da una bolgia di gilde e corporazioni i cui edifici sono ammassati vicini l'uno all'altro o collegati su più livelli da ponti e passerelle. In questo caos di edifici e persone che corrono indaffarate, sorge un luogo a voi caro e familiare: il [[Il Riposo del Macaco|Riposo del Macaco]] sede della [[Gilda degli Avventurieri di Nova]], capeggiata dal vostro capo e amico [[Zaldak Versabirra]]*. 
 
-Il gruppo entra nella locanda e assiste ad una lite tra due gruppi di avventurieri che si stanno facendo un nome di recente: gli [[Squarciaviverne]] e i [[Fendisquame]]. In particolare, [[Gaius de Romolio]] appartenente alla prima squadra ha di nuovo insultato la famiglia di [[Gontràn de Larcher]] appartenente all'altra. 
+Il gruppo entra nella locanda e assiste ad una lite tra due gruppi di avventurieri che si stanno facendo un nome di recente: gli [[Squarciaviverne]] e i [[Fendisquame]]. In particolare, [[Gaius de Novoli]] appartenente alla prima squadra ha di nuovo insultato la famiglia di [[Gontràn de Larcher]] appartenente all'altra. 
 A dividerli c'è [[Daikan Columna|Daikan]], uno dei fondatori dell'[[Orda d'Argento]], il più famoso e importante gruppo di avventurieri della nazione. 
 
 > [!info]- Famiglie di [[Nova]] e rivalità
-> La famiglia [[Romolio]] è una delle più importanti famiglie del [[Regno di Patriagis]] da quando [[Filomena de Romolio]] sposò il secondo re del regno, primogenito della allora appena fondata Famiglia [[Tullio]], [[Re Romio I dei Tullio|Re Romio I]].
+> La famiglia [[Novoli]] è una delle più importanti famiglie del [[Regno di Patriagis]] da quando [[Filomena de Novoli]] sposò il secondo re del regno, primogenito della allora appena fondata Famiglia [[Tullio]], [[Re Novio I dei Tullio|Re Novio I]].
 > 
-> La famiglia [[de Larcher]] ha origini antiche, come la famiglia [[Romolio]] che affondano fino al [[Regno dell'Ovest]] dove faceva parte dell'aristocrazia. Recentemente sembra però stiano affrontando problemi economici, nonostante questo, ha ancora profonde radici nel tessuto sociale: [[Gontràn de Larcher]] è un membro di successo della [[Gilda degli Avventurieri]], [[Jean de Larcher]] è un [[Oratore]] del [[Dogma]], [[Alain de Larcher]] è un membro dell'[[Ordine dei Cavalieri di Romio]] e [[Xavier de Larcher]] è attivo nelle politiche della città.  
+> La famiglia [[de Larcher]] ha origini antiche, come la famiglia [[Novoli]] che affondano fino al [[Regno dell'Ovest]] dove faceva parte dell'aristocrazia. Recentemente sembra però stiano affrontando problemi economici, nonostante questo, ha ancora profonde radici nel tessuto sociale: [[Gontràn de Larcher]] è un membro di successo della [[Gilda degli Avventurieri]], [[Jean de Larcher]] è un [[Oratore]] del [[Dogma]], [[Alain de Larcher]] è un membro dell'[[Ordine dei Cavalieri di Novio]] e [[Xavier de Larcher]] è attivo nelle politiche della città.  
 > 
-> La due famiglie non sono in aperto conflitto ma [[Gaius de Romolio]] e [[Gontràn de Larcher]] sono coetanei e di estrazione sociale simile, quindi sono cresciuti in ambienti limitrofi e sono rivali da anni. [[Gaius de Romolio]] ama prendere in giro [[Gontràn de Larcher]] che ritiene essere appartenente ad una famiglia ormai fallita e dimenticata. 
+> La due famiglie non sono in aperto conflitto ma [[Gaius de Novoli]] e [[Gontràn de Larcher]] sono coetanei e di estrazione sociale simile, quindi sono cresciuti in ambienti limitrofi e sono rivali da anni. [[Gaius de Novoli]] ama prendere in giro [[Gontràn de Larcher]] che ritiene essere appartenente ad una famiglia ormai fallita e dimenticata. 
 
 A dare una mano a [[Daikan Columna|Daikan]] c'è anche lo stesso [[Zaldak Versabirra|Zaldak]] che, finendo una lavata di capo ai due gruppi e, tira un sospiro di sollievo vedendovi: "*Finalmente, eccovi. Come vedete qua è sempre un delirio, spero che almeno voi oggi non mi darete delle grane.*.."
 
@@ -223,7 +223,7 @@ Una volta sconfitti i ragni, il gruppo poi raggiunge il percorso originale senza
 
 ## Arrivo a [[Filobello]]
 
-A Filobello possono trovare un [[Tempio di Tiche di Filobello|Tempio di Tiche]], la [[Il Riposo del Mercante]] e la [[Gilda dei Minatori di Filobello]]. 
+A Filobello possono trovare un [[Tempio di Tiche di Filobello|Tempio di Tiche]], la [[Lo Stufato Cuore d'Oro]] e la [[Gilda dei Minatori di Filobello]]. 
 
 ## Arrivo alle [[Rovine di Archealbero]]
 

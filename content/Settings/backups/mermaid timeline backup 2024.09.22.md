@@ -28,9 +28,9 @@ timeline
 		0: Il Re elfico Andúnië sposa la principesa umana Stella Larenzia, formando la nuova famiglia reale Tullio. 
 			: Nova diventa la capitale del Regno e la sede della monarchia.
 	    section Epoca d'Oro
-		2: Nasce Romio I dei Tullio, primo principe mezzelfo del Regno.
+		2: Nasce Novio I dei Tullio, primo principe mezzelfo del Regno.
 		36: Re Andúnië muore a 672 anni, e la moglie Stella abdica. 
-			: Romio I viene incoronato Re di Patriagis
+			: Novio I viene incoronato Re di Patriagis
 
 ```
 

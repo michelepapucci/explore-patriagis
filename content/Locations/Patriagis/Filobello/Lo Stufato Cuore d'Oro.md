@@ -12,7 +12,7 @@ La locanda è una delle poche strutture in mattoni della città di [[Filobello]]
 La Locanda è frequentata spesso dai minatori della [[Gilda dei Minatori di Filobello|Gilda locale]] che spesso vanno a bere dopo il lavoro. Il gruppo non ama i pochi forestieri[^1] e spesso si mettono a litigare con loro. 
 [[Berta Cuoredoro|Berta]] è spesso costretta ad intervenire calmando gli animi con fare materno.
 
-Solitamente in sala è presente [[Tessa]], la figlia di [[Berta Cuoredoro|Berta]] che oltre ad aiutare in cucina e come cameriera, nelle giornate più calme allieta la sala con la musica della sua arpa. 
+Solitamente in sala è presente [[Tessa Cuoredoro]], la figlia di [[Berta Cuoredoro|Berta]] che oltre ad aiutare in cucina e come cameriera, nelle giornate più calme allieta la sala con la musica della sua arpa. 
 
 ## Aspetto
 
@@ -41,5 +41,5 @@ Quando il [[Falso Monte]] è eruttato distruggendo la città di [[Archealbero]] 
 
 Questa locanda, una delle prime aperte, è riuscita a rimanere aperta grazie agli sforzi di [[Berta Cuoredoro|Berta]] e dei suoi genitori che hanno tenuto duro e, creando un luogo conviviale e piacevole, sono riusciti a creare uno zoccolo duro di clienti abituali che hanno sostenuto la locanda. 
 
----
+
 [^1]: [[Filobello]] si trova a nord del [[Passo del Castagnone]], che è uno dei passi montani più frequentati sulle [[Pendici]]. Solitamente, da lì, i viaggiatori scendono dalle montagne e si recano a sud verso [[Arum]], o continuano verso est o nord-est lungo la costa. Per raggiungere [[Filobello]] è invece necessario scendere verso ovest, e poi risalire (se si arriva da [[Nova]]). Arrivando da est, il percorso è più semplice, ma comunque la scarsa quantità di punti interessi attivi nelle vicinanze lo rende un posto ormai poco battuto. Un tempo non era così, quando [[Archealbero]] aveva ancora un fruttuoso mercato archeologico, [[Filobello]] era uno scalo imprescindibile per recarsi al crocevia che portava a [[Nova]] o ad [[Arum]].
