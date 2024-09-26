@@ -1,0 +1,1 @@
+È la sede di [[Filobello]] della [[Corporazione dei Taglialegna e dei Falegnami]]. 
