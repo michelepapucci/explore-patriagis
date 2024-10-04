@@ -1,4 +1,4 @@
-Spada nella roccia nei pressi di [[Millepozzi]].
+[[Incarnazioni|Incarnazione]] che si manifesta come una spada senziente incastonata in una roccia nei pressi di [[Millepozzi]].
 
 
 ### Note

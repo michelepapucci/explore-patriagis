@@ -3,6 +3,4 @@ aliases:
   - Re Numio
   - Numio
 ---
-
-
-Attuale Re di Patriagis.
+Membro della famiglia reale [[Tullio]], è l'attuale Re di [[Patriagis]].

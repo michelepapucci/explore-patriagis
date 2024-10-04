@@ -1,3 +1,7 @@
+---
+Livello: "5"
+Luogo Iniziale: "[[Nova]]"
+---
 ## A Nova
 
 > [!quote] Nova

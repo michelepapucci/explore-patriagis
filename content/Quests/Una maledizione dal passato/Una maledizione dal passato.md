@@ -1,3 +1,7 @@
+---
+Livello: "3"
+Luogo Iniziale: "[[Nova]]"
+---
 *Siete a Nova, nella capitale del [[Regno di Patriagis]], fondato nell'omonima penisola. Al limitare della splendida [[Piana Marittima]] e a un tiro di schioppo dai [[Pendici]] si trova [[Nova]], la più grande e importante metropoli della nazione. Siete su uno dei suoi cinque colli, quello conosciuto come Colle dei Mestieri, dove hanno sede tutte le corporazioni e tutte le gilde della città, oltre che a un fiorente mercato costruito sulle sue pendici. Qua si trova [[Il Riposo del Macaco]], una Locanda costruita all'interno delle rovine di un antico tempio gigante ed è anche la sede della [[Gilda degli Avventurieri di Nova]], dove il vostro capo e fondatore della gilda, [[Zaldak Versabirra]], vi ha convocato per una missione.*
 
 [[Zaldak Versabirra]] accoglie il gruppo di avventurieri al [[Il Riposo del Macaco|Riposo del Macaco]] e comunica loro che è stato deciso che per "farsi" le ossa, verranno mandati dove c'è più bisogno. Il gruppo infatti verrà spostato nella succursale della Gilda a [[Tronh]] uno degli ultimi baluardi di [[Patriagis]] prima delle terre selvagge. 
