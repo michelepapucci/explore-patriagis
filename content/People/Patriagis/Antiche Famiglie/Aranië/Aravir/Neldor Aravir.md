@@ -2,7 +2,7 @@
 tags:
   - Aranië
   - FamigliaReale
-Razza: "[[Elfi|Elfo]]"
+Specie: "[[Elfi|Elfo]]"
 Compleanno: 
 Nascita A.P.: 
 Morte A.P.:

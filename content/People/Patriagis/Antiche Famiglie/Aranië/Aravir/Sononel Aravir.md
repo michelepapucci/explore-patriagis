@@ -3,7 +3,7 @@ tags:
   - Aranië
   - FamigliaReale
   - WIP
-Razza: "[[Elfi|Elfo]]"
+Specie: "[[Elfi|Elfo]]"
 Compleanno: 
 Nascita A.P.: 
 Morte A.P.: "[[Storia della Penisola di Patriagis#-905|-905]]"

@@ -3,7 +3,7 @@ aliases:
   - Kalys
 tags:
   - Giocatore
-Razza: "[[Umani|Umano]]"
+Specie: "[[Umani|Umano]]"
 Classe: Ladro
 ---
 

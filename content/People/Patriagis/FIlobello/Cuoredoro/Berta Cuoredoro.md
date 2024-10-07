@@ -1,7 +1,7 @@
 ---
 aliases:
   - Berta
-Razza: "[[Umani|Umana]]"
+Specie: "[[Umani|Umana]]"
 ---
 ![[Pasted image 20240926162456.png]]
 

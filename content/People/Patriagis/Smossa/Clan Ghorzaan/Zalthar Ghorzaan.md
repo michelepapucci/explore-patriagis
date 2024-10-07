@@ -1,5 +1,5 @@
 ---
-Razza: "[[Dragonidi|Dragonide]]"
+Specie: "[[Dragonidi|Dragonide]]"
 aliases:
   - Zalthar
 ---

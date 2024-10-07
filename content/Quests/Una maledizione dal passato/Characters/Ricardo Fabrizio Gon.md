@@ -1,6 +1,6 @@
 ---
 aliases:
   - Ricardo
-Razza: "[[Umani|Umano]]"
+Specie: "[[Umani|Umano]]"
 Classe: Ranger
 ---

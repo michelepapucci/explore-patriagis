@@ -1,5 +1,5 @@
 ---
-Razza: "[[Umani|Umano]]"
+Specie: "[[Umani|Umano]]"
 Nascita A.P.:
 ---
 È l'attuale capostipite della famiglia [[Viaferri]] e, in quanto tale, anche il direttore della [[Viaferri Trasporti]]. 

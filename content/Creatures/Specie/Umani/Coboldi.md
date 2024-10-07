@@ -1,4 +1,4 @@
-I coboldi sono la seconda e più comune razza draconica che abita le terre di Patriagis, essi sono arrivati dalle terre a est, nella regione dove ora sorge [[Garoth-Mùk]], e attraversando il [[Mare Stretto]] hanno raggiunto la penisola. 
+I coboldi sono la seconda e più comune specie draconica che abita le terre di Patriagis, essi sono arrivati dalle terre a est, nella regione dove ora sorge [[Garoth-Mùk]], e attraversando il [[Mare Stretto]] hanno raggiunto la penisola. 
 
 Grazie alla loro discendenza, sono stati fin subito rispettati, specialmente nel sud della Penisola, dove dopo il devasto causato dalla [[Febbre Indaco]], l’arrivo di questa stirpe draconica fu visto come un segno positivo.
 

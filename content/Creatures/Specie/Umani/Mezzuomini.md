@@ -6,8 +6,8 @@ aliases:
   - mezzadonna
   - Mezzadonna
 tags:
-  - Razza
   - WIP
+  - Specie
 ---
 Le comodità di casa sono l'obbiettivo della maggior parte dei mezzuomini: un posto dove dilettarsi nelle proprie attività in pace, con la pancia piena, un fuoco caldo, buon vino e ottima compagnia. 
 

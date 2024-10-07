@@ -16,7 +16,7 @@ tags:
 
 > [!event] [[Età Antica#- 6000|-6000]]
 > 
-> [[Umani]] e [[Elfi|elfi]] prendono il sopravvento numericamente sul resto delle razze. 
+> [[Umani]] e [[Elfi|elfi]] prendono il sopravvento numericamente sul resto delle specie. 
 
 ## -5800
 <span data-date='-5800' data-name='Battaglia del Crepuscolo'></span>

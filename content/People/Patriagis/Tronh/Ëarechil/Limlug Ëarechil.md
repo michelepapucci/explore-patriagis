@@ -1,7 +1,7 @@
 ---
 aliases:
   - Limlug
-Razza: "[[Elfi|Elfo]]"
+Specie: "[[Elfi|Elfo]]"
 Classe: Chierico
 Livello: "3"
 Dominio: Luce

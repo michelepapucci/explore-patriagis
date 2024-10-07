@@ -2,7 +2,7 @@
 aliases:
   - Novio I
   - Re Novio I
-Razza: "[[Mezzelfi|Mezzelfo]]"
+Specie: "[[Mezzelfi|Mezzelfo]]"
 tags:
   - Patriagis
   - RegnoOvest

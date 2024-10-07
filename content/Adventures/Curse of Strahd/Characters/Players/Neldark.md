@@ -1,6 +1,6 @@
 *Il mio nome è Neldark, e provengo dalla città di Arum.
 Non sono esattamente nato, mi hanno anzi creato ed è stato Zatim a farlo: lui è quindi mio padre, oltre che un fabbro. 
-Da quello che ho appreso sentendo i racconti a proposito di altri esemplari della mia razza (Lapismatum) è che il loro scopo è generalmente associato all’uso privato da ricchi signori. Zatim si è, invece, sempre impegnato molto perché la nostra fosse sentita come una famiglia: non esistevo infatti solo io. Zatim ha creato svariati esemplari o, meglio, figli.
+Da quello che ho appreso sentendo i racconti a proposito di altri esemplari della mia specie (Lapismatum) è che il loro scopo è generalmente associato all’uso privato da ricchi signori. Zatim si è, invece, sempre impegnato molto perché la nostra fosse sentita come una famiglia: non esistevo infatti solo io. Zatim ha creato svariati esemplari o, meglio, figli.
 Vivevamo tutti nella stessa grotta, ricavata nelle fondamenta di una casetta nella periferia di Arum, inizialmente non mi sono mai chiesto perché avessimo quello stile di vita, per quanto mi riguardava era il quotidiano; tuttavia, quando iniziai ad apprendere “le norme del mondo” osservando altri cittadini iniziai a notare delle discrepanze.
 Anzitutto non tutti i padri mascheravano i loro figli quando se li portavano appresso per visitare il mercato o condurre transazioni in città; bensì li lasciavano liberi di correre e scorrazzare in giro. 
 -Cosa significa?-

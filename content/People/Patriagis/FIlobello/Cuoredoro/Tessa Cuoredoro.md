@@ -1,7 +1,7 @@
 ---
 aliases:
   - Tessa
-Razza: "[[Mezzelfi|Mezzelfa]]"
+Specie: "[[Mezzelfi|Mezzelfa]]"
 Classe: Stregone
 Livello: "1"
 ---

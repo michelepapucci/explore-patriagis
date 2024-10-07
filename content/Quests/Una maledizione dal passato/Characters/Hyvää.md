@@ -1,11 +1,9 @@
 ---
 aliases:
   - Hyvää
-Razza: "[[Umani|Umano]]"
+Specie: "[[Umani|Umano]]"
 Classe: Paladino
 ---
-
-
 ## Background
 
 *"Il bene risiede nel cuore di ogni creatura, anche la più oscura. Se questa non si dimostra pronta, però, sarà giusto annientarla, così che non impedisca la nascita del bene in coloro che gli stanno attorno"*

@@ -1,5 +1,5 @@
 ---
 Classe: Artificiere
-Razza: "[[Umani|Umano]]"
+Specie: "[[Umani|Umano]]"
 Livello: "5"
 ---

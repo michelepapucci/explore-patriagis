@@ -1,5 +1,5 @@
 ---
-Razza: "[[Umani|Umano]]"
+Specie: "[[Umani|Umano]]"
 Classe: Chierico
 tags:
   - Giocatore

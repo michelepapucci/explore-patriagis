@@ -28,7 +28,7 @@ L'ambientazione descrive la penisola di Patriagis e i suoi dintorni. La storia d
 
 - Geografia e Topografia dettagliata;
 - Cronologia e Storia ben definite;
-- Numero di razze e società diverse, con costumi, tradizioni e lingue ben definite; 
+- Numero di specie e società diverse, con costumi, tradizioni e lingue ben definite; 
 - Magia come il fuoco di Prometeo, qualcosa che ha cambiato tutto (e il [[Lapisma]] come secondo evento simile) nel bene e nel male. Qualcosa di rubato a qualcos'altro; 
 - Assenza di provvidenza e di divinità, le religioni sono puramente frutto e mezzo di tradizioni e cultura; 
 - Tutti sono artefici del proprio destino in un mondo che tende verso la decadenza. 

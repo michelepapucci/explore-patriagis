@@ -6,7 +6,7 @@ La città sorge su 5 ampi colli, ed è costruita arroccata sulle rovine, scavand
 L'architettura Nifilim è un'architettura di stampo puramente classico, mentre quella di Nova, costruita su di esso, varia da edifici puramente aziendali, a sfarzose copie di quest'architettura classica, abbellite d'oro e altri sfarzi. 
 
 La popolazione è principalmente fatta di Mezzelfi e Umani. Il regno di Patriagis nasce dall'unione di due antichi regni (Il regno dell'Ovest e il Regno dell'Alba), uno umano e uno elfico, che, dopo anni di guerre, si accordarono per una storica pace ormai più di 700 anni fa. 
-Le due razze, convivendo, si sono incrociate, e gli elfi purosangue sono quasi estinti. Piccoli paradisi della razza elfica esistono ancora, così come resiste una comunità aristocratica dell'antico regno elfico, ma, per le strade si vedono poco. Il resto delle razze, per quanto minoritarie, è presente e integrata, e in generale si può dire che il regno, ma Nova in particolare, è fortemente multiculturale. 
+Le due specie, convivendo, si sono incrociate, e gli elfi purosangue sono quasi estinti. Piccoli paradisi della specie elfica esistono ancora, così come resiste una comunità aristocratica dell'antico regno elfico, ma, per le strade si vedono poco. Il resto delle specie, per quanto minoritarie, è presente e integrata, e in generale si può dire che il regno, ma Nova in particolare, è fortemente multiculturale. 
 
 **Politica**. 
 La città è gestita dall'organo politico denominato Comune, al cui capo c'è un Sindaco che viene eletto ogni 6 mesi da chiunque faccia un mestiere. Il diritto di voto è pertanto esclusivo a chi è iscritto ad una Gilda o ad una Corporazione. 

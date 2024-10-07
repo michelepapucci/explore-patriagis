@@ -2,7 +2,7 @@
 aliases:
   - Regina Filomena
   - FIlomena
-Razza: "[[Mezzelfi|Mezzelfo]]"
+Specie: "[[Mezzelfi|Mezzelfo]]"
 Nascita A.P.: "-1"
 Morte A.P.: "112"
 tags:

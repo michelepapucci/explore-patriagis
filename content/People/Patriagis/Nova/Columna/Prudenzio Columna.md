@@ -1,5 +1,5 @@
 ---
-Razza: "[[Mezzelfi|Mezzelfo]]"
+Specie: "[[Mezzelfi|Mezzelfo]]"
 tags:
   - WIP
 ---

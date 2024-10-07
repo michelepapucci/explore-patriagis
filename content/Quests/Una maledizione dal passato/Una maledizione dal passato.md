@@ -82,7 +82,7 @@ Poi, continua: "*Questi sono gli eroi che ci ha inviato mio padre, e gli stavo g
 [[Limlug Ëarechil|Limlug]] spiega quindi ai giocatori la situazione nel dettaglio:
 
 > [!info]
-> *Da circa due mesi, un morbo che affligge ogni razza di umanoide ha cominciato a manifestarsi, apparentemente a caso. Non sembra preferire i giovani o gli anziani, né donne rispetto agli uomini o viceversa. In paese lo chiamano semplicemente **il morbo**. Al momento non ci sono ancora state vittime, ma il morbo debilita in maniera estremamente severa il corpo e la mente delle persone, costringendole a letto e a essere servite e curate. 
+> *Da circa due mesi, un morbo che affligge ogni specie di umanoide ha cominciato a manifestarsi, apparentemente a caso. Non sembra preferire i giovani o gli anziani, né donne rispetto agli uomini o viceversa. In paese lo chiamano semplicemente **il morbo**. Al momento non ci sono ancora state vittime, ma il morbo debilita in maniera estremamente severa il corpo e la mente delle persone, costringendole a letto e a essere servite e curate. 
 > Eravamo con le spalle al muro, ma, forse, [[Clarissa Versabirra|Clarissa]] ha trovato una direzione in cui investigare. Abbiamo notato che le vittime del morbo, cadono malate **solo di notte**, e che la città è stata colpita come un onda, da nord-est a sud-ovest. Noi, trovandoci vicino al porto, non siamo ancora entrati nella zona di contagio.
 > Tracciando l'origine di questa concentrica onda di pestilenza, abbiamo capito che il suo centro si trova nel [[Bosco di Tronh]] a nord-est di qui, in una zona conosciuta tra i cittadini come [[Boschetto del Crepuscolo]], sulla quale fin da bambini siamo istruiti ad evitare, poiché su di essa girano antiche superstizioni.*
 

@@ -3,7 +3,7 @@ aliases:
   - Klaus
   - Rettore della Scuola di Specializzazione in Necromanzia
   - Rettore
-Razza: "[[Elfi|Elfo]]"
+Specie: "[[Elfi|Elfo]]"
 Classe: Mago
 ---
 Klaus è un potente mago al servizio del [[Consiglio Arcano di Patriagis]]. È il rettore della [[Scuola di Specializzazione in Necromanzia di Malporto]]. 

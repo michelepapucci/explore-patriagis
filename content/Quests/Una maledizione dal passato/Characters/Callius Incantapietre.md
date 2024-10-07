@@ -1,6 +1,6 @@
 ---
 tags:
   - Giocatore
-Razza: "[[Mezzelfi|Mezzelfo]]"
+Specie: "[[Mezzelfi|Mezzelfo]]"
 Classe: Stregone
 ---

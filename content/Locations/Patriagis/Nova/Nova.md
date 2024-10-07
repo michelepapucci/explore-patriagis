@@ -1,7 +1,7 @@
 Nova è la capitale del [[Regno di Patriagis]], che occupa la maggior parte dell'omonima penisola, ed è il più importante e popoloso centro tecnologico e culturale del regno. Nasce sulle rovine di un'antica città Nifilim, un popolo di giganti, estinti, di cui non si sa praticamente nulla. La città sorge su 5 ampi colli, ed è arroccata sulle antiche rovine dei giganti nelle quali sono state scavate case, negozi e vie negli antichi resti, creando piani e soppalchi sui giganti templi abbandonati e poggiando strutture e mercati sulle gigantesche scalinate che salgono i colli. L'architettura [[Nifilim]] è un'architettura di stampo puramente classico, mentre quella di Nova, costruita su di esso, varia da edifici aziendali, a sfarzose copie di quest'architettura classica, abbellite con oro e altri sfarzi. 
 
 La popolazione è principalmente fatta di [[Mezzelfi]] e [[Umani]].
-Il [[Regno di Patriagis]] nasce da due antichi regni, uno umano e uno elfico, che dopo anni di guerre firmarono una storica pace. Le due razze, convivendo, si sono incrociate e gli elfi purosangue sono quasi estinti a causa di quest'unione. Il resto delle razze, per quanto minoritarie, è presente e integrata, e in generale si può dire che il regno, ma Nova in particolare, è fortemente multiculturale. 
+Il [[Regno di Patriagis]] nasce da due antichi regni, uno umano e uno elfico, che dopo anni di guerre firmarono una storica pace. Le due specie, convivendo, si sono incrociate e gli elfi purosangue sono quasi estinti a causa di quest'unione. Il resto delle specie, per quanto minoritarie, è presente e integrata, e in generale si può dire che il regno, ma Nova in particolare, è fortemente multiculturale. 
 
 ## Politica
 

@@ -6,5 +6,5 @@ aliases:
   - umane
   - Umane
 tags:
-  - Razza
+  - Specie
 ---

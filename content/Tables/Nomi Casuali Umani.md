@@ -1,4 +1,4 @@
-Seguire i seguenti step per generare casualmente un nome di un personaggio di [[Patriagis]]. Questi nomi sono più comunemente usati per [[Umani]], [[Mezzuomini]], [[Mezzelfi]] e [[Dragonidi]]. Raramente sono usati per le altre razze. 
+Seguire i seguenti step per generare casualmente un nome di un personaggio di [[Patriagis]]. Questi nomi sono più comunemente usati per [[Umani]], [[Mezzuomini]], [[Mezzelfi]] e [[Dragonidi]]. Raramente sono usati per le altre specie. 
 
 ## 1. Formula
 

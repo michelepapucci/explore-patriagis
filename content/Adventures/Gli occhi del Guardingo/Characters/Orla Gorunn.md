@@ -6,7 +6,7 @@ tags:
   - Giocatore
 ---
 Nome: Orla Gorunn
-Razza: Nana
+Specie: Nana
 Classe: Paladina
 Background: Mercenaria
 Allineamento: Legale Buono

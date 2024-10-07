@@ -7,7 +7,7 @@ aliases:
   - Angonothlir
   - angonothlir
 tags:
-  - Razza
+  - Specie
 Nifilim: Draconi-facti
 Elfico: Angonothlir
 Nanesco: Jarletzylum
@@ -19,7 +19,7 @@ Il loro antico nome, *Draconi-facti*, è ancora in uso, specie nelle regioni a s
 
 ## Vita e Società
 
-I dragonidi sono una razza rara e misteriosa, guardata con estremo rispetto e, a volte, timore. In antichità, molti Dragonidi venivano adorati come sacerdoti e sciamani, e, nei luoghi più remoti della penisola, questi umanoidi sono ancora trattati con venerazione, e il loro arrivo è visto come il centro di speculazioni superstiziose. 
+I dragonidi sono una specie rara e misteriosa, guardata con estremo rispetto e, a volte, timore. In antichità, molti Dragonidi venivano adorati come sacerdoti e sciamani, e, nei luoghi più remoti della penisola, questi umanoidi sono ancora trattati con venerazione, e il loro arrivo è visto come il centro di speculazioni superstiziose. 
 
 Ad oggi, i dragonidi vivono solitamente in piccoli [[Clan di Dragonidi|clan]] e sono totalmente leali ad essi. Il benessere del clan viene prima di tutto, perché solo uniti possono attraversare le difficoltà del mondo. I Clan basano tutto sull'onore che ogni membro porta ad esso, e sono spesso strutturati in una maniera gerarchica e rigida.
 

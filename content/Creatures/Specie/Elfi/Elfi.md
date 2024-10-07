@@ -12,8 +12,8 @@ aliases:
   - elfa
   - Elfa
 tags:
-  - Razza
   - WIP
+  - Specie
 ---
 Gli elfi sono creature dalla natura magica con una forte connessione alla natura. Essi rappresentano le forze naturali sia nella loro bellezza, sia nella loro forza e resilienza. Solitamente amano la bellezza e la natura, l’arte e l’artigianato, la musica e la poesia. 
 Gli elfi hanno solamente dei tratti fini e graziosi, e sono solitamente giudicati come molto attraenti. Sono più magri e slanciati degli umani e hanno la pelle che va dal bronzo, al bianco marmoreo;  i capelli sono solitamente verdi, castani o grigi, tendenti al blu. 

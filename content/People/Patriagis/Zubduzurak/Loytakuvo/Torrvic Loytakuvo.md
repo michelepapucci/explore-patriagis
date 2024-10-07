@@ -2,7 +2,7 @@
 aliases:
   - Torrvic Trovapietre
   - Torrvic
-Razza: "[[Nani|Nano]]"
+Specie: "[[Nani|Nano]]"
 tags:
   - Zubduzurak
   - Nova
