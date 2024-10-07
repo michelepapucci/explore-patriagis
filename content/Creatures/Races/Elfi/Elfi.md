@@ -9,6 +9,8 @@ aliases:
   - elfica
   - Elfiche
   - elfiche
+  - elfa
+  - Elfa
 tags:
   - Razza
   - WIP
