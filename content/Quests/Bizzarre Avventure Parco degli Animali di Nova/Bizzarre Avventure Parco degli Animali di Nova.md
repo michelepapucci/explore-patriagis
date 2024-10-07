@@ -2,7 +2,12 @@
 Livello: "3"
 Luogo Iniziale: "[[Nova]]"
 ---
-[[Parco degli Animali di Nova]]
+## Ottenere la missione
+
+Fino a che la questione non viene risolta o per 10 giorni, quando il *polpo* decide che la missione che si è prefissato è troppo complessa, ogni giorno vengono messi sulla [[La Gazzetta di Nova]] degli annunci in cerca di qualcuno che risolva il problema:
+
+> [!book] Cercasi Investigatori
+> La Famiglia [[Iucundi]] è in cerca di esperti investigatori per mettere luce su dei bizzarri avvenimenti al [[Parco degli Animali di Nova]]. Per avere informazioni o accettare il lavoro, recarsi presso il Parco in orario di apertura e chiedere di 
 
 ## La notte al Parco
 

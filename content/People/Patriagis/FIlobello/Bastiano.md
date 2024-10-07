@@ -1,7 +1,9 @@
 ---
 Razza: "[[Mezzelfi|Mezzelfo]]"
 Nascita A.P.: 
-Morte A.P.:
+Morte A.P.: 
+aliases:
+  - Bastiano, detto "Buon Bastiano"
 ---
 Bastiano è stato il marito di [[Berta Cuoredoro]]. È morto in gioventù, a circa 78 anni in seguito ad un incidente: la casa nella quale viveva con la moglie  la neonata [[Tessa Cuoredoro|Tessa]] prese improvvisamente fuoco e, per salvare la famiglia dalle fiamme, rimase sotto una trave che, consumata, gli cadde addosso.
 
