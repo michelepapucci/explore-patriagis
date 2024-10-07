@@ -223,7 +223,8 @@ Molti dei Soprannomi nascono dal mestiere svolto dalla persona.
 55. Il/La Biondo/a
 56. Il/La Rosso/a
 57. Il/La Volpone/Volpona
-59. Barbarossa
+58. Barbarossa
+59. Barbaviola
 60. Barbabionda
 61. Barbanera
 62. Il/La Brutto/a
