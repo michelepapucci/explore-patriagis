@@ -1,0 +1,1 @@
+È la sede operativa e decisionale del [[Consiglio Arcano di Patriagis]], si trova a [[Nova]] sul [[Colle Favilla]]. 

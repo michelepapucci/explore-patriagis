@@ -1,0 +1,1 @@
+È il corpo di [[Guardia Cittadina]] della città di [[Nova]], sotto il controllo del [[Comune di Nova]]. 

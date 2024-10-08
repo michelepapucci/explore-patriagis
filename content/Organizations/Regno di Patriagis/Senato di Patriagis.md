@@ -1,0 +1,1 @@
+Composto dai [[Sindaco|Sindaci]] del [[Regno di Patriagis]], si riunisce annualmente. 
