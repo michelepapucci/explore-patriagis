@@ -1,1 +1,0 @@
-È la sede centrale della [[Gilda dei Commercianti]] e si trova a [[Nova]], sul [[Colle dei Mestieri]]. 

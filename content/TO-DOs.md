@@ -11,11 +11,18 @@
 	- [[Columna]]
 	- [[de Larcher]]
 	- [[Viaferri]]
+	- [[Iucundi]]
+	- [[Arum]]
 - Cambiare nome al popolo [[Area del Tufo]]; 
 - Definire meglio l'epoca cittadina che avviene tra il [[Storia della Penisola di Patriagis#- 630|-630]] e il [[Storia della Penisola di Patriagis#-200|-200]] in cui i due regni esistono ancora *ufficialmente* ma la maggior parte delle città diventa di fatto indipendente. Ispirarsi alle relazioni tra i comuni medievali italiani e il Sacro Romano Impero; 
 - In generale, dividere la [[Storia della Penisola di Patriagis]] in 4 epoche. L'epoca *prima* dei due regni, l'epoca dei due regni, l'epoca dei comuni e l'epoca contemporanea con la fondazione del [[Regno di Patriagis]]; 
 - Definire bene la [[Storia dell'uso della Scintilla a Patriagis]] come veniva utilizzata storicamente nei vari periodi (Regni, Comuni, [[Regno di Patriagis]]) nella vita di tutti i giorni, religiosamente e in guerra; 
-- Lavorare ad una campagna sandbox a Nova.
+- Lavorare ad una campagna sandbox a [[Nova]].
+- Per le Gilde e Corporazioni prendere ispirazione da [qui](https://it.wikipedia.org/wiki/Arti_di_Firenze) e:
+	- Creare una pagina "Gilde e Corporazioni" spiegare cosa sono, che poteri hanno ecc; 
+	- Capire se dividerli in "minori" e "maggiori" come nel caso fiorentino;
+	- Creare le pagine di tutte le gilde importanti;
+	- Capire quali gilde *fantasy* potrebbero nascere;
 
 
 ## To-Do Religioni

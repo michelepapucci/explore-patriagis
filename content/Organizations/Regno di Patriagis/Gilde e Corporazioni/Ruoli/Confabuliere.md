@@ -1,0 +1,2 @@
+Il Confabuliere di un [[Gilde, Corporazioni o Arti|arte]] è il capo del [[Gilde, Corporazioni o Arti#Rettorato|Rettorato]].
+Viene eletto da un voto tra i [[Rettori]] dell'[[Gilde, Corporazioni o Arti|arte]] ed è colui che da indirizzo politico al resto del Rettorato. 

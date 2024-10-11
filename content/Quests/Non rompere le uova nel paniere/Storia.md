@@ -1,4 +1,4 @@
-Un anno fa, un gruppo di archeologi guidati da due fratelli [[Umani|umani]], [[Fildrit]] l'artificiere e [[Yvun]] il mago, decisero di partire alla volta delle [[Rovine di Archealbero]] per continuare quello che la [[Gilda degli Archeologi di Archealbero]] aveva iniziato anni prima quando [[Torrvic Loytakuvo]] scoprì il [[Lapisma]]. 
+Un anno fa, un gruppo di archeologi guidati da due fratelli [[Umani|umani]], [[Fildrit]] l'artificiere e [[Yvun]] il mago, decisero di partire alla volta delle [[Rovine di Archealbero]] per continuare quello che la [[Gilda degli Archeologi e degli Artificieri di Archealbero]] aveva iniziato anni prima quando [[Torrvic Loytakuvo]] scoprì il [[Lapisma]]. 
 
 [[Yvun]] e [[Fildrit]] avevano molti progetti insieme, ma, per realizzarli, era necessario reperire fondi e [[Lapisma]]. 
 

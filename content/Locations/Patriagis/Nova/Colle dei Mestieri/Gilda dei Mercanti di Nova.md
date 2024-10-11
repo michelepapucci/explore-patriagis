@@ -1,0 +1,1 @@
+È la sede centrale della [[Gilda dei Mercanti]] e si trova a [[Nova]], sul [[Colle dei Mestieri]]. 

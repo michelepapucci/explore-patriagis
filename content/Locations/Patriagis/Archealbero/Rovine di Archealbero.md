@@ -3,4 +3,4 @@ Le Rovine di [[Archealbero]] sono ciò che resta della città dopo l'eruzione ne
 
 Intorno alla piazza, sono ancora parzialmente integre la [[Chiesa di Archealbero]] e il [[Municipio di Archealbero]]. Intorno, le strutture di mattoni, come case, negozi e attività sono perlopiù fracassate, senza tetti e con muri quasi totalmente crollati. Il poco che si è salvato è stato poi razziato negli anni. 
 
-Particolarmente colpita dai razziatori fu la [[Gilda degli Archeologi di Archealbero]] proprio perché si occupava di scavare e vedere [[Lapisma]]. 
+Particolarmente colpita dai razziatori fu la [[Gilda degli Archeologi e degli Artificieri di Archealbero]] proprio perché si occupava di scavare e vedere [[Lapisma]]. 
