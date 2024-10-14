@@ -4,6 +4,10 @@ aliases:
   - giudice
   - Notaio
   - notaio
+tags:
+  - Gilda
+  - Arte
+  - Corporazione
 ---
 È una delle [[Gilde, Corporazioni o Arti#Arti Maggiori|Arti Maggiori]] del [[Regno di Patriagis]]. La sua sede centrale è a [[Nova]]. 
 Si occupa di gestire e sorvegliare i diritti e i doveri delle due professioni di Giudice e di Notaio. 

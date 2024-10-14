@@ -12,6 +12,10 @@ aliases:
   - gilde
   - corporazioni
   - corporazione
+tags:
+  - Gilda
+  - Corporazione
+  - Arte
 ---
 Le Gilde, corporazioni o arti sono associazioni laiche nate per la difesa ed il perseguimento di scopi comuni che riuniscono gli appartenenti ad una stessa categoria professionale o di persone che esercitano lo stesso mestiere. 
 
@@ -20,11 +24,16 @@ L'ingresso alla gilda o alla corporazione è legato da precise condizioni che no
 - Dare prova della propria abilità artigiana al consiglio di rettori e pagare una tassa di iscrizione;
 - Essere nominati dirittamente dal [[Confabuliere]] dell'arte;
 
+Similmente anche l'accesso al [[#Rettorato|Rettorato]] e la sua nomina può variare da Gilda a Gilda. Qua sono riportate le pratiche più comuni che possono essere considerate la norma. 
+
 ## Rettorato
 
 Il Rettorato di una Gilda è un organo elettivo. I membri anziani dell'Arte, durante una riunione annuale possono candidarsi per svolgere il ruolo di [[Rettori|Rettore]]. 
 
 I [[Rettori]] hanno potere esecutivo sullo *Statuto* dell'Arte, e funge anche da organo giudiziario per emettere sentenze nelle controversie tra i membri, (queste, nelle [[Gilde, Corporazioni o Arti#Arti Maggiori|Arti Maggiori]], sono inappellabili). Lo *Statuto* di un'arte ha pieno valore di legge nei confronti dei membri dell'arte e i trasgressori su cui viene emessa una sentenza vengono trattati di pari grado a chi infrange le leggi del [[Comune]] o del [[Regno di Patriagis]]. 
+
+La Gilde solitamente hanno molte sedi che fanno a capo alla loro sede centrale dove si riuniscono i [[Rettori]] e il [[Confabuliere]]. A capo delle succursali c'è un [[Ambasciatore dell'Arte]], solitamente scelto tra i membri della Gilda che lavorano nel [[Comune]] della sede, che svolge il ruolo del Rettorato per materie urgenti locali (ad esempio urgenti controversie tra i membri) che non possono aspettare l'opinione del Rettorato centrale. 
+Gli [[Ambasciatore dell'Arte|Ambasciatori dell'Arte]] sono nominati personalmente dal [[Confabuliere]]. 
 
 Lo *Statuto* ha lo scopo di proteggere i propri membri dalla concorrenza di altri stati o di persone non appartenenti alla corporazione, e garantivano la qualità del lavoro con un'attenta opera di supervisione sulle diverse botteghe. Si occupa inoltre di organizzare l'orario di lavoro, stabilendo i giorni festivi, alcuni servizi pubblici e si occupa dell'organizzazione di fiere e mercati. Inoltre, alcune Arti ingaggiano membri della [[Guardia Cittadina]] allo scopo di reprimere le frodi e proteggere le vie delle botteghe durante la notte.
 
@@ -42,7 +51,7 @@ Non tutte le [[Gilde, Corporazioni o Arti|Gilde]] hanno pari dignità sono *Sett
 
 Le Arti Maggiori raggiungono questo status per antichità, ricchezza o meriti. Le prime 5, furono le prime Arti a nascere, la sesta e la settima sono state nominate tali dal [[Senato di Patriagis]] sotto le pressioni dei [[Sindaco|Sindaci]] delle città dove queste erano particolarmente forti. 
 
-Rispetto alle Arti Minori, le Arti Maggiori, oltre ad uno status simbolicamente più alto, godevano del fatto che le sentenze emesse nei confronti dei propri membri erano *inappellabili*. Inoltre godevano di maggior potere nel [[Tribunale della Mercatanzia]]. 
+Rispetto alle Arti Minori, le Arti Maggiori, oltre ad uno status simbolicamente più alto, godevano del fatto che le sentenze emesse nei confronti dei propri membri erano *inappellabili*. Inoltre godevano di maggior potere nel [[Tribunale della Mercanzia]]. 
 
 ## Arti Minori
 
@@ -62,4 +71,4 @@ Le Arti Minori sono *Quattordici*:
 13. Gilda dei Maestri e degli Scriba;
 14. Arte dei Carpentieri;
 
-Le Arti Minori hanno uno status inferiore alle Maggiori e hanno meno potere nel [[Tribunale della Mercatanzia]]. Nonostante questo, non è detto che siano, specialmente in alcuni territori, considerate meno importanti o possiedano meno potere. 
+Le Arti Minori hanno uno status inferiore alle Maggiori e hanno meno potere nel [[Tribunale della Mercanzia]]. Nonostante questo, non è detto che siano, specialmente in alcuni territori, considerate meno importanti o possiedano meno potere. 

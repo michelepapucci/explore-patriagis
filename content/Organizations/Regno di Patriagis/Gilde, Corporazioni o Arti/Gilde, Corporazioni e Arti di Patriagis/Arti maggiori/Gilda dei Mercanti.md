@@ -1,3 +1,11 @@
+---
+aliases:
+  - Gilda
+tags:
+  - Gilda
+  - Arte
+  - Corporazione
+---
 La Gilda dei mercanti è una delle [[Gilde, Corporazioni o Arti#Arti Maggiori|Arti Maggiori]] del [[Regno di Patriagis]]. La sua sede centrale è a [[Nova]]. Si occupa di garantire diritti e doveri degli iscritti, che sono solitamente importatori di merci, per lo più grezze, da altri [[Comune|Comuni]] del [[Regno di Patriagis|Regno]] o dall'estero. 
 
 La Gilda dei Mercanti è una delle più antiche e potenti del [[Regno di Patriagis]]. Diverse città devono alla gilda la loro veloce espansione e ricchezza, come la stessa [[Nova]], ma anche più recentemente [[Malporto]] o [[Arum]]. 
@@ -17,7 +25,7 @@ La [[Gilda dei Mercanti]] si occupa dell'importazione e esportazione principalme
 
 ## Mercati e Guardia Cittadina
 
-La Gilda dei Mercanti si occupa, insieme ad altre [[Gilde, Corporazioni o Arti|arti]], di organizzare il [[Mercato Terrazzato]] di [[Nova]] e altri Mercati in giro per il [[Regno di Patriagis]] (Esempio: il [[Mercato di Smossa]]). 
+La Gilda dei Mercanti si occupa, insieme ad altre [[Gilde, Corporazioni o Arti|arti]], come l'[[Arte del Cambio]], di organizzare il [[Mercato Terrazzato]] di [[Nova]] e altri Mercati in giro per il [[Regno di Patriagis]] (Esempio: il [[Mercato di Smossa]]). 
 
 Oltre all'organizzazione, in diversi [[Comune|Comuni]], come [[Nova]], [[Smossa]], [[Arum]] e [[Malporto]], la Gilda finanzia e addestra una divisione della [[Guardia Cittadina]], chiamata la [[Guardia della Mercanzia]], che è parte della normale [[Guardia Cittadina]], ma che svolge degli incarichi specifici per la Gilda. Alcuni di questi incarichi sono la repressione delle frodi e la protezione dei Mercati, soprattutto di notte. 
 
