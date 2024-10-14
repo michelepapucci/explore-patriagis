@@ -1,0 +1,3 @@
+È una divisione della [[Guardia Cittadina]] presente in alcune città. È finanziata dalla [[Gilda dei Mercanti]]. Fa parte della normale [[Guardia Cittadina]] ma, all'occorrenza, svolge degli incarichi specifici per la [[Gilda dei Mercanti|Gilda]]. Alcuni di questi incarichi sono la repressione delle frodi e la protezione dei Mercati, soprattutto di notte. 
+
+Nonostante siano parte della [[Guardia Cittadina]], più volte i membri di questa Guardia hanno preso parte e si sono schierati a favore della [[Gilda dei Mercanti]] durante scontri tra le [[Gilde, Corporazioni o Arti|arti]] e l'Aristocrazia di [[Nova]], mentre la normale [[Guardia Cittadina]], sotto il comando del [[Comune]], resta in disparte.

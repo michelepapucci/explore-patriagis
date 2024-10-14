@@ -32,12 +32,12 @@ Lo *Statuto* ha lo scopo di proteggere i propri membri dalla concorrenza di altr
 
 Non tutte le [[Gilde, Corporazioni o Arti|Gilde]] hanno pari dignità sono *Sette* le Arti Maggiori:
 
-1. Arte dei Giudici e dei Notai;
+1. [[Arte dei Giudici e dei Notai]];
 2. [[Gilda dei Mercanti]];
-3. Arte del Cambio;
-4. Arte della Lana, della Seta, dei Vaiai e Pellicciai;
-5. Gilda dei Medici, degli Speziali e degli Alchimisti;
-6. Gilda dei Fabbri, Corazzai e Spadai;
+3. [[Arte del Cambio]];
+4. [[Arte della Lana, della Seta, dei Vaiai e Pellicciai]];
+5. [[Gilda dei Medici, degli Speziali e degli Alchimisti]];
+6. [[Gilda dei Fabbri, Corazzai e Spadai]];
 7. [[Gilda degli Archeologi e degli Artificieri]];
 
 Le Arti Maggiori raggiungono questo status per antichità, ricchezza o meriti. Le prime 5, furono le prime Arti a nascere, la sesta e la settima sono state nominate tali dal [[Senato di Patriagis]] sotto le pressioni dei [[Sindaco|Sindaci]] delle città dove queste erano particolarmente forti. 
