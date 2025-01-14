@@ -14,7 +14,6 @@ Una parte continua a studiare materie teoriche, e oltre ad un vero e proprio lav
 
 Una parte continua l'addestramento monastico e entra a far parte delle *Guardie del Sol* che si occupano di difendere il monastero.
 
-
 ## Relazione col resto della Penisola
 
 Le comunità monastiche della Fratellanza hanno solitamente ottimi rapporti con le città vicine ([[Sol]] e [[Thurii]]) con le quali son fondamentalmente legate ed integrate. Ai monaci è concesso visitare le città e solitamente prestano anche servizio ai cittadini qualora ce ne sia la necessità. 
