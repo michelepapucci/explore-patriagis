@@ -12,7 +12,7 @@ Thurii è una città nel sud-est di [[Patriagis]]. La città è oggi famosa poic
 
 Oltre ai motivi religiosi, [[Thurii]] è anche meta culturale, è infatti la città dove è proliferata l'arte teatrale a [[Patriagis]] ed è oggi sede di un prestigioso collegio bardico: il [[Canto dei Satiri]]. 
 
-## Storia della Città nel periodo 
+## Storia della Città nell'Età Antica
 
 Thurii è una città molto antica, e si crede sia stata fondata intorno all'anno [[Storia della Penisola di Patriagis#- 1100|-1100]] A.P. come villaggio rurale da delle famiglie di [[Mezzuomini|mezzuomini]]. Essi l'hanno abitata ininterrottamente e in relativa pace per almeno qualche centinaio di anni, finché accettarono nel [[Storia della Penisola di Patriagis#-933|-933]] di entrare nel [[Regno dell'Ovest]]. Questa decisione fu presa poiché pressati dai pirati del [[Mare Stretto]] lontani dalle coste e con continue incursioni da nord da parte dell'[[Regno dell’Alba|Aranië]] che, per contrastare il [[Regno dell'Ovest]] stava cercando velocemente di annettere tutto l'est della penisola, crebbero sarebbe stato un buon deterrente per evitare conflitti con gli [[Elfi|elfi]] a nord.
 
@@ -22,7 +22,7 @@ Questo funzionò almeno per qualche decennio, fino a che i due regni nel [[Stori
 
 Nel [[Storia della Penisola di Patriagis#-905|-905]] A.P. l'[[Regno dell’Alba|Aranië]] sferra il primo attacco a [[Thurii]] ma viene valorosamente respinta. 
 Entro la fine dell'anno, il regno sferra un secondo attacco e riesce a rompere una breccia nelle porte della città: riescono a saccheggiarla e a tenerla per poche settimane, prima che una ferocie ribellione popolare scaccia l'invasore di nuovo verso nord. 
-Durante la ribellione, una banda di [[Mezzuomini|mezzuomini]] (conosciuta poi come *Banda dei sette* si scontra nel centro città con una carovana [[Elfi|elfica]] arrivata da [[Arum]]. La banda riesce a sconfiggere alcuni tra i migliori combattenti dell'[[Regno dell’Alba|Aranië]] e, in seguito, affronta e uccide in battaglia Re [[Sononel Aravir]], l'allora re dell'[[Regno dell’Alba|Aranië]]. 
+Durante la ribellione, una banda di [[Mezzuomini|mezzuomini]] (conosciuta poi come *Banda dei sette*) si scontra nel centro città con una carovana [[Elfi|elfica]] arrivata da [[Arum]]. La banda riesce a sconfiggere alcuni tra i migliori combattenti dell'[[Regno dell’Alba|Aranië]] e, in seguito, affronta e uccide in battaglia Re [[Sononel Aravir]], l'allora re dell'[[Regno dell’Alba|Aranië]]. 
 
 Nei primi mesi del [[Storia della Penisola di Patriagis#-904|-904]] A.P. l'[[Regno dell’Alba|Aranië]] concentra i suoi sforzi militari verso [[Thurii]]. Il neo-incoronato re [[Neldor Aravir]] cerca vendetta per il padre e decide che, prima di poter chiudere i conti con il [[Regno dell'Ovest]] puntando alla sua capitale, [[Nova]], è necessario unificare l'est della penisola sotto l'[[Regno dell’Alba|Aranië]] in modo da avere i [[Pendici]] come confine naturale col nemico. 
 

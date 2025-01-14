@@ -48,6 +48,6 @@ Nel tempo, il [[Dogma]], ormai sicuro di sé, è rimasto con un solo mago alla v
 Circa due mesi prima dell'inizio della campagna, l'ultimo mago rimasto al Dogma, [[Atticus de Novoli]], è stato assassinato. 
 
 Manca meno di un mese al risveglio del mostro, e l'[[Arcipio]], estremamente paranoico, sta facendo di tutto per impedire o controllare il suo risveglio:
-- Sta organizzando i suoi ranghi militari con estremo rigore, addestrando anche molti degli [[Oratori]] come chierici;
+- Sta organizzando i suoi ranghi militari con estremo rigore, addestrando anche molti degli [[Oratore|oratori]] come chierici;
 - Sta mandando membri importanti del suo rango, i [[Pio]], in varie zone di [[Patriagis]] per recuperare alleati e armate, pronte nel caso in cui ci fosse da combattere questa minaccia; 
 - Sta cercando maghi talentuosi, ai quali far studiare gli antichi testi di [[Baldeus de Novoli]] per insegnargli [[Sonno Perenne di Baldeus]] e ri-addormentare il Beholder. 
