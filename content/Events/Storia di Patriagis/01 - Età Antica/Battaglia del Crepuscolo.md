@@ -52,7 +52,7 @@ Negli anni a seguire la fondazione di [[Tronh]], spiriti dei morti degli [[Ëarw
 
 Negli anni, l'odio *reale* tra gli [[Ëarechil]] e gli [[Erynar]] venne meno, ma continuarono la loro farsa per appagare gli spiriti dei morti che osservavano poco più a nord-est, sul campo di battaglia sul quale erano morti. Nel frattempo, il [[Bosco di Tronh]] reclamò quel campo, e quella zona infestata prese il nome popolare di [[Boschetto del Crepuscolo]], e veniva evitata dai cittadini di [[Tronh]]. 
 
-La Battaglia del Crepuscolo è stata la più grande guerra civile elfica mai registrata. Il numero di morti stimato è di circa 9000 elfi. Considerata la nota difficoltà di riproduzione degli [[Elfi|elfi]], ci vorranno secoli prima che questo popolo torni ad essere un numero considerevole, anche dopo l'unificazione dell'[[Regno dell’Alba|Aranië]]. 
+La Battaglia del Crepuscolo è stata la più grande guerra civile elfica mai registrata. Il numero di morti stimato è di circa 9000 elfi. Considerata la nota difficoltà di riproduzione degli [[Elfi|elfi]], ci vorranno secoli prima che questo popolo torni ad essere un numero considerevole, anche dopo l'unificazione dell'[[Aranië|Aranië]]. 
 
 La città di [[Tronh]] rimane un importante bacino della specie elfica. Tutt'oggi, nonostante sia quasi estinta in tutta [[Patriagis]], a Tronh gli elfi sono una importante minoranza di una popolazione a maggioranza [[Mezzelfi|mezzelfa]]. 
 

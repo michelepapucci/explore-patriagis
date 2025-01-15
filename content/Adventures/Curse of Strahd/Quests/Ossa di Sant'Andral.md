@@ -202,7 +202,7 @@ I giocatori possono invece entrare nella bottega in uno dei seguenti modi:
 #### Recuperare le Ossa
 Le ossa sono state nascoste come descritto in N6e. La camera da letto di Henrik.  L'armadio nell'angolo sud-est ha uno scomparto segreto alla base, che richiede una prova di Saggezza (Percezione) con CD 15 per essere trovato. All'interno dello scomparto ci sono due sacchi: uno grande contenente le ossa di Sant'Andral e uno piccolo contenente 30 sp e 12 ep. Tutte le monete recano il volto profilato di [[Strahd von Zarovich]].
 Tuttavia, [[Volenta Popofsky]] ha aggiunto due ulteriori protezioni allo scomparto segreto dell'armadio.
-- una [[trappola ad ago avvelenato]], che si attiva se non si preme il pannello di legno sotto al quale è presente lo scomparto. 
+- una [[Trappola ad Ago Avvelenato]], che si attiva se non si preme il pannello di legno sotto al quale è presente lo scomparto. 
 - un filo nascosto attaccato all'asse che protegge lo scomparto, che si collega a un allarme alla base dello scomparto, dalla forma vagamente simile alla testa del giocattolaio [[Gadolf Blinsky]], con tanto di cappello da giullare e campanelli.
 Il filo nascosto può essere identificato prima che lo scomparto sia completamente aperto con una prova di Intelligenza (Investigazione) a CD 20 riuscita e disarmato con una prova di Destrezza (Attrezzi da ladro) a CD 20 riuscita.
 L'apertura dello scomparto senza disattivare il filo o il tentativo fallito di disarmarlo fa sì che il rumorista strilli ripetutamente “*Non è divertente, non è Blinsky!*” per 1 minuto, allertando i vampiri in N6f. Nido di vampiri.

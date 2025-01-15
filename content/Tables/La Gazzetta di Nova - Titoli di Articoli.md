@@ -18,7 +18,7 @@ Personaggi:
 3. L'[[Arcipio]] [[Sabiniano II]]
 4. [[Thyron Viaferri II]] 
 5. Il famoso [[Daikan Columna|Daikan]]
-6. Re [[Numio Ostilio III]] 
+6. Re [[Numio Ostilio III Tullio]] 
 7. Un promettente gruppetto di avventurieri
 8. Qualcuno che assomoglia a [[Zaldak Versabirra]]
 9. [[Tracco (Il Pissero)|Il Pissero]]

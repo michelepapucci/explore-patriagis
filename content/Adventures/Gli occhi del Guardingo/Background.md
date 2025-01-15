@@ -17,9 +17,9 @@ Grazie a questo potere, in una notte, [[Baldeus de Novoli]] creò, sulla cima di
 
 La paura che il Beholder si potesse svegliare lo rendeva paranoico e Baldeus iniziò quindi a raccogliere alcuni giovani maghi e a impiegare i loro talenti per creare una sorta di turnazione per tenere la bestia addormentata. Tutto nella massima segretezza. 
 
-Nel tentativo di fare carriera nel [[Regno dell'Ovest]], [[Baldeus de Novoli]] propose al re dell'epoca, [[Ancoria Larenzia]], di sfruttare la creatura per sconfiggere il [[Regno dell’Alba]] con il quale erano in guerra all'epoca. Il Re acconsentì. 
+Nel tentativo di fare carriera nel [[Regno dell'Ovest]], [[Baldeus de Novoli]] propose al re dell'epoca, [[Ancoria Larenzia]], di sfruttare la creatura per sconfiggere il [[Aranië]] con il quale erano in guerra all'epoca. Il Re acconsentì. 
 
-Baldeus usò i suoi poteri per manifestare immagini di elfi che svenivano e morivano, e il [[Regno dell’Alba]] in rovina.
+Baldeus usò i suoi poteri per manifestare immagini di elfi che svenivano e morivano, e il [[Aranië]] in rovina.
 
 Per giorni non si ebbero notizie, finché, dal confine, non arrivarono notizie di una terribile pestilenza che stava decimando la popolazione elfica al di là dei [[Pendici]]. Inizialmente, [[Baldeus de Novoli|Baldeus]] gioì, finché non lesse che questa terribile pestilenza era contagiosa e si stava già spargendo nel [[Regno dell'Ovest]]. 
 
@@ -34,7 +34,7 @@ Baldeus, contrasse infine la [[Febbre Indaco]] e perì nel -640. La turnazione d
 Anastasio istituì formalmente la religione del [[Dogma]] e tutti i principi ancora oggi in uso. In particolare, per quanto il segreto del Guardingo fosse ancora ben nascosto a chi non era nei ranghi più alti della Chiesa, fece in modo che in pochissimi sapessero la verità. 
 Istituì due ranghi principali della chiesa, uno Oratorio, con lo scopo di divulgare il dogma, di come la violenza porti altra violenza e di come questa vada evitata o prevenuta a qualsiasi costo, e uno militare a difesa della chiesa e per punire i violenti. [[Anastasio Dono]] aveva una visione chiara per il [[Dogma]], aveva ben visto il potere che le parole della religione avevano sul popolo e di come si insediavano, e conosceva altrettanto bene i poteri del Beholder.
 
-Sfruttando questi fattori, espanse la chiesa al di là dei confini del [[Regno dell'Ovest]], raggiungendo anche il [[Regno dell’Alba]] e [[Zubduzurak]]. 
+Sfruttando questi fattori, espanse la chiesa al di là dei confini del [[Regno dell'Ovest]], raggiungendo anche il [[Aranië]] e [[Zubduzurak]]. 
 
 Istituì una potente organizzazione religiosa, con forti radici sul territorio, che gli garantiva un enorme potere anche sulle varie famiglie reali. 
 La priorità, ovviamente, era tenere a dormire il Guardingo, e per farlo, istituì un terzo ramo segreto della Chiesa, che si occupava di istruire maghi alla magia necessaria per tenere il Guardingo addormentato e per sfruttarne il potere. 

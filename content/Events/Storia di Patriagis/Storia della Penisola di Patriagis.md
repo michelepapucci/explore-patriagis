@@ -30,7 +30,7 @@ In questo stesso periodo, i Nani che vivono nel nord-ovest della penisola fondan
 
 ## -5500
 <span data-date='-5500' data-name="Fondazione Regno dell'Alba e dell'Ovest"></span>
-Dopo la fine della Battaglia del Crepuscolo, gli elfi della parte est di Patriagis, dai [[Pendici]], fino al [[Mare Stretto]], fondano un enorme regno chiamato [[Regno dell’Alba]], o *Aranië*, in elfico. 
+Dopo la fine della Battaglia del Crepuscolo, gli elfi della parte est di Patriagis, dai [[Pendici]], fino al [[Mare Stretto]], fondano un enorme regno chiamato [[Aranië]], o *Aranië*, in elfico. 
 
 Spinti dalla paura del nuovo e portentoso regno elfico a est, gli umani delle città a ovest dei Pendici, si unificano sotto il [[Regno dell'Ovest]].
 
@@ -50,20 +50,20 @@ Fondazione di [[Thurii]].
 
 ## -906
 <span data-date='-900' data-name="Inizio della Guerra"></span>
-Il [[Regno dell’Alba]] e il [[Regno dell'Ovest]] entrano in uno stato di guerra aperta e continua per motivi di espansione. La guerra consiste principalmente in schermaglie lungo i [[Pendici]], e nel sud della penisola, che era interamente controllato dal [[Regno dell'Ovest]]. Inizialmente però però nessuno dei due regni sembra avanzare. 
+Il [[Aranië]] e il [[Regno dell'Ovest]] entrano in uno stato di guerra aperta e continua per motivi di espansione. La guerra consiste principalmente in schermaglie lungo i [[Pendici]], e nel sud della penisola, che era interamente controllato dal [[Regno dell'Ovest]]. Inizialmente però però nessuno dei due regni sembra avanzare. 
 
 L'ammontare dei morti è ignoto, ma si crede che sia nell'ordine delle centinaia di migliaia per tutta la durata della guerra.
 
 ## -905
-L'[[Regno dell’Alba|Aranië]] attacca [[Thurii]] due volte, ma viene respinta. 
-In battaglia muore [[Sononel Aravir]] re dell'[[Regno dell’Alba|Aranië]]. 
+L'[[Aranië|Aranië]] attacca [[Thurii]] due volte, ma viene respinta. 
+In battaglia muore [[Sononel Aravir]] re dell'[[Aranië|Aranië]]. 
 
 ## -904
 Viene incoronato 
-L'[[Regno dell’Alba|Aranië]] sposta molte delle sue forze a sud verso [[Thurii]] e la conquista annettendola al [[Regno dell’Alba]]. 
+L'[[Aranië|Aranië]] sposta molte delle sue forze a sud verso [[Thurii]] e la conquista annettendola al [[Aranië]]. 
 
 ## -899
-L'[[Regno dell’Alba|Aranië]] finisce di annettere il resto del sud-est di [[Patriagis]] al suo potere. 
+L'[[Aranië|Aranië]] finisce di annettere il resto del sud-est di [[Patriagis]] al suo potere. 
 
 ## - 641
 
@@ -73,7 +73,7 @@ L'[[Regno dell’Alba|Aranië]] finisce di annettere il resto del sud-est di [[P
 
 ## -642
 <span data-date='-642' data-name="Febbre Indaco"></span>
-In questo anno colpisce la penisola la terribile [[Febbre Indaco]]. L'epidemia divaga velocemente dal [[Regno dell'Ovest]] al [[Regno dell’Alba]], sterminando decine di migliaia di persone. 
+In questo anno colpisce la penisola la terribile [[Febbre Indaco]]. L'epidemia divaga velocemente dal [[Regno dell'Ovest]] al [[Aranië]], sterminando decine di migliaia di persone. 
 
 I nani di [[Zubduzurak]] riescono, grazie alla loro posizione e a una repentina chiusura dei loro contatti con il mondo esterno, ad uscire illesi dall'epidemia.
 
@@ -99,7 +99,7 @@ Durante la pestilenza, sia il Regno dell'Ovest che quello dell'Alba, iniziano a 
 
 A Est dei Pendici, nel Regno dell'Alba la situazione è particolarmente tragica: la popolazione elfica, che non si è mai ripresa dalla [[Battaglia del Crepuscolo]] a causa della lentezza con la quale si riproduce, è decimata dalla guerra e dalla pestilenza ed è ridotta a una decina di migliaia di individui. 
 
-Molte delle città elfiche del regno vengono abbandonate, e l'unico centro abitato ancora di dimensioni notevoli è [[Arum]], capitale del [[Regno dell’Alba|Aranië]].
+Molte delle città elfiche del regno vengono abbandonate, e l'unico centro abitato ancora di dimensioni notevoli è [[Arum]], capitale del [[Aranië|Aranië]].
 # Inizio dell'Età Comunale
 
 ## -628
@@ -108,7 +108,7 @@ I suoi pellegrini aprono le prime [[Casa del Mattino|Case del Mattino]] e nasce 
 
 ## -400
 <span data-date='-400' data-name="Crescita della popolazione Mezzelfa"></span>
-Intorno a questo periodo, la maggior parte della popolazione vive in città stato sparse per la regione, senza alcuna lealtà od obbligo verso le famiglie reali del [[Regno dell’Alba]] e del [[Regno dell'Ovest]]. 
+Intorno a questo periodo, la maggior parte della popolazione vive in città stato sparse per la regione, senza alcuna lealtà od obbligo verso le famiglie reali del [[Aranië]] e del [[Regno dell'Ovest]]. 
 
 Le città combattono tra di loro per territorio e per risorse, ma sviluppano anche legami commerciali e militari. Specialmente le città intorno ai [[Pendici]], indifferenti alla loro precedente appartenenza ai due regni, iniziano a collaborare data la loro vicinanza. 
 
@@ -117,12 +117,12 @@ Nel giro di tre generazioni, la demografia di queste città cambia:
 * A est invece, molte famiglie di umani partono per ripopolare le città elfiche abbandonate o semi-abbandonate dopo la pestilenza. Mescolandosi con i locali rimasti, queste città diventano velocemente a maggioranza mezzelfa, portando lentamente all'estinzione gli elfi purosangue rimasti. 
 
 <span data-date='-240' data-name="Arum è a maggioranza mezzelfa"></span>
-Persino la capitale del [[Regno dell’Alba]], [[Arum]], intorno al -240 è a maggioranza mezzelfa. 
+Persino la capitale del [[Aranië]], [[Arum]], intorno al -240 è a maggioranza mezzelfa. 
 
 
 ## -200
 <span data-date='-200' data-name="Fine ufficiale della Guerra"></span>
-In questi anni, i nani di [[Zubduzurak]] fanno forte pressioni alle famiglie reali del [[Regno dell’Alba]] e del [[Regno dell'Ovest]] per porre fine ufficialmente alla [[Guerra dei due Regni]], che comunque non viene più seriamente combattuta dal almeno 400 anni. 
+In questi anni, i nani di [[Zubduzurak]] fanno forte pressioni alle famiglie reali del [[Aranië]] e del [[Regno dell'Ovest]] per porre fine ufficialmente alla [[Guerra dei due Regni]], che comunque non viene più seriamente combattuta dal almeno 400 anni. 
 
 I nani vogliono una Patriagis unita sotto un'unica nazione: nuove sfide arrivano da fuori la penisola, e ci vuole una nazione forte e unita per combatterle. 
 
@@ -131,7 +131,7 @@ Ci vorranno comunque quasi 120 anni di trattative prima di ottenere un accordo c
 
 ## -80
 <span data-date='-80' data-name="Firma della Pace"></span>
-Il [[Regno dell’Alba]] e il [[Regno dell'Ovest]] firmano la pace, dando fine alla [[Guerra dei due Regni]]. 
+Il [[Aranië]] e il [[Regno dell'Ovest]] firmano la pace, dando fine alla [[Guerra dei due Regni]]. 
 Iniziano subito le trattative per la formazione di un unico Regno, che rappresenti tutta Patriagis. 
 
 # Inizio dell'Età del Regno
@@ -153,12 +153,12 @@ Viene posto in legge il nuovo [[Calendario di Patriagis]] che pone all'anno zero
 
 ## 2
 <span data-date='2-10-24' data-name="Nascita di Novio I de Tullio"></span>
-Nasce [[Re Novio I dei Tullio]], il primo mezzelfo membro della famiglia reale [[Tullio]].
+Nasce [[Re Novio I Tullio]], il primo mezzelfo membro della famiglia reale [[Tullio]].
 
 
 ## 36
 <span data-date='36' data-name="Un Nuovo Re"></span>
-Re [[Andúnië Aravir]] muore all'età di 672 anni; la moglie Regina [[Stella Larenzia]] abdica in favore del figlio Re [[Re Novio I dei Tullio]], primo Re mezzelfo della famiglia [[Tullio]].
+Re [[Andúnië Aravir]] muore all'età di 672 anni; la moglie Regina [[Stella Larenzia]] abdica in favore del figlio Re [[Re Novio I Tullio]], primo Re mezzelfo della famiglia [[Tullio]].
 
 Questo viene socialmente considerato il vero punto di inizio del [[Regno di Patriagis]], che si lascia alle spalle il passato fatto di violenza razziale e abbraccia il futuro. Inoltre, le vecchie famiglie reali, rappresentate da [[Andúnië Aravir]] e da [[Stella Larenzia|Stella]], erano considerate ancorate al passato e non più rappresentative di una popolazione che aveva ormai abbracciato un vita non più legata a questioni di razza. 
 La popolazione di Patriagis infatti andando avanti di generazione in generazione è sempre più mezzelfa, sempre meno umana, e con poche migliaia di elfi purosangue ancora in vita. Le città sono fortemente diventate fortemente multiculturali e il razzismo è visto come un retaggio del passato.
@@ -167,17 +167,17 @@ La popolazione di Patriagis infatti andando avanti di generazione in generazione
 ## 40
 È in questo clima che vari popoli come i [[Tiarna na Madraì]] e i [[Tritoni]], decidono di far sentire la loro voce.
 
-Durante la formazione del [[Regno di Patriagis]], tutti i territori della penisola sono stati considerati di proprietà del regno. Questo però comprende molti territori che non sono mai appartenuti né a [[Zubduzurak]], né al [[Regno dell’Alba]], né al [[Regno dell'Ovest]], né tanto meno a qualche città stato parte delle trattative. 
+Durante la formazione del [[Regno di Patriagis]], tutti i territori della penisola sono stati considerati di proprietà del regno. Questo però comprende molti territori che non sono mai appartenuti né a [[Zubduzurak]], né al [[Aranië]], né al [[Regno dell'Ovest]], né tanto meno a qualche città stato parte delle trattative. 
 
 Il [[Regno di Ceneria]], [[Seormgrà]] la capitale dei [[Tiarna na Madraì|Tiarna]], [[Ta-Peara]] la città-perla dei Tritoni, capitale della [[Repubblica di Nén]], e molte altre con loro, si uniscono in un alleanza per chiedere pacificamente al [[Regno di Patriagis|Regno]], di lasciare i loro territori sulla penisola.
 
-L'alleanza, conosciuta come [[Popoli Liberi di Patriagis]], ottiene molti sostenitori anche tra gli abitanti del regno, che chiedono a gran voce a Re [[Re Novio I dei Tullio]] di lasciare ai popoli indigeni della penisola i loro territori ancestrali.
+L'alleanza, conosciuta come [[Popoli Liberi di Patriagis]], ottiene molti sostenitori anche tra gli abitanti del regno, che chiedono a gran voce a Re [[Re Novio I Tullio]] di lasciare ai popoli indigeni della penisola i loro territori ancestrali.
 
-[[Re Novio I dei Tullio|Re Novio]] annuncia quindi un consiglio speciale, dove il Re, i Sindaci di tutta Patriagis, e un rappresentante per ognuno di questi popoli tratteranno la questione.
+[[Re Novio I Tullio|Re Novio]] annuncia quindi un consiglio speciale, dove il Re, i Sindaci di tutta Patriagis, e un rappresentante per ognuno di questi popoli tratteranno la questione.
 
 
 ## 41
-A seguito del [[Gran Consiglio Speciale per i Popoli Liberi]], Re [[Re Novio I dei Tullio]] annuncia che ai [[Popoli Liberi di Patriagis]] viene concessa la custodia dei territori del Regno nel quale hanno sempre abitato. Essi potranno abitare e trasformare il territorio a loro concesso a proprio piacimento. Il Regno si impegna anche a non usufruire di questi terreni, se non previo accordo. 
+A seguito del [[Gran Consiglio Speciale per i Popoli Liberi]], Re [[Re Novio I Tullio]] annuncia che ai [[Popoli Liberi di Patriagis]] viene concessa la custodia dei territori del Regno nel quale hanno sempre abitato. Essi potranno abitare e trasformare il territorio a loro concesso a proprio piacimento. Il Regno si impegna anche a non usufruire di questi terreni, se non previo accordo. 
 I cittadini dei Popoli Liberi sono inoltre riconosciuti come cittadini del [[Regno di Patriagis|Regno]]. A garanzia di rispetto della loro cultura, i villaggi e le città dei Popoli Liberi non devono rispettare la normale struttura dei [[Comune|comuni]] della nazione. Viene inoltre loro concessa rappresentanza presso il [[Regio Consiglio]].
 I cittadini e le città dei Popoli Liberi hanno però gli stessi doveri dei normali cittadini e dei comuni, tra i quali il pagamento delle tasse reali e l'obbligo di difesa del Regno in caso di necessità. 
 
@@ -185,11 +185,11 @@ Inoltre, ogni popolo ha diritto ad un rappresentante presso il [[Popoli Liberi d
 
 
 ## 70
-[[Re Novio I dei Tullio|Re Novio I]] sposa [[Filomena de Novoli|FIlomena]] e nasce la famiglia [[Novoli]]. 
+[[Re Novio I Tullio|Re Novio I]] sposa [[Filomena de Novoli|FIlomena]] e nasce la famiglia [[Novoli]]. 
 
 
 ## 74
-Nasce [[Numio Ostilio I]], erede al trono di [[Patriagis]]. 
+Nasce [[Numio Ostilio I Tullio]], erede al trono di [[Patriagis]]. 
 
 
 ## 112
@@ -197,7 +197,7 @@ Muore la [[Filomena de Novoli|Regina Filomena]] in seguito ad un incidente in ca
 
 
 ## 178
-Muore [[Re Novio I dei Tullio]] e il figlio [[Numio Ostilio I|Numio Ostilio]] diventa nuovo re del [[Regno di Patriagis]]. 
+Muore [[Re Novio I Tullio]] e il figlio [[Numio Ostilio I Tullio|Numio Ostilio]] diventa nuovo re del [[Regno di Patriagis]]. 
 
 
 ## 622

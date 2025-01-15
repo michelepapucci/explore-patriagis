@@ -30,11 +30,11 @@
 	- Creare il dio balena.
 	- Creare una serie di suoi servitori/semi dei, che sono adorati "localmente".
 	- Gli animali marini e i pesci acquatici sono suoi fedeli e "spie". Gli animali di mare sono a lui più fedeli e sono visti come più nobili nelle varie religioni legate ai suoi semidei.
-- Creare delle proto-credi per il [[Regno dell'Ovest]] e per l'[[Regno dell’Alba|Aranië]]:
+- Creare delle proto-credi per il [[Regno dell'Ovest]] e per l'[[Aranië|Aranië]]:
 	- Per il Regno dell'Ovest, ispirarsi a culti romani in epoca monarchica Penati, Lari e Vesta come multitudine di divinità;
 		- Culti sul fine-vita;
 		- Come sta roba si integra con le [[Incarnazioni]], forse i Penati e i Lari sono [[Spiriti]] in qualche modo legati a [[Incarnazioni]] che aiutavano il regno per qualche motivo? 
-	- Per l'[[Regno dell’Alba|Aranië]] il fatto che la loro vita è molto lunga, forse ha un impatto minore sugli [[Elfi|elfi]] e le religioni sono più druidiche, legati alla natura, al riciclo. 
+	- Per l'[[Aranië|Aranië]] il fatto che la loro vita è molto lunga, forse ha un impatto minore sugli [[Elfi|elfi]] e le religioni sono più druidiche, legati alla natura, al riciclo. 
 		- Riti di fertilità, legati al fatto che gli [[Elfi|elfi]] si riproducono poco
 - Capire come si evolvono le varie religioni già descritte. 
 	- [[Solis]] probabilmente nasce da culti legati al raccolto e al sole. 
@@ -61,8 +61,8 @@
 - ~~Finire [[Non rompere le uova nel paniere|Non rompere le uova nel paniere]];~~
 -  ~~Raccontare la storia antica di [[Thurii]] nella [[Storia della Penisola di Patriagis]] e creare pagina dedicata su di essa:~~ 
 	- ~~Storicamente parte del [[Regno dell'Ovest]] e abitata da [[Mezzuomini|mezzuomini]];~~
-	- ~~Fu poi conquistata dall'[[Regno dell’Alba|Aranië]] dopo un'incredibile difesa da parte della città;~~ 
-	- ~~Gli [[Elfi]] lasciarono liberi i [[Mezzuomini]] ma li costrinsero a ingenti tasse agricole per supportare gli sforzi di guerra, e impiantarono un governatore fedele all'[[Regno dell’Alba|Aranië]];~~
+	- ~~Fu poi conquistata dall'[[Aranië|Aranië]] dopo un'incredibile difesa da parte della città;~~ 
+	- ~~Gli [[Elfi]] lasciarono liberi i [[Mezzuomini]] ma li costrinsero a ingenti tasse agricole per supportare gli sforzi di guerra, e impiantarono un governatore fedele all'[[Aranië|Aranië]];~~
 	- ~~Tutto avvenuto realisticamente tra il [[Storia della Penisola di Patriagis#-900|-900]] e il [[Storia della Penisola di Patriagis#-641|-641]];~~
 
 

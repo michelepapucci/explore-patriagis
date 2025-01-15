@@ -5,7 +5,7 @@
 ## Regolamento
 
 È un gioco da taverna per due giocatori, solitamente con una posta in palio.
-Per giocare sono necessarie 3 [[Tessera|tessere]] e solitamente [[frilitus]], ma si possono lanciare anche con le mani. 
+Per giocare sono necessarie 3 [[Tessera|tessere]] e solitamente [[Frilitus]], ma si possono lanciare anche con le mani. 
 
 I due giocatori si accordano su una posta in gioco e poi entrambi lanciano le tre tessere. Chi ottiene la somma più alta vince. L'unica eccezione riguarda l'ottenimento di tre numeri uguali, infatti, se un giocatore ottiene un triplo numero uguale, vince anche se la somma è più bassa. 
 Se entrambi i giocatori ottengono un triplo numero uguale, chi ottiene la somma più alta vince. Se i giocatori pareggiano, si ripete il tiro finché non esce un vincitore.

@@ -24,11 +24,11 @@ Il gruppo continua poi l'esplorazione e trova uno strano negozio chiamato [[Il G
 [[Bormeth]] dice loro che il negozio è in realtà un magazzino di doni che i marinai gli portano in cambio di benedizioni per i loro viaggi. Bormeth dice che fiuta dell'avventura nel futuro del gruppo e suggerisce loro di approfittare della sua benedizione.
 Thodor e Taximundar donano un piccolo ninnolo di valore pressappoco nullo al dragonide e ricevono una piccola benedizione, mentre Gontràn dona lui un bottone del suo vestito di lusso con lo stemma di famiglia e promette lui ospitalità a [[Nova]]. In cambio del dono Bormeth lancia una benedizione su Gontràn che lo rende più eroico e coraggioso. 
 
-Mentre hanno a che fare con Bormeth notano in cielo l'[[areonave]] che parte e se ne va senza di loro.
+Mentre hanno a che fare con Bormeth notano in cielo l'[[Areonave]] che parte e se ne va senza di loro.
 
 Il gruppo chiama da casa di [[Manistrad Spaccascudi]] il loro capo [[Zaldak Versabirra|Zaldak]] con un comunicatore, che, sostanzialmente, dice loro che dovranno tornare a piede a causa della furba e improvvisa partenza degli Squarciaviverne. 
 Inoltre dice loro che se sono interessati seriamente a competere con la loro popolarità dovranno dirigersi al più presto a [[Nova]], a piedi, poiché gli Squarciaviverne stanno andando forte e hanno 4 giorni di vantaggio.
-Inoltre, comunica loro che il gruppo dovrà raggiungere [[Nova]] passando per il territorio dei [[Tiarna na Madraì]], il popolo di alti gnomi che vivono insieme ai loro giganteschi mastini: I [[Madranam]]. Furio è originario della capitale, [[Seormgrà]], dove il gruppo si dovrà dirigere, ma dalla quale è stato bandito.
+Inoltre, comunica loro che il gruppo dovrà raggiungere [[Nova]] passando per il territorio dei [[Tiarna na Madraì]], il popolo di alti [[Mezzuomini]] che vivono insieme ai loro giganteschi mastini: I [[Madranam]]. Furio è originario della capitale, [[Seormgrà]], dove il gruppo si dovrà dirigere, ma dalla quale è stato bandito.
 Per passare dalla loro sezione di [[Piana Marittima]] per dirigersi a [[Nova]], dovranno chiedere un lasciapassare direttamente al re nella capitale.
 
 il gruppo inizia i preparativi.
