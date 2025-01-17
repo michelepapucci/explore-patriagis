@@ -11,7 +11,7 @@ tags:
   - Patriagis
   - RegnoPatriagis
 ---
-![[Odysseus.webp]]
+![[Odysseus.webp|300]]
 
 È membro della famiglia [[Tullio]], in quanto secondogenito di [[Numio Ostilio III Tullio]] e quindi secondo in linea di successione al trono di [[Patriagis]]. È un apprezzato e riconosciuto Capitano dell'esercito della nazione. 
 
@@ -26,4 +26,5 @@ Lodato sceglie un numero uguale o inferiore al numero di dadi vita che possiede.
 In quanto secondogenito, Lodato non può ereditare lo stemma del padre [[Numio Ostilio III Tullio|Numio]], che una volta deceduto verrà ereditato dal fratello e futuro sovrano [[Erasmo Numio Tullio|Erasmo]]. 
 La brisura del suo stemma personale è un cambiamento del colore dell'orso rampante dei [[Tullio]], che da dorato diventa d'argento. 
 
-![[Pasted image 20250117005924.png]]Blasonatura: _Partito d'armellino e di porpora; all'orso rampante argentato attraversante._
+| ![[Pasted image 20250117005924.png\|250]] | Blasonatura: *Partito d'armellino e di porpora; all'orso rampante argentato attraversante.* |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------- |
