@@ -13,11 +13,11 @@ Nella popolazione di [[Nova]] si dice "*A ciascun Re il proprio Marchio*" a indi
 
 Di seguito una lista di Marchi del Re conosciuti, categorizzati anche secondo l'allineamento del portatore.
 
-- [[Lodato Ostilio Tullio]] - [[Lodato Ostilio Tullio#Marchio del Re - Sacricio|Marchio del Re - Sacrificio]];
+- [[Lodato Numio Tullio]] - [[Lodato Numio Tullio#Marchio del Re - Sacricio|Marchio del Re - Sacrificio]];
 
 |              | Legale | Neutrale                                                                  | Caotico |
 | ------------ | ------ | ------------------------------------------------------------------------- | ------- |
-| **Buono**    |        | [[Lodato Ostilio Tullio#Marchio del Re - Sacricio\|Marchio del Re - Sacrificio]] |         |
+| **Buono**    |        | [[Lodato Numio Tullio#Marchio del Re - Sacricio\|Marchio del Re - Sacrificio]] |         |
 | **Neutrale** |        |                                                                           |         |
 | **Malvagio** |        |                                                                           |         |
 

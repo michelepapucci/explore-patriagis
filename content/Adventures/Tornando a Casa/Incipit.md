@@ -12,5 +12,5 @@ Nei primi due anni di guerra, [[Patriagis]] collezionò un successo dopo l'altro
 La guerra stallò e dopo qualche anno di inutili tentativi, in patria, Re [[Numio Ostilio III Tullio|Numio]] veniva pubblicamente accusato dai [[Sindaco|SIndaci]] di tutti i [[Comune|comuni]] di [[Patriagis]] di star sprecando vite e soldi, per un un "tesoro reale" rubato di cui non si sapeva niente. 
 La questione raccolse consensi in tutto il [[Regno di Patriagis]], tant'è che i [[Popoli Liberi di Patriagis]] ritirarono le proprie truppe. Questa pressione interna costrinse Re [[Numio Ostilio III Tullio|Numio]] a dichiarare che le conquiste ottenute in terra straniera, diversi ettari di terra tra la costa e la capitale, sarebbero stati usati come leva diplomatica per iniziare delle trattative con la Regina della [[Dardania]] e, all'alba dell'ottavo anno dall'inizio della guerra, quasi tutto l'esercito era rientrato in patria. 
 
-Tutto, tranne un piccolo manipolo di seicento soldati, guidati dal secondogenito del Re, [[Lodato Ostilio Tullio]] che ancora teneva la capitale sotto assedio. 
+Tutto, tranne un piccolo manipolo di seicento soldati, guidati dal secondogenito del Re, [[Lodato Numio Tullio]] che ancora teneva la capitale sotto assedio. 
 

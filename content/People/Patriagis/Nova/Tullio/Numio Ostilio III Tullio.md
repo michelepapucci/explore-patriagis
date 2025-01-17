@@ -5,4 +5,4 @@ aliases:
 ---
 Membro della famiglia reale [[Tullio]], è l'attuale Re di [[Patriagis]].
 
-È padre di ... e [[Lodato Ostilio Tullio]]. 
+È padre di ... e [[Lodato Numio Tullio]]. 

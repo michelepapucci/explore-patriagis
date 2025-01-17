@@ -8,4 +8,6 @@ tags:
 ---
 > [!info] Stemma Reale 
 > Troncato: nel primo d'azzurro al sole nascente dalla troncatura; nel secondo all'armellino.
-> ![[Pasted image 20250115165323.png]]
+> ![[Pasted image 20250117005530.png]]
+
+
