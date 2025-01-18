@@ -2,8 +2,10 @@
 aliases:
   - zaldak
   - Zaldak
+Specie: "[[Mezzuomini|Mezzuomo]]"
 ---
-![[Zaldak.jpg]]
+![[Zaldak.jpg|300]]
+
 Zaldak Versabirra è un ex oste, che all'interno della sua locanda [[Il riposo del Macaco]], ha fondato la [[Gilda degli Avventurieri di Nova]] di cui ne è il [[Confabuliere]]. 
 
 Il [[Mezzuomini|mezzuomo]] è una persona eccentrica, indaffarata, ma col fiuto per gli affari. Si vanta di riconoscere il talento con un semplice sguardo, ed è lui ad avere la parola finale su qualsiasi arruolamento in Gilda.
