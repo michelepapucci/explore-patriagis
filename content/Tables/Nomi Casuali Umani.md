@@ -153,7 +153,7 @@ Scegliere casualmente o meno un nome di famiglia.
 11. [[Versabirra]]
 12. [[Viaferri]]
 13. [[Arum]]
-14. *Battiferro*
+14. [[Battiferro]]
 15. *Spadalesta*
 
 ## 3c. Soprannome/Epiteto

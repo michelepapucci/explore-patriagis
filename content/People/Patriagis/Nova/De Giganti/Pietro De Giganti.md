@@ -4,3 +4,5 @@ Commercia beni lavorati da artigiani del sud di [[Patriagis]], dove ha conosciut
 
 È padre di due figli [[Dante Alifiere]] e [[Gagliardo De Giganti]]. 
 
+Un uomo ormai anziano 65 anni, di altezza media, con una pelle rosa e sbuffi rossi, capelli neri carbone ormai persi (calvo ad aureola per intenderci), baffi a spazzola foltissimi e sopracciglia folte. Occhi marroni chiari
+

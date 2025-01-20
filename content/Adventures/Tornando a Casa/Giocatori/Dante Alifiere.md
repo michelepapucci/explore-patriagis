@@ -3,6 +3,9 @@ Specie: "[[Umani|Umano]]"
 Classe: Chierico
 Livello: "3"
 ---
+
+![[Pasted image 20250120140729.png|500]]
+
 Figlio di [[Faustilla, la Cantastorie]] e di [[Pietro De Giganti]], mercante di [[Nova]], Dante De Giganti, poi *Alifiere*, è un [[Oratore]] del [[Dogma]]. Dopo essere entrato nel [[Dogma]] ha pian piano chiuso i rapporti con la famiglia e ha cambiato il cognome in [[Alifiere]]. 
 
 ## Storia
@@ -32,3 +35,8 @@ Il [[Dogma]] ha inviato vari dei suoi [[Oratore|oratori]] e [[Incutipaura|incuti
 > [!denied]- Segreto
 > Dante si è arruolato come volontario per la Guerra con la [[Dardania]]. È stato selezionato insieme ad altri membri della [[BDP]] come spia per tenere sott'occhio la situazione. 
 
+
+
+---
+
+Immagine di Dante, presa dalla carta di MTG "*Hans Eriksson*". Illustrata da: Ryan Pancoast.

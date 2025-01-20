@@ -69,7 +69,8 @@ Se riescono ad uccidere il Sacerdote è una persona in meno che può ricaricare 
 *La Locanda è un edificio di legno di due piani che si trova nella Piazza del Pozzo della città. Il legno scricchiola sotto il vento e i vetri delle finestre sono incrostati dal sale. Il tintinnio della catena che sorregge un cartello di legno, a forma d'ancora, attira la vostra attenzione e leggete: "L'ancora di Terra".* 
 
 All'interno, vedete un gruppo di persone, dal vestiario sembrano marinai o pescatori, completamente ubriachi che ridono e scherzano. Due di loro sono dei tritoni. 
-Dietro il bancone vedete una grassa mezzadonna indaffarata, ha le guance rosse e i capelli lunghi e bruni, sembra stia rimproverando un ragazzetto: "*Quante volte vi ho detto di non andare a giocare sul molo del signor*"
+Dietro il bancone vedete una grassa mezzadonna indaffarata, ha le guance rosse e i capelli lunghi e bruni, sembra stia rimproverando un ragazzetto: "*Quante volte vi ho detto di non andare a giocare sul molo del signor Mylonas!*"
+"*Scusa mamma!*" dice il bambino, prima di fuggire. 
 
 -- Possono ottenere alloggio, bevande o informazioni --
 
