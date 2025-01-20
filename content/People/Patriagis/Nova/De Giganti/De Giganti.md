@@ -1,0 +1,1 @@
+È una famiglia di Mercanti di [[Nova]]. Vivono da diverse generazioni nella loro casa ancestrale ai piedi del [[Colle dei Mestieri]]. Nonostante questo, non sono mai riusciti ad arricchirsi al punto da diventare parte dell'aristocrazia della città. 

@@ -1,0 +1,1 @@
+È una popolare locanda nella piazza centrale di [[Millepozzi]], gestita da [[Silio Versabirra]] e da [[Cecilia, la Castellana]]. 

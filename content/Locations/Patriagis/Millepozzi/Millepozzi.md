@@ -7,9 +7,10 @@ Per i locali, l'acqua è alla base della loro società, infatti l'industria citt
 - La produzione di prodotti di pelle di altissima qualità richiede enormi quantità di acqua durante il processo produttivo; 
 - La produzione di frutta esotica, che richiede un ambiente umido e tanta acqua;
 - Rigagnoli d'acqua pompata dai pozzi sono usati per abbellire la città;
-- Rituali vengono fatti regolarmente per ringraziare gli *Spiriti dell'Acqua* che forniscono acqua potabile alla città. 
+- Rituali vengono fatti regolarmente per ringraziare gli *Spiriti dell'Acqua* che forniscono acqua potabile alla città.
 
-***Spiriti dell'Acqua***. In città si crede da secoli che degli spiritelli dell'acqua forniscano coi loro poteri acqua pulita alla città. Si crede che vivano nei pozzi e nei secchi usati per tirare su l'acqua dalle falde, e perciò una volta scavato il pozzo e trovata l'acqua, è severamente vietato dal [[Comune]], entrare nei pozzi. Sia per motivi sanitari, ma anche per motivi scaramantici e religiosi, in quanto si crede sia giusto non disturbare il lavoro degli spiriti.
+## Spiriti dell'acqua
+ In città si crede da secoli che degli spiritelli dell'acqua forniscano coi loro poteri acqua pulita alla città. Si crede che vivano nei pozzi e nei secchi usati per tirare su l'acqua dalle falde, e perciò una volta scavato il pozzo e trovata l'acqua, è severamente vietato dal [[Comune]], entrare nei pozzi. Sia per motivi sanitari, ma anche per motivi scaramantici e religiosi, in quanto si crede sia giusto non disturbare il lavoro degli spiriti.
 Talvolta capita che alcune persone, specialmente bambini, cadano nei pozzi. Una volta recuperato il corpo, si effettua un rituale particolare davanti al Pozzo Centrale della città, e si crede che le anime dei defunti diventino a loro volta degli spiriti dell'acqua.
 
 > [!denied]- Spiriti dell'Acqua
