@@ -62,17 +62,28 @@ Se riescono ad uccidere il Sacerdote è una persona in meno che può ricaricare 
 
 #### Santuario del Culto degli [[Uditori della Voce]]
 
-È un piccolo gazebo su uno scoglio collegato alla riva con il ponte. 
+È un piccolo gazebo su uno scoglio collegato alla riva con il ponte.  Al suo interno ci sono due tritoni che, inginocchiati, meditano fissando il mare. 
 
 #### Locanda [[Dubo#L'Ancora di Terra|L'Ancora di Terra]]
 
 *La Locanda è un edificio di legno di due piani che si trova nella Piazza del Pozzo della città. Il legno scricchiola sotto il vento e i vetri delle finestre sono incrostati dal sale. Il tintinnio della catena che sorregge un cartello di legno, a forma d'ancora, attira la vostra attenzione e leggete: "L'ancora di Terra".* 
 
 All'interno, vedete un gruppo di persone, dal vestiario sembrano marinai o pescatori, completamente ubriachi che ridono e scherzano. Due di loro sono dei tritoni. 
-Dietro il bancone vedete una grassa mezzadonna indaffarata, ha le guance rosse e i capelli lunghi e bruni, sembra stia rimproverando un ragazzetto: "*Quante volte vi ho detto di non andare a giocare sul molo del signor Mylonas!*"
+Dietro il bancone vedete una grassa [[Mezzuomini|mezzadonna]] indaffarata, ha le guance rosse e i capelli lunghi e bruni, sembra stia rimproverando un ragazzetto: "*Quante volte vi ho detto di non andare a giocare sul molo del signor Mylonas!*"
 "*Scusa mamma!*" dice il bambino, prima di fuggire. 
 
--- Possono ottenere alloggio, bevande o informazioni --
+***Locandiera.*** "*Buongiorno.. voi sareste?*"
+Se i giocatori vogliono ingannare Melissa fingendo di essere dei dardani devono superare una prova di Carisma (Inganno) CD 15. 
+
+In ogni caso, se non sono violenti, Melissa non è particolarmente aggressiva:
+"*E come può un'umile locandiera essere utile?*"
+Melissa parla liberamente del **Sacerdote**. Dicendo:
+"*A causa della Guerra hanno bisogno di tutti gli incantatori a [[Dardo]]. Così alla fine sono venuti a prendere anche il nostro povero e anziano Sacerdote.*"
+Con una prova di Carisma(Diplomazia) 15, Carisma(Intimidire) 12, o Carisma(Inganno) 18, si può convincere Melissa a dare informazioni su **Mylonas**, un carpentiere ormai in pensione che vive nella villa a nord della città. 
+
+***Ubriachi***. I pescatori sono troppo ubriachi per capire chi siano i giocatori o cosa vogliono e parlano liberamente a vanvera. Rispondono a qualsiasi domanda, ma per decifrare la risposta serve una prova di Intelligenza(Investigare) o Saggezza(Intuizione) di 12. 
+
+Appena si fa una domanda su **Mylonas**, Melissa interviene, impedendo loro di rispondere e cacciandoli dalla locanda. 
 
 #### Moletti in città
 
@@ -82,9 +93,20 @@ Descrizione.
 
 #### Villa di [[Dubo]]
 
-Descrizione.
+**Mylonas** apre la porta al gruppo, ma non li fa entrare. Chiede loro chi sono e cosa vogliono. 
+Mylonas è al corrente che le forze di [[Patriagis]] si stanno ritirando, e se pressato su questo fatto, o corrotto, può rivelare l'informazione che il gruppo cerca. 
 
--- La casa del Carpentiere -- 
+Per ingannare Mylonas a credere che il gruppo sia formato da dardani serve una prova di Carisma (Inganno) con CD 16 e un membro in grado di parlare il dardano. 
+
+Per corrompere Mylonas servono almeno 20 m.o. 
+
+Può essere convinto anche con una prova di Carisma(Diplomazia) con CD 12, se si argomenta il fatto che l'informazione non è così utile ormai, visto che le truppe di [[Patriagis]] sono praticamente tutte ormai tornando in patria. Se intimidito (Carisma (Intimidire)> 10), si chiude prontamente in casa, sentite una serie di serrature e lucchetti venire chiusi. Mylonas si sposta poi al secondo piano, dal quale inizia a gettare lance e oggetti. Dopo 5 minuti, inizia a gettare olio bollente. 
+
+Se il gruppo riesce a sfondare la porta (C.A. 10, 25 pf), Mylonas si rinchiude in un armadio del secondo piano. Se trovato e fatto uscire, impaurito, dice tutto: 
+
+"*Le mura di [[Dardo]] sono inespugnabili, piene e alte. Sono piantate fino a 3 metri sottoterra anche nel [[Lago di Dardo]]. Però, proprio nel lago, è presente un canale sotterraneo, largo a sufficienza per nuotarci con difficoltà, è il canale con il quale [[Dardo]] rifornisce le proprie riserve d'acqua. Le piscine di queste riserve si trovano proprio dentro la [[Cattedrale dell'Acqua Pura]].* "
+
+**Mylonas** ovviamente dimentica di menzionare che le piscine sono fortemente sorvegliate e regolarmente analizzate. 
 
 ## Di ritorno da [[Dubo]]
 ![[Pasted image 20250119141634.png]]

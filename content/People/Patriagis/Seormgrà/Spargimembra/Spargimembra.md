@@ -1,0 +1,1 @@
+Famiglia del [[Tadhg Spargimembra|Tadgh, Re]] dei [[Tiarna na Madraì]], con sede al [[Palasorgà]], il palazzo d'oro di [[Seormgrà]]. 

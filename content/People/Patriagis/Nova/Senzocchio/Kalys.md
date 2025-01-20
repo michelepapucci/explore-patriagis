@@ -11,11 +11,8 @@ Kalys è un tipo di poche parole, che parla solo se interpellato, nonostante que
 
 ## Storia
 
-Kalys è nato dal matrimonio combinato della madre (*Traustila di Bartolomeo*) col padre (*Vegennio il Senz'occhio*). Il Padre era un mercante e politicamente ben inserito nella [[Gilda dei Mercanti]] di [[Nova]] e, nonostante i suoi impegni, si è sempre dimostrato un genitore affettuoso e disponibile.
-La madre, invece, è sempre stata contraria al matrimonio, e ha riversato questo suo malessere diventando tristemente noncurante di Kalys. 
-Poco dopo i sedici anni del ragazzo, il padre morì in uno scontro tra il [[Comune di Nova]] e l'esercito personale di [[Prudenzio Columna]] nato da alcune nuove tasse che la città stava valutando di mettere nei confronti dei proprietari terrieri. 
-La madre, in seguito alla morte del marito, portò via ogni cosa di valore e se ne andò con qualche uomo che Kalys non conosceva. 
-Kalys inizia quindi a vivere per i [[Bassifondi di Nova|Bassifondi]] dove riesce a trovare impiego grazie alla [[Comunità dei Bassifondi]] che lo addestra, data la sua naturale agilità, ad essere un furfante. 
+Kalys è nato dal matrimonio combinato della madre (*[[Traustilia, di Bartolomeo]]*) col padre ([[Vegennio, il Senz'occhio]]). Il Padre era un mercante e politicamente ben inserito nella [[Gilda dei Mercanti]] di [[Nova]] e, nonostante i suoi impegni, si è sempre dimostrato un genitore affettuoso e disponibile.La madre, invece, è sempre stata contraria al matrimonio, e ha riversato questo suo malessere diventando tristemente noncurante di Kalys. 
+Poco dopo i sedici anni del ragazzo, il padre morì in uno scontro tra il [[Comune di Nova]] e l'esercito personale di [[Prudenzio Columna]] nato da alcune nuove tasse che la città stava valutando di mettere nei confronti dei proprietari terrieri. La madre, in seguito alla morte del marito, portò via ogni cosa di valore e se ne andò con qualche uomo che Kalys non conosceva. Kalys inizia quindi a vivere per i [[Bassifondi di Nova|Bassifondi]] dove riesce a trovare impiego grazie alla [[Comunità dei Bassifondi]] che lo addestra, data la sua naturale agilità, ad essere un furfante. 
 Questo, inizialmente, soddisfa Kalys che però si trova a dover fare cose moralmente discutibili per il bene della [[Comunità dei Bassifondi|Comunità]] e decide di lasciare. 
 [[Diana Versabirra]], uno dei maggiori esponenti della [[Comunità dei Bassifondi]] vedendo il buon cuore e il talento in Kalys, lo raccomanda al padre [[Zaldak Versabirra]] che lo recluta nella [[Gilda degli Avventurieri]]. 
 Qui Kalys riesce a conciliare la sua fama di gloria e di onore e la necessità di guadagnare due spiccioli, senza infangare gli insegnamenti del padre.
