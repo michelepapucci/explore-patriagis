@@ -1,5 +1,0 @@
----
-aliases:
-  - Strahd
-  - Il Diavolo
----

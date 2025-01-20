@@ -1,1 +1,0 @@
-Figlio di [[Padre Donavich]].

@@ -1,1 +1,0 @@
-Nipote di [[Luvash]].

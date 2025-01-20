@@ -1,1 +1,0 @@
-Chierichetto e orfano che vive con [[Padre Lucian Petrovich]] nella [[Chiesa di Sant'Andral]].

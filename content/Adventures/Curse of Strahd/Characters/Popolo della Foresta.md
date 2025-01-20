@@ -1,1 +1,0 @@
-Druidi che amano la [[Collina di Yester]]. 

@@ -1,1 +1,0 @@
-[[Davian Martikov]] 

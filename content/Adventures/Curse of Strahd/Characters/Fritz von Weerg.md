@@ -1,1 +1,0 @@
-Leggendario giocattolaio di Barovia. 
