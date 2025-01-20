@@ -6,4 +6,4 @@ tags:
 Specie: "[[Umani|Umano]]"
 Classe: Ladro
 ---
-Vedi [[People/Patriagis/Nova/Senzocchio/Kalys|Kalys]]. 
+Vedi [[Persone/Patriagis/Nova/Senzocchio/Kalys|Kalys]]. 
