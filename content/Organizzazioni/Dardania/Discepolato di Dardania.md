@@ -1,3 +1,10 @@
+---
+aliases:
+  - Discepolato
+tags:
+  - DiscepolatoDiDardania
+  - Dardania
+---
 È una teocrazia fondata nella regione di [[Dardania]]. La nazione ha come capitale [[Dardo]] ed ha insediamenti principalmente lungo la costa e lungo le sponde del [[Lago di Dardo]], dove sorge la capitale. 
 
 La nazione è abitata principalmente da [[Tritoni]], [[Umani]] e [[Mezzuomini]].

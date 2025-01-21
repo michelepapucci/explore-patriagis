@@ -200,9 +200,13 @@ Muore [[Re Novio I Tullio]] e il figlio [[Numio Ostilio I Tullio|Numio Ostilio]]
 
 
 ## 622
-<span data-date='621-06-19' data-name="Scoperta del Lapisma"></span>
+<span data-date='622-06-19' data-name="Scoperta del Lapisma"></span>
 Il ricercatore [[Torrvic Loytakuvo]] scopre ad [[Archealbero]] un frammento di [[Lapisma]] lavorato e, per la prima volta, riesce ad incantarlo. 
 
 
 ## 667
 Il [[Falso Monte]], un antico e sopito vulcano situato nelle [[Pendici]], erutta improvvisamente, radendo al suolo [[Archealbero]] e incendiando per mesi i boschi intorno. 
+
+
+## 1320
+Re [[Numio Ostilio III Tullio]] annuncia che in seguito ad un furto di un tesoro reale avvenuto durante una visita diplomatica della Gran Sacerdotessa [[Wāhine-Ataahua Tohunga-Nui]] del [[Discepolato di Dardania]], sono stati eseguiti vari tentativi diplomatici di risolvere la questione. Avendo questi non avuto l'effetto desiderato, il [[Regno di Patriagis]] dichiara guerra al [[Discepolato di Dardania]]. 
