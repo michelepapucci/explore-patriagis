@@ -12,9 +12,9 @@ Curzio: "Sono felice che ci riportino a casa, ma ho la sensazione che abbiamo bu
 Zosimo: "Non lo so.. ma sono felice di rivedere mia moglie". 
 Tricontilla: "E io di tornarmene a casa, ma non è questo il punto! Il punto è che gente è morta, tanta gente, tanti giovani abbiamo perso in questa campagna, e per cosa? Abbiamo bruciato due porti e conquistato due villaggi che si ribelleranno non appena ce ne andremo. Se ce ne andiamo, se la capitale non cade, niente di tutto questo ha avuto senso!"
 
-Parlano di come penentrare le difese sia impossibile, anche con la presenza dei [[Ordine dei Cavalieri di Novio]] di cui alcuni sono cavalcatori di viverne è stato impossibile a causa della forte contra-area. 
+Parlano di come penetrare le difese sia impossibile, anche con la presenza dei [[Ordine dei Cavalieri di Novio]] di cui alcuni sono cavalcatori di viverne è stato impossibile a causa della forte contra-area. 
 
-Inoltre l’intera città è coperta da un incantesimo di Santuario Privato, che impedisce l’entrata tramite magia, come viaggi planari, teletrasporti o passando dal Reame Etereo (anche avessero maghi abbastanza potenti da fare ciò). Anche la divinazione per le creature e oggetti nell’area è bloccata.
+Inoltre l’intera città è coperta da un incantesimo di Santuario Privato, che impedisce l’entrata tramite magia, come viaggi planari, teletrasporti o passando dal Reame Etereo (anche avessero maghi abbastanza potenti da fare ciò). Anche la divinazione per le creature e oggetti nell'area è bloccata.
 
 Commentano che il sistema difensivo è costruito da una serie di [[Lapisma]] acquistati proprio dal [[Regno di Patriagis]] durante il viaggio in seguito al quale il re ha dichiarato guerra e informazioni da loro raccolte sembrano indicare che hanno all'interno una schiera di maghi che continuano giornalmente a “ricaricare” le pietre con l’incantesimo. 
 
@@ -45,7 +45,7 @@ Il capitano raduna il gruppo più i tre della mensa e dice loro della missione. 
 
 Alcune cose da tenere in mente:
 1. Sono anni che l’accampamento controlla l’unica strada verso il villaggio, quindi sono tagliati fuori dal resto della regione da anni e per tanto saranno sospettosi nei confronti degli estranei, e violenti se vi riconosceranno come soldati di [[Patriagis]]. 
-2. L’esercito non ha mai mosso verso [[Dardo]] poiché è un villaggio di pescatori, con poche barche e privo di risorse strategiche. Vivono poche centinaia di persone, e tutte coloro che sapevano combattere sono quasi sicuramente già state spostate a [[Dardo]]. 
+2. L’esercito non ha mai mosso verso [[Dubo]] poiché è un villaggio di pescatori, con poche barche e privo di risorse strategiche. Vivono poche centinaia di persone, e tutte coloro che sapevano combattere sono quasi sicuramente già state spostate a [[Dardo]]. 
 3. La cosa più importante è la velocità, poiché questa informazione potrebbe cambiare le sorti della campagna, e trasformarla da una sconfitta ad una vittoria all’ultimo secondo.
 4. Un avvertimento: il Nord della [[Dardania]] è temibile e selvaggio, non è "domestico" come le periferie di [[Patriagis]]. Bisogna prestare molta attenzione. 
 
@@ -87,9 +87,7 @@ Appena si fa una domanda su **Mylonas**, Melissa interviene, impedendo loro di r
 
 #### Moletti in città
 
-Descrizione. 
-
--- Possono commentare il fatto che il Carpentiere è il proprietario della villa --
+I lavoratori sono sospettosi. Ma sotto pagamento possono rivelare che un famoso carpentiere vive nella villa a Nord di [[Dubo]]. 
 
 #### Villa di [[Dubo]]
 

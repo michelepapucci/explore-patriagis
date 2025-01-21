@@ -2,6 +2,8 @@
 Classe: Ladro
 Livello: "3"
 Specie: "[[Mezzelfi|Mezzelfo]]"
+aliases:
+  - Bartolomeo
 ---
 Bartolomeo nasce a [[Millepozzi]], da [[Cecilia, la Castellana]] e [[Silio Versabirra]], proprietari dell'[[Acqua Fresca]], popolare locanda nella piazza principale della città. 
 

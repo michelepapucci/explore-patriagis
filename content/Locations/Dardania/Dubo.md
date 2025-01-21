@@ -1,3 +1,9 @@
+---
+tags:
+  - Città
+  - DiscepolatoDiDardania
+  - Dardania
+---
 Villaggio di Pescatori nel nord della [[Dardania]]. Si trova a nord-ovest da [[Dardo]] dalla quale è collegata da una strada che passa lungo le sponde del [[Lago di Dardo]]. 
 
 ## L'Ancora di Terra
@@ -12,4 +18,4 @@ Sono dei piccoli moli dove i pescatori e i marinai ormeggiano le loro barche e i
 
 ## Santuario del Culto degli [[Uditori della Voce]]
 
-È un gazebo a picco sul mare, nel quale vengono compiuti i [[Uditori della Voce#Riti|sacrifici della mattina]] e dove durante la giornata i pellegrini possono andare a meditare, nel tentativo di udire la voce di [[Kingi o ngā Tohorā|Hē Phōnḕ en tōi Anémōi]].  
+È un gazebo a picco sul mare, nel quale vengono compiuti i [[Uditori della Voce#Riti|sacrifici della mattina]] e dove durante la giornata i pellegrini possono andare a meditare, nel tentativo di udire la voce di [[Tirseno|Hē Phōnḕ en tōi Anémōi]].  

@@ -1,4 +1,13 @@
-Gli *Uditori della voce* sono i discepoli di un [[Culti dell'Acqua|culto dell'acqua]] incentrato su [[Kingi o ngā Tohorā|Hē Phōnḕ en tōi Anémōi]], che in [[Comune (Lingua)|comune]] è traducibile con "*La voce nel vento*". Questa figura è adiacente a quella di [[Kingi o ngā Tohorā|Tirseno]], Dio dei Mari, del [[Sacerdozio di Tirseno]] di [[Patriagis]]. 
+---
+aliases:
+  - Culto della Voce
+  - Culto degli Uditoir
+tags:
+  - Religione
+  - Dardania
+  - DiscepolatoDiDardania
+---
+Gli *Uditori della voce* sono i discepoli di un [[Culti dell'Acqua|culto dell'acqua]] incentrato su [[Tirseno|Hē Phōnḕ en tōi Anémōi]], che in [[Comune (Lingua)|comune]] è traducibile con "*La voce nel vento*". Questa figura è adiacente a quella di [[Tirseno|Tirseno]], Dio dei Mari, del [[Sacerdozio di Tirseno]] di [[Patriagis]]. 
 
 Il culto è centrale nel [[Discepolato di Dardania]], una teocrazia della regione di [[Dardania]], popolata principalmente da [[Tritoni]], [[Umani]] e [[Mezzuomini]]. 
 
@@ -8,7 +17,7 @@ Gli *uditori* (In dardano: *Akroatis*), sono i discepoli di questo culto, nonch�
 
 Il culto prevede l'adorazione dell'acqua e dei suoi benefici. È adorata la sua abbondanza, e questa viene mostrata in maniera appariscente pur garantendo zero sprechi, in quanto non tollerati. 
 
-Giornalmente, vengono compiuti due riti per ingraziarsi [[Kingi o ngā Tohorā|La voce]], il primo, durante il mattino quando la popolazione assiste al rilascio del pescato. I pescherecci di ritorno dal mare o dal [[Lago di Dardo]] con il pescato, liberano il 20% in peso del pescato, come ringraziamento al Dio per l'abbondanza. 
+Giornalmente, vengono compiuti due riti per ingraziarsi [[Tirseno|La voce]], il primo, durante il mattino quando la popolazione assiste al rilascio del pescato. I pescherecci di ritorno dal mare o dal [[Lago di Dardo]] con il pescato, liberano il 20% in peso del pescato, come ringraziamento al Dio per l'abbondanza. 
 
 Questa cerimonia viene effettuata da un Sacerdote del Culto. I Sacerdoti hanno ruoli sia spirituali che amministrativi nella gestione della nazione e delle città, quindi solitamente svolgono anche funzioni di amministratori pubblici. 
 

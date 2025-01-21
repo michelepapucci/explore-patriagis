@@ -2,6 +2,8 @@
 Specie: "[[Umani|Umana]]"
 Classe: Ranger
 Livello: "3"
+aliases:
+  - Dardano
 ---
 Dardano è il figlio adottivo del boss della malavita [[Cranxaxomor Spaccatessere]], che possiede varie bische clandestine a [[Nova]].
 

@@ -2,6 +2,9 @@
 Specie: "[[Umani|Umano]]"
 Classe: Chierico
 Livello: "3"
+aliases:
+  - Dante de Giganti
+  - Dante
 ---
 
 ![[Pasted image 20250120140729.png|500]]

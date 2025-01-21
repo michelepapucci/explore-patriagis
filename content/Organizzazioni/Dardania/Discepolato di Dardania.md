@@ -4,7 +4,7 @@ La nazione è abitata principalmente da [[Tritoni]], [[Umani]] e [[Mezzuomini]].
 
 ## Famiglia Reale e Fondazione 
 
-La famiglia [[Tohunga-Nui]] è una famiglia di [[Tritoni]] ed è la famiglia che guida spiritualmente la nazione secondo il culto degli [[Uditori della Voce]], poiché, secoli prima, [[Tritoni]] che abitavano nei mari del nord, furono cacciati dai loro territori e costretti attraverso il deserto a nord della [[Dardania]]. Lì, dei gabbiani, emissari del [[Kingi o ngā Tohorā]], ha guidato gli antenati della famiglia reale al [[Lago di Dardo]], da quel momento diventato sacro. 
+La famiglia [[Tohunga-Nui]] è una famiglia di [[Tritoni]] ed è la famiglia che guida spiritualmente la nazione secondo il culto degli [[Uditori della Voce]], poiché, secoli prima, [[Tritoni]] che abitavano nei mari del nord, furono cacciati dai loro territori e costretti attraverso il deserto a nord della [[Dardania]]. Lì, dei gabbiani, emissari del [[Tirseno|Hē Phōnḕ en tōi Anémōi]], ha guidato gli antenati della famiglia reale al [[Lago di Dardo]], da quel momento diventato sacro. 
 
 Fondarono sulle sue sponde [[Dardo]] e la regione presto si popolò di altri [[Tritoni]] che compirono anche loro il pellegrinaggio attraverso il deserto secondo la guida della famiglia reale. 
 
