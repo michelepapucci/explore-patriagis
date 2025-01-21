@@ -65,11 +65,6 @@ L'[[Aranië|Aranië]] sposta molte delle sue forze a sud verso [[Thurii]] e la c
 ## -899
 L'[[Aranië|Aranië]] finisce di annettere il resto del sud-est di [[Patriagis]] al suo potere. 
 
-## - 641
-
-> [!denied]- Segreto
-> [[Baldeus de Novoli]] trova il Guardingo e lo porta a [[Nova]]. Ottiene il permesso da re [[Ancoria Larenzia]] del [[Regno dell'Ovest]] di sperimentare con la creatura.
-
 
 ## -642
 <span data-date='-642' data-name="Febbre Indaco"></span>
@@ -85,10 +80,14 @@ Una giovani halfling, che verrà chiamata [[Solis]], parte dalle campagne intorn
 Re [[Ancoria Larenzia]] muore a causa della [[Febbre Indaco]].
 Nello stesso periodo, si forma un nucleo di maghi e oratori che formano il primo nucleo del [[Dogma]], una delle religioni più influenti della penisola, a [[Nova]]. Gli oratori del [[Dogma]] producono medicine e le distribuiscono alla popolazione nel tentativo di salvare più persone possibili dalla pestilenza. 
 
+> [!denied]- Segreto
+> [[Baldeus de Novoli]] trova il Guardingo e lo porta a [[Nova]]. Ottiene il permesso da re [[Ancoria Larenzia]] del [[Regno dell'Ovest]] di sperimentare con la creatura.
 
-## - 640
+
+## -640
 <span data-date='-630' data-name="Riforma del Dogma"></span>
 Muore [[Baldeus de Novoli]] a causa della [[Febbre Indaco]].
+Muore [[Ancoria Larenzia]] a causa della [[Febbre Indaco]]. 
 Il [[Dogma]] diventa una Chiesa fortemente gerarchica con l'elezione di [[Anastasio Dono]], primo [[Arcipio]] del [[Dogma]]. Nasce il Braccio Armato della chiesa: [[Spargiossa]], [[Incutipaura]], [[Tenente Mitrato|Tenenti Mitrati]] e viene nominato il primo [[Capo Maggiore del Braccio Armato del Dogma]]. 
 Lo stesso anno viene anche strutturata la parte più divulgativa e assistenziale del dogma in un ordine più rigoroso e con dei dettami precisi: [[Oratore|Oratori]] e [[Pio|Pii]].
 
