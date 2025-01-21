@@ -32,7 +32,7 @@ L'[[Arcipio]] è la carica suprema del Dogma, al vertice di tutta la piramide e 
 
 ## Storia
 
-L'origine precisa è ignota, si sa solo che nel giro di due anni dall'inizio della pestilenza nel [[Storia della Penisola di Patriagis#-640|-640 A.P.]], un gruppo di persone a [[Nova]] e d'intorni, comincia a credere che la [[Febbre Indaco]] fosse una punizione divina per le continue guerre tra l'[[Aranië]] e il [[Regno dell'Ovest]]. Queste persone formano il Dogma della Non Violenza, che in pochi anni si organizza e nel [[Storia della Penisola di Patriagis#-640|#-640 A.P.]] viene nominato il primo [[Arcipio]], capo religioso del Dogma, [[Anastasio Dono]].
+L'origine precisa è ignota, si sa solo che nel giro di due anni dall'inizio della pestilenza nel [[Storia della Penisola di Patriagis#-640|-640 A.P.]], un gruppo di persone a [[Nova]] e d'intorni, comincia a credere che la [[Febbre Indaco]] fosse una punizione divina per le continue guerre tra l'[[Aranië]] e il [[Regno dell'Ovest]]. Queste persone formano il Dogma della Non Violenza, che in pochi anni si organizza e nel [[Storia della Penisola di Patriagis#-640|-640 A.P.]] viene nominato il primo [[Arcipio]], capo religioso del Dogma, [[Anastasio Dono]].
 
 La [[Chiesa Centrale del Dogma]] fu costruita nel [[Storia della Penisola di Patriagis#-641|-641 A.P.]] da [[Baldeus de Novoli]], un aristocratico del [[Regno dell'Ovest]] a [[Nova]] e fu donata alla causa. 
 
