@@ -7,6 +7,7 @@ aliases:
 ---
 Dardano è il figlio adottivo del boss della malavita [[Cranxaxomor Spaccatessere]], che possiede varie bische clandestine a [[Nova]].
 
+![[Pasted image 20250122004345.png|500]]
 ## Storia
 
 Dardano è uno dei tanti orfani dei [[Bassifondi di Nova]]. Rispetto agli altri, lui ha avuto la fortuna che un giorno, mentre mendicava in strada, [[Cranxaxomor Spaccatessere]], la cui fama sicuramente non è quella di essere un benefattore, ha raccolto il bambino e lo ha cresciuto come un figlio. Lo chiama *Dardano*, perché a causa della sua pelle olivastra, [[Cranxaxomor Spaccatessere|Cranxaxomor]] lo aveva scambiato per un rifugiato della [[Dardania]]. 

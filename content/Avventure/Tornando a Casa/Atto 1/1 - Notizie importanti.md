@@ -106,5 +106,8 @@ Se il gruppo riesce a sfondare la porta (C.A. 10, 25 pf), Mylonas si rinchiude i
 
 **Mylonas** ovviamente dimentica di menzionare che le piscine sono fortemente sorvegliate e regolarmente analizzate. 
 
+##### Studio
+Nello studio di **Mylonas** è possibile con una prova di Intelligenza (Investigare) maggiore di 12 trovare sia i piani architettonici delle mura di [[Dardo]], che quelli della [[Cattedrale dell'Acqua Pura]]. 
+
 ## Di ritorno da [[Dubo]]
 ![[Pasted image 20250119141634.png]]
