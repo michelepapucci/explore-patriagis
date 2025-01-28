@@ -5,7 +5,7 @@
 > *Per sostenere gli sforzi bellici, tutti i maggiorenni che hanno completato i due anni di servizio presso la Guardia Cittadina negli ultimi quindici anni verranno arruolati. Così come tutti coloro che compiono sedici anni quest'anno e per tutti gli anni di guerra che dovremmo affrontare.*
 > *A questi si uniranno l'Esercito e la Marina Reale, un contributo dai [[Popoli Liberi di Patriagis]] e alcuni tra i migliori cavalieri dell'[[Ordine dei Cavalieri di Novio]]. Chiunque altro voglia arruolarsi come volontario potrà farlo presso gli uffici dell'esercito che verranno predisposti per tutta [[Patriagis]]."*
 
-Fu così che otto anni fa, Re [[Numio Ostilio III Tullio|Numio]] dichiarò guerra alla [[Dardania]]. Non molto altro venne alla luce riguardo alle motivazioni. In pochi mesi l'esercito riuscì ad organizzarsi e a iniziare un addestramento per le nuove leve. 
+Fu così che nove anni fa, Re [[Numio Ostilio III Tullio|Numio]] dichiarò guerra alla [[Dardania]]. Non molto altro venne alla luce riguardo alle motivazioni. In pochi mesi l'esercito riuscì ad organizzarsi e a iniziare un addestramento per le nuove leve. 
 Poco dopo un anno dall'annuncio le prime navi partirono alla volta della [[Dardania]]. La Marina della nazione, non avendo navi a sufficienza per trasportare tutta quelle persone, macchine belliche e i rifornimenti, strinse un accordo coi principi dell’ [[Ārahina e ngā hēramana]], la federazione pirata. 
 
 Nei primi due anni di guerra [[Patriagis]] collezionò un successo dopo l'altro, avanzando fino alla capitale [[Dardo]], che rimase però sempre impenetrabile.
