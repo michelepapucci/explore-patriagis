@@ -4,9 +4,9 @@ Il Calendario di Patriagis è formato da 336 giorni, suddivisi in 12 mesi da 28 
 
 Ogni giorno è formato da 24 ore. 
 
-Il mese segue il passaggio delle due lune che orbitano la [[Terra]]: [[Benevolicui]] detta *La Veloce* e [[Castapoesis]] della *La Lenta*. 
+Il mese segue il passaggio delle due lune che orbitano la [[Terra]]: [[Locations/Corpi Celesti/Benevolicui]] detta *La Veloce* e [[Locations/Corpi Celesti/Castapoesis]] della *La Lenta*. 
 
-Nel primo giorno del mese dispari [[Benevolicui]] è piena, mentre [[Castapoesis]] è nuova. 
-Il quindicesimo del mese dispari, [[Benevolicui]] è nuova e [[Castapoesis]] è mezza levante. 
+Nel primo giorno del mese dispari [[Locations/Corpi Celesti/Benevolicui]] è piena, mentre [[Locations/Corpi Celesti/Castapoesis]] è nuova. 
+Il quindicesimo del mese dispari, [[Locations/Corpi Celesti/Benevolicui]] è nuova e [[Locations/Corpi Celesti/Castapoesis]] è mezza levante. 
 Nel primo mese dei giorni pari, entrambe le lune sono piene. 
-Il quindicesimo del mese pari, [[Benevolicui]] è nuova e [[Castapoesis]] è mezza calante. 
+Il quindicesimo del mese pari, [[Locations/Corpi Celesti/Benevolicui]] è nuova e [[Locations/Corpi Celesti/Castapoesis]] è mezza calante. 
