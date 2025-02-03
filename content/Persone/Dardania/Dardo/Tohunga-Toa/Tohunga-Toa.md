@@ -1,0 +1,5 @@
+È la famiglia, ma più precisamente una classe, composta dai Sacerdoti del [[Discepolato di Dardania]]. Una volta ordinati Sacerdoti, indipendentemente dal nome di famiglia precedente, si assume l'appellativo di *Tohunga-Toa* "Sacerdote Guerriero". 
+
+I Sacerdoti di [[Tirseno|Hē Phōnḕ en tōi Anémōi]], sono chiamati anche *Guerrieri* nel [[Discepolato di Dardania|Discepolato]], perché hanno funzioni sia religiose e amministrative, che militari, in quanto ufficiali di vario grado all'interno dell'esercito della nazione. 
+
+I figli di un *Tohunga-Toa* prendono il nome di *Teme a te Tohunga-Toa*, letteralmente in [[Dardano (Lingua)|Dardano]] "*Figlio di un Sacerdote Guerriero*". Questo nome di famiglia viene portato dai figli e dai nipoti del *Tohunga-Toa*, dopo i quali si riprende il precedente nome di famiglia. Non è raro però che diversi tra figli e nipoti di un *Tohunga*, prendano anche i loro i voti. 
