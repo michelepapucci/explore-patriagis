@@ -131,4 +131,4 @@ Nel Suo primo turno di combattimento:
 Tutti i personaggi che sentono le sue parole possono muoversi di un numero di metri pari alla propria velocità come azione gratuita. 
 
 Una volta sconfitto il mostro. [[Lodato Numio Tullio|Lodato]] cade a terra, sfinito e stremato, guarda il gruppo e dice:
-"Vi presento Tumanako Numio Tullio, primo del suo nome, primo mezzo-tritone della storia, figlio bastardo del Re di [[Patriagis]] [[Numio Ostilio III Tullio]], terzo erede al trono della corona di [[Patriagis]] e attuale Gran Sacerdote del [[Discepolato di Dardania]]. Chi ha questo bambino, controlla politicamente metà del mondo conosciuto."
+"Vi presento [[Tumanako Numio Tullio]], primo del suo nome, primo mezzo-tritone della storia, figlio bastardo del Re di [[Patriagis]] [[Numio Ostilio III Tullio]], terzo erede al trono della corona di [[Patriagis]] e attuale Gran Sacerdote del [[Discepolato di Dardania]]. Chi ha questo bambino, controlla politicamente metà del mondo conosciuto."
