@@ -55,3 +55,65 @@ Il gruppo può finalmente riposare.
 
 All'alba, il gruppo è svegliato, c'è gioia e trepidazione nell'aria, il [[Kaiurungi Mikaere]] è arrivato con tre galeoni ed una galea: si torna a [[Patriagis]]. 
 
+[[Lodato Numio Tullio|Lodato]] gira per [[Zalpa]] ad annunciare di imbarcarsi il prima possibile sui galeoni. Poi si avvicina a voi e vi dice che se volete inviare una lettera ai vostri cari, probabilmente è l'ultimo momento per farlo prima che non ci sia più modo durante il viaggio. 
+
+Chiede a [[Bartolomeo Battiferro]] di occuparsi di [[Tumanako Numio Tullio|Tumanako]], loro viaggeranno su una dei tre Galeoni, con [[Tumanako Numio Tullio|Tumanako]] travestito da soldato, mentre a [[Lodato Numio Tullio|Lodato]] è stato chiesto da [[Kaiurungi Mikaere|Mikaere]], il principe pirata, di viaggiare sulla sua più piccola galea insieme a lui. 
+
+A fine giornata, tutto è pronto per la partenza e col sole che cala le navi partono alla volta di [[Patriagis]]. 
+
+#### Giri per la nave
+
+Se il gruppo gira per la nave notano che non ci sono abbastanza posti per dormire, quindi molte persone dovranno dormire sul ponte. 
+Investigando i piani inferiori notano che c'è uno dei ponti pieno di mercanzia, principalmente alcolici come rum e altri distillati, oltre che merci come pelli, legna e altri semilavorati. 
+
+## Il sogno
+
+Durante la notte tutto il gruppo è di turno sul ponte a guardia. Le luce sulle navi sono fioche, mentre lentamente il vento le spinge verso [[Patriagis]]. 
+Nonostante le vele gonfie, il vento soffia piano e, nonostante il caldo torrido della stagione, stasera è quasi piacevole.
+
+Il vento poi, diventa sempre più fresco, fino a diventare freddo, spiacevole. 
+
+Tutto sembra normale ma vi accorgete che il mare è piatto e fermo, la nave, ha le vele gonfie, ma il vento non soffia più, tutti dormono, ma nessuno fa rumore, immobili nel suo sogno, tutti tranne voi cinque. Il tempo sembra essersi fermato.
+
+Una figura spettrale somigliante ad un uomo incappucciato, che brilla di luce propria di un color verde acqua, inizia a scendere l'albero del galeone in cui vi trovate usando uno dei cavi che fissano le vele.
+
+La figura è sfocata, ha le fattezze umane ma non ha tratti ben definiti e con una voce che pare quella di una moltitudine intona un canto: 
+
+> [!quote] La Profezia
+> Sono il profeta che il tempo ha sbloccato
+> vedo presente, futuro e passato,
+> vedo un mondo nel quale a casa tornate, 
+> ma non è questo il mondo nel quale vi trovate, 
+> 
+> vedo una canzone d'un amore interrotto,
+> vedo il destino d'un erede ormai sostituito,
+> vedo un uomo dall'animo distorto, 
+> vedo un segreto che sempre più morti ha stabilito, 
+> vedo una vendetta non restituita, 
+> che porterà alla fine di altra vita, 
+> 
+> vedo il momento in cui esalerete l'ultimo respiro, 
+> vedo il sacrificio d'un'eroe per via d'un raggiro,
+> vedo un gruppo di compagni che tornano a casa, ma quel gruppo non siete più voi.
+
+Subito dopo, tutto torna normale, la creatura sparisce e nessun'altro sembra essersi accorto di nulla. 
+
+Dopo qualche ora vi danno il cambio per dormire. 
+
+## Tempesta
+
+Improvvisamente il gruppo si trova in una tempesta. [[Lodato Numio Tullio|Lodato]], dalla galea, urla di tenersi forte, l'origine è magica!
+[[Kaiurungi Mikaere|Mikaere]] dice a tutte le navi di disperdersi per trovare l'evocatore della tempesta!
+
+Si crea un vortice in acqua e le quattro navi cominciano a venir risucchiate al suo interno [[Kaiurungi Mikaere|Mikaere]] indica che al centro del vortice c'è un elementale della tempesta! [[Lodato Numio Tullio|Lodato]] ordina a tutti di attaccarlo (distanza 50 m), ogni turno si avvicina di 10 m. A 0 m si muore. 
+
+PF: 500
+
+Le navi complessivamente fanno 100 danni a turno. Il gruppo deve fare 100 danni in 5 turni per ucciderlo. 
+
+CA: 13
+Dex: 0 (vantaggio, sta fermo). 
+Res: Cold, Lightning, Thunder
+
+Ogni turno suo rilascia una "scarica" elettrica concentrica, TS su Dex CD: 14, 2d8 Ligthing Damage. 
+
