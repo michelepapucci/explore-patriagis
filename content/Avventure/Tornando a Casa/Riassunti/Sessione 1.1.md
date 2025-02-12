@@ -1,3 +1,5 @@
+[[8 - Collis|Collis]] 21, 1328
+
 Il gruppo dopo aver fatto colazione alla mensa dell'accampamento, incontra [[Lodato Numio Tullio|Lodato]] in Infermeria.
 
 [[Lodato Numio Tullio|Lodato]] dice a [[Musanda Sifa]] e [[Bartolomeo Battiferro]] che sono andati a salutarli di vedersi nel suo ufficio, e dice lui di chiamare anche la loro centuriona, [[Bartolomeo, Tessitore di Ombre]], [[Dardano Spaccatessere]] e [[Dante Alifiere]]. 

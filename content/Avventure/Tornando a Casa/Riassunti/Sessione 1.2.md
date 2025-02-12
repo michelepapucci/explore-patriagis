@@ -10,6 +10,9 @@ Il gruppo cena, e arrivata alla sera, si ritrovano coi centurioni, Curzio e Zosi
 
 [[Lodato Numio Tullio|Lodato]] una volta che gli animi sono calmi, comunica che grazie alle informazioni raccolte dal gruppo e secondo gli ordini ricevuti dal padre in giornata, verrà fatto un ultimo disperato tentativo di conquista di [[Dardo]]. Le centurie attaccheranno da fuori le porte e le torri della città creando chaos e confusione, mentre [[Lodato Numio Tullio|Lodato]], [[Bartolomeo, Tessitore di Ombre|Bartolomeo]], [[Bartolomeo Battiferro|Bartolomeo]], [[Dardano Spaccatessere|Dardano]], [[Dante Alifiere|Dante]] e [[Musanda Sifa|Musanda]], con l’aiuto di Curzio, Zosimo e Tricontilla, entreranno tramite il passaggio segreto nella [[Cattedrale dell'Acqua Pura]], sede religiosa e politica della città, dove vive [[Wāhine-Ataahua Tohunga-Nui|Wāhine]], grande sacerdotessa del [[Discepolato di Dardania|Discepolato]] e dove credono sia il tesoro reale rubato. Partiranno due ore dopo.
 
+---
+[[8 - Collis|Collis]] 22, 1328
+
 Il gruppo prepara le scorte e si incammina con le centurie. Una volta raggiunto il luogo da cui prendere il passaggio segreto, [[Lodato Numio Tullio|Lodato]] incita le truppe e organizza l’assedio, una volta che questo è iniziato, i 9 bevono una pozione per respirare sott'acqua, e marciano sul fondo del [[Lago di Dardo]] verso un canale che viene usato per raccogliere l’acqua per le fontane della [[Cattedrale dell'Acqua Pura]]. 
 
 Mentre marciano sul fondo del [[Lago di Dardo]], vengono attaccati da un gruppetto di squali d’acqua dolce, ma li sconfiggono velocemente e, trovato il canale, lo risalgono fino alle vasche di raccoglimento nelle cantine della Cattedrale. 
