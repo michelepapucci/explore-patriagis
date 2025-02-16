@@ -1,0 +1,1 @@
+È stata una maga in vita. È diventata la dea della saggezza, e si presenta talvolta in forma di Gufo. 

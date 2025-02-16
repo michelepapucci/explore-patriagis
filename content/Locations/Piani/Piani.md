@@ -3,7 +3,7 @@ I Piani si dividono in
 - **Piani Spirituali**
 
 ### Piani Corporei
-[[Nimbus]], [[Piano Materiale]], 
+[[Nimborum Oceanus]], [[Piano Materiale]], 
 
 
 ### Piani Spirituali

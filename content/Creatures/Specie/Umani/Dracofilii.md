@@ -1,0 +1,6 @@
+I Dracofilii sono creature adattate alla vita su [[Nimborum Oceanus]]. Hanno un fisico asciutto e muscoloso, con una pelle liscia ma coriacea, il cui colore va dal bronzo ad un'ocra pallido. Hanno delle alette, dei lembi di pelle che si estendono dalle loro braccia, più lunghe e sottili di quelle umane, che assomigliano a quelle di uno scoiattolo volante. 
+Hanno gli occhi sottili e a mandorla, protetti protetti da due palpebre, che li proteggono dai venti. I loro capelli, spesso legati e adornati con nastri e pendenti, volano leggiadri con la brezza sempre presente. 
+Le loro dita sono allungate e normalmente fornite di artigli, che loro mantengono con cura per evitare di ferire gli animali dai quali dipendono. 
+
+La specie si definisce *Figlia del Drago*, data la loro origine. Essi nacquero dal sangue dei draghi morti su [[Nimborum Oceanus]] in seguito alla nascita del piano e alla loro misteriosa estinzione. Vissero per secoli su lembi di terra trasportati faticosamente dai pochi draghi sopravvissuti. Oggi questi pochi territori sono tutti andati perduti con la morte dei draghi avvenuta per vecchiaia. 
+La maggior parte dei Dracofilii vive su Balene del Cielo, o a *[[Domus]]*, l'ultimo lembo di terra tenuto in volo dai maghi della loro specie dopo che il drago che la trasportava perì. 
