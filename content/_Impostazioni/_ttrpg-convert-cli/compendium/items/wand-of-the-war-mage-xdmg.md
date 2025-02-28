@@ -1,0 +1,23 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-item
+tags:
+- ttrpg-cli/compendium/src/5e/xdmg
+- ttrpg-cli/item/attunement/required
+- ttrpg-cli/item/rarity/varies
+aliases: 
+- "Wand of the War Mage"
+---
+# Wand of the War Mage
+*(requires attunement by a spellcaster)*  
+![](https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/items/XDMG/Wand%20of%20the%20War%20Mage.webp#right)
+
+- **Weight**: 1.0 lbs.
+
+**Items in this group:**
+
+- [+1 Wand of the War Mage](compendium/items/1-wand-of-the-war-mage-xdmg.md)
+- [+2 Wand of the War Mage](compendium/items/2-wand-of-the-war-mage-xdmg.md)
+- [+3 Wand of the War Mage](compendium/items/3-wand-of-the-war-mage-xdmg.md)
+
+*Source: Dungeon Master's Guide (2024) p. 322*

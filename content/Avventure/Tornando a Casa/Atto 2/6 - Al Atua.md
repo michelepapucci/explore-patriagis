@@ -8,10 +8,13 @@ Primo encounter
 - Bulette
 
 Secondo Encounter
-
-- 1 Gnoll Pack Lord
-- 6 Gnoll Warrior
-- 2 Hyena
+```encounter
+party:  Soldati di Patriagis
+creatures:
+  - Gnoll Pack Lord (XMM)
+  - 6: Gnoll Warrior (XMM)
+  - 2: Hyena (XMM) 
+```
 
 Terzo Encounter
 

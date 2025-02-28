@@ -1,3 +1,8 @@
+---
+draft: true
+---
+
+
 Una lista di pagine a cui lavorare. 
 ## Pagine Vuote
 ```dataview 

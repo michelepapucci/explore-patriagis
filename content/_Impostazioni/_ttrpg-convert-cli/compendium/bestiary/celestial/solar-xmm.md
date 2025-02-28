@@ -1,0 +1,112 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-monster
+tags:
+- ttrpg-cli/compendium/src/5e/xmm
+- ttrpg-cli/monster/cr/21
+- ttrpg-cli/monster/environment/planar
+- ttrpg-cli/monster/environment/upper
+- ttrpg-cli/monster/size/large
+- ttrpg-cli/monster/type/celestial/angel
+statblock: inline
+aliases: ["Solar"]
+---
+# [Solar](compendium/bestiary/celestial/solar-xmm.md)
+*Source: Monster Manual (2024) p. 288*  
+
+## Solar
+
+*Angelic Protector of the Multiverse*
+
+- **Habitat.** Planar (Upper Planes)  
+- **Treasure.** Any  
+
+Solars stand as the final line of defense between unspeakable evils and the order of the multiverse. They are the servants of just deities and ageless forces of good. Their interests span the planes, but they rarely intervene in conflicts on the worlds of the Material Plane. When they act, they lead vast angelic hosts and wield holy weapons capable of laying low the wickedest Fiends.
+
+Solars can resurrect the dead and often use that power to enlist mortal aid. They bestow grand, new purposes on those they return to life. Solars don't enforce these destinies, but they trust in the potential of mortals to achieve great things.
+
+```statblock
+"name": "Solar (XMM)"
+"size": "Large"
+"type": "celestial"
+"subtype": "angel"
+"alignment": "Lawful Good"
+"ac": !!int "21"
+"hp": !!int "297"
+"hit_dice": "22d10 + 176"
+"stats":
+- !!int "26"
+- !!int "22"
+- !!int "26"
+- !!int "25"
+- !!int "25"
+- !!int "30"
+"speed": "50 ft., fly 150 ft. (hover)"
+"skillsaves":
+  "Perception": !!int "14"
+"damage_immunities": "poison, radiant"
+"condition_immunities": "[charmed](rules/conditions.md#Charmed), [exhaustion](rules/conditions.md#Exhaustion),\
+  \ [frightened](rules/conditions.md#Frightened), [poisoned](rules/conditions.md#Poisoned)"
+"senses": "truesight 120 ft., passive Perception 24"
+"languages": "all; telepathy 120 ft."
+"cr": "21"
+"traits":
+- "desc": "The solar casts one of the following spells, requiring no Material components\
+    \ and using Charisma as the spellcasting ability (spell save DC 25):\n\nAt will:\
+    \ [Detect Evil and Good](compendium/spells/detect-evil-and-good-xphb.md)\n\n1/day\
+    \ each: [Commune](compendium/spells/commune-xphb.md), [Control Weather](compendium/spells/control-weather-xphb.md),\
+    \ [Dispel Evil and Good](compendium/spells/dispel-evil-and-good-xphb.md), [Resurrection](compendium/spells/resurrection-xphb.md)"
+  "name": "Spellcasting"
+- "desc": "The solar casts [Cure Wounds](compendium/spells/cure-wounds-xphb.md) (level\
+    \ 2 version), [Lesser Restoration](compendium/spells/lesser-restoration-xphb.md),\
+    \ or [Remove Curse](compendium/spells/remove-curse-xphb.md), using the same spellcasting\
+    \ ability as Spellcasting.\n\n3/day: [Cure Wounds](compendium/spells/cure-wounds-xphb.md)\
+    \ (level 2 version), [Lesser Restoration](compendium/spells/lesser-restoration-xphb.md),\
+    \ [Remove Curse](compendium/spells/remove-curse-xphb.md)"
+  "name": "Divine Aid (3/Day)"
+- "desc": "The solar knows if it hears a lie."
+  "name": "Divine Awareness"
+- "desc": "If the solar dies outside Mount Celestia, its body disappears, and it gains\
+    \ a new body instantly, reviving with all its [Hit Points](rules/variant-rules/hit-points-xphb.md)\
+    \ somewhere in Mount Celestia."
+  "name": "Exalted Restoration"
+- "desc": "If the solar fails a saving throw, it can choose to succeed instead."
+  "name": "Legendary Resistance (4/Day)"
+- "desc": "The solar has [Advantage](rules/variant-rules/advantage-xphb.md) on saving\
+    \ throws against spells and other magical effects."
+  "name": "Magic Resistance"
+"actions":
+- "desc": "The solar makes two Flying Sword attacks. It can replace one attack with\
+    \ a use of Slaying Bow."
+  "name": "Multiattack"
+- "desc": "Melee or Ranged Attack: dice:1d20+15|noform|text(+15), reach 10 ft.\
+    \ or range 120 ft. Hit: dice:4d6+8|noform|avg|text(22) (4d6 + 8) Slashing\
+    \ damage plus dice:8d8|noform|avg|text(36) (8d8) Radiant damage. Hit or Miss:\
+    \ The sword magically returns to the solar's hand or hovers within 5 feet of the\
+    \ solar immediately after a ranged attack."
+  "name": "Flying Sword"
+- "desc": "Dexterity Saving Throw: DC 21, one creature the solar can see within\
+    \ 600 feet. Failure: If the creature has 100 [Hit Points](rules/variant-rules/hit-points-xphb.md)\
+    \ or fewer, it dies. It otherwise takes dice:4d8+6|noform|avg|text(24) (4d8\
+    \ + 6) Piercing damage plus dice:8d8|noform|avg|text(36) (8d8) Radiant damage."
+  "name": "Slaying Bow"
+"legendary_actions":
+- "desc": "Constitution Saving Throw: DC 25, one creature the solar can see within\
+    \ 120 feet. Failure: The target has the [Blinded](rules/conditions.md#Blinded)\
+    \ condition for 1 minute. Failure or Success: The solar can't take this action\
+    \ again until the start of its next turn."
+  "name": "Blinding Gaze"
+- "desc": "The solar teleports up to 60 feet to an unoccupied space it can see. Dexterity\
+    \ Saving Throw: DC 25, each creature in a 10-foot [Emanation [Area of Effect]](rules/variant-rules/emanation-area-of-effect-xphb.md)\
+    \ originating from the solar at its destination space. Failure: dice:2d10|noform|avg|text(11)\
+    \ (2d10) Radiant damage. Success: Half damage."
+  "name": "Radiant Teleport"
+"source":
+- "XMM"
+"image": "https://raw.githubusercontent.com/5etools-mirror-3/5etools-img/main/bestiary/tokens/XMM/Solar.webp"
+```
+^statblock
+
+## Environment
+
+planar, upper
