@@ -1,11 +1,14 @@
-[[Toa'ramal]]. 
+Il gruppo, dopo aver passato la notte a , imprigionati dai [[Toa'ramal]], vengono portati nel deserto bendati e lasciati a qualche ora di cammino dal , il tempio segreto di [[Al-Atua]], dove i [[Toa'ramal]] svolgono la loro prova del [[Al-Atua#Bassari|Bassari]]. 
 
 
 ## Dungeon
 
 Primo encounter
-
-- Bulette
+```encounter
+creatures:
+  - Bulette (XMM)
+party:  Soldati di Patriagis
+```
 
 Secondo Encounter
 ```encounter

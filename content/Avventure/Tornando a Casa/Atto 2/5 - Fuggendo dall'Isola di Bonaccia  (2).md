@@ -12,7 +12,7 @@ Il gruppo raggiunge il portale e insieme a [[Libeccio]] lo attraversano.
 
 [[Strelitzia]] non vuole far andare via [[Bartolomeo, Tessitore di Ombre|Bartolomeo]]. Può essere convinta o uccisa.
 
-[[Libeccio]] spiega al gruppo che avendo a disposizione solo il suo vento e data la posizione dell'[[Isola di Bonaccia]] raggiungeranno la costa nord della [[Dardania]], nel [[Grande Deserto del Nord|Grande Deserto]]. 
+[[Libeccio]] spiega al gruppo che avendo a disposizione solo il suo vento e data la posizione dell'[[Isola di Bonaccia]] raggiungeranno la costa nord della [[Dardania]], nel [[Grande Deserto del Sud|Grande Deserto]]. 
 Lì non troveranno anima viva finché non raggiungeranno i [[Monti Mekameka]], dove inizia il [[Discepolato di Dardania]]. 
 Da lì troveranno dei porti e forse un posto su qualche barca per tornare a [[Patriagis]]. 
 
@@ -37,7 +37,7 @@ La navigazione dall'[[Isola di Bonaccia]] e la [[Dardania]] durerà circa 15-18 
 > vedo un gruppo di compagni che tornano a casa, 
 > ma quel gruppo non siete più voi.
  
-Raggiungo la [[Dardania]] nel [[Grande Deserto del Nord|Grande Deserto]]. 
+Raggiungo la [[Dardania]] nel [[Grande Deserto del Sud|Grande Deserto]]. 
 
 Vengono assaltati da un gruppo di [[Iwinās]]. 
 
@@ -75,4 +75,4 @@ La loro Matriarca, Tahuza, li accoglie formalmente e racconta loro cos'è succes
 - I [[Toa'ramal]] non vedono di buon occhio [[Numio Ostilio III Tullio|Re Numio]], ma lo capiscono: 
 	-  Dopo l'umiliazione del furto, c'è stato pure un vigliacco attentato alla vita del secondogenito; 
 	- I [[Toa'ramal]] vogliono morta la sacerdotessa [[Wāhine-Ataahua Tohunga-Nui|Wāhine]]. Sono disposti ad aiutare [[Patriagis]] negli sforzi bellici ma vogliono garantite delle condizioni e vogliono parlarne con l'unica autorità in grado di garantirgliere: [[Adriano Numio Tullio]], primogenito di [[Numio Ostilio III Tullio|Numio]] ora a capo delle 12 legioni tornate in [[Dardania]]. 
-- Se il gruppo accetta di attraversare il [[Grande Deserto del Nord|Grande Deserto]] e di portare questa comunicazione ad [[Adriano Numio Tullio]], saranno lasciati liberi e in vita. 
+- Se il gruppo accetta di attraversare il [[Grande Deserto del Sud|Grande Deserto]] e di portare questa comunicazione ad [[Adriano Numio Tullio]], saranno lasciati liberi e in vita. 
