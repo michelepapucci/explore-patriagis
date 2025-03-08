@@ -11,7 +11,6 @@ Comunità di Iwinās:
 - [[Ramanu]]; 
 - [[Sahilaru]]; 
 - [[Sarirama]];
-
 ## Nomi comuni per gli Iwinās
 #### Nomi Maschili
 - **Ramatō** (Rama + To) → _Rama_ (Arabo, رَمْل, "sabbia") + _To_ (Maori, "forte") → "Forte come la sabbia"

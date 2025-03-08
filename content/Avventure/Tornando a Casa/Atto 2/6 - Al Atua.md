@@ -20,10 +20,22 @@ creatures:
 ```
 
 Terzo Encounter
-
-- 8 Skeleton
-- 1 Flaming Skeleton
+```encounter
+creatures:
+  - 7: Skeleton (XMM)
+  - Flaming Skeleton (XMM)
+party:  Soldati di Patriagis
+```
 
 Quarto Encounter (Boss)
-- Giant Lizard (Winter Wolf) Breath Weapon fire damage, Cavalcato da un Cavaliere Spettrale (Tough Boss).
+```encounter
+creatures:
+  - Winter Wolf (XMM)
+  - Tough Boss (XMM)
+  - Solar (XMM)
+  - 5:Skeleton (XMM)
+party:  Soldati di Patriagis
+```
 
+ Giant Lizard (Winter Wolf) Breath Weapon fire damage, Cavalcato da un Cavaliere Spettrale (Tough Boss).
+ 
