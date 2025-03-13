@@ -16,7 +16,7 @@ Il gruppo entra nella locanda e assiste ad una lite tra due gruppi di avventurie
 A dividerli c'è [[Daikan Columna|Daikan]], uno dei fondatori dell'[[Orda d'Argento]], il più famoso e importante gruppo di avventurieri della nazione. 
 
 > [!info]- Famiglie di [[Nova]] e rivalità
-> La famiglia [[Novoli]] è una delle più importanti famiglie del [[Regno di Patriagis]] da quando [[Filomena de Novoli]] sposò il secondo re del regno, primogenito della allora appena fondata Famiglia [[Tullio]], [[Re Novio I Tullio|Re Novio I]].
+> La famiglia [[Novoli]] è una delle più importanti famiglie del [[Regno di Patriagis]] da quando [[Filomena de Novoli]] sposò il secondo re del regno, primogenito della allora appena fondata Famiglia [[Tullio]], [[Novio I Tullio|Re Novio I]].
 > 
 > La famiglia [[de Larcher]] ha origini antiche, come la famiglia [[Novoli]] che affondano fino al [[Regno dell'Ovest]] dove faceva parte dell'aristocrazia. Recentemente sembra però stiano affrontando problemi economici, nonostante questo, ha ancora profonde radici nel tessuto sociale: [[Gontràn de Larcher]] è un membro di successo della [[Gilda degli Avventurieri]], [[Jean de Larcher]] è un [[Oratore]] del [[Dogma]], [[Alain de Larcher]] è un membro dell'[[Ordine dei Cavalieri di Novio]] e [[Xavier de Larcher]] è attivo nelle politiche della città.  
 > 
