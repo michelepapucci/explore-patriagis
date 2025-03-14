@@ -1,3 +1,7 @@
+---
+tags:
+  - evento
+---
 Il gruppo si ricongiunge insieme a [[Lodato Numio Tullio|Lodato]] all'esercito del [[Regno di Patriagis]]. [[Lodato Numio Tullio|Lodato]] manda il gruppo all'accampamento a lanciare la fuga verso [[Zalpa]] e a recuperare i loro oggetti e una borsa del comandante.
 [[Lodato Numio Tullio|Lodato]] affida a [[Bartolomeo Battiferro|Bartolomeo]] il piccolo [[Tumanako Numio Tullio|Tumanako]]. 
 
@@ -19,6 +23,8 @@ Il piano è un successo: tingono il fiume di rosso con i corpi dei tritoni e il 
 [[Zalpa]] viene assicurata e il gruppo può finalmente riposare. 
 
 ---
+<span data-date='1328-08-23' data-name="Tornando a Casa: Partenza dalla Dardania"></span>
+
 [[8 - Collis|Collis]] 23, 1328
 
 Il gruppo si sveglia con i suoni della gioia delle centurie: [[Kaiurungi Mikaere]] è arrivato con una galea per sé e tre galeoni per trasportare le centurie. 
@@ -52,7 +58,14 @@ Poi, si dilegua e tutto torna normale. Il gruppo si interroga sul significato de
 
 Poco dopo [[Kaiurungi Mikaere]] annuncia l'arrivo di una tempesta. [[Musanda Sifa|Musanda]], spaventato si rifugia sotto-coperta. Si rendono conto che un potente elementale della tempesta ha creato un enorme mulinello, con lui al centro che sta risucchiando tutte le navi. Tutta la centuria si mette all'opera e con incantesimi, archi e balestre riescono a distruggere la creatura poco insieme a [[Lodato Numio Tullio|Lodato]] che a cavallo di un Pegaso evocato con il suo pendente, ha combattuto la creatura corpo a corpo. [[Lodato Numio Tullio|Lodato]] si assicura che il gruppo e [[Tumanako Numio Tullio|Tumanako]] stia bene, e poi manda tutti a riposarsi.
 
-In mattinata, si svegliano con tutte e quattro le navi ferme e la galea poco più avanti. Vedono [[Arbogh Tohunga-Toa|Arbogh]], [[Kaiurungi Mikaere|Mikaere]] e [[Lodato Numio Tullio|Lodato]] uscire dalla sotto-coperta della galea, con i primi che attaccano con delle sciabole il disarmato principe. Questo muore assassinato. Poi [[Kaiurungi Mikaere|Mikaere]] da il via e la galea inizia a sparare coi cannoni. Il gruppo vola in sotto-coperta per un contr'attacco ma si rende conto che le navi sono disarmate e cariche di alcol. Poche cannonate dopo la nave esplode. 
+---
+<span data-date='1328-08-24' data-name="Tornando a Casa: Il Tradimento"></span>
+
+In mattinata, si svegliano con tutte e quattro le navi ferme e la galea poco più avanti. Vedono [[Arbogh Tohunga-Toa|Arbogh]], [[Kaiurungi Mikaere|Mikaere]] e [[Lodato Numio Tullio|Lodato]] uscire dalla sotto-coperta della galea, con i primi che attaccano con delle sciabole il disarmato principe. Questo muore assassinato. Poi [[Kaiurungi Mikaere|Mikaere]] da il via e la galea inizia a sparare coi cannoni. Il gruppo vola in sotto-coperta per un contrattacco ma si rende conto che le navi sono disarmate e cariche di alcol. Poche cannonate dopo la nave esplode. 
+
+---
+
+<span data-date='1328-08-24' data-name="Tornando a Casa: Bloccati sull'Isola di Bonaccia" data-end='1329-08-24' data-category='yellow'></span>
 
 [[Tumanako Numio Tullio|Tumanako]] riesce a portare il gruppo in salvo su un'isola a sud-est della [[Dardania]].
 Il gruppo si risveglia massacrato, il corpo di [[Lodato Numio Tullio|Lodato]] portato lì da [[Tumanako Numio Tullio|Tumanako]], è stato spogliato. Il gruppo da lui una sepoltura sulla piccola isola.
@@ -66,5 +79,9 @@ Il gruppo si rende conto nelle settimane che vengono delle seguenti proprietà d
 
 Disperati e senza possibilità di fuggire il gruppo insegna il Comune a [[Tumanako Numio Tullio|Tumanako]], si allena e si droga grazie a delle casse di un'alga allucinogena che arriva sull'isola. 
 
+---
+<span data-date='1328-11-23' data-name="Tornando a Casa: Bartolomeo visitato dal Gufo"></span>
+
 Passano così tre mesi, fino al 23 di [[11 - Hibernis|Hibernis]], quando nella notte [[Bartolomeo Battiferro|Bartolomeo]] riceve la visita di un gufo che offre a lui il suo consiglio. [[Bartolomeo Battiferro|Bartolomeo]] lo accetta ma rimanendo distaccato. Il gufo lo avverte sulla vera natura dei suoi compagni e offre lui consiglio dicendo di aspettare la riapparizione della donna e di farsela amica, poiché lei è la chiave per andarsene. 
 
+Inoltre, il Gufo acconsente ad inviare un messaggio da parte di [[Bartolomeo Battiferro|Bartolomeo]] a [[Gavio]]. 

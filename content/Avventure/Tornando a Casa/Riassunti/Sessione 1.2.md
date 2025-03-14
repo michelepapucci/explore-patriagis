@@ -1,3 +1,7 @@
+---
+tags:
+  - evento
+---
 Il gruppo torna da [[Dubo]] all’accampamento sulle sponde del [[Lago di Dardo]] portando con sé il carpentiere. 
 
 Raggiunto l’accampamento, [[Lodato Numio Tullio|Lodato]] li accoglie e ascolta il loro racconto. Poi, dice loro che parlerò con il [[Mezzuomini|Mezzuomo]] e farà sapere loro. Sono liberi per il resto della giornata. [[Lodato Numio Tullio|Lodato]] consegna loro anche delle lettere che sono arrivate da quando suo padre, [[Numio Ostilio III Tullio|Re Numio]] ha tolto il blocco epistolare. Ne sono arrivate 4: una per [[Bartolomeo Battiferro|Bartolomeo]], una per [[Dardano Spaccatessere|Dardano]], una per [[Dante Alifiere|Dante]] e una per [[Musanda Sifa|Musanda]]. 
@@ -11,6 +15,8 @@ Il gruppo cena, e arrivata alla sera, si ritrovano coi centurioni, Curzio e Zosi
 [[Lodato Numio Tullio|Lodato]] una volta che gli animi sono calmi, comunica che grazie alle informazioni raccolte dal gruppo e secondo gli ordini ricevuti dal padre in giornata, verrà fatto un ultimo disperato tentativo di conquista di [[Dardo]]. Le centurie attaccheranno da fuori le porte e le torri della città creando chaos e confusione, mentre [[Lodato Numio Tullio|Lodato]], [[Bartolomeo, Tessitore di Ombre|Bartolomeo]], [[Bartolomeo Battiferro|Bartolomeo]], [[Dardano Spaccatessere|Dardano]], [[Dante Alifiere|Dante]] e [[Musanda Sifa|Musanda]], con l’aiuto di Curzio, Zosimo e Tricontilla, entreranno tramite il passaggio segreto nella [[Cattedrale dell'Acqua Pura]], sede religiosa e politica della città, dove vive [[Wāhine-Ataahua Tohunga-Nui|Wāhine]], grande sacerdotessa del [[Discepolato di Dardania|Discepolato]] e dove credono sia il tesoro reale rubato. Partiranno due ore dopo.
 
 ---
+<span data-date='1328-08-22' data-name="Tornando a Casa: L'assalto a Dardo"></span>
+
 [[8 - Collis|Collis]] 22, 1328
 
 Il gruppo prepara le scorte e si incammina con le centurie. Una volta raggiunto il luogo da cui prendere il passaggio segreto, [[Lodato Numio Tullio|Lodato]] incita le truppe e organizza l’assedio, una volta che questo è iniziato, i 9 bevono una pozione per respirare sott'acqua, e marciano sul fondo del [[Lago di Dardo]] verso un canale che viene usato per raccogliere l’acqua per le fontane della [[Cattedrale dell'Acqua Pura]]. 

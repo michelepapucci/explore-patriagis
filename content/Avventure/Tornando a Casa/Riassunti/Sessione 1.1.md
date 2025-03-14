@@ -1,3 +1,9 @@
+---
+tags:
+  - evento
+---
+<span data-date='1328-08-21' data-name="Tornando a Casa: Verso Dubo" data-calendar="Default"></span>
+
 [[8 - Collis|Collis]] 21, 1328
 
 Il gruppo dopo aver fatto colazione alla mensa dell'accampamento, incontra [[Lodato Numio Tullio|Lodato]] in Infermeria.

@@ -1,8 +1,17 @@
+---
+tags:
+  - evento
+---
+<span data-date='1329-09-19' data-name="Tornando a Casa: Ritorno sul'Isola di Bonaccia con Libeccio e partenza"></span>
+
 Una volta arrivati sull'isola [[Strelitzia]] acconsente al fatto che [[Bartolomeo, Tessitore di Ombre|Bartolomeo]] intraprenda il viaggio, purché ritorni.
 
 Il gruppo parte dall'[[Isola di Bonaccia]] dando un salto a [[Libeccio]] che libera il suo vento per portarli via dall'isola e a [[Strelitzia]] che con i suoi rampicanti costruisce un trampolino per evitare le correnti poste intorno all'isola.
 
 Il gruppo parte alla volta della [[Dardania]].
+
+---
+<span data-date='1329-09-20' data-name="Tornando a Casa: La Dardania e il Grande Deserto"></span>
 
 Durante il viaggio, riceve un'altra profezia dal profeta, nel medesimo modo dell'ultima volta:
 
@@ -32,7 +41,9 @@ Durante il viaggio, [[Tumanako Numio Tullio|Tumanako]] si getta tra le onde e nu
 Il gruppo dopo circa 15-16 ore di viaggio raggiunge le coste della [[Dardania]] del sud, nel [[Grande Deserto del Sud|Grande Deserto]], un tempo casa degli [[Iwinās]], popoli abitatori del deserto del quale fa parte [[Musanda Sifa|Musanda]]. 
 
 Il gruppo inizia la marcia nel Deserto con lo scopo di raggiungere i [[Monti Dardani]], oltrepassarli e raggiungere il [[Discepolato di Dardania]], dal quale imbarcarsi poi per [[Patriagis]]. Tutto è tranquillo finché non vengono attaccati da persone dalle fattezze simili a quelle di [[Musanda Sifa|Musanda]]. Il gruppo avversario è composto da un manipolo di guerrieri, alcuni combattono con sciabole, altri con coltelli e archi e infine uno di loro lancia incantesimi come un sacerdote. 
-Dopo qualche minuto di combattimento, temendo il peggio, il gruppo si arrende agli aggressori.
+Dopo qualche minuto di combattimento, temendo il peggio, il gruppo si arrende agli aggressori
+
+<span data-date='1329-09-20' data-name="Tornando a Casa: Sconfitta contro i Toa'ramal, guerrieri del Deserto"></span>
 
 Parlando la stessa lingua di [[Musanda Sifa|Musanda]], rivelano loro di essere membri dei [[Toa'ramal]], una stirpe guerriera degli [[Iwinās]]. [[Musanda Sifa|Musanda]] comunica al gruppo che sono una delle 9 tribù degli [[Iwinās]], molto tradizionalista, sono ferventi adoratori di [[Al-Atua]], Dio del Deserto, molto isolazionisti.
 Il gruppo viene bendato e portato nella loro casa, la città di [[Hawhenua]]. [[Musanda Sifa|Musanda]] rivela che tra i [[Sifa]], la sua tribù, si credeva che la città sotterranea dei [[Toa'ramal]] fosse solo una leggenda, o al più un'antica città perduta, invece, evidentemente, sotto il deserto i [[Toa'ramal]] hanno creato un'enorme rete di caverne dove si sono ampliati e riprodotti raggiungendo una popolazione di diverse centinaia di migliaia di cittadini.
@@ -53,6 +64,9 @@ Questo sconvolge tutti perché [[Dardano Spaccatessere|Dardano]] aveva ucciso la
 [[Musanda Sifa|Musanda]] rivela che la posizione dell'[[Hakarām]] è sconosciuta ai [[Sifa]] da centinaia di anni, e credeva fosse andato perduto o distrutto. 
 
 Il gruppo viene fatto dormire in cella e la mattina dopo viene portato bendato a qualche ora di cammino dall'[[Hakarām]]. 
+
+---
+<span data-date='1329-09-21' data-name="Tornando a Casa: Il Bassari dei Toa'Ramal"></span>
 
 Il gruppo si infiltra nel tempio e, esplorandone gli interni, prima trovano il nido di una Bullette, uno squalo del deserto. Il gruppo né rompe un uovo, ma riesce comunque ad evitare la madre. [[Bartolomeo, Tessitore di Ombre|Bartolomeo]] nel frattempo, risolve un'enigma in una stanza di preghiera, e garantisce l'accesso al gruppo alle camere e agli spazi abitativi più interni. Lì, nella biblioteca del Santuario, trovano un gruppo di gnoll molto aggressivi e l'incontro degenera in una battaglia sanguinaria, nel quale il gruppo ha la meglio. 
 
@@ -85,3 +99,4 @@ Rivela loro che un'antica profezia degli [[Iwinās]] parla di un "estraneo" che 
 [[Aramiri Toa'ramal]] crede che il marchio di [[Al-Atua]] sia il primo passo, e che ora dovrà ottenere l'approvazione della [[Dardania]], terra della madre e di [[Patriagis]], terra del padre, e che per farlo, dovrà raggiungere [[Numio Ostilio III Tullio|Re Numio]]. 
 Per farlo però dovranno superare le prove della [[Dardania]] e risolvere il mistero della sacerdotessa [[Wāhine-Ataahua Tohunga-Nui|Wāhine]]. 
 [[Aramiri Toa'ramal]] confessa che i [[Toa'ramal]] vogliono prestare la loro forza all'esercito di [[Patriagis]], per sconfiggere il [[Discepolato di Dardania]] e ricevere in cambio garanzie sui territori degli [[Iwinās]]. 
+Il gruppo viene poi fatto riposare. 

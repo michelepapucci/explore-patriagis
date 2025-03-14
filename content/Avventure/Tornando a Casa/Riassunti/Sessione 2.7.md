@@ -1,4 +1,10 @@
-Il gruppo parla di nuovo con la matriarca [[Aramiri Toa'ramal]], che chiede loro di trovare il modo di parlare con [[Adriano Numio Tullio]], primogenito di [[Numio Ostilio III Tullio|Re Numio]] di [[Patriagis]] e attuale comandante in carica delle forze di [[Patriagis]] in [[Dardania]]. 
+---
+tags:
+  - evento
+---
+<span data-date='1329-09-22' data-name="Tornando a Casa: La Missione della Matriarca"></span>
+
+La mattina seguente, il gruppo parla di nuovo con la matriarca [[Aramiri Toa'ramal]], che chiede loro di nuovo insiste chiedendo al gruppo di trovare il modo di parlare con [[Adriano Numio Tullio]], primogenito di [[Numio Ostilio III Tullio|Re Numio]] di [[Patriagis]] e attuale comandante in carica delle forze di [[Patriagis]] in [[Dardania]]. 
 In particolare chiede loro di partire da [[Hawhenua]] e oltrepassare i [[Monti Dardani]], raggiungendo il [[Bosco di Dubo]]. Da lì, devono capire come trovare [[Adriano Numio Tullio]] e convincerlo a lasciar partecipare i [[Toa'ramal]] ai combattimenti. In cambio, i [[Toa'ramal]] chiedono solo garanzie territoriali: lasciare il [[Grande Deserto del Sud|Grande Deserto]] agli [[Iwinās]]. 
 Inoltre ricorda al gruppo della profezia che lei crede parli di [[Tumanako Numio Tullio|Tumanako]]: *Arriverà un giorno un estraneo, che una volta riconosciuto dal Deserto, dalla Patria Materna e quella Paterna, unirà i popoli della [[Dardania]] e porterà un'era di prosperità e pace.*
 
@@ -9,7 +15,13 @@ Gli obbiettivi sono quindi molteplici e, più o meno in ordine sono:
 - Tornare a [[Patriagis]]
 - Far riconoscere [[Tumanako Numio Tullio|Tumanako]] dai [[Patriagis|Patriagi]] (Patria Paterna);
 
-Il gruppo si prepara facendo acquisti a [[Hawhenua]] e infine parte alla volta dei [[Monti Dardani]]. Arrivano entro mezzogiorno ai pendici dei monti e cominciano la scalata fino a sera. [[Musanda Sifa|Musanda]] prova i suoi nuovi stivali del deserto e vola intorno al loro accampamento per avvistare nemici, non trovandone.
+---
+
+<span data-date='1329-09-25' data-name="Tornando a Casa: Partenza verso i monti Dardani"></span>
+
+Il gruppo si prepara facendo acquisti a [[Hawhenua]] per qualche giorno e infine parte alla volta dei [[Monti Dardani]]. 
+
+Arrivano entro mezzogiorno ai pendici dei monti e cominciano la scalata fino a sera. [[Musanda Sifa|Musanda]] prova i suoi nuovi stivali del deserto e vola intorno al loro accampamento per avvistare nemici, non trovandone.
 I monti da questo lato sono brulli e secchi, con piante estremamente rarefatte e senza alberi, quindi il gruppo si accampa all'aperto. 
 
 Nonostante questo, la notte passa tranquilla e la mattina si incammina di nuovo verso la cima del monte, che viene raggiunta in tarda mattinata, e poi scavalcata, per iniziare la discesa. Lì vedono tutta la [[Dardania]] che conoscono:

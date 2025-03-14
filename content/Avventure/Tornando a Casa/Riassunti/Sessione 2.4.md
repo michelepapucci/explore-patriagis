@@ -1,4 +1,15 @@
-Il gruppo attende per un anno il ritorno di [[Strelitzia]], fino alla mezzanotte del 23 di [[8 - Collis|Collis]] 1328 A.P. Al suo risveglio, l'[[Incarnazioni|Incarnazione]] si dimostra ragionevole nonostante l'essere stata uccisa. Accetta l'offerta del gruppo di offrirle [[Bartolomeo, Tessitore di Ombre|Bartolomeo]] in marito con il quale copula per diversi giorni di fila, facendo poi a turno anche con [[Dardano Spaccatessere|Dardano]] e [[Musanda Sifa|Musanda]]. 
+---
+tags:
+  - evento
+---
+<span data-date='1329-08-24' data-name="Tornando a Casa: Rinascita di Strelitzia"></span>
+
+Il gruppo attende per un anno il ritorno di [[Strelitzia]], fino alla mezzanotte del 24
+di [[8 - Collis|Collis]] 1329 A.P. Al suo risveglio, l'[[Incarnazioni|Incarnazione]] si dimostra ragionevole nonostante l'essere stata uccisa. Accetta l'offerta del gruppo di offrirle [[Bartolomeo, Tessitore di Ombre|Bartolomeo]] in marito con il quale copula per diversi giorni di fila, facendo poi a turno anche con [[Dardano Spaccatessere|Dardano]] e [[Musanda Sifa|Musanda]]. 
+
+---
+
+<span data-date='1329-08-24' data-end='1329-09-03' data-name="Tornando a Casa: Una settimana di amore per Strelitzia" data-category='green'></span>
 
 Una volta soddisfatta [[Strelitzia]] rivela di essere un'[[Incarnazioni|Incarnazione]] che ha preso vita dall'ammasso di [[Lapisma]] che si trova nell'isoletta più a nord dell' [[Isola di Bonaccia]] sulla quale si trovano. 
 
@@ -10,6 +21,11 @@ Dopo un'analisi fatta da [[Strelitzia]] con il gruppo, sembra che l'unica opzion
 Per raggiungerla, devono attraversare una nuvola ocra che talvolta sorvola sopra l'[[Isola di Bonaccia]]. 
 
 Il gruppo si occupa quindi di creare un rudimentale deltaplano per sopravvivere in volo, mentre [[Strelitzia]] fornirà loro delle erbe che gli permetteranno di estrapolare il poco ossigeno presente in quella dimensione, oltre a far crescere una monumentale pianta per raggiungere la nuvola. 
+
+Il gruppo si esercita nell'uso del deltaplano e ne perfeziona la costruzione per un paio di settimane. 
+
+---
+<span data-date='1329-09-19' data-name="Tornando a Casa: Verso Nimbus alla ricerca di Libeccio"></span>
 
 Quando tutto è pronto il gruppo parte alla volta di [[Nimborum Oceanus]], dove viene immediatamente attaccato da dei predatori del luogo: delle sorta di creature volanti che sfruttano una sacca gonfia di gas per galleggiare in aria e alla quale danno fuoco per muoversi velocemente.
 
