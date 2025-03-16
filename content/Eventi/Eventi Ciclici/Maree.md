@@ -25,3 +25,8 @@ Infatti, sebbene ogni primo del mese corrisponda a delle maree sizigiali forti e
 
 Si preferiscono, in generale, porti con acque molto profonde, per contrastare l'effetto delle maree. 
 
+🌑🌒🌓🌔🌕🌖🌗🌘🌑
+
+
+---
+Si definisce **perigeo** il punto più vicino alla Terra dell'orbita geocentrica (o distanza orbitale minima) della Luna o di un satellite artificiale; allo stesso modo la distanza orbitale massima di un oggetto dalla Terra è detta **apogeo**. 
