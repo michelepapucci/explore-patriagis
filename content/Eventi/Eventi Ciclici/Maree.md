@@ -1,4 +1,4 @@
-caLe due lune [[Locations/Corpi Celesti/Castapoesis|Castapoesis]] e [[Locations/Corpi Celesti/Benevolicui|Benevolicui]] influenzano in maniera prevedibile ma significativa le maree del mondo. 
+Le due lune [[Locations/Corpi Celesti/Castapoesis|Castapoesis]] (*La Lenta*) e [[Locations/Corpi Celesti/Benevolicui|Benevolicui]] (*La Veloce*) influenzano in maniera prevedibile ma significativa le maree del mondo. 
 In particolare quando le lune si allineano col sole, durante le loro fasi di luna nuova e piena, si creano maree particolarmente forti chiamate maree sizigiali. 
 
 Nei primi giorni di ogni mese le due lune si trovano entrambe in plenilunio o in novilunio:
@@ -13,6 +13,7 @@ Durante le maree sizigiali a causa delle due lune si hanno 4 fasi di maree:
 | 06:00       | Prima Bassa Marea   | Estrema |
 | Mezzogiorno | Seconda Alta Marea  | Forte   |
 | 18:00       | Seconda Bassa Marea | Forte   |
+
 Questo comporta un alto rischio di inondazione durante la prima alta marea e un profondo ritiro dell'oceano durante la prima bassa marea. 
 
 Durante queste maree estreme entrare e uscire dai porti è pericoloso se il livello del mare si alza o si abbassa troppo velocemente. Le zone dove l'acqua è più bassa potrebbero ritirarsi del tutto, lasciando le imbarcazioni ferme sul fondale. 
@@ -41,25 +42,27 @@ Le peggiori, estreme maree, si hanno quando durante il primo giorno del mese (do
 > - 5/6 **Maree Fortissime**: l'effetto delle maree è disastroso. Sia durante il primo che il secondo ciclo di marea il ritiro delle acque è fortissimo e le inondazioni possono essere disastrose, l'acqua si alza di diversi metri inondando città costieri e distruggendo i porti. La navigazione in mare è fortemente sconsigliata a causa delle forti correnti. 
 > - 6/6 **Maree Estreme**: l'effetto delle maree è così forte che non è raro che le città costiere vengano evacuate con largo anticipo. Durante le secche anche i porti d'acqua fonda rischiano di vedere le proprie navi incagliate, che vengono spesso spostate ed ancorate a largo per evitare le ripercussioni. Quando la marea inizia a salire l'acqua si alza di molti metri inghiottendo la costa e tutto ciò che ha con sé. La navigazione in mare diventa pericolosissima a causa delle correnti imprevedibili. 
 
+Tabella Maree per alcune delle condizioni più interessanti possibili:
 
-| Allineamento delle Lune | [[Locations/Corpi Celesti/Castapoesis\|Castapoesis]] | [[Locations/Corpi Celesti/Benevolicui\|Benevolicui]] | Distanza                                                                                                                          | Forza delle Maree          |
-| ----------------------- | ---------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| Allineate               | 🌕 o 🌑                                              | 🌕 o 🌑                                              | Entrambe all'apogeo                                                                                                               | Maree moderate (3/6)       |
-| Allinate                | 🌕 o 🌑                                              | 🌕 o 🌑                                              | [[Locations/Corpi Celesti/Benevolicui\|Benevolicui]] al perigeo e [[Locations/Corpi Celesti/Castapoesis\|Castapoesis]] all'apogeo | Maree forti (4/6)          |
-| Allineate               | 🌕 o 🌑                                              | 🌕 o 🌑                                              | [[Locations/Corpi Celesti/Castapoesis\|Castapoesis]] al perigeo e [[Locations/Corpi Celesti/Benevolicui\|Benevolicui]] all'apogeo | Maree fortissime (5/6)     |
-| Allineate               | 🌕 o 🌑                                              | 🌕 o 🌑                                              | Entrambe al perigeo                                                                                                               | Maree estreme (6/6)        |
-| Allineate               | 🌒,🌓,🌔,🌖,🌗,🌘                                    | 🌒,🌓,🌔,🌖,🌗,🌘                                    | Entrambe all'apogeo                                                                                                               | Maree deboli (1/6)         |
-| Allineate               | 🌒,🌓,🌔,🌖,🌗,🌘                                    | 🌒,🌓,🌔,🌖,🌗,🌘                                    | [[Locations/Corpi Celesti/Benevolicui\|Benevolicui]] al perigeo e [[Locations/Corpi Celesti/Castapoesis\|Castapoesis]] all'apogeo | Maree normali (2/6)        |
-| Allineate               | 🌒,🌓,🌔,🌖,🌗,🌘                                    | 🌒,🌓,🌔,🌖,🌗,🌘                                    | [[Locations/Corpi Celesti/Castapoesis\|Castapoesis]] al perigeo e [[Locations/Corpi Celesti/Benevolicui\|Benevolicui]] all'apogeo | Maree moderate (3/6)       |
-| Allineate               | 🌒,🌓,🌔,🌖,🌗,🌘                                    | 🌒,🌓,🌔,🌖,🌗,🌘                                    | Entrambe al perigeo                                                                                                               | Maree forti (4/6)          |
-| Disallineate            | 🌕 o 🌑                                              | 🌕 o 🌑                                              | Entrambe all'apogeo                                                                                                               | Maree normali (2/6)        |
-| Disallineate            | 🌕 o 🌑                                              | 🌕 o 🌑                                              | [[Locations/Corpi Celesti/Benevolicui\|Benevolicui]] al perigeo e [[Locations/Corpi Celesti/Castapoesis\|Castapoesis]] all'apogeo | Maree moderate (3/6)       |
-| Disallineate            | 🌕 o 🌑                                              | 🌕 o 🌑                                              | [[Locations/Corpi Celesti/Castapoesis\|Castapoesis]] al perigeo e [[Locations/Corpi Celesti/Benevolicui\|Benevolicui]] all'apogeo | Maree forti (4/6)          |
-| Disallineate            | 🌕 o 🌑                                              | 🌕 o 🌑                                              | Entrambe al perigeo                                                                                                               | Maree fortissime (5/6)     |
-| Disallineate            | 🌒,🌓,🌔,🌖,🌗,🌘                                    | 🌒,🌓,🌔,🌖,🌗,🌘                                    | Entrambe all'apogeo                                                                                                               | Maree impercettibili (0/6) |
-| Disallineate            | 🌒,🌓,🌔,🌖,🌗,🌘                                    | 🌒,🌓,🌔,🌖,🌗,🌘                                    | [[Locations/Corpi Celesti/Benevolicui\|Benevolicui]] al perigeo e [[Locations/Corpi Celesti/Castapoesis\|Castapoesis]] all'apogeo | Maree deboli (1/6)         |
-| Disallineate            | 🌒,🌓,🌔,🌖,🌗,🌘                                    | 🌒,🌓,🌔,🌖,🌗,🌘                                    | [[Locations/Corpi Celesti/Castapoesis\|Castapoesis]] al perigeo e [[Locations/Corpi Celesti/Benevolicui\|Benevolicui]] all'apogeo | Maree normali (2/6)        |
-| Disallineate            | 🌒,🌓,🌔,🌖,🌗,🌘                                    | 🌒,🌓,🌔,🌖,🌗,🌘                                    | Entrambe al perigeo                                                                                                               | Maree moderate (3/6)       |
- 
+| Allineamento delle Lune | Castapoesis       | Benevolicui       | Distanza                                                | Forza delle Maree          |
+| ----------------------- | ----------------- | ----------------- | ------------------------------------------------------- | -------------------------- |
+| Allineate               | 🌕 o 🌑           | 🌕 o 🌑           | Entrambe all'apogeo                                     | Maree moderate (3/6)       |
+| Allinate                | 🌕 o 🌑           | 🌕 o 🌑           | **Benevolicui** al perigeo e **Castapoesis** all'apogeo | Maree forti (4/6)          |
+| Allineate               | 🌕 o 🌑           | 🌕 o 🌑           | **Castapoesis** al perigeo e **Benevolicui** all'apogeo | Maree fortissime (5/6)     |
+| Allineate               | 🌕 o 🌑           | 🌕 o 🌑           | Entrambe al perigeo                                     | Maree estreme (6/6)        |
+| Allineate               | 🌒,🌓,🌔,🌖,🌗,🌘 | 🌒,🌓,🌔,🌖,🌗,🌘 | Entrambe all'apogeo                                     | Maree deboli (1/6)         |
+| Allineate               | 🌒,🌓,🌔,🌖,🌗,🌘 | 🌒,🌓,🌔,🌖,🌗,🌘 | **Benevolicui** al perigeo e **Castapoesis** all'apogeo | Maree normali (2/6)        |
+| Allineate               | 🌒,🌓,🌔,🌖,🌗,🌘 | 🌒,🌓,🌔,🌖,🌗,🌘 | **Castapoesis** al perigeo e **Benevolicui** all'apogeo | Maree moderate (3/6)       |
+| Allineate               | 🌒,🌓,🌔,🌖,🌗,🌘 | 🌒,🌓,🌔,🌖,🌗,🌘 | Entrambe al perigeo                                     | Maree forti (4/6)          |
+| Disallineate            | 🌕 o 🌑           | 🌕 o 🌑           | Entrambe all'apogeo                                     | Maree normali (2/6)        |
+| Disallineate            | 🌕 o 🌑           | 🌕 o 🌑           | **Benevolicui** al perigeo e **Castapoesis** all'apogeo | Maree moderate (3/6)       |
+| Disallineate            | 🌕 o 🌑           | 🌕 o 🌑           | **Castapoesis** al perigeo e **Benevolicui** all'apogeo | Maree forti (4/6)          |
+| Disallineate            | 🌕 o 🌑           | 🌕 o 🌑           | Entrambe al perigeo                                     | Maree fortissime (5/6)     |
+| Disallineate            | 🌒,🌓,🌔,🌖,🌗,🌘 | 🌒,🌓,🌔,🌖,🌗,🌘 | Entrambe all'apogeo                                     | Maree impercettibili (0/6) |
+| Disallineate            | 🌒,🌓,🌔,🌖,🌗,🌘 | 🌒,🌓,🌔,🌖,🌗,🌘 | **Benevolicui** al perigeo e **Castapoesis** all'apogeo | Maree deboli (1/6)         |
+| Disallineate            | 🌒,🌓,🌔,🌖,🌗,🌘 | 🌒,🌓,🌔,🌖,🌗,🌘 | **Castapoesis** al perigeo e **Benevolicui** all'apogeo | Maree normali (2/6)        |
+| Disallineate            | 🌒,🌓,🌔,🌖,🌗,🌘 | 🌒,🌓,🌔,🌖,🌗,🌘 | Entrambe al perigeo                                     | Maree moderate (3/6)       |
+
+La tabella sopra è incompleta, mancano i casi in cui solo una delle due lune è 
 
 [^1]: Si definisce **perigeo** il punto più vicino alla Terra dell'orbita geocentrica (o distanza orbitale minima) della Luna o di un satellite artificiale; allo stesso modo la distanza orbitale massima di un oggetto dalla Terra è detta **apogeo**. 
