@@ -1,4 +1,4 @@
-Le due lune [[Locations/Corpi Celesti/Castapoesis|Castapoesis]] e [[Locations/Corpi Celesti/Benevolicui|Benevolicui]] influenzano in maniera prevedibile ma significativa le maree del mondo. 
+caLe due lune [[Locations/Corpi Celesti/Castapoesis|Castapoesis]] e [[Locations/Corpi Celesti/Benevolicui|Benevolicui]] influenzano in maniera prevedibile ma significativa le maree del mondo. 
 In particolare quando le lune si allineano col sole, durante le loro fasi di luna nuova e piena, si creano maree particolarmente forti chiamate maree sizigiali. 
 
 Nei primi giorni di ogni mese le due lune si trovano entrambe in plenilunio o in novilunio:
@@ -40,6 +40,7 @@ Le peggiori, estreme maree, si hanno quando durante il primo giorno del mese (do
 > - 4/6 **Maree Forti**: l'effetto delle maree è preoccupante, durante il primo ciclo di marea bassa il ritiro delle acque rende inutilizzabili i porti d'acqua bassa e durante l'alta marea ci sono inondazioni nei porti e nelle città costiere se non vengono prese delle precauzioni. La navigazione in alto mare è pericolosa a causa delle forti correnti che rendono difficile viaggiare.
 > - 5/6 **Maree Fortissime**: l'effetto delle maree è disastroso. Sia durante il primo che il secondo ciclo di marea il ritiro delle acque è fortissimo e le inondazioni possono essere disastrose, l'acqua si alza di diversi metri inondando città costieri e distruggendo i porti. La navigazione in mare è fortemente sconsigliata a causa delle forti correnti. 
 > - 6/6 **Maree Estreme**: l'effetto delle maree è così forte che non è raro che le città costiere vengano evacuate con largo anticipo. Durante le secche anche i porti d'acqua fonda rischiano di vedere le proprie navi incagliate, che vengono spesso spostate ed ancorate a largo per evitare le ripercussioni. Quando la marea inizia a salire l'acqua si alza di molti metri inghiottendo la costa e tutto ciò che ha con sé. La navigazione in mare diventa pericolosissima a causa delle correnti imprevedibili. 
+
 
 | Allineamento delle Lune | [[Locations/Corpi Celesti/Castapoesis\|Castapoesis]] | [[Locations/Corpi Celesti/Benevolicui\|Benevolicui]] | Distanza                                                                                                                          | Forza delle Maree          |
 | ----------------------- | ---------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
