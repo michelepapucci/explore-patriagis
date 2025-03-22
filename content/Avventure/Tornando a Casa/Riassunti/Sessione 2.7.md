@@ -62,7 +62,7 @@ Sorpreso a mentire, lo sconosciuto comincia a commettere sempre più errori e [[
 - Sanno che [[Dante Alifiere|Dante]] è stato sull'[[Isola di Bonaccia]], a [[Dardo]] e tutti i suoi spostamenti grazie ad un divinatore della [[BDP]] in grado di localizzare l'anello che porta al dito;
 - Sanno anche che il [[Tritoni|Tritone]] che si portano appresso è qualcuno di molto importante visto tutto ciò che [[Dante Alifiere|Dante]] sta facendo per proteggerlo, ma non sanno ancora chi sia. 
 A questo punto, [[Dardano Spaccatessere|Dardano]] taglia il dito con l'anello al membro della [[BDP]] e lo getta via, ottenendo un'ultima informazione: 
-- In [[Dardania]] è arrivato un piccolo manipolo della [[BDP]], tra cui [[Cianciaratti]], una delle sfere più alte, il braccio destro del capo assoluto [[Tracco (Il Pissero)|Tracco]], nonché Maestro dei Sud
+- In [[Dardania]] è arrivato un piccolo manipolo della [[BDP]], tra cui [[Cianciaratti]], una delle sfere più alte, il braccio destro del capo assoluto [[Tracco (Il Pissero)|Tracco]], nonché Maestro dei Sussurri.
 Mentre interrogano lo sconosciuto membro della [[BDP]], [[Dante Alifiere|Dante]] si sveglia e riesce a slegarsi, rimanendo in attesa. 
 Poi, quando ha iniziato a parlare di [[Cianciaratti]], [[Dante Alifiere|Dante]] si alza, ricevendo un attacco dal compagno animale di [[Dardano Spaccatessere|Dardano]]. Attiva i suoi *Guardiani Spirituali*, che prendono la forma di potenti demoni, con i quali istantaneamente uccide lo sconosciuto e manda a terra [[Dardano Spaccatessere|Dardano]] e ne uccide il compagno animale. 
 Poi [[Dante Alifiere|Dante]] lancia un incantesimo di *Parola Guaritrice* per curare [[Dardano Spaccatessere|Dardano]]. 

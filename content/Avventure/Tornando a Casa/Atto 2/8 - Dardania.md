@@ -36,6 +36,7 @@ La Driade e il Trent non hanno intenzioni malvagie e vogliono solo garantire la 
 - La Driade è preoccupata, ha sentito parlare di un guerriero druidico nell'esercito di [[Patriagis]], egli combatte con la forza della natura, ma non solo: c'è qualcos'altro di oscuro in lui, una creatura malvagia e potente guida le sue battaglie. 
 Il Treant inoltre è molto, molto antico e può condividere tutto quello che è scritto in [[Storia della Dardania]] prima della fondazione del [[Discepolato di Dardania|Discepolato]]. Di come arrivarono gli elfi e furono fatti fuggire e poi tornarono come Tritoni. 
 
+---
 # Dubo
 
 Nella piccola città di Dubo adesso vive un sacco di gente in tende o altri posti arrangiati. Sono sfollati fuggiti da tutto il [[Discepolato di Dardania|Discepolato]] e migrati a nord in cerca di sicurezza. Di essi, un gruppo di giovani sta organizzando una rivolta contro le truppe di [[Patriagis]]. Sono rimasti in pochi i soldati stranieri così a nord, e vogliono creare in [[Dubo]] una roccaforte per il [[Discepolato di Dardania|Discepolato]] in modo da riprendere il nord e spingere il confine della guerra più a sud di [[Dardo]]. 
@@ -69,15 +70,42 @@ Inoltre, vogliono scoprire l'identità di [[Tumanako Numio Tullio|Tumanako]] e c
 
 La missione è particolarmente importante per [[Tracco (Il Pissero)|Tracco]] che ha inviato a monitorare la situazione il suo braccio destro [[Cianciaratti]]. [[Tracco (Il Pissero)|Tracco]] crede che la vendita di informazioni e persone in [[Dardania]] possa fruttare molto, inoltre, se [[Adriano Numio Tullio]] riuscisse davvero a vincere la guerra e annettere quel territorio al [[Regno di Patriagis]], [[Tracco (Il Pissero)|Tracco]] vuole essere il primo a mettere le radici in [[Dardania]] ed espandere lì il suo impero mafioso. 
 
+Se [[Cianciaratti]] scopre dell'informazione, la mette subito all'asta. Entro qualche giorno [[Adriano Numio Tullio|Adriano]] offre una somma considerevole di denaro e la ottiene, sebbene sia inutile (vedi [[#Entrare a Dardo]]). 
+
 ## Rivolta di Dubo
 
 Un gruppo di 20 giovani di [[Dubo]] vogliono armarsi e sconfiggere le truppe del [[Regno di Patriagis]] e, una volta mandate in fuga, sfruttare l'occasione per mettere in salvo più persone possibili verso l'isola di [[Adonia]]. 
 Sotto ai moli, di notte, hanno legato varie canoe di fortuna, pronte a partire, devono farlo però entro il primo giorno di [[10 - Curbis|Curbis]] che è tra 5 giorni, per il quale è prevista una *Luna ad Occhio*, che porterà con sé una terribile marea e delle correnti indomabili. 
 
-
+---
 # Accampamento di [[Adriano Numio Tullio|Adriano]]
 
- di [[Adriano Numio Tullio|Adriano]] è diviso in 4 accampamenti ognuno contente 10 centurie. 
+La legione di [[Adriano Numio Tullio|Adriano]] è diviso in 4 accampamenti ognuno contente 10 centurie. 
 
 [[Adriano Numio Tullio|Adriano]] alloggia nell'accampamento più vicino a [[Dardo]], che condivide con altri 9 [[Ordine dei Cavalieri di Novio|Cavalieri dell'Ordine dei Cavalieri di Novio]], e le loro 10 viverne. 
+
+### Entrare a [[Dardo]]
+
 È alla ricerca di un modo di penetrare [[Dardo]]: sa che è possibile, sa che il fratello [[Lodato Numio Tullio|Lodato]], un anno prima ci è riuscito, ma non sa come. 
+
+> [!warning] Entrata dal [[Lago di Dardo]]
+> Quello che non sa [[Adriano Numio Tullio|Adriano]] è che [[Arbogh Tohunga-Toa|Arbogh]] ha visto come [[Lodato Numio Tullio|Lodato]] e il resto del gruppo sono entrati e ha provveduto a sigillare l'entrata dal [[Lago di Dardo]]. 
+
+[[Adriano Numio Tullio|Adriano]] ha una descrizione di [[Bartolomeo, Tessitore di Ombre|Bartolomeo]], [[Bartolomeo Battiferro|Bartolomeo]], [[Dardano Spaccatessere|Dardano]], [[Dante Alifiere|Dante]] e [[Musanda Sifa|Musanda]] da una lettera di [[Lodato Numio Tullio|Lodato]]. Se li riconosce, capisce immediatamente che loro potrebbero sapere come entrare a [[Dardo]]. 
+
+Per convincere [[Adriano Numio Tullio|Adriano]] che [[Tumanako Numio Tullio|Tumanako]] non è una spia, se si cela la sua identità, serve una CD di Diplomazia 15. Se non lo si convince, non permette al ragazzo di rimanere all'accampamento, ma non permette neanche al resto del gruppo, una volta riconosciuti, di andarsene. 
+
+Se [[Adriano Numio Tullio|Adriano]] scopre l'identità di [[Tumanako Numio Tullio|Tumanako]], vedendo il suo [[Marchio del Re]], cade in una profonda depressione. Al primo riposo del gruppo, sfida [[Tumanako Numio Tullio|Tumanako]] a un duello mortale. 
+
+---
+
+# [[Sapentia]]
+
+Si presenta a [[Bartolomeo Battiferro|Bartolomeo]] nella sua forma elfica e si presenta per la prima volta formalmente: "*Il mio nome è Istima, figlia di Duinhir e Nindari, che nella tua lingua sarebbero stati chiamati il Signore dei Fiumi e la Damigella dei Fiumi. Il mio nome forse ti è noto in Comune come [[Sapentia]], è così che oggi mi chiamano*". 
+
+"*Ho un interesse per te [[Bartolomeo Battiferro]], figlio di Ferdinando e Orsinia [[Battiferro]]. Ti sei preso carico subito del destino del giovane [[Tumanako Numio Tullio]], nonostante tu abbia molto da perdere. Questo ti fa onore, e la tua sete di conoscenza è al servizio del bene. Vorrei che tu diventasi formalmente un mio alleato [[Bartolomeo Battiferro|Bartolomeo]], credo che la mia guida possa giovarti, potremmo essere come mentore e allievo, se a te fa piacere.*"
+
+*Ti nomino Guerriero della Mente, [[Bartolomeo Battiferro]], giorni oscuri ti attendono, ma ti sarò vicina*. Dona a Bartolomeo un Anello d'oro con incastonata una *[Perla del Potere](https://5e.tools/items.html#pearl%20of%20power_xdmg)*.
+
+"*Arriverà il momento [[Bartolomeo Battiferro|Bartolomeo]], in cui fare la scelta giusta sarà difficile e ti costerà dolore, ho fiducia che tu avrai il coraggio di farla lo stesso. A presto.*"
+

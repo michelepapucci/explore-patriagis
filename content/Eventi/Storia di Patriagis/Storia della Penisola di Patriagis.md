@@ -40,6 +40,14 @@ Spinti dalla paura del nuovo e portentoso regno elfico a est, gli umani delle ci
 Fino a questo periodo, la magia era usata in maniera istintiva da individui capaci di connettersi naturalmente alla [[Scintilla]]. Stregoni, Bardi, Druidi e Chierici erano visti come fattucchieri dotati di potere, e spesso, specialmente nelle parti più rurali della penisola, visti come profeti o messia. 
 Intorno a questo anno però, si inizia a comprendere meglio il funzionamento della magia e della trama, e inizia a venire usata per scopi civili e militari.
 
+## -2667
+<span data-date='-2667' data-name="Nascita di Sapentia"></span>
+Il primo giorno di [[7 - Solsis|Solsis]] nasce [[Sapentia]] nel [[Aranië]], destinata a diventare una delle più grandi maghe viventi, accrescendo enormemente la conoscenza magica a [[Patriagis]]. 
+
+## -1999
+<span data-date='-1999' data-name="Morte di Sapentia"></span>
+[[Sapentia]] muore nell'[[Aranië]]. 
+
 # Inizio dell'Età dei Due Regni
 
 ## - 1100
