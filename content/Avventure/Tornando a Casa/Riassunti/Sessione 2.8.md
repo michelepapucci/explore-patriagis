@@ -10,6 +10,8 @@ Il gruppo quindi si incammina verso [[Dubo]] scendendo dai [[Monti Dardani]] e p
 
 I ragni attaccano [[Dante Alifiere|Dante]] intrappolandolo con delle ragnatele e poi lo attaccano. Il resto del gruppo, non sapendo il contenuto della conversazione tra [[Dardano Spaccatessere|Dardano]] e i ragni, difende [[Dante Alifiere|Dante]] dall'attacco dei ragni. [[Dardano Spaccatessere|Dardano]] cerca di comunicare al gruppo di lasciar fare i ragni, ma poi alla fine li attacca anche lui. [[Dante Alifiere|Dante]] cade a terra in fin di vita sopra i colpi dei ragni e viene rianimato da [[Dardano Spaccatessere|Dardano]], che, una volta finiti i ragni, comunica a [[Dante Alifiere|Dante]] che ora loro due sono pari (per quando, poco prima, [[Dante Alifiere|Dante]] aveva steso [[Dardano Spaccatessere|Dardano]] durante l'interrogatorio del membro della [[BDP]]). 
 
+Nel bosco [[Bartolomeo Battiferro|Bartolomeo]] incontra di nuovo [[Sapentia]] che rivela la sua identità al mago e propone lui di diventare un [[Guerriero della Mente]], devoto a lei e pronto a fare di tutto per migliorare il mondo e acquisire conoscenze. [[Bartolomeo Battiferro|Bartolomeo]] accetta. 
+
 Il gruppo raggiunge la valle al di sotto dei [[Monti Dardani]] e continua poi nel [[Bosco di Dubo]]. 
 Lì, si rendono presto conto di non essere soli: alberi moventi si muovono intorno a loro, si muovono sempre di più fino ad indicare loro una via nel bosco che, seguendola, conduce ad una radura con una gigantesca quercia al centro.
 
@@ -30,3 +32,25 @@ Il gruppo poi dorme, dopo tanto tempo in una casa confortevole e al sicuro.
 
 <span data-date='1329-09-23' data-name="Tornando a Casa: La BDP a Dubo e la morte di Dante"></span>
 
+Il gruppo riparte alla volta di [[Dubo]] anche se una forte preoccupazione è nell'aria, l'idea di incontrare la [[BDP]] non è condivisa da tutti: alcuni cercano vendetta, altri spiegazione, altri aiuto. 
+
+Camminano per qualche ora verso la piccola città e, avvicinandosi ad essa vedono in lontananza una figura vestita da veggente che cammina verso di loro. 
+
+[[Dante Alifiere|Dante]] riconoscere essere [[Torquato Otelma]], braccio destro di [[Cianciaratti]]. Lo chiama, rivelandone l'identità. [[Torquato Otelma]] rimprovera [[Dante Alifiere|Dante]] per averlo fatto e comincia una discussione tra i due: 
+- [[Torquato Otelma|Torquato]] vuole sapere a tutti i costi come entrare a [[Dardo]]; 
+- Il gruppo non vuole rivelare l'informazione. [[Dante Alifiere|Dante]] prova a mediare;
+[[Torquato Otelma]] dice a [[Dante Alifiere|Dante]] di andare con lui dal [[Cianciaratti]] e raccontare tutto, e i suoi compagni possono decidere se unirsi alla banda o morire. 
+[[Dante Alifiere|Dante]] tentenna cercando una soluzione, [[Torquato Otelma]] dice loro che se non verrà [[Dante Alifiere|Dante]] ucciderà tutti loro tranne uno e lo farà parlare. 
+[[Dante Alifiere|Dante]] cerca di rimanere in stallo, in una situazione che non renda i suoi compagni suoi nemici. [[Torquato Otelma]] alla fine propone che, per garantire la vendita dell'informazione su come entrare a [[Dardo]] il gruppo rivelerà l'informazione e verrà tenuto in prigione finché questa non sarà venduta. 
+Il gruppo si rifiuta e, a quel punto, compare il [[Cianciaratti]] che era trasformato in ratto e nascosto nel vestito di [[Torquato Otelma|Torquato]]. La situazione precipita velocemente e inizia uno scontro dove la posizione di [[Dante Alifiere|Dante]] è ambigua, ma lo rimane per poco, perché [[Torquato Otelma]] usa la [[Scintilla]] per alterare i ricordi di [[Dante Alifiere|Dante]] e facendo sì che lui odi il tempo passato col resto del gruppo. 
+Il combattimento precipita velocemente a favore della [[BDP]] e il gruppo inizia a fuggire. [[Bartolomeo Battiferro|Bartolomeo]] implora [[Sapentia]] di aiutarli e, come se avesse davvero risposto alla sua chiamata, una gigantesca viverna sputafuoco vola sopra le loro teste. A farle da cavaliere c'è [[Adriano Numio Tullio]] che ordina alla viverna di lasciare andare il loro carico: un gigantesco orso. 
+
+L'orso si trasforma in umano ed evoca potenti tentacoli che afferrano [[Torquato Otelma]] mentre [[Adriano Numio Tullio|Adriano]] si getta dalla viverna per attaccarlo. I due combattono trasformandosi, inseguendo [[Cianciaratti]] e [[Torquato Otelma]] che fuggono. 
+
+[[Dante Alifiere|Dante]], preso alla sprovvista, viene assassinato da [[Bartolomeo, Tessitore di Ombre|Bartolomeo]], che si vendica della bambola. 
+
+[[Cianciaratti]] e [[Torquato Otelma|Torquato]] riescono a fuggire e [[Bartolomeo, Tessitore di Ombre|Bartolomeo]] pianta il seme di [[Coillte]] nel corpo di [[Dante Alifiere|Dante]] che scompare mangiato dalla terra. 
+
+[[Adriano Numio Tullio|Adriano]] e il gruppo parlano e [[Bartolomeo Battiferro|Bartolomeo]] riconosce nell'uomo-orso il suo amato [[Gavio]] che, dopo aver ricevuto la notizia da [[Sapentia]] che [[Bartolomeo Battiferro|Bartolomeo]] era rimasto sull'[[Isola di Bonaccia]] è partito in guerra con la seconda spedizione per salvarlo. 
+
+I due si parlano per poco, si giurano amore ma, dopo pochi secondi, vari portali si aprono intorno a [[Gavio]] che urla: "*Avevi detto che avrei avuto più tempo, bastardo!*" i tentacoli lo afferrano e lo trasportano via. In un istante sparisce. 

@@ -1,0 +1,4 @@
+Arruolato giovane in guerra dopo un addestramento frettoloso in gioventù come uditore della voce. 
+Fin da piccolo sentiva "la voce nel vento" e nonostante le sue umili origini, fu preso dai discepoli del culto dell' acqua per addestrarlo e renderlo un chierico dell' ordine.
+Questo avvenne in età adolescenziale, ha dovuto abbandonare la sua famiglia e non ha idea che fine abbiano fatto, doveva addestrarsi e vivere con il culto.
+Non avendo ancora finito il suo addestramento fu arruolato nelle fila dell' esercito di Dardano e da lì combatté al fronte per 8 lunghi anni, pensando intensamente alla sua famiglia e se fossero ancora in vita.
