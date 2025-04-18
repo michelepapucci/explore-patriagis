@@ -18,18 +18,19 @@
 - In generale, dividere la [[Storia della Penisola di Patriagis]] in 4 epoche. L'epoca *prima* dei due regni, l'epoca dei due regni, l'epoca dei comuni e l'epoca contemporanea con la fondazione del [[Regno di Patriagis]]; 
 - Definire bene la [[Storia dell'uso della Scintilla a Patriagis]] come veniva utilizzata storicamente nei vari periodi (Regni, Comuni, [[Regno di Patriagis]]) nella vita di tutti i giorni, religiosamente e in guerra; 
 - Lavorare ad una campagna sandbox a [[Nova]].
-- Per le Gilde e Corporazioni prendere ispirazione da [qui](https://it.wikipedia.org/wiki/Arti_di_Firenze) e:
-	- Creare una pagina "Gilde e Corporazioni" spiegare cosa sono, che poteri hanno ecc; 
-	- Capire se dividerli in "minori" e "maggiori" come nel caso fiorentino;
-	- Creare le pagine di tutte le gilde importanti;
-	- Capire quali gilde *fantasy* potrebbero nascere;
+- ~~Per le Gilde e Corporazioni prendere ispirazione da [qui](https://it.wikipedia.org/wiki/Arti_di_Firenze) e:~~
+	- ~~Creare una pagina "Gilde e Corporazioni" spiegare cosa sono, che poteri hanno ecc;~~ 
+	- ~~Capire se dividerli in "minori" e "maggiori" come nel caso fiorentino;~~
+	- ~~Creare le pagine di tutte le gilde importanti;~~
+	- ~~Capire quali gilde *fantasy* potrebbero nascere;~~
 
 
 ## To-Do Religioni
 - Creare una religione basata sul mare. 
-	- Creare il dio balena.
-	- Creare una serie di suoi servitori/semi dei, che sono adorati "localmente".
-	- Gli animali marini e i pesci acquatici sono suoi fedeli e "spie". Gli animali di mare sono a lui più fedeli e sono visti come più nobili nelle varie religioni legate ai suoi semidei.
+	- ~~Creare il dio balena.~~
+	- ~~Creare una serie di suoi servitori/semi dei, che sono adorati "localmente".~~
+	- ~~Gli animali marini e i pesci acquatici sono suoi fedeli e "spie". Gli animali di mare sono a lui più fedeli e sono visti come più nobili nelle varie religioni legate ai suoi semidei.~~
+	- Creare le pagine degli dei dei venti: [[Libeccio]], [[Scirocco]], [[Maestrale]], [[Bora]], ecc. 
 - Creare delle proto-credi per il [[Regno dell'Ovest]] e per l'[[Aranië|Aranië]]:
 	- Per il Regno dell'Ovest, ispirarsi a culti romani in epoca monarchica Penati, Lari e Vesta come multitudine di divinità;
 		- Culti sul fine-vita;
@@ -42,7 +43,7 @@
 	- [[Ordine Immortale]] probabilmente va bene così, semplicemente sono un culto cavalleresco intorno ad una figura "vivente" e ben documentata e portano avanti [[Immeral]] nel suo fare.
 	- [[Tiche]] potrebbe essere una roba tipo un Penato/lari comune, che è rimasta particolarmente "famosa". Potrebbe essere un'[[Incarnazioni|Incarnazione]] da qualche parte che dona fortuna alle persone;
 	- [[Zurakenkultii]] probabilmente va bene così ma da rivedere. 
-	- [[Dogma]] va bene la radice storica, ma va un attimo rivisto il culto vero e proprio e come si è insediato. 
+	- ~~[[Dogma]] va bene la radice storica, ma va un attimo rivisto il culto vero e proprio e come si è insediato.~~ 
 - Capire le interazioni tra le varie religioni. 
 
 

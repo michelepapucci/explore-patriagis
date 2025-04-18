@@ -1,3 +1,7 @@
+---
+tags:
+  - evento
+---
 [[Dante Alifiere|Dante]] confessa a [[Bartolomeo, Tessitore di Ombre|Bartolomeo]], che la bambola all'[[Acqua Fresca]] tanti anni fa l'aveva lasciata lui, sotto indicazioni della [[BDP]]. La bambola, creata da [[Galgano]] e [[Pinaccia]] non era altro che un dispositivo spia, che ha avuto un "malfunzionamento". 
 
 [[Bartolomeo Battiferro|Bartolomeo]] è infuriato con [[Dante Alifiere|Dante]], tutta la sua storia, il motivo per cui è fuggito da casa, è solo un malfunzionamento inaspettato. 
@@ -26,11 +30,11 @@ Gli [[Umani]] cacciarono gli [[Elfi]], che tornarono come [[Tritoni]] e cacciaro
 
 Dopo cena, [[Coillte]] parla con [[Bartolomeo, Tessitore di Ombre|Bartolomeo]] che racconta lei la sua storia e quella di [[Dante Alifiere|Dante]]. La driade percepisce l'odio di [[Bartolomeo, Tessitore di Ombre|Bartolomeo]] e la corruzione nel cuore di [[Dante Alifiere|Dante]] e capisce che del sangue verrà versato. Dona a [[Bartolomeo, Tessitore di Ombre|Bartolomeo]] un seme, da piantare nel corpo di [[Dante Alifiere|Dante]] una volta che [[Bartolomeo, Tessitore di Ombre|Bartolomeo]] lo avrà ucciso. 
 
-Il gruppo poi dorme, dopo tanto tempo in una casa confortevole e al sicuro.
+Il gruppo poi dorme, dopo tanto tempo in una casa confortevole e al sicuro. 
 
 ---
 
-<span data-date='1329-09-23' data-name="Tornando a Casa: La BDP a Dubo e la morte di Dante"></span>
+<span data-date='1329-09-26' data-name="Tornando a Casa: La BDP a Dubo e la morte di Dante"></span>
 
 Il gruppo riparte alla volta di [[Dubo]] anche se una forte preoccupazione è nell'aria, l'idea di incontrare la [[BDP]] non è condivisa da tutti: alcuni cercano vendetta, altri spiegazione, altri aiuto. 
 

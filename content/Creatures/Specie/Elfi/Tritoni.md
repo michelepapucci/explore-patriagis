@@ -1,6 +1,11 @@
 ---
 aliases:
   - Elfi del Mare
+  - tritone
+  - tritoni
+  - Tritone
+  - tritona
+  - Tritona
 tags:
   - WIP
 ---

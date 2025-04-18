@@ -12,7 +12,7 @@ Le maree seguono un ciclo giornaliero diviso come segue:
 | 06:00       | Prima Bassa Marea   | Forte  |
 | Mezzogiorno | Seconda Alta Marea  | Debole |
 | 18:00       | Seconda Bassa Marea | Debole |
-
+	
 A seconda della posizione delle lune (apogeo o perigeo[^1]), se sono o meno allineate e alla loro fase lunare, può nascere un alto rischio di inondazione durante la prima alta marea e un profondo ritiro dell'oceano durante la prima bassa marea. 
 
 Durante le più estreme delle maree entrare e uscire dai porti è pericoloso se il livello del mare si alza o si abbassa troppo velocemente. Le zone dove l'acqua è più bassa potrebbero ritirarsi del tutto, lasciando le imbarcazioni incagliate sul fondale. Navigare, in generale, diventa più rischioso. Durante questi giorni si creano onde più forti e correnti imprevedibili. 

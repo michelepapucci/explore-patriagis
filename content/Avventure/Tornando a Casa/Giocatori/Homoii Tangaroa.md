@@ -1,3 +1,8 @@
+---
+aliases:
+  - Homoii
+---
+
 Arruolato giovane in guerra dopo un addestramento frettoloso in gioventù come uditore della voce. 
 Fin da piccolo sentiva "la voce nel vento" e nonostante le sue umili origini, fu preso dai discepoli del culto dell' acqua per addestrarlo e renderlo un chierico dell' ordine.
 Questo avvenne in età adolescenziale, ha dovuto abbandonare la sua famiglia e non ha idea che fine abbiano fatto, doveva addestrarsi e vivere con il culto.
