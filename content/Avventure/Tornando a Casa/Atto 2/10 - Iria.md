@@ -33,7 +33,7 @@ A capo della legione lasciata a [[Iria]] c'è [[Leonia Lenzastorta]], una centur
 
 Si nascondono nelle acque del porto di [[Iria]], il movimento è un'organizzazione nazionale, con gruppi attivi principalmente a [[Iria]] e [[Dubo]], e ha come obbiettivo muovere più popolazione possibile a est, sull'isola di [[Adonia]], dove si stanno ri-organizzando molti cittadini [[Dardania|dardani]] per lanciare una contro-offensiva. 
 
-L'Erede di [[Dardania]] si fa chiamare Arotane (L'uomo devoto) Tohunga-Nui ma il suo vero nome è [[Whaimata]] (Colui che imita i volti). 
+L'Erede di [[Dardania]] si fa chiamare [[Arotane]] (L'uomo devoto) Tohunga-Nui ma il suo vero nome è [[Whaimata]] (Colui che imita i volti). 
 
 È un tritone impersonatore che ha convinto un gruppo di giovani della città di [[Iria]] a partecipare sotto la sua falsa promessa di libertà al [[Fronte di Liberazione del Discepolato]]. Il suo scopo è quello di fuggire con il bottino accumulato durante i mesi di lotta partigiana su una delle navi portate a largo dai soldati di [[Patriagis]] per evitare che si arenino durante la **Luna Gigante**. Vuole inviare il resto dei giovani sulla costa, per far sì che vengano arrestati o uccisi fungendo da diversivo mentre lui e pochi altri fedeli si danno alla fuga per mare. 
 
