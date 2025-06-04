@@ -7,14 +7,14 @@ tags:
 ## -9000
 <span data-date='-9000' data-name='Primi Insediamenti'></span>
 
-> [!event] [[Eventi/Storia di Patriagis/01 - Età Antica/Età Antica#-9000|-9000]]
+> [!event] [[Eventi/Penisola di Patriagis/01 - Età Antica/Età Antica#-9000|-9000]]
 > 
 > A [[Patriagis]] nascono piccoli insediamenti, principalmente intorno a rovine [[Nifilim]].
 
 ## -6000
 <span data-date='-6000' data-name='Crescita'></span>
 
-> [!event] [[Eventi/Storia di Patriagis/01 - Età Antica/Età Antica#- 6000|-6000]]
+> [!event] [[Eventi/Penisola di Patriagis/01 - Età Antica/Età Antica#- 6000|-6000]]
 > 
 > [[Umani]] e [[Elfi|elfi]] prendono il sopravvento numericamente sul resto delle specie. 
 

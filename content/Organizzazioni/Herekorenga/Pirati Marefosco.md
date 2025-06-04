@@ -1,0 +1,1 @@
+Sono la ciurma fedele a [[Sebastiano Marefosco]]. Sono organizzati con una stretta gerarchia militare, nella quale [[Sebastiano Marefosco|Sebastiano]] è in cima. Sono anche la ciurma più numerosa, più influente e con più territori sparsi nell'[[Herekorenga]]. 
