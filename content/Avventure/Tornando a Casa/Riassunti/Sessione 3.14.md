@@ -34,3 +34,4 @@ Dopo un secondo giorno di viaggio, privo di eventi, il gruppo raggiunge [[Motu H
 Il gruppo acquista una tessera apposita e sale a bordo. [[Cranxaxomor Spaccatessere|Cranxaxomor]] saluta freddamente il figlio e lo rimprovera per la sua assenza. Gli presenta inoltre il suo figlio di sangue, [[Zaffiro Spaccatessere]]. 
 Il padre poi si sposta a parlare in privato col figlio e scopre delle sue intenzioni di votare contro [[Kaiurungi Mikaere|Mikaere]], con cui il padre pare aver fatto un accordo. 
 [[Cranxaxomor Spaccatessere|Cranxaxomor]] fa catturare i compagni del figlio, e scoppia un litigio nelle cantine della nave. 
+

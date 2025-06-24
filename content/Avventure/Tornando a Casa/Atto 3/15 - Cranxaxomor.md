@@ -80,7 +80,7 @@ ma non è questo il mondo nel quale vi trovate,
 >vedo una canzone d'un amore interrotto,  
 >e un buio segreto mai scorto, 
 >vedo il destino d'un erede sostituito,  
-  e di un padre ormai atterrito,  
+  e di un padre ormai bandito,  
 vedo un segreto che morti ha stabilito,  
 > che lascerà per sempre incupito
 vedo una vendetta non restituita,  

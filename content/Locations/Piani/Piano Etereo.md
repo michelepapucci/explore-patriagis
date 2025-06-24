@@ -1,0 +1,4 @@
+---
+aliases:
+  - Piano degli Spiriti
+---
