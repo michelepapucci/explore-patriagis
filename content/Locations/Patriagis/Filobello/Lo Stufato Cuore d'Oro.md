@@ -1,4 +1,4 @@
-> [!quote] I Viaggi di [[Grinvald]] - Nota 65
+> [!book] I Viaggi di [[Grinvald]] - Nota 33
 > 
 > "*Benvenuti viaggiatori, entrate. Per cortesia togliete gli stivali, che così non portate il fango dentro, lasciateli pure lì di fianco agli altri, vicino alla porta. 
 > Andate a riscaldarvi vicino al fuoco. Ah! Spero che l'arpa di mia figlia non vi sia di fastidio, mentre voi vi mettete comodi vi porto subito delle bevande calde*". 

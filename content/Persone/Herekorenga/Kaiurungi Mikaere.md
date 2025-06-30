@@ -38,7 +38,6 @@ aliases:
     - **Livello 3 (3 slot):** _Counterspell, Tidal Wave_
     - **Livello 4 (3 slot):** _Control Water, Evard’s Black Tentacles_
     - **Livello 5 (2 slot):** _Maelstrom_
-    
 ---
 ## Azioni
 

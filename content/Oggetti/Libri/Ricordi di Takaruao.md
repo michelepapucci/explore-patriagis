@@ -1,4 +1,4 @@
-I Ricordi di [[Takaruao]], sono incisioni trascritte dai [[Religioni/Culti dell'Acqua/Preti del Kraken/Preti del Kraken|Preti del Kraken]] sulle pareti del [[Tempio Sommerso]]. Originariamente questi provenivano dal diario di [[Takaruao]], quando era un vivente, e dai suoi racconti quando è diventato un'[[Incarnazioni|Incarnazione]] per volontà di [[Tirseno]]. 
+I Ricordi di [[Takaruao]], sono incisioni trascritte dai [[Religioni/Culti dell'Acqua/Preti del Kraken/Preti del Kraken|Preti del Kraken]] sulle pareti del [[Tempio Sommerso]]. I racconti sono stati raccontati da [[Takaruao]] stesso, e parlano della sua vita, quando era un mortale, e della sua ascensione a [[Incarnazioni|Incarnazione]], e poi caduta secondo la volontà di [[Tirseno]]. 
 
 ## Prima Incisione 
 
@@ -67,21 +67,21 @@ I Ricordi di [[Takaruao]], sono incisioni trascritte dai [[Religioni/Culti dell'
 ## Settima Incisione
 
 >[!book] La battaglia
-> *«Ho urlato nel cuore dell’oceano.*  
-> *Ha chiesto: perché i tuoi doni non sono per tutti?*  
-> *Ha chiesto: perché non aiuti tutti i popoli bagnati dal mare?*  
-> *Perché la [[Dardania]] è il mio popolo, il popolo prescelto da lui stesso, gli risposi.* 
-> *Chiesi poi: Perché ci hai salvati, perché mi hai reso ciò che sono, se non per il [[Discepolato di Dardania|Discepolato]]?*
-> *Perché ci illudi del tuo amore e poi ci ignori? Perché aiuti anche i popoli che non ti sono fedeli?*
-> *Perché, dissi io, non ami i tuoi figli come loro amano te?*
+> *«Ho urlato nel cuore dell’oceano. E finalmente mi ha risposto.*  
+> *Ha chiesto: "perché non usi i tuoi doni per tutti?"*  
+> *Ha chiesto: "perché non aiuti tutti i popoli bagnati dal mare"?*  
+> "*Perché i [[Dardania|dardani]] sono il mio popolo, il popolo che tu stesso hai prescelto", gli risposi.* 
+> *Chiesi poi: "Perché ci hai salvati, perché mi hai reso ciò che sono, se non per il [[Discepolato di Dardania|Discepolato]]?*
+> *Perché ci illudi del tuo amore e poi ci ignori? Perché aiuti anche i popoli che non ti sono fedeli?"*
+> "*Perché", dissi io, "non ami i tuoi figli come loro amano te?"*
 > *La risposta fu un colpo di marea.*  
-> *E gli risposi sollevando l’abisso contro di lui.*  
-> *Ma infranse l'onda. Mi sconfisse.*  
+> *E io gli sollevai gli abissi contro.*  
+> *Ma infranse l'onda e mi sconfisse.*  
 > *Mi ha legato a catene d’acqua, nelle profondità del mare a meditare suoi miei errori. Non posso infrangere il pelo dell'acqua, non posso aiutare il mio popolo. Mi tiene qui, a respirare solo sale e rabbia.»*
 
 ## Ottava Incisione
 
-Questa è diversa. Non è dalla prospettiva di Takaruao, sembra una profezia, incisa sull'interno di una grande conchiglia. 
+Questa è diversa. Non è dalla prospettiva di [[Takaruao]], sembra una profezia, incisa sull'interno di una grande conchiglia. 
 
 > [!letter] Sogno di [[Tirseno]]
 > *«Sotto i tre segni del mare diviso,*  

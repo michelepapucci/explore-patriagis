@@ -37,8 +37,6 @@ Se una delle condizioni sopra non è soddisfatta, la palla cade in una direzione
 
 Se un giocatore è entro 1.5m dalla gittata della palla lanciata, può usare una **Reazione** per intercettare un passaggio. Il giocatore deve fare una prova di Destrezza (Acrobazia) o Forza (Atletica) e, se il suo risultato è più alto del risultato del lanciatore, riesce ad intercettare e recuperare la palla. 
 
-Se un giocatore usa una **Reazione** al termine della quale si trova entro 1.5m dalla gittata della palla lanciata, può intercettare il passaggio come **azione gratuita**. 
-
 Se il giocatore al termine della sua **Reazione** si trova entro 1.5m dal giocatore ricevente, può intercettare il passaggio come azione gratuita seguendo le regole del **Passaggio Contestato**. 
 
 > [!Info] Esempio di Intercettazione di un Passaggio dopo movimento con Reazione
@@ -51,7 +49,6 @@ Il Lancio della palla è considerato sia un *Tiro per Colpire* che una *Prova di
 
 > [!info] Esempio di Incantesimi per influenzare il Passaggio
 > Un giocatore può utilizzare *Ispirazione Bardica*, *Guida* o *Benedizione* per influenzare il lancio della palla positivamente, così com'è possibile utilizzare *Vicious Mockery* o *Silvery Barbs* per influenzarne negativamente il lancio. 
-
 
 # Partita
 

@@ -1,5 +1,5 @@
-> [!quote] I Viaggi di [[Grinvald]] - Nota 65
-> *Ovunque i miei viaggi mi abbiano portato a [[Patriagis]], in tutta la sua variegata bellezza, ci sono state alcune importanti costanti su cui un uomo come me poteva contare: la qualità del vino, la qualità delle donne, e la certezza di trovar sempre qualcuno che fosse disposto a buttar via qualche moneta con le tessere.* 
+> [!book] I Viaggi di [[Grinvald]] - Nota 65
+> *Ovunque i miei viaggi mi abbiano portato a [[Patriagis]], in tutta la sua variegata bellezza, ci sono state alcune importanti costanti su cui un uomo come me poteva contare: la qualità del vino, la bellezza delle donne, e la certezza di trovar sempre qualcuno che fosse disposto a buttar via qualche moneta con le tessere.* 
 > 
 > *[[Grinvald]]*
 ## Regolamento
