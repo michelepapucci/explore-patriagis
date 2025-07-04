@@ -1,2 +1,3 @@
 Sono una piccola ciurma di Maghi, capitanata dal Principe dei Pirati [[Arlindo Marecupo]]. Hanno gettato il terrore nell'[[Herekorenga]] grazie alla loro magia. Infatti, sono così chiamati per la loro strategia di aprire l'acqua sotto la chiglia delle navi, che le fa precipitare sul fondale marino, prima che l'acqua si chiuda di nuovo sopra di essa. 
+
 Sono stati un problema così importante durante le [[Guerre dell'Herekorenga]], che ormai è comune dotarsi di almeno un incantatore di bordo, sempre pronto a usare *Controincantesimo*, proprio per proteggersi da questa modalità di attacco. 

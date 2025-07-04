@@ -24,7 +24,7 @@ Il gruppo poi torna sulla nave a riposarsi, pronti a scendere a terra il mattino
 
 La mattina seguente, il gruppo risale il fiume dell'isola di [[Motu Huihuinga]] e raggiunge la grotta sotterranea sotto la montagna sulla quale sorge il faro. La luce è trasportata da specchi che dal faro scendono nella grotta e illuminano un leggio di pietra dalla quale sta parlando [[Hine Whakaaro|Hine]]. La grotta è piena di persone. 
 Viene annunciato il voto contro [[Kaiurungi Mikaere|Mikaere]] e un sacco di persone fanno interventi, infine il gruppo manda [[Musanda Sifa|Musanda]] a parlare che fa un bellissimo discorso, seguito poi da un discorso di [[Sebastiano Marefosco]]. 
-Infine, sale [[Tumanako Numio Tullio|Tumanako]], anche lui fa un discorso su cosa ha portato in [[Dardania]] il tradimento di [[Kaiurungi Mikaere|Mikaere]] e annuncia di essere il Gran Sacerdote di Dardania.
+Infine, sale [[Tumanako Numio Tullio|Tumanako]] usando i suoi poteri a bordo di delfini, anche lui fa un discorso su cosa ha portato in [[Dardania]] il tradimento di [[Kaiurungi Mikaere|Mikaere]] e annuncia di essere il Gran Sacerdote di Dardania.
 Arriva il voto, e [[Kaiurungi Mikaere|Mikaere]] viene ufficialmente condannato e ogni suo titolo rimosso e territorio ridistribuito.
 
 Il gruppo va a parlare quindi con [[Isidoro Zannerosse]], che, dopo aver scommesso di mangiare [[Dardano Spaccatessere|Dardano]] in cambio della mappa sul fatto che [[Kaiurungi Mikaere|Mikaere]] venisse o no condannato. [[Kaiurungi Mikaere|Mikaere]] viene condannato e [[Isidoro Zannerosse]] del risultato riconosce la forza del gruppo e dona loro la parte della mappa e la sua spada.
