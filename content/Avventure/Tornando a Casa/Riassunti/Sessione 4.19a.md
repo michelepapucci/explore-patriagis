@@ -1,0 +1,35 @@
+[[Dardano Spaccatessere|Dardano]] grazie al *Sacchetto delle Spezie* che aveva donato a [[Sean]], crea un impacco di spezie diarroiche con il quale avvelena le riserve di cibo dell'esercito e poi con [[Bartolomeo, Tessitore di Ombre|Bartolomeo]] partono verso [[Iria]]. 
+
+[[Homoii Tangaroa|Homoii]] spiega loro dove trovare i tritoni con i quali avevano rubato la nave, e dice di cercare [[Anahera]], una [[Tritoni|tritona]] giovane ma molto sveglia alla quale ha insegnato molto durante il viaggio e che crede sia pronta a navigare da sola.
+
+Dopo un giorno e mezzo di marcia, raggiungono [[Iria]] e localizzano, nel porto, il gruppo di [[Tritoni|tritoni]] che facevano parte del loro equipaggio.
+Trovata [[Anahera]], suggerisce di allungare il viaggio, andando verso [[Adonia]], l'isola dove la resistenza [[Dardania|dardana]] si sta organizzando. Se si presenteranno lì col [[Fronte di Liberazione del Discepolato]] di [[Iria]], di cui è composto l'equipaggio, forse accetteranno di aiutarli. 
+
+[[Dardano Spaccatessere|Dardano]] e [[Bartolomeo, Tessitore di Ombre|Bartolomeo]] acconsentono, in quanto devono trovare tutto l'aiuto necessario. Inoltre, da [[Adonia]], raggiungere [[Motu Rangatira]], dove si trovano [[Kaipupuri Kupu|I Pirati Poeti]] e [[Rere Kōrero]], è più veloce se si fa uso del *Sacchetto di Libeccio*. 
+
+Raggiungono [[Adonia]] in serata, e vengono avvicinati e accerchiati dalle navi del [[Fronte di Liberazione del Discepolato]]. Spiegano tutto: [[Tumanako Numio Tullio|Tumanako]] è il legittimo Grande Sacerdote, [[Wāhine-Ataahua Tohunga-Nui|Wāhine]] è morta, [[Arbogh Tohunga-Toa|Arbogh]] è un usurpatore che ne sfrutta il cadavere e loro, pur essendo del [[Regno di Patriagis]], sono lì per aiutare la [[Dardania]]. Con [[Anahera]], membro del [[Fronte di Liberazione del Discepolato]] ad [[Iria]], che conferma tutto, l'equipaggio delle navi che li hanno intercettati accettano di farli parlare col loro capo, un [[Tohunga-Toa]] del [[Discepolato di Dardania|Discepolato]], fedele di [[Tirseno|Hē Phōnḕ en tōi Anémōi]], fuggito da [[Dardo]] anni prima: [[Ariki Tohunga-Toa|Ariki]].
+
+Il gruppo parla con [[Ariki Tohunga-Toa]] che conosce [[Tumanako Numio Tullio|Tumanako]] e non gli viene difficile credere quanto detto su [[Arbogh Tohunga-Toa|Arbogh]]. Accetta di aiutare il gruppo e suggerisce di sbarcare all'alba del terzo giorno da quel momento, a largo di [[Ulpiana]], dove la marcia verso [[Dardo]] è più corta e si evita di passare lato dell'accampamento di [[Adriano Numio Tullio|Adriano]]. [[Dardano Spaccatessere|Dardano]] e [[Bartolomeo, Tessitore di Ombre|Bartolomeo]] accettano. [[Ariki Tohunga-Toa|Ariki]] comunica ai suoi che si va alla guerra, per liberare la [[Dardania]] dall'usurpatore [[Arbogh Tohunga-Toa|Arbogh]] e mettere sul trono della nazione [[Tumanako Numio Tullio|Tumanako]]. 
+
+Il gruppo parte immediatamente verso [[Motu Rangatira]], grazie al Libeccio, arrivano la sera seguente. 
+
+Lì, entrano nella locanda di [[Whare Pātea]], *La Casa dei Canti*, dove [[Rere Kōrero]] sta narrando ai marinai e ai suoi uomini la scena del discorso di [[Tumanako Numio Tullio|Tumanako]] all'[[Kawenata Herekore|Accordo d'Indipendenza]], di come si arrivato sul dorso dei delfini, e di come si sia dichiarato Grande Sacerdote del [[Discepolato di Dardania]]. Puntualizza che ha visto diventare nero di rabbia il povero [[Sebastiano Marefosco]] capendo che dopo l'intervento del cucciolo di tritone per il buon vecchio [[Kaiurungi Mikaere|Mikaere]] non c'era speranza. Conclude augurandosi che i compagni di [[Tumanako Numio Tullio|Tumanako]] trovino quel bastardo di [[Kaiurungi Mikaere|Mikaere]] e lo facciano secco. 
+
+"Così è stato" commenta [[Bartolomeo, Tessitore di Ombre|Bartolomeo]]. [[Rere Kōrero]] gioisce nel vedere i due e si fa raccontare tutto. Capendo poi la situazione, acconsente alla richiesta di partecipare alla campagna contro [[Arbogh Tohunga-Toa|Arbogh]], non potrebbe mai farsi sfuggire un'occasione del genere come ispirazione per la sua musica. Nutre dei dubbi sull'efficacia delle sue truppe in terra, infatti, loro sono abili marinai, non soldati. Nonostante ciò acconsente e conferma che farà chiamare [[Hine Whakaaro]]. Inoltre, sotto richiesta dei due, rivela dove trovare il suo nemico [[Isidoro Zannerosse]]. La loro base è sull'isola di [[Motu Totokā]], a est da [[Whangārei]]. 
+
+Il duo parte in direzione di [[Motu Totokā]] e lo raggiunge a metà del giorno seguente, a meno di 36 ore dall'assalto a [[Dardo]]. Lì, a largo dalla costa, vengono avvicinati dalla nave di [[Gaspare Lingualercia]], rientrato da [[Motu Herekore]]. 
+Il duo viene fatto scendere in città dove raggiungono un elegante palazzo tinto di rosso in stile norreno. Al suo interno, entrano proprio mentre [[Isidoro Zannerosse]] uccide uno dei suoi sottoposti, che lo aveva sfidato a duello per il titolo di capitano, strappandogli il cuore dal petto e mangiandolo.
+Riconoscendo [[Dardano Spaccatessere|Dardano]], lo abbraccia come un fratello. Ascolta la storia della sconfitta di [[Kaiurungi Mikaere|Mikaere]] e ringrazia il ranger di aver ucciso il pirata e di aver bagnato la sua *Famelica* col sangue del nemico. [[Dardano Spaccatessere|Dardano]] spiega poi la situazione riguardante l'assalto a [[Dardo]] e a [[Isidoro Zannerosse|Isidoro]] non serve sapere altro: accetta di partecipare, se [[Dardano Spaccatessere|Dardano]] restituirà a lui la sua spada. [[Dardano Spaccatessere|Dardano]] acconsente, e viene ricompensato con un potete arco magico. 
+Il gruppo poi aiuta [[Isidoro Zannerosse]] ad armare le navi e partono insieme alla volta di [[Ulpiana]]. 
+
+Man mano che vanno, vengono raggiunti da [[Rere Kōrero]] e da [[Hine Whakaaro]], infine dal [[Fronte di Liberazione del Discepolato]] a largo di [[Ulpiana]] all'alba dell'ultimo giorno. 
+
+Lì, in fase di decisione sul da farsi, vengono interrotti da [[Libeccio]]. compaiono poi, uno dopo l'altro, altre 7 divinità del vento: 
+[[Scirocco]], [[Ostro]], [[Levante]], [[Grecale]], [[Tramontana]], [[Maestrale]] e [[Ponente]]. 
+
+Gli otto trasportano diverse nubi giallognole e [[Libeccio]] commenta: "Ho portato qualche amico che vuole aiutarvi". Dalle nubi escono decine di [[Balene dei Venti]] e sopra di loro centinaia di [[Dracofilii]], in testa il loro saggio: [[Dracisapiens]]. 
+
+[[Dardano Spaccatessere|Dardano]] spiega così le proprietà delle balene al resto delle loro forze e inizia a caricare le forze su di esse. Il piano è che, una volta che sarà abbattuta la barriera su [[Dardo]], cosa che dovrebbe avvenire a momenti, loro caleranno sulla città dall'alto. 
+
+[[Libeccio]] poi dona a [[Bartolomeo, Tessitore di Ombre|Bartolomeo]] una daga recuperata dal corpo di [[Silio Versabirra|Silio]]. Dice che [[Silio Versabirra|Silio]], a sua volta, l'ha rubata da [[Takaruao]]. [[Libeccio]] inoltre rassicura [[Bartolomeo, Tessitore di Ombre|Bartolomeo]] dicendo che lui e suo padre [[Tirseno]] hanno analizzato la daga ed è sicura. [[Bartolomeo, Tessitore di Ombre|Bartolomeo]] accetta l'artefatto e ringrazia il dio dei venti. 
+
