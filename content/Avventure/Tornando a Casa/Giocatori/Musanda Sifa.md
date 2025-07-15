@@ -4,6 +4,10 @@ Livello: "3"
 Classe: Monaco
 aliases:
   - Musanda
+ac: "18"
+hp: 75
+level: 8
+modifier: 6
 ---
 Musanda è un Monaco nato tra i [[Sifa]], popolo indigeno del deserto della [[Dardania]] del nord. È stato cresciuto secondo la venerazione del [[Al-Atua]] ed è diventato un monaco delle loro antiche vie nel tempio della sua oasi. 
 

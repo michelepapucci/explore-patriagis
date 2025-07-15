@@ -4,6 +4,10 @@ Classe: Ranger
 Livello: "3"
 aliases:
   - Dardano
+ac: "18"
+hp: 75
+level: 8
+modifier: 8
 ---
 Dardano è il figlio adottivo del boss della malavita [[Cranxaxomor Spaccatessere]], che possiede varie bische clandestine a [[Nova]].
 

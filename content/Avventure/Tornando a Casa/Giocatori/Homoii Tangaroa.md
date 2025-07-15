@@ -1,6 +1,10 @@
 ---
 aliases:
   - Homoii
+ac: "18"
+hp: 59
+level: 8
+modifier: 2
 ---
 
 Arruolato giovane in guerra dopo un addestramento frettoloso in gioventù come uditore della voce. 

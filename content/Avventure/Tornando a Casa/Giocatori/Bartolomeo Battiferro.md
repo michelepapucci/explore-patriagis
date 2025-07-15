@@ -4,6 +4,10 @@ Classe: Mago
 Livello: "3"
 aliases:
   - Bartolomeo
+ac: "17"
+hp: 74
+level: 8
+modifier: 8
 ---
 Figlio di [[Ferdinando Battiferro]] e [[Orsinia Battiferro]] membro della famiglia [[Battiferro]]. È un mago registrato con il [[Consiglio Arcano di Patriagis]], specializzato in Abiurazione. 
 

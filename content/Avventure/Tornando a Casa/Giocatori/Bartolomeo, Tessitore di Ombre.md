@@ -4,6 +4,10 @@ Livello: "3"
 Specie: "[[Mezzelfi|Mezzelfo]]"
 aliases:
   - Bartolomeo
+ac: "18"
+hp: 75
+level: 9
+modifier: 8
 ---
 Bartolomeo nasce a [[Millepozzi]], da [[Cecilia, la Castellana]] e [[Silio Versabirra]], proprietari dell'[[Acqua Fresca]], popolare locanda nella piazza principale della città. 
 
