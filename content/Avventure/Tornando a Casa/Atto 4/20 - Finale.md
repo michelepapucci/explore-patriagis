@@ -77,6 +77,14 @@ Le [[Balene dei Venti]] combattono con i Leviatani mutanti, diverse balene comin
 
 ## Scontro con [[Arbogh Tohunga-Toa|Arbogh]]
 
+[[Arbogh Tohunga-Toa|Arbogh]] si aspettava il loro attacco e ha preparato un'arena piena di trappole. Ad iniziativa 20, ci sono dei Lair Effect a scelta tra: 
+- effetto 1
+- effetto 2
+- effetto 3
+...
+
+Quando Lodato Mutante cade, [[Arbogh Tohunga-Toa|Arbogh]] non riesce più a usare i suoi poteri. Con una prova di Religione o Arcano, il gruppo può capire che la fede di [[Arbogh Tohunga-Toa|Arbogh]] in [[Takaruao]] è venuta meno: lo ha abbandonato a morire e non riesce più a lanciare incantesimi. [[Arbogh Tohunga-Toa|Arbogh]] fugge verso il canale segreto dalla quale era entrato il gruppo la prima volta, dove [[Tumanako Numio Tullio|Tumanako]] lo cattura e lo fa uccidere a [[Musanda Sifa|Musanda]]. 
+
 ```encounter
 party:  Soldati di Patriagis
 creatures:
