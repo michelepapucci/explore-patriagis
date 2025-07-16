@@ -10,7 +10,6 @@ level: 8
 modifier: 6
 ---
 Musanda è un Monaco nato tra i [[Sifa]], popolo indigeno del deserto della [[Dardania]] del nord. È stato cresciuto secondo la venerazione del [[Al-Atua]] ed è diventato un monaco delle loro antiche vie nel tempio della sua oasi. 
-
 ## Storia
 
 Odiava le tempeste. Più che odiarle ne aveva una paura tremenda, tempeste e fulmini. Nei primi quindici anni della sua vita non ne aveva mai visti. Il suo villaggio, nella Dardania del nord era caratterizzato da un unico elemento: la sabbia. Anche il deserto però sapeva essere generoso e nell'oasi in cui era nato insieme a centinaia di altri ragazzi e ragazze aveva vissuto con spensieratezza la sua infanzia. Le leggi della sua gente erano semplici e si basavano su due pilastri fondamentali, coltivare la terra resa fertile dalla sorgente e la venerazione di [[Al-Atua]]. A dodici anni aveva superato brillantemente il rito del "[[Al-Atua#Bassari|Bassari]]" la lotta con gli spiriti del deserto rappresentati da saggi del villaggio con maschere tribali. Da quel momento in avanti si era allenato nel tempio divenendo uno dei discepoli più promettenti. 

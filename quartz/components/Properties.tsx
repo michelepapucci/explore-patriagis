@@ -47,10 +47,12 @@ export default (() => {
                     var linkedElements = []
                     var propertyType = Object.prototype.toString.call(value)
                     if (value) {
-                        if (propertyType = "[object String]" && value.includes("[[")) {        //Check if it's a string or string array
+                        if (propertyType === "[object String]" && value.includes("[[")) {        //Check if it's a string or string array
                             linkedElements.push(createLinkedElement(fileData, opts, value))
+                        } else if ((propertyType === "[object String]" && !value.includes("[[")) || typeof value === "number") {
+                            linkedElements.push(createPropertyElement(key, value))
                         }
-                        else if (propertyType = "[object Array]") {
+                        else if (propertyType === "[object Array]") {
                             for (const [index, arrayItem] of Object.entries(value ?? {})) {     // Check if it's an array
                                 var entry = value[index]
                                 if (entry.includes("[[")) {
