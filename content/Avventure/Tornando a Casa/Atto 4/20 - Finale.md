@@ -28,7 +28,19 @@ Hard Encounter (solo gruppo): 11000 xp
 - [[Numio Ostilio III Tullio|Numio]] decide di abdicare in favore di [[Tumanako Numio Tullio|Tumanako]] e nasce l'[[Impero del Mare]] che comprende i territori del [[Discepolato di Dardania]], [[Regno di Patriagis]] e degli [[Iwinās]]. L'[[Herekorenga]] rimane indipendente ma federato all'[[Impero del Mare]] dopo una votazione indetta da [[Hine Whakaaro]]. [[Sebastiano Marefosco]] lascia l'[[Herekorenga]]. 
 
 ---
-### Fuori dalla [[Cattedrale dell'Acqua Pura]]
+
+## Incipit
+
+Leggere:
+
+> [!quote] Cosa è successo negli ultimi 5 giorni?
+> [[Dardano Spaccatessere|Dardano]] e [[Bartolomeo, Tessitore di Ombre|Bartolomeo]] hanno viaggiato fino all'isola di [[Adonia]] per chiedere aiuto al [[Fronte di Liberazione del Discepolato]]. Convinto il loro capo, [[Ariki Tohunga-Toa|Ariki]], si sono spostati nell'[[Herekorenga]], dove hanno radunato altri alleati, prima i[[Kaipupuri Kupu|I Pirati Poeti]] di [[Rere Kōrero]], che hanno chiamato a loro volta [[Hine Whakaaro]], e poi, persino [[Isidoro Zannerosse]], che ha giurato fedeltà in cambio della sua spada *Famelica*. Con loro, anche [[Libeccio]] è sceso in campo, portando, insieme agli altri dei del vento, le [[Balene dei Venti]] e i [[Dracofilii]] guidati dal saggio [[Dracisapiens]]. Si preparano così a lanciare un assalto aereo su [[Dardo]], appena la barriera magica cadrà.
+> 
+> Nel frattempo, [[Tumanako Numio Tullio|Tumanako]], [[Musanda Sifa|Musanda]], [[Bartolomeo Battiferro]] e [[Homoii Tangaroa|Homoii]] si sono infiltrati a [[Dardo]] con la Perla. Lì, hanno scovato una rete sotterranea di dissidenti guidati da [[Tehere Tohunga-Nui|Tehere]], sorella della defunta [[Wāhine-Ataahua Tohunga-Nui|Wāhine]], e formata da esuli [[Tohunga-kore]], una classe di sacerdoti banditi da [[Dardo]] per aver rifiutato il nazionalismo del [[Discepolato di Dardania|Discepolato]] e per aver abbracciato una fede di [[Tirseno]] più pacifica. Con loro c'è anche [[Rangi Tohunga Mākutu]], l’arcimago che aveva progettato la barriera difensiva. Grazie a lui scoprono come disattivarla: Il potente incantesimo di *Santuario Privato* ha origine dalla statua di [[Tirseno]] al centro del Lago Tapuora, usando un'incantesimo di *Dissolvi Magie* è possibile disattivarlo temporaneamente. Il Lago era però protetto da uno dei Leviatani mutanti di [[Arbogh Tohunga-Toa|Arbogh]] che viene prontamente abbattuto dal gruppo.
+> 
+> Così, all’alba del quinto giorno, le **porte di [[Dardo]] si aprono**: gli [[Iwinās]] entrano da est, mentre dal cielo piombano i rinforzi. Ma [[Arbogh Tohunga-Toa|Arbogh]] risponde con un’orda di mutanti… e al suo fianco si mostra l’orrore: il cadavere rianimato di [[Lodato Numio Tullio]] trasformato in un’arma vivente.
+
+## Fuori dalla [[Cattedrale dell'Acqua Pura]]
 
 Lungo le scale che portano alla [[Cattedrale dell'Acqua Pura]], vedete qualche centinaio di mutanti organizzati in piccole squadriglie dietro ai soldati del [[Discepolato di Dardania|Discepolato]]. I soldati si aprono, permettendo ai mutanti di scendere le scale e mettersi a protezione delle stesse: una muraglia di carne, fatta di creature non morte con arti aggiuntivi e mostruosi, ingegnerizzati per essere letali. 
 I soldati poi, si buttano in città per fermare l'avanzata degli [[Iwinās]]. 
@@ -78,10 +90,9 @@ Le [[Balene dei Venti]] combattono con i Leviatani mutanti, diverse balene comin
 ## Scontro con [[Arbogh Tohunga-Toa|Arbogh]]
 
 [[Arbogh Tohunga-Toa|Arbogh]] si aspettava il loro attacco e ha preparato un'arena piena di trappole. Ad iniziativa 20, ci sono dei Lair Effect a scelta tra: 
-- effetto 1
-- effetto 2
-- effetto 3
-...
+- Un tentacolo si alza dal terreno, è fatto di acqua incantata. Due bersagli che [[Arbogh Tohunga-Toa|Arbogh]] può vedere che sono distanti l'uno dall'altro massimo 4,5m devono fare una prova di Destrezza con CD 15 o essere afferrati. Il tentacolo è un oggetto grande con CA 10, immune a danni da veleno, da freddo e psichici. Ha 15 pf e sparisce quando raggiunge 0 pf o [[Arbogh Tohunga-Toa|Arbogh]] fa un'altra Lair Action; 
+- [[Arbogh Tohunga-Toa|Arbogh]] svanisce in una pozza d'acqua e ricompare in un punto a suo piacimento nello stesso piano della [[Cattedrale dell'Acqua Pura|Cattedrale]]; 
+- [[Arbogh Tohunga-Toa|Arbogh]] e Lodato guadagnano vantaggio ad ogni Tiro Salvezza fino alla fine del loro prossimo turno; 
 
 Quando Lodato Mutante cade, [[Arbogh Tohunga-Toa|Arbogh]] non riesce più a usare i suoi poteri. Con una prova di Religione o Arcano, il gruppo può capire che la fede di [[Arbogh Tohunga-Toa|Arbogh]] in [[Takaruao]] è venuta meno: lo ha abbandonato a morire e non riesce più a lanciare incantesimi. [[Arbogh Tohunga-Toa|Arbogh]] fugge verso il canale segreto dalla quale era entrato il gruppo la prima volta, dove [[Tumanako Numio Tullio|Tumanako]] lo cattura e lo fa uccidere a [[Musanda Sifa|Musanda]]. 
 
@@ -90,7 +101,7 @@ party:  Soldati di Patriagis
 creatures:
   - [[Death Knight Aspirant (XMM), Lodato Mutante]]
   - [[Archpriest (XMM), Arbogh L'Usurpatore]]
-
+  - Lair Action Cattedrale
 ```
 
 [[Arbogh Tohunga-Toa|Arbogh]] + Lodato = 15600XP, Incontro Difficile.
@@ -100,10 +111,59 @@ Le statistiche di Lodato Zombie sono quelle di un *Death Knight Aspirant*.
 
 ## Intervento di [[Adriano Numio Tullio|Adriano]]
 
-## Saluti 
+[[Adriano Numio Tullio]] sfonda la porta d'ingresso della [[Cattedrale dell'Acqua Pura|Cattedrale]] e trova il gruppo che si riprende dopo lo scontro con [[Arbogh Tohunga-Toa|Arbogh]]. 
+
+"Voi, maledetti. Avevate la perla, e avete fatto di tutto per tenermela nascosta. Mi avete tagliato fuori dalla MIA GUERRA". 
+Poi, guardando [[Tumanako Numio Tullio|Tumanako]]: "E tu... So chi vai a dire in giro di essere. Grande Sacerdote di [[Dardania]] e principe di [[Patriagis]]... Verrai giustiziato per le tue menzogne". 
+
+Quando il gruppo prova (banalmente mostrando il [[Marchio del Re]]) l'identità di [[Tumanako Numio Tullio|Tumanako]], [[Adriano Numio Tullio|Adriano]] va su tutte le furie:
+"Certo... Abbiamo quindi il principe perfetto. Colui che unirebbe due popoli in uno, erede della [[Dardania]] e chi si potrebbe mai opporre se qualcuno dirà che è il tuo momento di scavalcare anche me... Non lo permetterò." Sguaina la spada "Ho combattuto troppo a lungo e per troppi anni in nome del [[Regno di Patriagis]], in nome di mio padre al quale vuoi strappare il trono. Non permetterò che vada in mano a qualcuno che non sono io". 
+
+Con una prova di Carisma CD 18 e delle argomentazioni buone [[Adriano Numio Tullio|Adriano]] rinfodera la spada e dice che parlerà con suo padre, non permetterà ad uno straniero di rubargli il trono, e vola via con la Viverna. 
+
+Se provano a ingannarlo, possono menzionare che nessuno ha intenzione di togliergli il trono, se provano questa strada, [[Tumanako Numio Tullio|Tumanako]] la appoggia e da vantaggio. 
+
+Se provano a convincerlo che [[Tumanako Numio Tullio|Tumanako]] è il regnante che è promesso e che renderà grande il [[Regno di Patriagis]], menzionando anche [[Lodato Numio Tullio|Lodato]] non hanno vantaggio. 
+
+Altrimenti, [[Adriano Numio Tullio|Adriano]] attacca. Se portato a meno di 20 pf, getta la spada ed esce infuriato, dicendo che parlerà con suo padre per farvi giustiziare tutti, e vola via. 
+Se va a 0 pf e viene salvato, lo fa non appena recupera le forze. 
+
+Se muore, è morto. 
+
+```encounter
+party:  Soldati di Patriagis
+creatures:
+  - [[Questing Knight (XMM)], Adriano Numio Tullio]
+  - [[Wyvern (XMM)], Viverna]
+```
+
+## Saluti & Festeggiamenti
 
 ## Verso [[Nova]]
 
 ## Incontro con [[Takaruao]]
 
+Lair Actions:
+- 1
+- 2
+- 3
+
+```encounter
+party:  Soldati di Patriagis
+creatures:
+  - [[Storm Giant (XMM)], Takaruao God of the Abyss]
+```
+
+Scambiare resistenze e immunità. 
+
 ## Epilogo
+
+- [[Bartolomeo Battiferro|Bartolomeo]] rimarrà al fianco di [[Tumanako Numio Tullio|Tumanako]] per tutta la sua vita. Gli farà da figura paterna e lo guiderà. Verrà definito dal [[Consiglio Arcano di Patriagis]] la persona più influente dell'Impero, grazie all'attenzione che l'Imperatore [[Tumanako Numio Tullio|Tumanako]] presta alle sue parole. Il Consiglio offrirà anche a [[Bartolomeo Battiferro|Bartolomeo]] un posto nel Consiglio. [[Bartolomeo Battiferro|Bartolomeo]] accettò il posto e per anni ha tenuto la cattedra di Abiurazione in quanto considerato uno dei più potenti abiuratori viventi. [[Tumanako Numio Tullio|Tumanako]], in seguito alla sua morte, ammise che [[Bartolomeo Battiferro|Bartolomeo]] accettò il posto solo sotto sua richiesta.
+- [[Homoii Tangaroa|Homoii]], similmente a [[Bartolomeo Battiferro|Bartolomeo]], seguì [[Tumanako Numio Tullio|Tumanako]] per tutto il resto della sua breve vita. Nei decenni che gli rimasero, fu spesso inviato come messaggero e prefetto delle volontà dell'Imperatore in [[Dardania]], quando [[Tumanako Numio Tullio|Tumanako]] non poteva andare personalmente. Fu inoltre autore di innumerevoli dissertazioni teologiche sul culto di [[Tirseno]] che aiutarono a colmare il divario tra le classi sacerdotali dardane, i [[Tohunga-Toa]] e i [[Tohunga-kore]]. Aiutò inoltre ad ampliare le comunicazioni religiose tra i [[Culti dell'Acqua]] di [[Patriagis]], e quelli [[Dardania|Dardani]]. 
+- [[Musanda Sifa|Musanda]] tornò sull'isola di [[Sikeola]], ad [[Imeria]], dove i [[Sifa]] lo attendevano a braccia aperte, e lo accolsero come eroe e profeta di [[Al-Atua]]. [[Musanda Sifa|Musanda]] affidò i semi di [[Tirseno]] ad [[Aramiri Toa'ramal|Aramiri]], che ne fece sapiente uso, affidando un seme ad ognuno dei clan del [[Grande Deserto del Sud|Grande Deserto]] e creando poi un grande agglomerato di oasi al centro, dove si potessero incontrare e vivere di nuovo insieme. Molti dei [[Sifa]] tornarono al [[Grande Deserto del Sud|Grande Deserto]], ma [[Musanda Sifa|Musanda]] e la sua famiglia, sebbene lo visitarono spesso, rimasero a [[Patriagis]]. Fondò poi un ordine monastico proprio a [[Imeria]]. Nel suo tempo, è stato considerato uno dei più grandi combattenti viventi e innumerevoli monaci dal [[Grande Deserto del Sud|Grande Deserto]] partivano verso [[Patriagis]] solo per ricevere i suoi insegnamenti. Anche molte altre caste monastiche di [[Patriagis]], come la [[Fratellanza della Luce Solare]], mandarono molti dei loro adepti ad imparare da lui. 
+- [[Dardano Spaccatessere|Dardano]] tornato a [[Nova]] si mise subito a lavoro per riprendere in mano gli affari di famiglia. Trovò una situazione disastrata: molti dei loro territori a [[Nova]] erano stati mangiati da bande rivali, prima su tutte la [[BDP]]. Ma mentre in casa perdeva, fuori si arricchiva sempre di più. Grazie alle rotte imperiali e alla sua esperienza con quei territori, i bassifondi dell'[[Herekorenga]] e della [[Dardania]] cedettero uno dopo l'altro all'organizzazione [[Spaccatessere]] tutti i loro affari, divenendo, di fatto, la più potente organizzazione mafiosa del mare. Di suo fratello non trovò mai traccia, sembrava sparito nel nulla, almeno fino al 1345, quando [[Zaffiro Spaccatessere]], come promesso, lo sfidò a duello. 
+- Lo stesso anno, nel 1345, [[Bartolomeo, Tessitore di Ombre|Bartolomeo Versabirra]] arrivò finalmente alla resa dei conti. Tornato a [[Nova]], [[Bartolomeo, Tessitore di Ombre|Bartolomeo]] rilevò l'attività di famiglia a [[Malporto]] e la affidò nelle mani nel nonno [[Zaldak Versabirra|Zaldak]]. [[Bartolomeo, Tessitore di Ombre|Bartolomeo]] poi fu assunto dai servizi segreti imperiali con uno scopo ben preciso: eliminare la [[BDP]]. 
+  Grazie alla coordinazione con [[Dardano Spaccatessere|Dardano]], entrambi beneficiarono molto di questo accordo, riuscendo a colpire e de-costruire elementi fondamentali della [[BDP]] destabilizzandola fortemente.  Nel 1345, [[Bartolomeo, Tessitore di Ombre|Bartolomeo]], si trovò finalmente faccia a faccia con colui che rappresentava ogni problema che avesse mai avuto: [[Tracco (Il Pissero)|Il Pissero]]. 
+- [[Tumanako Numio Tullio|Tumanako]], dopo la sua incoronazione a Imperatore del Mare, Re del [[Regno di Patriagis]], Grande Sacerdote del [[Discepolato di Dardania]], protettore dell'[[Herekorenga]] e dei [[Popoli Liberi di Patriagis]], fece subito un tour reale del [[Regno di Patriagis]], per conoscere il territorio e le sue genti. Fu inizialmente mal accettato, ma velocemente grazie al suo carisma e le sue conoscenze fu accettato da tutte le classi sociali. I nobili vedevano in lui un vero principe, ma i comuni lo sentivano vicino. Durante la sua carriera di Imperatore, migliorò i contatti commerciali all'interno dell'Impero, costruì una miriade di strade per meglio connetterlo, e lavorò a fondo per integrare culturalmente tutti i popoli in modo che si sentissero uno. 
+  Non si sposò mai, alcuni dicevano che era sposato al suo lavoro. Fece poi molti altri tour per il suo Impero. "Il popolo ha un imperatore ed è giusto che il popolo lo veda", diceva sempre. Morì all'età di 89 anni durante il suo ultimo tour. 
+  Fu amato dal suo impero fino all'ultimo, la storia lo ricorda come l'"Imperatore Buono". Fu succeduto dall'unica altra erede al trono, [[Larenzia Lodato Tullio]], la figlia di [[Lodato Numio Tullio|Lodato]], [[Mezzelfi|mezzelfa]], che salì al trono all'età di 112 anni. 
