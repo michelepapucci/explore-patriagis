@@ -143,10 +143,26 @@ creatures:
 
 ## Incontro con [[Takaruao]]
 
+Le acque si muovono e si contorcono in mulinelli e correnti innaturali. Poi, dall'acqua, un corpo viene scaraventato sulla vostra nave. All'apparenza è uomo enorme, ferito, con un enorme taglio sul petto, lo riconoscete: È [[Tirseno]]. L'acqua poi si muove e assume la forma di una colonna che punta al cielo, al cui centro vedete il corpo snello e atletico di un tritone. 
+"Eccovi, codardi". 
+"Ho aspettato così a lungo per questo momento.. Il momento giusto di attaccarti. Quando casa vostra è così vicina, e avete quasi raggiunto la costa. Quando i vostri obbiettivi sono quasi raggiunti... come io avevo quasi raggiunto i miei.. È lì che i nostri percorsi si incroceranno". 
+"Nostro padre mi ha detto tutto,  [[Tumanako Numio Tullio|Tumanako]].. Come immagini, non posso permetterti di vivere. Sarò io a dominare il mare. "
+
+"Forza, entra in acqua". 
+
+"Entra in acqua, o alzerò così tanto la marea che tutte le navi affonderanno. Tu, forse, sopravviverai, ma il resto della tua flotta no."
+
+[[Tumanako Numio Tullio|Tumanako]] equipaggia la perla, la corona e il tridente.
+
+Gli attacchi sembrano non avere effetto su [[Takaruao]], come se fosse fatto d'acqua. 
+[[Tumanako Numio Tullio|Tumanako]], quando lo colpisce, gli da una forma vera e propria. [[Takaruao]] lo infama, si gira, e gli da un colpo fortissimo sulla testa, facendolo crollare sul fondale marino. 
+
+La corona, come corrotta dal colpo, si pietrifica, fatta di scoglio. [[Takaruao]] poi, si sfila il tridente, e lo disintegra piegandolo e distruggendolo tra le sue mani. Poi, con gli occhi pieni di sangue, fissa il gruppo. 
+
 Lair Actions:
-- 1
-- 2
-- 3
+- [[Takaruao]] si cura di 2d10 pf; 
+- [[Takaruao]] si sposta dove vuole entro 15m;
+- [[Takaruao]] chiama 3d4 squali;
 
 ```encounter
 party:  Soldati di Patriagis
@@ -158,6 +174,25 @@ Scambiare resistenze e immunità.
 
 ## Epilogo
 
+Arrivati a [[Smossa]], gran parte del vostro corteo si ferma lì, mentre voi proseguite lungo il fiume [[Tiberino]] verso [[Nova]]. Ad aspettarvi c'è la corte reale, con [[Numio Ostilio III Tullio]] in persona. Egli vi ringrazia personalmente e prende in custodia [[Tumanako Numio Tullio|Tumanako]]. La sera stessa, [[Numio Ostilio III Tullio|Re Numio]] annuncia pubblicamente la fine della seconda campagna di [[Dardania]], con vari dettagli:
+- Spiega la questione della *Perla*. 
+- Spiega la questione di [[Tumanako Numio Tullio|Tumanako]];
+- Ringrazia pubblicamente i cinque eroi che si sono occupati di lui:
+	- [[Dardano Spaccatessere]];
+	- [[Bartolomeo Battiferro]];
+	- [[Bartolomeo, Tessitore di Ombre|Bartolomeo Versabirra]]; 
+	- [[Musanda Sifa|Musanda dei Sifa]]
+	- [[Homoii Tangaroa]];
+- Annuncia inoltre che [[Adriano Numio Tullio]] non è più l'erede designato, ma nomina [[Tumanako Numio Tullio]], suo terzogenito, come erede del Regno. 
+- A seguito dell'annuncio un grande chaos nel [[Regno di Patriagis]]. Viene indetto immediatamente un [[Regio Consiglio]] straordinario dove tutti i Sindaci, I Signori e i rappresentati dei [[Popoli Liberi di Patriagis]] vengono convocati. 
+- Il consiglio durò 6 mesi, nei quali nel frattempo voi vi siete riuniti coi vostri familiari. 
+	- [[Zaldak Versabirra|Zaldak]] e [[Bartolomeo, Tessitore di Ombre|Bartolomeo]] si ri-incontrano, e il nonno, una volta scoperto tutto, perdona il nipote e fa di tutto per aiutarlo. Rilevano l'attività dei suoi genitori a [[Millepozzi]] e la prende in gestione [[Zaldak Versabirra|Zaldak]] in loro onore; 
+	- [[Bartolomeo Battiferro|Bartolomeo]] ri-incontra i suoi genitori. Hanno sentito storie su cos'è successo e lo supportano attraverso il suo dolore. Similmente, [[Persone/Patriagis/Nova/Senzocchio/Kalys|Kalys]], il fratello di [[Gavio]] perdona e comprende le scelte del mago e rimarrà per tutta la sua vita un grande amico e compagno. 
+	- [[Homoii Tangaroa|Homoii]] torna in [[Dardania]] a rivedere la sua famiglia e tornerà poi spesso a [[Patriagis]] per stare vicino a [[Tumanako Numio Tullio|Tumanako]] durante questi momenti di incertezza.
+	- [[Musanda Sifa|Musanda]], similmente, tornerà a [[Imeria]] nell'isola di [[Sikeola]] per rivedere la famiglia, per poi tornare a [[Nova]] un anno dopo per rivedere il gruppo prima di un "grande annuncio". 
+	- [[Dardano Spaccatessere|Dardano]] invece si metterà subito al lavoro. Durante la sua assenza molti dei territori a [[Nova]] che una volta appartenevano agli [[Spaccatessere]] sono stati occupati. 
+- A seguito del [[Regio Consiglio]] ne viene indetto un altro con rappresentati degli [[Iwinās]], del [[Discepolato di Dardania|Discepolato]] e dell'[[Herekorenga]]. 
+- Un anno dopo dal vostro arrivo a [[Nova]] viene fatto un annuncio: [[Numio Ostilio III Tullio]], Re di [[Patriagis]] lascia in comune accordo col [[Regio Consiglio]] il suo posto. Sale sul trono di [[Patriagis]] [[Tumanako Numio Tullio]]. Con lui nasce una nuova era: I popoli dei Mari si uniscono sotto l'unica bandiera rappresentata da [[Tumanako Numio Tullio|Tumanako]]. Nasce l'Impero del Mare. [[Tumanako Numio Tullio]] è il primo Imperatore del Mare, Re di [[Patriagis]], Grande Sacerdote di [[Dardania]], Protettore dell'[[Herekorenga]] e dei Popoli Liberi. Come corona, sceglierà quella della madre, trasformata in pietra da [[Takaruao]]. Il primo editto di [[Tumanako Numio Tullio|Tumanako]] è designare la sua erede: [[Larenzia Lodato Tullio]], figlia di [[Lodato Numio Tullio|Lodato]]. 
 - [[Bartolomeo Battiferro|Bartolomeo]] rimarrà al fianco di [[Tumanako Numio Tullio|Tumanako]] per tutta la sua vita. Gli farà da figura paterna e lo guiderà. Verrà definito dal [[Consiglio Arcano di Patriagis]] la persona più influente dell'Impero, grazie all'attenzione che l'Imperatore [[Tumanako Numio Tullio|Tumanako]] presta alle sue parole. Il Consiglio offrirà anche a [[Bartolomeo Battiferro|Bartolomeo]] un posto nel Consiglio. [[Bartolomeo Battiferro|Bartolomeo]] accettò il posto e per anni ha tenuto la cattedra di Abiurazione in quanto considerato uno dei più potenti abiuratori viventi. [[Tumanako Numio Tullio|Tumanako]], in seguito alla sua morte, ammise che [[Bartolomeo Battiferro|Bartolomeo]] accettò il posto solo sotto sua richiesta.
 - [[Homoii Tangaroa|Homoii]], similmente a [[Bartolomeo Battiferro|Bartolomeo]], seguì [[Tumanako Numio Tullio|Tumanako]] per tutto il resto della sua breve vita. Nei decenni che gli rimasero, fu spesso inviato come messaggero e prefetto delle volontà dell'Imperatore in [[Dardania]], quando [[Tumanako Numio Tullio|Tumanako]] non poteva andare personalmente. Fu inoltre autore di innumerevoli dissertazioni teologiche sul culto di [[Tirseno]] che aiutarono a colmare il divario tra le classi sacerdotali dardane, i [[Tohunga-Toa]] e i [[Tohunga-kore]]. Aiutò inoltre ad ampliare le comunicazioni religiose tra i [[Culti dell'Acqua]] di [[Patriagis]], e quelli [[Dardania|Dardani]]. 
 - [[Musanda Sifa|Musanda]] tornò sull'isola di [[Sikeola]], ad [[Imeria]], dove i [[Sifa]] lo attendevano a braccia aperte, e lo accolsero come eroe e profeta di [[Al-Atua]]. [[Musanda Sifa|Musanda]] affidò i semi di [[Tirseno]] ad [[Aramiri Toa'ramal|Aramiri]], che ne fece sapiente uso, affidando un seme ad ognuno dei clan del [[Grande Deserto del Sud|Grande Deserto]] e creando poi un grande agglomerato di oasi al centro, dove si potessero incontrare e vivere di nuovo insieme. Molti dei [[Sifa]] tornarono al [[Grande Deserto del Sud|Grande Deserto]], ma [[Musanda Sifa|Musanda]] e la sua famiglia, sebbene lo visitarono spesso, rimasero a [[Patriagis]]. Fondò poi un ordine monastico proprio a [[Imeria]]. Nel suo tempo, è stato considerato uno dei più grandi combattenti viventi e innumerevoli monaci dal [[Grande Deserto del Sud|Grande Deserto]] partivano verso [[Patriagis]] solo per ricevere i suoi insegnamenti. Anche molte altre caste monastiche di [[Patriagis]], come la [[Fratellanza della Luce Solare]], mandarono molti dei loro adepti ad imparare da lui. 
