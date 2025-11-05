@@ -16,6 +16,7 @@ Ognuno dei 5 colli è controllato da uno dei poteri del [[Regno di Patriagis]], 
 Nova è stata storicamente la capitale del [[Regno dell'Ovest]] e successivamente, dopo la fondazione del [[Regno di Patriagis]], è diventata la capitale del neonato regno: sede della famiglia reale [[Tullio]], del [[Regio Consiglio]], del [[Consiglio Arcano di Patriagis]] e del [[Senato di Patriagis]].
 La popolazione è principalmente fatta di [[Mezzelfi]] e [[Umani]].
 Gli [[Elfi]] dell'[[Aranië|Aranië]] e gli [[Umani]] del [[Regno dell'Ovest]], convivendo nel [[Regno di Patriagis]], si sono incrociate e gli [[Elfi|elfi]] purosangue si sono quasi estinti a causa di quest'unione. Il resto delle specie, per quanto minoritarie, è presente e integrata, e in generale si può dire che il regno, ma Nova in particolare, è fortemente multiculturale. 
+Dal 1330 A.P. [[Numio Ostilio III Tullio]] Re di Patriagis, in seguito alla [[Seconda Campagna di Dardania]], lascia il trono in favore del figlio [[Tumanako Numio Tullio]], avuto segretamente con la [[Grande Sacerdote di Dardania|Grande Sacerdotessa di Dardania]], [[Wāhine-Ataahua Tohunga-Nui]]. [[Tumanako Numio Tullio|Tumanako]] diventa quindi Re del [[Regno di Patriagis]] e [[Grande Sacerdote di Dardania]]. I due stati diventano quindi parte del neonato [[Impero del Mare]]. Poco dopo, la federazione pirata [[Ārahina e ngā hēramana]] entra sotto la protezione dell'[[Impero del Mare|Impero]], mantenendo però grosse libertà. 
 
 ## Politica
 
