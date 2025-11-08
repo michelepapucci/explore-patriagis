@@ -8,6 +8,7 @@ ac: "18"
 hp: 75
 level: 8
 modifier: 8
+Nascita A.P.: "1298"
 ---
 Dardano è il figlio adottivo del boss della malavita [[Cranxaxomor Spaccatessere]], che possiede varie bische clandestine a [[Nova]].
 
