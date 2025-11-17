@@ -1,0 +1,1 @@
+Una delle taverne di [[Lemberi]]. Si trova a sud-est della città, vicino al porto, ed è frequentata principalmente da marinai e altri lavoratori. 

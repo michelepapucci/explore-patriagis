@@ -8,7 +8,7 @@ aliases:
 ---
 I Linnor erano un popolo elfico antecedente al [[Aranië]], localizzato nel nord-est di [[Patriagis]]. 
 
-Il popolo si disperse al termine della [[Battaglia del Crepuscolo]] dove i superstiti fonderanno la città di [[Tronh]] che verrà poi unificata al [[Aranië]]. 
+Il popolo si disperse al termine della [[Battaglia del Crepuscolo]] dove i superstiti fonderanno la città di [[Lemberi]] che verrà poi unificata al [[Aranië]]. 
 
 
 ---

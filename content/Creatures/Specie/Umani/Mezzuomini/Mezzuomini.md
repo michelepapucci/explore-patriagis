@@ -11,9 +11,9 @@ tags:
 ---
 Come la loro [[Umani|controparte più alta]] i Mezzuomini sono conosciuti per la loro versatilità e per la loro straordinaria capacità di adattamento. Rispetto però agli umani, tendono a preferire le comodità di casa, e tutte le loro grandi gesta o costruzioni solitamente nascono da un forte desiderio di soddisfare i loro bisogni di base, che solitamente non è altro che un posto dove dilettarsi nelle proprie attività in pace, con la pancia piena, un fuoco caldo, buon vino e ottima compagnia. 
 
-A [[Patriagis]] i mezzuomini hanno tradizionalmente creato delle comunità agricole nel centro-sud della penisola. Benché inizialmente indipendenti, molte di queste società furono poi conquistate da parte del [[Regno dell'Ovest]]. 
+A [[Patriagis]] i mezzuomini hanno tradizionalmente creato delle comunità agricole nel centro-sud della penisola. Benché inizialmente indipendenti, molte di queste società furono poi integrate all'interno del [[Regno dell'Ovest]]. 
 
-Oggi, nonostante queste comunità siano ancora presenti nei territori del sud, molti mezzuomini hanno creato piccole comunità all'interno di grandi città di tutta la penisola come [[Nova]] o [[Malporto]], mentre alcune loro comunità si sono espanse e sono diventate grandi centri multiculturali come [[Thurii]]. Altri, spinti dalle necessità, hanno creato imponenti regni in grado di difendere i propri territori con ferocia come i [[Tiarna na Madraì]] della [[Piana Marittima]]. Altri, per sfuggire agli orrori della guerra, hanno creato grandi società sotterranee interconnesse come i Mezzuomini dell'[[Area del Tufo]]. 
+Oggi, nonostante queste comunità siano ancora presenti nei territori del sud, molti mezzuomini hanno creato piccole comunità all'interno di grandi città di tutta la penisola come [[Nova]] o [[Malporto]], mentre alcune loro comunità si sono espanse e sono diventate grandi centri multiculturali come [[Thurii]]. Altri, spinti dalle necessità, hanno creato imponenti regni in grado di difendere i propri territori con ferocia come i [[Tiarna na Madraì]] della [[Piana Marittima]]. Altri, per sfuggire agli orrori della guerra, hanno creato grandi città sotterranee interconnesse come i Mezzuomini delle [[Colline Rocciose]]. 
 
 Sebbene i mezzuomini amino le loro vite comunitarie, solitamente in aperta campagna, alcuni di loro formano delle bande che viaggiano costantemente, attratti dalla scoperta di nuove terre e persone. Ma anche i viaggiatori sono comunque amanti della pace, del cibo, dei focolari e delle loro case, anche se queste sono delle carovane sempre in viaggio. 
 
@@ -51,7 +51,7 @@ Alcune comunità, situate in località vicine a conflitti e quindi spesso costre
 ## [[Thurii]]
 
 
-## [[Area del Tufo]]
+## [[Colline Rocciose]]
 
 
 ## [[Tiarna na Madraì]]

@@ -121,7 +121,7 @@ I numeri da \[1-50\] contengono nomi maschili, quelli da \[51-100] contengono no
 
 1. da/di [[Nova]]
 2. da/di [[Filobello]]
-3. da/di [[Tronh]]
+3. da/di [[Lemberi]]
 4. da/di [[Lerikto]]
 5. da/di [[Thurii]]
 6. da/di [[Millepozzi]]

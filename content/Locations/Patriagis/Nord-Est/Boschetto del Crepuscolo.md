@@ -1,4 +1,4 @@
-È una zona del [[Bosco di Tronh]], a nord-est. Su di esso vi sono molte superstizioni e la popolazione della vicina [[Tronh]] non vi si avvicina né tanto meno vi si avventura. 
+È una zona del [[Bosco di Lemberi]], a nord-est. Su di esso vi sono molte superstizioni e la popolazione della vicina [[Lemberi]] non vi si avvicina né tanto meno vi si avventura. 
 
 > [!warning] Superstizioni
 > Le superstizioni sul [[Boschetto del Crepuscolo]] sono le seguenti:

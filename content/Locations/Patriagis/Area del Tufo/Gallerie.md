@@ -1,0 +1,6 @@
+Gallerie è una città, abitata principalmente da [[Mezzuomini]], all'interno delle [[Colline Rocciose]]. 
+Storicamente parte del [[Regno dell'Ovest]], è considerato uno degli insediamenti più bello di [[Patriagis]]. 
+
+È la città più a est della zona, vicino ai [[Pendici]]. Prende il suo nome poiché, durante la guerra tra [[Aranië]] e [[Regno dell'Ovest]], di cui faceva parte, era la città della zona più vicina al confine e ai passi montani usati dagli [[Elfi|elfi]] per attaccare il [[Regno dell'Ovest|Regno]], e i [[Mezzuomini|mezzuomini]] che la abitavano vivevano principalmente in una rete di gallerie sotterranee, scavate nello sperone di tufo sul quale sorge l'insediamento. 
+
+Rispetto alle altre città dell'[[Colline Rocciose|area]], questa sua caratteristica fa sì che le abitazioni sulla cima dello sperone siano principalmente edifici comunali, piazze e negozi, con pochissime abitazioni. Anche le torri, caratteristiche delle città in questa zona, sono praticamente assenti. La maggior parte degli abitanti vive in case scavate nel tufo con terrazze e finestre scavate lungo le pareti dello sperone stesso. 

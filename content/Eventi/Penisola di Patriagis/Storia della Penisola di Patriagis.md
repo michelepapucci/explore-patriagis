@@ -21,8 +21,8 @@ tags:
 ## -5800
 <span data-date='-5800' data-name='Battaglia del Crepuscolo'></span>
 
-A Nord-Est di Patriagis, vicino a dove ora sorge la città di [[Tronh]], avviene la più grande battaglia del periodo: La [[Battaglia del Crepuscolo]], che termina la guerra tra il popolo elfico degli [[Ëarwaith]] e quello dei [[Linnor]]. 
-È una delle più catastrofiche battaglie, in termini di vite perse, della storia, ed è una delle principali cause della quasi estinzione della razza elfica. In seguito alla battaglia i superstiti furono costretti a collaborare e fu fondata la città di [[Tronh]]. Tuttavia, gli eventi di questa battaglia sono oscuri ai più, e solo famiglie aristocratiche la cui genealogia arriva a quei giorni sanno veramente il segreto e l'orrore che ha portato alla fondazione di [[Tronh]]. 
+A Nord-Est di Patriagis, vicino a dove ora sorge la città di [[Lemberi]], avviene la più grande battaglia del periodo: La [[Battaglia del Crepuscolo]], che termina la guerra tra il popolo elfico degli [[Ëarwaith]] e quello dei [[Linnor]]. 
+È una delle più catastrofiche battaglie, in termini di vite perse, della storia, ed è una delle principali cause della quasi estinzione della razza elfica. In seguito alla battaglia i superstiti furono costretti a collaborare e fu fondata la città di [[Lemberi]]. Tuttavia, gli eventi di questa battaglia sono oscuri ai più, e solo famiglie aristocratiche la cui genealogia arriva a quei giorni sanno veramente il segreto e l'orrore che ha portato alla fondazione di [[Lemberi]]. 
 
 <span data-date='-5700' data-name='Fondazione di Zubduzurak'></span>
 In questo stesso periodo, i Nani che vivono nel nord-ovest della penisola fondano [[Zubduzurak]], la prima città dei Signori dei Picchi, che preso si allargherà e colonizzerà i migliori picchi dell'Alto Muro. 

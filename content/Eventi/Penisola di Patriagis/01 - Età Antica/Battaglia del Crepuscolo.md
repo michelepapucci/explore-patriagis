@@ -5,7 +5,7 @@ tags:
 ---
 La Battaglia del Crepuscolo è l'unico scontro a campo aperto di una guerra avvenuta nel [[Storia della Penisola di Patriagis#-5800|-5800]] tra due popoli elfici i [[Linnor]] e gli [[Ëarwaith]]. 
 
-La battaglia avvenne vicino a dove ora sorge la città di [[Tronh]].
+La battaglia avvenne vicino a dove ora sorge la città di [[Lemberi]].
 
 ## Gli eventi che condussero alla Guerra
 
@@ -44,22 +44,22 @@ I soldati sopravvissuti degli [[Ëarwaith]], alle prime luci dell'alba, fecero a
 
 Si sa solo che degli [[Ëarwaith]], sopravvisse un gruppo di circa 130 persone tra soldati e civili contro i 6000 elfi che si contavano qualche anno prima, similmente dei Linnor poco meno di un centinaio, uscirono vivi dallo scontro. Tra essi, principalmente soldati, poiché la maggior parte delle donne perirono nel fuoco della foresta. 
 
-Entrambi i re dei due popoli, e la maggior parte dei generali e dell'aristocrazia perirono in guerra o tra le fiamme. I circa 200 elfi rimasti per necessità e per virtù dimenticarono la loro originaria appartenenza e si spostarono poco più a sud-est, fondando la città di [[Tronh]]. 
+Entrambi i re dei due popoli, e la maggior parte dei generali e dell'aristocrazia perirono in guerra o tra le fiamme. I circa 200 elfi rimasti per necessità e per virtù dimenticarono la loro originaria appartenenza e si spostarono poco più a sud-est, fondando la città di [[Lemberi]]. 
 
 ## Conseguenze
 
-Negli anni a seguire la fondazione di [[Tronh]], spiriti dei morti degli [[Ëarwaith]] e dei [[Linnor]] cominciarono a infestare e torturare i cittadini. Gli spiriti non potevano sopportare la pace tra i due popoli, non potevano dimenticare il fuoco, la devastazione e la morte che l'altro popolo aveva causato loro. Questo indusse, molto velocemente, ad un esodo di elfi che fuggirono da quelle terre per sfuggire alle anime arrabbiate dei morti. Solo due famiglie, una originaria degli [[Ëarwaith]], gli [[Ëarechil]], e una originaria dei [[Linnor]], gli [[Erynar]], rimasero a [[Tronh]] e placarono l'ira dei morti dandosi battaglia spesso, distruggendo il lavoro dell'altra famiglia o rovinandone la reputazione in città. 
+Negli anni a seguire la fondazione di [[Lemberi]], spiriti dei morti degli [[Ëarwaith]] e dei [[Linnor]] cominciarono a infestare e torturare i cittadini. Gli spiriti non potevano sopportare la pace tra i due popoli, non potevano dimenticare il fuoco, la devastazione e la morte che l'altro popolo aveva causato loro. Questo indusse, molto velocemente, ad un esodo di elfi che fuggirono da quelle terre per sfuggire alle anime arrabbiate dei morti. Solo due famiglie, una originaria degli [[Ëarwaith]], gli [[Ëarechil]], e una originaria dei [[Linnor]], gli [[Erynar]], rimasero a [[Lemberi]] e placarono l'ira dei morti dandosi battaglia spesso, distruggendo il lavoro dell'altra famiglia o rovinandone la reputazione in città. 
 
-Negli anni, l'odio *reale* tra gli [[Ëarechil]] e gli [[Erynar]] venne meno, ma continuarono la loro farsa per appagare gli spiriti dei morti che osservavano poco più a nord-est, sul campo di battaglia sul quale erano morti. Nel frattempo, il [[Bosco di Tronh]] reclamò quel campo, e quella zona infestata prese il nome popolare di [[Boschetto del Crepuscolo]], e veniva evitata dai cittadini di [[Tronh]]. 
+Negli anni, l'odio *reale* tra gli [[Ëarechil]] e gli [[Erynar]] venne meno, ma continuarono la loro farsa per appagare gli spiriti dei morti che osservavano poco più a nord-est, sul campo di battaglia sul quale erano morti. Nel frattempo, il [[Bosco di Lemberi]] reclamò quel campo, e quella zona infestata prese il nome popolare di [[Boschetto del Crepuscolo]], e veniva evitata dai cittadini di [[Lemberi]]. 
 
 La Battaglia del Crepuscolo è stata la più grande guerra civile elfica mai registrata. Il numero di morti stimato è di circa 9000 elfi. Considerata la nota difficoltà di riproduzione degli [[Elfi|elfi]], ci vorranno secoli prima che questo popolo torni ad essere un numero considerevole, anche dopo l'unificazione dell'[[Aranië|Aranië]]. 
 
-La città di [[Tronh]] rimane un importante bacino della specie elfica. Tutt'oggi, nonostante sia quasi estinta in tutta [[Patriagis]], a Tronh gli elfi sono una importante minoranza di una popolazione a maggioranza [[Mezzelfi|mezzelfa]]. 
+La città di [[Lemberi]] rimane un importante bacino della specie elfica. Tutt'oggi, nonostante sia quasi estinta in tutta [[Patriagis]], a [[Lemberi]] gli elfi sono una importante minoranza di una popolazione a maggioranza [[Mezzelfi|mezzelfa]]. 
 
 Nella aristocrazia locale le due famiglie elfiche purosangue gli [[Erynar]] e i [[Ëarechil]], portano avanti la rivalità e l'astio da secoli. 
 
 ## Popolarità dell'evento
 
-Gli eventi della [[Battaglia del Crepuscolo]] sono perlopiù segreti. Solo tra gli [[Erynar]] e i [[Ëarechil]] si tiene ben segreto, per vergogna, l'origine della fondazione di [[Tronh]] e l'oscuro genocidio avvenuto su quelle coste. 
+Gli eventi della [[Battaglia del Crepuscolo]] sono perlopiù segreti. Solo tra gli [[Erynar]] e i [[Ëarechil]] si tiene ben segreto, per vergogna, l'origine della fondazione di [[Lemberi]] e l'oscuro genocidio avvenuto su quelle coste. 
 
 

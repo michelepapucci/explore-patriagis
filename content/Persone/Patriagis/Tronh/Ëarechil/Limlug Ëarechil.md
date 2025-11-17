@@ -17,7 +17,7 @@ Limlug è il secondogenito della famiglia [[Ëarechil]], fratello di [[Mifanto �
 
 ## Passato
 
-Limlug, come secondogenito di una famiglia aristocratica è stato inserito in studi clericali fin da figlio, facendolo studiare alla [[Casa del Mattino di Tronh]]. 
+Limlug, come secondogenito di una famiglia aristocratica è stato inserito in studi clericali fin da figlio, facendolo studiare alla [[Casa del Mattino di Lemberi]]. 
 Nonostante abbia completato i suoi studi ed è un ottimo guaritore e studioso ha deciso di non entrare a far parte del clero e si occupa degli affari di famiglia con la madre e il fratello.
 
 ---
