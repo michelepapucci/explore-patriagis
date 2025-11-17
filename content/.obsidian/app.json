@@ -1,0 +1,16 @@
+{
+  "newFileLocation": "root",
+  "newFileFolderPath": "images",
+  "attachmentFolderPath": "./attachments",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "_Impostazioni/"
+  ]
+}

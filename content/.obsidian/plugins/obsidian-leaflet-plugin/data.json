@@ -1,0 +1,268 @@
+{
+  "mapMarkers": [
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1737288209433,
+      "markers": [
+        {
+          "id": "ID_99595b19f848",
+          "type": "default",
+          "loc": [
+            -1.9078775644302368,
+            0.9928381705616687
+          ],
+          "link": "Nova",
+          "layer": "%5B%5BMappa%20del%20Centro.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.5718033108296674,
+            0.7643453153272937
+          ],
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_eaf90a9919fb",
+          "type": "default",
+          "loc": [
+            -1.9445292353630066,
+            1.3417787836313444
+          ],
+          "link": "Pendici",
+          "layer": "%5B%5BMappa%20del%20Centro.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3b8bab99bb89",
+          "type": "default",
+          "loc": [
+            -0.22246043384075165,
+            0.28499696158629556
+          ],
+          "link": "Malporto",
+          "layer": "%5B%5BMappa%20del%20Centro.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b84aa8f9b90a",
+          "type": "default",
+          "loc": [
+            -0.9075521230697632,
+            1.185546875
+          ],
+          "link": "Seormgrà",
+          "layer": "%5B%5BMappa%20del%20Centro.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.6827896512935883,
+            0.36358895697317584
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_7a38eb190b1b",
+          "type": "default",
+          "loc": [
+            -1.0263010561466217,
+            1.4635245880348415
+          ],
+          "link": "Archealbero",
+          "layer": "%5B%5BMappa%20del%20Centro.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_99cb487a0859",
+          "type": "default",
+          "loc": [
+            -1.3904291838407516,
+            1.4428689499473086
+          ],
+          "link": "Filobello",
+          "layer": "%5B%5BMappa%20del%20Centro.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_aab8a969a95b",
+          "type": "default",
+          "loc": [
+            -1.6905593425035477,
+            0.4438468316058265
+          ],
+          "link": "Smossa",
+          "layer": "%5B%5BMappa%20del%20Centro.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9cb692bd92b",
+          "type": "default",
+          "loc": [
+            -0.96923828125,
+            0.28076171875
+          ],
+          "link": "Isola di Ceneria",
+          "layer": "%5B%5BMappa%20del%20Centro.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.16169853768278966,
+            0.388302034428795
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_da998a7aca68",
+          "type": "default",
+          "loc": [
+            -2.313669800758362,
+            1.6314610045442062
+          ],
+          "link": "Arum",
+          "layer": "%5B%5BMappa%20del%20Centro.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_19688989cae9",
+          "type": "default",
+          "loc": [
+            -2.3245112001895905,
+            0.9537684467149967
+          ],
+          "link": "Millepozzi",
+          "layer": "%5B%5BMappa%20del%20Centro.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Locations/Patriagis/Patriagis.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#dddddd",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "6.0.5",
+  "version": {
+    "major": 6,
+    "minor": 0,
+    "patch": 5
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 8,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "650px",
+    "image": "[[Mappa del Centro.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Mappa del Centro.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "leaflet-map",
+    "lat": 50,
+    "long": 50,
+    "unit": "meters",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
+  "defaultAttribution": "&copy; <a href=\"https://www.openstreetmap.org/copyright\">OpenStreetMap</a> contributors &copy; <a href=\"https://carto.com/attributions\">CARTO</a>",
+  "defaultTileSubdomains": "a,b,c,d"
+}

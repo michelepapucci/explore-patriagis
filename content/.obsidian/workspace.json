@@ -1,0 +1,297 @@
+{
+  "main": {
+    "id": "b604cff1c6f5b7cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "acb700f03f6e4968",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af62152d04feb9ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Dardania/Dardania.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dardania"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ed79c3a5e6613b95",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbb7bb9e7a3e1011",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29b7a2c03f139918",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "58b051e4281db3d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Area del tufo",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f1638f6443994ae2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 402.51103591918945
+  },
+  "right": {
+    "id": "ed5bcd01dbafd5b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ed3d80e2e837e06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c51581f824a45c2e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Locations/Dardania/Dardania.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Dardania"
+            }
+          },
+          {
+            "id": "482894a5d3608705",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Avventure/Tornando a Casa/Riassunti/Sessione 3.16.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Sessione 3.16"
+            }
+          },
+          {
+            "id": "9698eb945c958555",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e8cbe0b46c9fd1c1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Locations/Patriagis/Area del Tufo/Colline Rocciose.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Colline Rocciose"
+            }
+          },
+          {
+            "id": "def77e81211ad3ff",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_a87ab8bad85b",
+                "ephemeral": {
+                  "viewing": null,
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 7,
+                    "month": 10,
+                    "year": 1329
+                  },
+                  "displayDayNumber": true,
+                  "displayMoons": true
+                },
+                "id": "ID_0a0908eb294b"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
+          },
+          {
+            "id": "d335dfbb243d6174",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "93cc21061bbb3224",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          },
+          {
+            "id": "a0ec3512d7cc6e6e",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1140adff5b6a7b65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd50c2b4a9f943c4",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 359.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "calendarium:Open Calendarium": false
+    }
+  },
+  "active": "af62152d04feb9ca",
+  "lastOpenFiles": [
+    "Locations/Patriagis/Area del Tufo/Colline Rocciose.md",
+    "Locations/Patriagis/Nord-Est/Lemberi/Ancora Muschiata.md",
+    "Locations/Patriagis/Area del Tufo/Torrette.md",
+    "TO-DOs.md",
+    "Organizzazioni/Aranië.md",
+    "Creatures/Specie/Umani/Mezzuomini/Mezzuomini.md",
+    "Locations/Patriagis/Area del Tufo/Gallerie.md",
+    "Locations/Patriagis/Filobello/Lo Stufato Cuore d'Oro.md",
+    "Locations/Patriagis/Filobello/Gilda dei Minatori di Filobello.md",
+    "Locations/Patriagis/Filobello/Filobello.md",
+    "Locations/Patriagis/Filobello/Corporazione dei Taglialegna e dei Falegnami di Filobello.md",
+    "Organizzazioni/Regno di Ceneria.md",
+    "Locations/Patriagis/Isola di Ceneria/Isola di Ceneria.md",
+    "Locations/Patriagis/Lerikto/Lerikto.md",
+    "Locations/Patriagis/Lerikto/Scuola per Iniziati alle Arti Magiche di Lerikto.md",
+    "Locations/Patriagis/Mornidin/Mornidin.md",
+    "Locations/Patriagis/Nord-Est/Lemberi/Lemberi.md",
+    "Locations/Patriagis/Thurii/Thurii.md",
+    "Locations/Patriagis/Thurii/Casa dell'Alba.md",
+    "Locations/Patriagis/Thurii/Canto dei Satiri.md",
+    "Missioni/Una maledizione dal passato - v2/Una maledizione dal passato - v2.md",
+    "Stazione Viaferri di Lemberi.md",
+    "Missioni/Una maledizione dal passato/Una maledizione dal passato.md",
+    "Eventi/Penisola di Patriagis/01 - Età Antica/Battaglia del Crepuscolo.md",
+    "Locations/Patriagis/Nord-Est/Bosco di Lemberi.md",
+    "Locations/Patriagis/Nord-Est/Lemberi/Casa del Mattino di Lemberi.md",
+    "Persone/Dardania/Dardo/Tohunga-Nui/attachments/Pasted image 20251105144918.png",
+    "Persone/Dardania/Dardo/Tohunga-Nui/attachments",
+    "Missioni/Una maledizione dal passato - v2/Characters",
+    "Missioni/Una maledizione dal passato - v2",
+    "Testi",
+    "Eventi/Eventi Ciclici/attachments/Pasted image 20250315015725.png",
+    "Eventi/Herekorenga/Ārahina e ngā hēramana/Kawenata Herekore",
+    "Eventi/Eventi Ciclici/attachments",
+    "Eventi/Storia della Dardania/01 - Età Antica",
+    "Eventi/Penisola di Patriagis/04 - Età del Regno",
+    "Eventi/Penisola di Patriagis/03 - Età dei Comuni",
+    "Eventi/Penisola di Patriagis/02 - Età dei Due Regni",
+    "_Impostazioni/immagini/Commissione Michele Finale Versione Viola PNG.png",
+    "_Impostazioni/immagini/Commissione Michele colore forte.JPG",
+    "_Impostazioni/immagini/Commissione Michele chiara.jpg",
+    "_Impostazioni/immagini/Commissione Michele Finale.jpg",
+    "_Impostazioni/immagini/Commissione Michele Finale Versione Viola 4.jpg",
+    "_Impostazioni/immagini/Commissione Michele Finale Versione Viola 3.jpg",
+    "_Impostazioni/immagini/Commissione Michele Finale Versione Viola 2.jpg",
+    "_Impostazioni/immagini/Commissione Michele Finale Versione Viola 1.jpg",
+    "Untitled.canvas"
+  ]
+}
