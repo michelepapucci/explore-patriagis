@@ -1,3 +1,7 @@
+---
+tags:
+  - WIP
+---
 Le divinità sono creature immensamente potenti, solitamente immortali, di sola forma spirituale, che hanno passato [[#La Prova della Scintilla]] nel [[Piano Astrale]]. 
 
 ## Gli Antichi Sei

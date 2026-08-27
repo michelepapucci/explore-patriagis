@@ -15,3 +15,6 @@ In generale però, più grande è il giacimento, più lontano possono muoversi d
 
 Le Incarnazioni possono utilizzare i loro poteri per creare dei compagni o servitori, meno potenti ma simili a loro. Queste creature sono chiamate [[Incarnazioni Minori]]. Alcuni di questi possono nascere plasmando lo spirito di una creatura che si presta alla trasformazione, oppure convincendo, ingannando o catturando spiriti dei morti mentre si recano verso il [[Piano Astrale]]. 
 
+---
+
+Cambiare in "Aspetto"? Incarnazioni sono uno degli aspetti della [[Scintilla]]. Mantenere entrambi i nomi? 

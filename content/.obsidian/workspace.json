@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Dardania/Dardania.md",
+                "file": "Avventure/Tornando a Casa/Atto 4/20 - Finale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dardania"
+              "title": "20 - Finale"
             }
           }
         ]
@@ -41,10 +41,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Esplora file"
             }
           },
           {
@@ -53,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Area del tufo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Dardania/Dardania.md",
+                "file": "Avventure/Tornando a Casa/Atto 4/20 - Finale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dardania"
+              "title": "Riferimenti"
             }
           },
           {
@@ -229,13 +231,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "command-palette:Open command palette": false,
-      "templates:Insert template": false,
+      "switcher:Apri selettore rapido": false,
+      "daily-notes:Apri nota giornaliera": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "bases:Crea nuova Base": false,
       "obsidian-5e-statblocks:Open Creature pane": false,
       "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "templater-obsidian:Templater": false,
@@ -246,32 +248,32 @@
   },
   "active": "af62152d04feb9ca",
   "lastOpenFiles": [
-    "Locations/Patriagis/Area del Tufo/Colline Rocciose.md",
-    "Locations/Patriagis/Nord-Est/Lemberi/Ancora Muschiata.md",
-    "Locations/Patriagis/Area del Tufo/Torrette.md",
-    "TO-DOs.md",
-    "Organizzazioni/Aranië.md",
-    "Creatures/Specie/Umani/Mezzuomini/Mezzuomini.md",
-    "Locations/Patriagis/Area del Tufo/Gallerie.md",
-    "Locations/Patriagis/Filobello/Lo Stufato Cuore d'Oro.md",
-    "Locations/Patriagis/Filobello/Gilda dei Minatori di Filobello.md",
-    "Locations/Patriagis/Filobello/Filobello.md",
-    "Locations/Patriagis/Filobello/Corporazione dei Taglialegna e dei Falegnami di Filobello.md",
-    "Organizzazioni/Regno di Ceneria.md",
-    "Locations/Patriagis/Isola di Ceneria/Isola di Ceneria.md",
-    "Locations/Patriagis/Lerikto/Lerikto.md",
-    "Locations/Patriagis/Lerikto/Scuola per Iniziati alle Arti Magiche di Lerikto.md",
-    "Locations/Patriagis/Mornidin/Mornidin.md",
-    "Locations/Patriagis/Nord-Est/Lemberi/Lemberi.md",
-    "Locations/Patriagis/Thurii/Thurii.md",
-    "Locations/Patriagis/Thurii/Casa dell'Alba.md",
-    "Locations/Patriagis/Thurii/Canto dei Satiri.md",
-    "Missioni/Una maledizione dal passato - v2/Una maledizione dal passato - v2.md",
-    "Stazione Viaferri di Lemberi.md",
-    "Missioni/Una maledizione dal passato/Una maledizione dal passato.md",
-    "Eventi/Penisola di Patriagis/01 - Età Antica/Battaglia del Crepuscolo.md",
-    "Locations/Patriagis/Nord-Est/Bosco di Lemberi.md",
-    "Locations/Patriagis/Nord-Est/Lemberi/Casa del Mattino di Lemberi.md",
+    "Locations/Dardania/Dardo/Cattedrale dell'Acqua Pura.md",
+    "Avventure/Tornando a Casa/Atto 4/20 - Finale.md",
+    "Avventure/Tornando a Casa/Riassunti/Sessione 4.19b.md",
+    "Avventure/Tornando a Casa/Riassunti/Sessione 4.19a.md",
+    "Avventure/Tornando a Casa/Riassunti/Sessione 4.18.md",
+    "Avventure/Tornando a Casa/Riassunti/Sessione 4.17.md",
+    "Avventure/Tornando a Casa/Riassunti/Sessione 3.16.md",
+    "Avventure/Tornando a Casa/Riassunti/Sessione 3.15.md",
+    "Avventure/Tornando a Casa/Riassunti/Sessione 3.14.md",
+    "Avventure/Tornando a Casa/Riassunti/Sessione 3.13.md",
+    "Avventure/Tornando a Casa/Riassunti/Sessione 3.12.md",
+    "Avventure/Tornando a Casa/Riassunti/Sessione 3.11.md",
+    "Avventure/Tornando a Casa/Riassunti/Sessione 2.10.md",
+    "Avventure/Tornando a Casa/Riassunti/Sessione 2.9.md",
+    "Avventure/Tornando a Casa/Riassunti/Sessione 2.8.md",
+    "Avventure/Tornando a Casa/Riassunti/Sessione 2.7.md",
+    "Avventure/Tornando a Casa/Riassunti/Sessione 2.5 - 2.6.md",
+    "Avventure/Tornando a Casa/Riassunti/Sessione 2.4.md",
+    "Avventure/Tornando a Casa/Riassunti/Sessione 1.3.md",
+    "Avventure/Tornando a Casa/Riassunti/Sessione 1.2.md",
+    "Avventure/Tornando a Casa/Riassunti/Sessione 1.1.md",
+    "Avventure/Tornando a Casa/Atto 1/3 - A tutta velocità.md",
+    "Avventure/Tornando a Casa/Atto 1/Incipit.md",
+    "Avventure/Tornando a Casa/Atto 2/4 - Fuggendo dall'Isola di Bonaccia.md",
+    "Avventure/Tornando a Casa/Atto 2/5 - Fuggendo dall'Isola di Bonaccia  (2).md",
+    "Avventure/Tornando a Casa/Atto 2/7 - Monti Dardani.md",
     "Persone/Dardania/Dardo/Tohunga-Nui/attachments/Pasted image 20251105144918.png",
     "Persone/Dardania/Dardo/Tohunga-Nui/attachments",
     "Missioni/Una maledizione dal passato - v2/Characters",

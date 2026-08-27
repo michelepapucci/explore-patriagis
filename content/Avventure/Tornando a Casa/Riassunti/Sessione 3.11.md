@@ -2,7 +2,7 @@
 tags:
   - evento
 ---
-
+	
 Il gruppo insieme ai tritoni che si sono offerti di aiutare [[Tumanako Numio Tullio|Tumanako]], riesce ad intrufolarsi su una nave a largo di [[Iria]] rubando, grazie al loro titolo di centurioni, una barca a remi. 
 Il gruppo sfugge a [[Leonia Lenzastorta|Leonia]] che si accorge del loro colpo e giura di raccontare tutto ad [[Adriano Numio Tullio|Adriano]].
 
