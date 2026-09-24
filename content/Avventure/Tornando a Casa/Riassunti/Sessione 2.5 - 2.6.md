@@ -6,7 +6,7 @@ tags:
 
 Una volta arrivati sull'isola [[Strelitzia]] acconsente al fatto che [[Bartolomeo, Tessitore di Ombre|Bartolomeo]] intraprenda il viaggio, purché ritorni.
 
-Il gruppo parte dall'[[Isola di Bonaccia]] dando un salto a [[Libeccio]] che libera il suo vento per portarli via dall'isola e a [[Strelitzia]] che con i suoi rampicanti costruisce un trampolino per evitare le correnti poste intorno all'isola.
+Il gruppo parte dall'[[Isola di Bonaccia]] dando un saluto a [[Libeccio]] che libera il suo vento per portarli via dall'isola e a [[Strelitzia]] che con i suoi rampicanti costruisce un trampolino per evitare le correnti poste intorno all'isola.
 
 Il gruppo parte alla volta della [[Dardania]].
 

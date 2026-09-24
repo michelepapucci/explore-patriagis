@@ -215,6 +215,89 @@ Il ricercatore [[Torrvic Loytakuvo]] scopre ad [[Archealbero]] un frammento di [
 ## 667
 Il [[Falso Monte]], un antico e sopito vulcano situato nelle [[Pendici]], erutta improvvisamente, radendo al suolo [[Archealbero]] e incendiando per mesi i boschi intorno. 
 
+## 1319
+
+La Grande sacerdotessa [[Wāhine-Ataahua Tohunga-Nui|Wāhine]] di [[Dardania]] in visita nel [[Regno di Patriagis]] ha una relazione con Re [[Numio Ostilio III Tullio]] e sorprendentemente, mai successo prima d'ora, rimane incinta. La Sacerdotessa fugge in [[Dardania]] rubando e portando con sé la *Perla del Mare* un artefatto prezioso parte del tesoro reale del [[Regno di Patriagis]]. 
+
+Il 18 di [[6 - Adunatis|Adunatis]], Re [[Numio Ostilio III Tullio]] annuncia che in seguito ad un furto di un tesoro reale avvenuto durante una visita diplomatica della Gran Sacerdotessa [[Wāhine-Ataahua Tohunga-Nui]] del [[Discepolato di Dardania]], sono stati eseguiti vari tentativi diplomatici di risolvere la questione. Avendo questi non avuto l'effetto desiderato, il [[Regno di Patriagis]] dichiara guerra al [[Discepolato di Dardania]]. 
+
+Oltre al [[Esercito Reale di Patriagis]], alla [[Marina Regia di Patriagis]] e all'[[Ordine dei Cavalieri di Novio]], viene richiesta una quota ai [[Popoli Liberi di Patriagis]] e istituita una leva: dalle città che predispongono già una leva obbligatoria alla maggiore età, vengono scelti tutti coloro che hanno prestato il servizio di leva in un'organizzazione militare negli ultimi dieci anni o che stanno per iniziarla, nel resto del regno viene istituita una lotteria, dove tra i non lavoratori vengono scelte una persona su due. Infine viene aperto anche un processo per accettare leve volontarie, e molte [[Gilde, Corporazioni o Arti|Arti]], e organizzazioni religiose come il [[Dogma]] inviano un gran numero di personale a supportare gli sforzi bellici. 
 
 ## 1320
-Re [[Numio Ostilio III Tullio]] annuncia che in seguito ad un furto di un tesoro reale avvenuto durante una visita diplomatica della Gran Sacerdotessa [[Wāhine-Ataahua Tohunga-Nui]] del [[Discepolato di Dardania]], sono stati eseguiti vari tentativi diplomatici di risolvere la questione. Avendo questi non avuto l'effetto desiderato, il [[Regno di Patriagis]] dichiara guerra al [[Discepolato di Dardania]]. 
+
+All'inizio del mese di [[2 - Tichis|Tichis]] le prime navi di [[Regno di Patriagis|Patriagis]] salpano alla volta della [[Dardania]]. A causa del grande esercito predisposto, la [[Marina Regia di Patriagis]] non ha sufficienti navi a trasportare tutti velocemente. [[Numio Ostilio III Tullio|Numio]] quindi si accorda con i pirati dell'[[Ārahina e ngā hēramana]]. Due mesi dopo il [[Regno di Patriagis]] e l'[[Ārahina e ngā hēramana|Ārahina]] sono ufficialmente alleati e iniziano il trasporto del resto dell'esercito. 
+
+Il 13 [[3 - Larenzis|Larenzis]] nasce [[Tumanako Numio Tullio|Tumanako]] figlio della Grande Sacerdotessa [[Wāhine-Ataahua Tohunga-Nui|Wāhine]] e bastardo di [[Numio Ostilio III Tullio|Numio]] dopo un'insolita lunga gravidanza (nove mesi) per un tritone. È il primo mezzo-tritone della storia, da padre [[Mezzelfi|mezzelfo]] e madre [[Tritoni|tritona]]. 
+
+Nel [[8 - Collis|Collis]] dello stesso anno, le truppe di [[Regno di Patriagis|Patriagis]] hanno conquistato il nord e la parte est della regione e si infiltrano sempre più a sud, stazionandosi vicino a [[Zalpa]]. 
+
+Entro la fine dell'anno [[Tarso]], [[Zalpa]] e [[Dubo]] cadono sotto gli attacchi guidati dai due principi reali [[Adriano Numio Tullio]] e [[Lodato Numio Tullio]]. Un enorme accampamento si forma sulla riva del lago di [[Dardo]] e iniziano gli assalti alla capitale. 
+
+## 1321
+
+La capitale [[Dardo]] grazie alle sue difese magiche è impenetrabile, anche dall'alto con le viverne a disposizione dell'[[Ordine dei Cavalieri di Novio]] non riescono a passare a causa di un potente scudo magico che i sacerdoti della città tengono in piedi. 
+
+## 1328
+
+All'inizio dell'anno la maggior parte dell'esercito del [[Regno di Patriagis]] viene ritirato dalla campagna di [[Dardania]], ritenuta un fallimento in patria. Solo [[Lodato Numio Tullio]] viene lasciato con 600 uomini a occuparsi dell'accampamento e della gestione dei territori occupati. 
+
+Il 21 di [[8 - Collis|Collis]] [[Lodato Numio Tullio|Lodato]] manda un piccolo gruppo alla ricerca di informazioni seguendo una pista nuova: a [[Dubo]] abita il costruttore delle mura di [[Dardo]].
+
+Il gruppo è composto da [[Bartolomeo Battiferro|Bartolomeo]], [[Bartolomeo, Tessitore di Ombre|Bartolomeo]], [[Dardano Spaccatessere|Dardano]], [[Dante Alifiere|Dante]] e [[Musanda Sifa|Musanda]]. Trovano le informazioni che rivelano un passaggio segreto. Insieme ai 5 si unisce [[Lodato Numio Tullio|Lodato]] e un altro piccolo gruppo che riesce ad infiltrarsi nella [[Cattedrale dell'Acqua Pura|Cattedrale]] di [[Dardo]]. Lì scoprono l'identità di [[Tumanako Numio Tullio|Tumanako]] e in seguito ad un incidente [[Wāhine-Ataahua Tohunga-Nui|Wāhine]] muore. 
+
+[[Lodato Numio Tullio|Lodato]] porta il fratello con sé e fuggono per miracolo dagli attacchi degli abomini di [[Arbogh Tohunga-Toa|Arbogh]] uno dei sacerdoti più potenti e vicini a [[Wāhine-Ataahua Tohunga-Nui|Wāhine]]. 
+
+L'esercito si imbarca poi verso [[Patriagis]] sulle navi dei pirati di [[Kaiurungi Mikaere]], alleato del [[Regno di Patriagis]] e pirata dell'[[Herekorenga]]. 
+
+Ma durante il loro viaggio vengono traditi dal pirata, [[Lodato Numio Tullio|Lodato]] viene assassinato da [[Arbogh Tohunga-Toa|Arbogh]], imbarcato con [[Kaiurungi Mikaere|Mikaere]] e suo segreto alleato. Di tutte e sei le centurie sopravvivono solo sei persone: [[Bartolomeo, Tessitore di Ombre|Bartolomeo]], [[Bartolomeo, Tessitore di Ombre|Bartolomeo]], [[Dardano Spaccatessere|Dardano]], [[Dante Alifiere|Dante]],  [[Musanda Sifa|Musanda]] e [[Tumanako Numio Tullio|Tumanako]]. 
+
+Nel frattempo [[Numio Ostilio III Tullio]] afflitto dalla perdita di [[Lodato Numio Tullio|Lodato]] lancia una seconda campagna militare guidata dal primogenito [[Adriano Numio Tullio|Adriano]]. 
+
+[[Arbogh Tohunga-Toa|Arbogh]] usa invece il cadavere della defunta [[Wāhine-Ataahua Tohunga-Nui|Wāhine]] per regnare de facto su [[Dardo]] e portare avanti i suoi affari. 
+
+## 1329
+
+I sei sopravvissuti passano un anno sull'[[Isola di Bonaccia]] dalla quale riescono a salpare alla volta della [[Dardania]] il 13 [[9 - Noctis|Noctis]]. 
+
+Nelle settimane successive il gruppo affronta il deserto a sud della [[Dardania]], il [[Grande Deserto del Sud|Grande Deserto]] popolato dagli [[Iwinās]], di cui [[Musanda Sifa|Musanda]] è parte. Lì ottengono l'aiuto dei [[Toa'ramal]] alleandosi con la loro matriarca [[Aramiri Toa'ramal]], che accetta di aiutarli a sconfiggere [[Arbogh Tohunga-Toa|Arbogh]]. 
+
+Il gruppo solca i [[Monti Dardani]] dove scoprono che un membro della loro compagnia, [[Dante Alifiere|Dante]], è in realtà un membro della [[BDP]] oltre che un chierico del [[Dogma]]. Questo porta ad una serie di eventi e di regolazioni di conti personali tra [[Bartolomeo, Tessitore di Ombre|Bartolomeo]] e [[Dante Alifiere|Dante]] che finisce con la morte di quest'ultimo il 26 di [[9 - Noctis|Noctis]]. 
+
+Il gruppo si ricongiunge all'[[Esercito Reale di Patriagis]] e incontra [[Adriano Numio Tullio|Adriano]] e riescono a tenere segreta l'identità di [[Tumanako Numio Tullio|Tumanako]], temendo che il principe reale, irascibile, per paura di ciò che rappresenta il fratellastro, ovvero un possibile monarca sia sulla [[Dardania]] che su [[Patriagis]], possa arrivare ad ucciderlo. 
+
+Il gruppo salva, su richiesta di [[Tumanako Numio Tullio|Tumanako]], un sacerdote di nome [[Homoii Tangaroa]], un tritone sacerdote che viveva nella [[Cattedrale dell'Acqua Pura]] con il ragazzo e che è stato catturato da [[Adriano Numio Tullio|Adriano]]. Il gruppo poi parte su richiesta di [[Adriano Numio Tullio|Adriano]] verso il porto di [[Iria]], a nord della [[Dardania]] per raggiungere l'[[Herekorenga]] e trovare [[Kaiurungi Mikaere]], il traditore che ha ucciso [[Lodato Numio Tullio|Lodato]]. 
+
+Grazie alle informazioni di [[Homoii Tangaroa|Homoii]] il gruppo conferma i loro sospetti che [[Arbogh Tohunga-Toa|Arbogh]] sta usando il corpo non-morto di [[Wāhine-Ataahua Tohunga-Nui|Wāhine]] per governare e che sta tramando qualcosa di oscuro con [[Kaiurungi Mikaere|Mikaere]]. 
+
+Il primo giorno di [[10 - Curbis|Curbis]], a [[Iria]] il gruppo ferma l'attacco di un piccolo contingente di tritoni partigiani che vogliono liberare la [[Dardania]] dal controllo di [[Patriagis]]. [[Tumanako Numio Tullio|Tumanako]] rivela loro la sua identità e rivela loro che lo scopo del gruppo è fermare [[Arbogh Tohunga-Toa|Arbogh]] e [[Kaiurungi Mikaere|Mikaere]]. I tritoni si offrono al loro servizio. Infine, il gruppo ferma il capo dei partigiani, che aveva ingannato il resto del gruppo fingendosi l'erede al trono di [[Dardania]], un figlio inesistente di [[Wāhine-Ataahua Tohunga-Nui|Wāhine]], mentre stava per fuggire a bordo di una nave. 
+
+Il gruppo viene attaccato da una creatura gigantesca e tentacolare, una delle forme di [[Takaruao]], Dio degli Abissi e delle Tempeste. Si salvano solo incagliando la nave durante l'alta marea contro gli edifici sulla costa di [[Iria]]. 
+
+Dopo un litigio con la Centuriona a capo di [[Iria]], [[Eda Lenzastorta]], il gruppo ruba una nave e si imbarca per l'[[Herekorenga]]. 
+
+Dopo molte peripezie il gruppo raggiunge l'[[Kawenata Herekore]], la quinquennale riunione dei pirati dell'[[Ārahina e ngā hēramana]] dove devono decidere la posizione del loro stato nei confronti di [[Kaiurungi Mikaere]], fuggitivo. Una parte è convinta che lo spirito della loro associazione a nazione federale è che ognuno è libero di fare ciò che vuole e che quindi solo [[Kaiurungi Mikaere|Mikaere]] è responsabile delle sue azioni, l'altra invece è convinta che il tradimento di [[Kaiurungi Mikaere|Mikaere]] nei confronti del [[Regno di Patriagis]] si ripercuota sull'intera [[Ārahina e ngā hēramana]] e che pertanto, per mantenere la loro alleanza con il [[Regno di Patriagis|Regno]] [[Kaiurungi Mikaere|Mikaere]] debba essere catturato e consegnato a [[Regno di Patriagis|Patriagis]]. 
+
+Lì, grazie ad alleanze con vari gruppi pirateschi tra cui i [[Pirati Cannibali]] e [[Kaipupuri Kupu]], e ad un discorso di [[Tumanako Numio Tullio|Tumanako]] dove rivela la sua identità, e dell'alleanza segreta tra [[Kaiurungi Mikaere|Mikaere]] e [[Arbogh Tohunga-Toa|Arbogh]], ottengono la vittoria e il voto a favore dell'arresto di [[Kaiurungi Mikaere|Mikaere]]. 
+
+Il gruppo parte alla volta delle [[Isole Nere]] dove hanno scoperto essere [[Kaiurungi Mikaere|Mikaere]]. Scoprono che il piano di [[Kaiurungi Mikaere|Mikaere]] e [[Arbogh Tohunga-Toa|Arbogh]] è compiere un rituale che permetterebbe a [[Takaruao]] di diventare inarrestabile, sconfiggere il Dio dei Mari [[Tirseno]] e annegare il mondo. 
+
+Da [[Kaiurungi Mikaere|Mikaere]] ritrovano anche la *Perla dei Mari* e altri due tesori reali, uno della [[Dardania]] la corona di [[Wāhine-Ataahua Tohunga-Nui|Wāhine]] e un tridente dell'[[Herekorenga]]. I tre oggetti erano un deterrente donato da [[Tirseno]] ai tre popoli del mare. Con la perla, in dono a [[Patriagis]] è possibile entrare nella [[Cattedrale dell'Acqua Pura]] tramite un portale, similmente con la Corona è possibile andare nell'[[Motu Herekore]] e con il tridente nel [[Palazzo Reale dei Tullio|Palazzo Reale di Nova]]. [[Wāhine-Ataahua Tohunga-Nui|Wāhine]] se ne era impossessata per paura che [[Numio Ostilio III Tullio|Numio]] l'avrebbe usata per recuperare [[Tumanako Numio Tullio|Tumanako]] che voleva proteggere. 
+
+Il gruppo torna in [[Dardania]] dove con l'aiuto dell'[[Esercito Reale di Patriagis]], i [[Toa'ramal]] e i partigiani dardani, danno assedio a [[Dardo]]. Loro entrano nella città con la *Perla*, organizzano un attacco locale con partigiani anti-[[Arbogh Tohunga-Toa|Arbogh]] che vivono nella città e assaltano la [[Cattedrale dell'Acqua Pura|Cattedrale]].
+
+Il 15 di [[8 - Collis|Collis]] il gruppo sconfigge ed uccide [[Arbogh Tohunga-Toa|Arbogh]] fermando i suoi non-morti, tra cui la madre [[Wāhine-Ataahua Tohunga-Nui|Wāhine]] e il corpo non-morto di [[Lodato Numio Tullio|Lodato]]. Poi, confrontati da [[Adriano Numio Tullio|Adriano]] sulla vera identità di [[Tumanako Numio Tullio|Tumanako]] loro confessano. [[Adriano Numio Tullio|Adriano]] sembra volerlo uccidere ma viene intimato ad andarsene e alla fine cede e se ne va. 
+
+Il 28 di [[12 - Novis]] il gruppo torna finalmente in patria, dove vengono accolti come eroi. [[Tumanako Numio Tullio|Tumanako]] viene consegnato al padre [[Numio Ostilio III Tullio|Numio]] che, dopo un lunghissimo consiglio, lo nomina erede del [[Regno di Patriagis]]. [[Adriano Numio Tullio|Adriano]], mai tornato in patria, si muove con dei fedelissimi a [[Garoth-Mùk]], la conquista e fonda [[Adrianopoli]]. 
+
+## 1330 
+Il 15 di [[8 - Collis|Collis]], [[Tumanako Numio Tullio]] viene incoronato Imperatore del Mare, Re di Patriagis, Grande Sacerdote di Dardania e Protettore dell'Herekorenga all'età di dieci anni. Il padre [[Numio Ostilio III Tullio]] si ritira a vita privata. 
+
+Il giorno stesso, [[Tumanako Numio Tullio|Tumanako]] designa [[Larenzia Lodato Tullio]], figlia di [[Lodato Numio Tullio|Lodato]], come sua erede. 
+
+## 1409 
+
+Il 23 [[10 - Iria|Iria]], [[Tumanako Numio Tullio]], Imperatore del Mare, muore di vecchiaia dopo una veloce malattia all'età di 89 anni durante un tour del suo impero, in visita alle [[Colline Rocciose]], a pochi giorni dalla partenza da [[Nova]]. 
+
+## 1410
+
+Il primo giorno di [[1 - Primis|Primis]], a inizio dell'anno, viene incoronata Imperatrice dei Mari, Regina di Patriagis, Grande Sacerdotessa di Dardania e Protettrice dell'[[Herekorenga]] [[Larenzia Lodato Tullio]] erede designata dell'Imperatore [[Tumanako Numio Tullio|Tumanako]]. 

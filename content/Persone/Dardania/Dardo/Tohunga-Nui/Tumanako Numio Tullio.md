@@ -2,6 +2,7 @@
 aliases:
   - Tumanako
 Specie: "[[Tritoni|Tritone]]"
+Nascita A.P.: 13 Larenzis 1320
 ---
 ![[Pasted image 20251105144918.png]]
 

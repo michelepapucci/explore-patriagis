@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Eventi/Penisola di Patriagis/Storia della Penisola di Patriagis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Storia della Penisola di Patriagis"
+            }
+          },
+          {
+            "id": "c77953be095d1317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Avventure/Tornando a Casa/Atto 4/20 - Finale.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "20 - Finale"
+            }
+          },
+          {
+            "id": "960bce43a01f5ccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Patriagis/Area del Tufo/Colline Rocciose.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Colline Rocciose"
             }
           }
         ]
@@ -55,7 +83,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Patriagis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +91,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Ricerca"
             }
           },
           {
@@ -80,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.51103591918945
+    "width": 397.5147895812988
   },
   "right": {
     "id": "ed5bcd01dbafd5b9",
@@ -96,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Avventure/Tornando a Casa/Atto 4/20 - Finale.md",
+                "file": "Eventi/Penisola di Patriagis/Storia della Penisola di Patriagis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,32 +276,34 @@
   },
   "active": "af62152d04feb9ca",
   "lastOpenFiles": [
-    "Locations/Dardania/Dardo/Cattedrale dell'Acqua Pura.md",
+    "Locations/Patriagis/Area del Tufo/Colline Rocciose.md",
+    "Locations/Patriagis/Malporto/Gilda dei Pescatori di Malporto.md",
+    "Locations/Patriagis/Malporto/Gilda dei Mercanti di Malporto.md",
+    "Locations/Patriagis/Malporto/Il Gruzzolo del Drago.md",
+    "Locations/Patriagis/Malporto/Le briglie dell'Incubo.md",
+    "Locations/Patriagis/Millepozzi/Millepozzi.md",
+    "Locations/Patriagis/Millepozzi/Acqua Fresca.md",
+    "Locations/Patriagis/Mornidin/Mornidin.md",
+    "Locations/Patriagis/Arum.md",
+    "Locations/Patriagis/Thurii/Casa dell'Alba.md",
+    "Locations/Patriagis/Thurii/Canto dei Satiri.md",
+    "Locations/Patriagis/Via Solis.md",
+    "Locations/Patriagis/Tiberino.md",
+    "Locations/Patriagis/Ta-Peara.md",
+    "Locations/Patriagis/Thurii/Thurii.md",
+    "Locations/Patriagis/Sol/Sol.md",
+    "Locations/Patriagis/Sol/Casa del Tramonto.md",
+    "Locations/Patriagis/Malporto/Stazione Viaferri di Malporto.md",
+    "Locations/Patriagis/Patriagis.md",
+    "Organizzazioni/Regno di Patriagis/Regno di Patriagis.md",
     "Avventure/Tornando a Casa/Atto 4/20 - Finale.md",
-    "Avventure/Tornando a Casa/Riassunti/Sessione 4.19b.md",
-    "Avventure/Tornando a Casa/Riassunti/Sessione 4.19a.md",
+    "Eventi/Penisola di Patriagis/Storia della Penisola di Patriagis.md",
+    "Persone/Dardania/Dardo/Tohunga-Nui/Tumanako Numio Tullio.md",
     "Avventure/Tornando a Casa/Riassunti/Sessione 4.18.md",
     "Avventure/Tornando a Casa/Riassunti/Sessione 4.17.md",
     "Avventure/Tornando a Casa/Riassunti/Sessione 3.16.md",
-    "Avventure/Tornando a Casa/Riassunti/Sessione 3.15.md",
-    "Avventure/Tornando a Casa/Riassunti/Sessione 3.14.md",
-    "Avventure/Tornando a Casa/Riassunti/Sessione 3.13.md",
-    "Avventure/Tornando a Casa/Riassunti/Sessione 3.12.md",
-    "Avventure/Tornando a Casa/Riassunti/Sessione 3.11.md",
-    "Avventure/Tornando a Casa/Riassunti/Sessione 2.10.md",
-    "Avventure/Tornando a Casa/Riassunti/Sessione 2.9.md",
-    "Avventure/Tornando a Casa/Riassunti/Sessione 2.8.md",
-    "Avventure/Tornando a Casa/Riassunti/Sessione 2.7.md",
-    "Avventure/Tornando a Casa/Riassunti/Sessione 2.5 - 2.6.md",
-    "Avventure/Tornando a Casa/Riassunti/Sessione 2.4.md",
-    "Avventure/Tornando a Casa/Riassunti/Sessione 1.3.md",
-    "Avventure/Tornando a Casa/Riassunti/Sessione 1.2.md",
-    "Avventure/Tornando a Casa/Riassunti/Sessione 1.1.md",
-    "Avventure/Tornando a Casa/Atto 1/3 - A tutta velocità.md",
-    "Avventure/Tornando a Casa/Atto 1/Incipit.md",
-    "Avventure/Tornando a Casa/Atto 2/4 - Fuggendo dall'Isola di Bonaccia.md",
-    "Avventure/Tornando a Casa/Atto 2/5 - Fuggendo dall'Isola di Bonaccia  (2).md",
-    "Avventure/Tornando a Casa/Atto 2/7 - Monti Dardani.md",
+    "Avventure/Fondazione/Characters",
+    "Avventure/Fondazione",
     "Persone/Dardania/Dardo/Tohunga-Nui/attachments/Pasted image 20251105144918.png",
     "Persone/Dardania/Dardo/Tohunga-Nui/attachments",
     "Missioni/Una maledizione dal passato - v2/Characters",
@@ -284,8 +314,6 @@
     "Eventi/Eventi Ciclici/attachments",
     "Eventi/Storia della Dardania/01 - Età Antica",
     "Eventi/Penisola di Patriagis/04 - Età del Regno",
-    "Eventi/Penisola di Patriagis/03 - Età dei Comuni",
-    "Eventi/Penisola di Patriagis/02 - Età dei Due Regni",
     "_Impostazioni/immagini/Commissione Michele Finale Versione Viola PNG.png",
     "_Impostazioni/immagini/Commissione Michele colore forte.JPG",
     "_Impostazioni/immagini/Commissione Michele chiara.jpg",
