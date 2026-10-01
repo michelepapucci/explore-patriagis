@@ -6,7 +6,7 @@ Le pietre che componevano il complesso, sono state usate per la costruzione di d
 
 ### Significato dell'Albero
 
-Negli anni diverse persone si sono interrogate sull'uso che i [[Nifilim]] facevano del complesso archeologico di cui l'Albero si trovava al centro. Tra i più, il Professor [[Torrvic Loytakuvo]] scrive:
+Negli anni diverse persone si sono interrogate sull'uso che i [[Nifilim]] facevano del complesso archeologico di cui l'Albero si trovava al centro. Tra i più, il Professor [[Onni Löytökivi]] scrive:
 
 > [!book] Sull'[[Albero Bianco]] e sul Complesso [[Nifilim]] di [[Archealbero]]
 > *Si è speculato a lungo sul complesso [[Nifilim]] di [[Archealbero]] e su quale fosse il suo uso presso i giganti che ci hanno preceduto. Particolare attenzione, forse perché è l'unico elemento realmente sopravvissuto, è posta alla figura del cosidetto [[Albero Bianco]] che sovrasta la città. 

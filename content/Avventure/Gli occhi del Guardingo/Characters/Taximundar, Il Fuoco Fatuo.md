@@ -3,8 +3,6 @@ aliases:
   - taximundar
   - Taximundar
 ---
-
-
 ![[Pasted image 20240514155250.png]]
 
 ### Giuramento

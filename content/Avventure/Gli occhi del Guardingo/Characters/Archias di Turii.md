@@ -3,8 +3,7 @@ aliases:
   - Archias
   - archias
 ---
-
-### Background
+## Background
 Nato da una famiglia nobili, fin da piccolo Archias è uno snob che ha studiato nelle migliori scuole dell’isola Sikeola per poi diventare un attore drammaturgo, tra cui il prestigioso Collegio Bardico [[Canto dei Satiri]] situato a [[Thurii]], città natale di Archias.
 
 Avendo avuto molto successo in patria, Archias ha deciso di viaggiare nel mondo per poter trarre ispirazione dagli eventi e migliorare le sue doti drammaturgiche. 

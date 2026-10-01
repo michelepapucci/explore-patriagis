@@ -8,45 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "af62152d04feb9ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eventi/Penisola di Patriagis/Storia della Penisola di Patriagis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Storia della Penisola di Patriagis"
-            }
-          },
-          {
             "id": "c77953be095d1317",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avventure/Tornando a Casa/Atto 4/20 - Finale.md",
+                "file": "Locations/Patriagis/Sikeola/Monastero Sifa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20 - Finale"
-            }
-          },
-          {
-            "id": "960bce43a01f5ccd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Patriagis/Area del Tufo/Colline Rocciose.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Colline Rocciose"
+              "title": "Monastero Sifa"
             }
           }
         ]
@@ -83,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Patriagis",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5147895812988
+    "width": 284.3188056945801
   },
   "right": {
     "id": "ed5bcd01dbafd5b9",
@@ -117,6 +89,7 @@
       {
         "id": "3ed3d80e2e837e06",
         "type": "tabs",
+        "dimension": 36.852394916911045,
         "children": [
           {
             "id": "c51581f824a45c2e",
@@ -124,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eventi/Penisola di Patriagis/Storia della Penisola di Patriagis.md",
+                "file": "Locations/Patriagis/Sikeola/Monastero Sifa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,12 +146,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Patriagis/Area del Tufo/Colline Rocciose.md",
+                "file": "Locations/Patriagis/Sikeola/Monastero Sifa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Colline Rocciose"
+              "title": "Collegamenti in uscita"
             }
           },
           {
@@ -189,17 +162,22 @@
               "state": {
                 "calendar": "ID_a87ab8bad85b",
                 "ephemeral": {
-                  "viewing": null,
+                  "viewing": {
+                    "day": 1,
+                    "month": 9,
+                    "year": 1336
+                  },
                   "viewState": 1,
                   "displaying": {
                     "day": 7,
-                    "month": 10,
-                    "year": 1329
+                    "month": 9,
+                    "year": 1336
                   },
                   "displayDayNumber": true,
                   "displayMoons": true
                 },
-                "id": "ID_0a0908eb294b"
+                "id": "ID_0a0908eb294b",
+                "child": "ID_890b688a8a2b"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -240,6 +218,7 @@
       {
         "id": "1140adff5b6a7b65",
         "type": "tabs",
+        "dimension": 29.814271749755623,
         "children": [
           {
             "id": "dd50c2b4a9f943c4",
@@ -252,10 +231,31 @@
             }
           }
         ]
+      },
+      {
+        "id": "f7570045a6d87d32",
+        "type": "tabs",
+        "dimension": 33.33333333333333,
+        "children": [
+          {
+            "id": "a2f5ebe5e1941959",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_a87ab8bad85b",
+                "id": "ID_890b688a8a2b",
+                "parent": "ID_0a0908eb294b"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 438.302490234375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,46 +274,46 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "af62152d04feb9ca",
+  "active": "29b7a2c03f139918",
   "lastOpenFiles": [
-    "Locations/Patriagis/Area del Tufo/Colline Rocciose.md",
-    "Locations/Patriagis/Malporto/Gilda dei Pescatori di Malporto.md",
-    "Locations/Patriagis/Malporto/Gilda dei Mercanti di Malporto.md",
-    "Locations/Patriagis/Malporto/Il Gruzzolo del Drago.md",
-    "Locations/Patriagis/Malporto/Le briglie dell'Incubo.md",
-    "Locations/Patriagis/Millepozzi/Millepozzi.md",
-    "Locations/Patriagis/Millepozzi/Acqua Fresca.md",
-    "Locations/Patriagis/Mornidin/Mornidin.md",
-    "Locations/Patriagis/Arum.md",
-    "Locations/Patriagis/Thurii/Casa dell'Alba.md",
-    "Locations/Patriagis/Thurii/Canto dei Satiri.md",
-    "Locations/Patriagis/Via Solis.md",
-    "Locations/Patriagis/Tiberino.md",
-    "Locations/Patriagis/Ta-Peara.md",
-    "Locations/Patriagis/Thurii/Thurii.md",
-    "Locations/Patriagis/Sol/Sol.md",
-    "Locations/Patriagis/Sol/Casa del Tramonto.md",
-    "Locations/Patriagis/Malporto/Stazione Viaferri di Malporto.md",
-    "Locations/Patriagis/Patriagis.md",
-    "Organizzazioni/Regno di Patriagis/Regno di Patriagis.md",
-    "Avventure/Tornando a Casa/Atto 4/20 - Finale.md",
+    "Religioni/Al-Atua/Al-Atua.md",
+    "Eventi/Storia della Dardania/Diaspora Iwinās.md",
+    "Locations/Patriagis/Sikeola/Monastero Sifa.md",
+    "Locations/Patriagis/Sikeola/Imeria.md",
+    "Religioni/Al-Atua/Spiriti del Deserto.md",
+    "Organizzazioni/Dardania/Grande Deserto del Sud/Iwinās/Toa'ramal.md",
     "Eventi/Penisola di Patriagis/Storia della Penisola di Patriagis.md",
+    "Persone/Patriagis/Zubduzurak/Loytakuvo/Onni Löytökivi.md",
+    "Locations/Dardania/Dardania.md",
+    "Organizzazioni/Regno di Patriagis/Gilde, Corporazioni o Arti/Gilde, Corporazioni o Arti.md",
+    "Organizzazioni/Regno di Patriagis/Gilde, Corporazioni o Arti/Gilde, Corporazioni e Arti di Patriagis/Arti maggiori/Gilda degli Archeologi e degli Artificieri.md",
+    "Avventure/Tornando a Casa/Atto 2/5 - Fuggendo dall'Isola di Bonaccia  (2).md",
+    "Locations/Patriagis/Sikeola/Sikeola.md",
+    "Avventure/Tornando a Casa/Giocatori/Musanda Sifa.md",
+    "Locations/Patriagis/Sikeola",
+    "Organizzazioni/Dardania/Grande Deserto del Sud/Iwinās/Sifa.md",
+    "Organizzazioni/Dardania/Grande Deserto del Sud/Iwinās/Iwinās.md",
+    "Avventure/Fondazione/Introduzione all'Ambientazione.md",
     "Persone/Dardania/Dardo/Tohunga-Nui/Tumanako Numio Tullio.md",
-    "Avventure/Tornando a Casa/Riassunti/Sessione 4.18.md",
-    "Avventure/Tornando a Casa/Riassunti/Sessione 4.17.md",
-    "Avventure/Tornando a Casa/Riassunti/Sessione 3.16.md",
-    "Avventure/Fondazione/Characters",
-    "Avventure/Fondazione",
-    "Persone/Dardania/Dardo/Tohunga-Nui/attachments/Pasted image 20251105144918.png",
-    "Persone/Dardania/Dardo/Tohunga-Nui/attachments",
-    "Missioni/Una maledizione dal passato - v2/Characters",
-    "Missioni/Una maledizione dal passato - v2",
-    "Testi",
-    "Eventi/Eventi Ciclici/attachments/Pasted image 20250315015725.png",
+    "Organizzazioni/Regno di Patriagis/Regno di Patriagis.md",
+    "Avventure/Fondazione/Background.md",
+    "Avventure/Tornando a Casa/Riassunti/Sessione 1.1.md",
+    "Avventure/Tornando a Casa/Eventi.md",
+    "Avventure/Tornando a Casa/Background.md",
+    "Giochi/Lancio delle Tessere.md",
+    "Persone/Patriagis/Nova/de Larcher/de Larcher.md",
+    "Persone/Patriagis/Nova/Cecilio da Nova.md",
     "Eventi/Herekorenga/Ārahina e ngā hēramana/Kawenata Herekore",
-    "Eventi/Eventi Ciclici/attachments",
+    "Eventi/Eventi Ciclici/attachments/Pasted image 20250315015725.png",
     "Eventi/Storia della Dardania/01 - Età Antica",
     "Eventi/Penisola di Patriagis/04 - Età del Regno",
+    "Eventi/Penisola di Patriagis/03 - Età dei Comuni",
+    "Eventi/Penisola di Patriagis/02 - Età dei Due Regni",
+    "Eventi/Penisola di Patriagis/01 - Età Antica",
+    "Eventi/Herekorenga/Ārahina e ngā hēramana",
+    "Eventi/Eventi Ciclici/attachments",
+    "Eventi/Storia della Dardania",
+    "Persone/Dardania/Dardo/Tohunga-Nui/attachments/Pasted image 20251105144918.png",
     "_Impostazioni/immagini/Commissione Michele Finale Versione Viola PNG.png",
     "_Impostazioni/immagini/Commissione Michele colore forte.JPG",
     "_Impostazioni/immagini/Commissione Michele chiara.jpg",

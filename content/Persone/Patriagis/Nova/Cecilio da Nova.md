@@ -5,7 +5,6 @@ Classe: Ladro
 Specie: "[[Umani|Umano]]"
 Nascita A.P.: "1300"
 ---
-
 ## Biografia
 
 Cecilio nasce nel 1290 A.P. da madre e padre ignoti. Cresce nella [[Comunità dei Bassifondi]] di [[Nova]] sotto le cure dei volontari del quartiere, e viene considerato orfano. Impara velocemente a cavarsela nei bassifondi, divaZ>entando sempre più indipendente. 

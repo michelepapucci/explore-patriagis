@@ -3,7 +3,6 @@ aliases:
   - Gontràn
   - gontràn
 ---
-
 > *"**Frammento**. Il mio unico Dio e fratello, padrone e compagno. Devo a lui tutta la mia devozione."* 
 
 \- Dalle lettere di Gontràn de Larcher

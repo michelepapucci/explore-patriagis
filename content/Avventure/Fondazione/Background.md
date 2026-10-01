@@ -1,10 +1,17 @@
-A [[Zaldak Versabirra|Zaldak]] viene chiesto di inviare un piccolo gruppo di avventurieri in un nuovo villaggio in formazione.
+---
+tags:
+  - evento
+---
+<span data-date='1336-06-15' data-name="Volsinio arriva sugli Appendici" data-calendar="Default"></span>
+Un imprenditore = [[Volsinio Tagliapietre]] sta investendo nello sviluppo cittadino in quanto ritiene che in zona ci siano resti [[Nifilim]] da scavare per raccogliere [[Lapisma]]. 
 
-Un imprenditore sta investendo nello sviluppo cittadino in quanto ritiene che in zona ci siano resti [[Nifilim]] da scavare per raccogliere [[Lapisma]]. 
+<span data-date='1337-09-28' data-name="Partenza del Gruppoer verso Onnia" data-calendar="Default"></span>
+A [[Zaldak Versabirra|Zaldak]] viene chiesto di inviare un piccolo gruppo di avventurieri in un nuovo villaggio in formazione, [[Onnia]]. 
+
 
 Un piccolo villaggio sorge vicino agli scavi finché qualcosa non viene alla luce. -> Sorge sui [[Pendici]] sulle rovine di un antico castello, ormai raso al suolo, chia
 
-Impreditore richeide avventurieri a [[Zaldak Versabirra|Zaldak]] perché sta imparanoiato che qualcuno lo stia sabotando. Zaldak non gli crede molto ma è preoccupato. 
+Impreditore richiede avventurieri a [[Zaldak Versabirra|Zaldak]] perché sta imparanoiato che qualcuno lo stia sabotando. Zaldak non gli crede molto ma è preoccupato. 
 
 Gli avventurieri arrivano al villaggio e devono fare varie sub quest che li porteranno agli eventi principali, che sono: 
 

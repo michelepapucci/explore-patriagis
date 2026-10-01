@@ -262,7 +262,7 @@ players:
 
 > [!book] Diario di Fildrit
 > **Giorno 1**  
-> *Arrivo oggi alle rovine con Yvun e una squadra di archeologi. Il nostro obiettivo è trovare artefatti contenenti [[Lapisma]], un tempo, infatti, [[Archealbero]] era un insediamento [[Nifilim]] e per anni, prima dell'eruzione si estraeva [[Lapisma]] qui. Anzi, se non erro, è proprio il luogo dove [[Torrvic Loytakuvo]] ha scoperto la famosa gemma secoli fa.  L'aria è carica di eccitazione e mistero*. 
+> *Arrivo oggi alle rovine con Yvun e una squadra di archeologi. Il nostro obiettivo è trovare artefatti contenenti [[Lapisma]], un tempo, infatti, [[Archealbero]] era un insediamento [[Nifilim]] e per anni, prima dell'eruzione si estraeva [[Lapisma]] qui. Anzi, se non erro, è proprio il luogo dove [[Onni Löytökivi]] ha scoperto la famosa gemma secoli fa.  L'aria è carica di eccitazione e mistero*. 
 > 
 > **Giorno 23**  
 > *Dopo settimane di scavi infruttuosi, la speranza inizia a scemare. [[Yvun]] rimane ottimista, ma alcuni nel gruppo sono dubbiosi*.

@@ -21,7 +21,9 @@ Ogni rettore deve avere almeno trent'anni e il [[Confabuliere]] è scelto ogni d
 
 ## Merci e Concorrenza
 
-La [[Gilda dei Mercanti]] si occupa dell'importazione e esportazione principalmente di materie prime e, per questo, ha stabilito molti accordi con altre [[Gilde, Corporazioni o Arti|arti]] sia per evitare in concorrenza, dividendosi il mercato (Ad esempio con l'[[Arte della Lana, della Seta, dei Vaiai e Pellicciai]] per il mercato tessile e con la [[Gilda dei Medici, degli Speziali e degli Alchimisti]] per quello delle spezie) sia per fornire materie prime agli artigiani (Ad esempio con [[Gilda dei Fabbri, Corazzai e Spadai]], e [[Corporazione dei Taglialegna e dei Falegnami]]). 
+La [[Gilda dei Mercanti]] si occupa dell'importazione e esportazione principalmente di materie prime e semilavorati e dell'esportazione dei prodotti finiti delle altre [[Gilde, Corporazioni o Arti|arti]]. Nel tempo ha stabilito con molte di esse accordi di fornitura privilegiata, sia per spartirsi alcuni mercati (Ad esempio con l'[[Arte della Lana, della Seta, dei Vaiai e Pellicciai]] per il mercato tessile e con la [[Gilda dei Medici, degli Speziali e degli Alchimisti]] per quello delle spezie) sia per rifornire materie prime agli artigiani che non sono reperibili in zona (ad esempio metalli per la [[Gilda dei Fabbri, Corazzai e Spadai]], e legnami pregiati per la [[Corporazione dei Taglialegna e dei Falegnami]]). 
+
+La Gilda, quindi, vende principalmente all'ingrosso alle altre [[Gilde, Corporazioni o Arti|arti]] oltre a detenere, di fatto, il monopolio sulle esportazioni di beni dai [[Comune|comuni]] dove operano, in quanto in pochi possono competere alla loro fitta infrastruttura di magazzini, carri e navi con i quali raggiungono tutto le terre del [[Mar Tirseno]]. I loro mercanti viaggiano lungo tutta la penisola di [[Patriagis]], ma anche al di fuori dell'[[Impero del Mare|Impero]].  
 
 ## Mercati e Guardia Cittadina
 

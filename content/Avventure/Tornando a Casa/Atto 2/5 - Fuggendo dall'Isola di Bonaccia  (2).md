@@ -65,7 +65,7 @@ Vengono accolti nella grotta sotterranea dell'[[Hawhenua]]:
 > 
 > Vi scambiate sguardi carichi di stupore e timore. Non avete trovato solo un rifugio nascosto tra le dune, ma una civiltà segreta, sopravvissuta nell'ombra del mondo. E ora, come ospiti—o forse prigionieri—di [[Harawhenua]], il vostro destino è incerto.
 
-La loro Matriarca, Tahuza, li accoglie formalmente e racconta loro cos'è successo nell'ultimo anno:
+La loro Matriarca, [[Aramiri Toa'ramal]], li accoglie formalmente e racconta loro cos'è successo nell'ultimo anno:
 
 - Dopo che i soldati di [[Patriagis]] hanno lasciato la [[Dardania]] c'è stato un momento di respiro per tutti sul continente, che è durato ben poco.
 - Qualche mese dalla loro partenza, [[Patriagis]] è tornata. Un ordine cavalleresco di cavalcatori di viverne ha messo a fuoco tutti i porti della [[Dardania]], tagliandola dal mondo. 

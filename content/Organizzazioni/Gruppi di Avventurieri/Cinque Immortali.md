@@ -6,7 +6,7 @@ I cinque immortali sono considerati la prima banda di avventurieri di concezione
 
 Tra i più famosi di questi eroi, c’erano sicuramente i Cinque Immortali. 
 
-Di essi non si è mai saputo molto da dove venissero o della loro vita privata, poiché si sono sempre tenuti nell'ombra. Tre di loro, sono ricordati più degli altri: [[Immeral]], l’Ineluttabile, dal quale è nato l’ordine ecclesiastico con lo stesso nome, [[Evendur]] l’Infernale, le cui gesta sono cardine dell’[[Ordine della Fiamma]], un ordine di paladini mercenari, fieri e temibili guerrieri, infine [[Trinir]] la tempesta, il cui potere viene ancora temuto e scacciato nella città libera di Garoth-Mùk.
+Di essi non si è mai saputo molto da dove venissero o della loro vita privata, poiché si sono sempre tenuti nell'ombra. Tre di loro, sono ricordati più degli altri: [[Immeral]], l’Ineluttabile, dal quale è nato l’ordine ecclesiastico con lo stesso nome, [[Evendur]] l’Infernale, le cui gesta sono cardine dell’[[Ordine della Fiamma]], un ordine di paladini mercenari, fieri e temibili guerrieri, infine [[Trinir]] la tempesta, il cui potere viene ancora temuto e scacciato nella città libera di [[Garoth-Mùk]].
 
 I due meno conosciuti sono [[Aron]] il Dottore e [[Ageus]] il Gigante. 
 

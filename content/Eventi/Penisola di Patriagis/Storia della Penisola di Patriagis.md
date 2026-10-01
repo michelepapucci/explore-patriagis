@@ -209,7 +209,7 @@ Muore [[Novio I Tullio]] e il figlio [[Ostilio Novio Tullio|Numio Ostilio]] dive
 
 ## 622
 <span data-date='622-06-19' data-name="Scoperta del Lapisma"></span>
-Il ricercatore [[Torrvic Loytakuvo]] scopre ad [[Archealbero]] un frammento di [[Lapisma]] lavorato e, per la prima volta, riesce ad incantarlo. 
+Il ricercatore [[Onni Löytökivi]] scopre ad [[Archealbero]] un frammento di [[Lapisma]] lavorato e, per la prima volta, riesce ad incantarlo. 
 
 
 ## 667
@@ -287,7 +287,7 @@ Il gruppo torna in [[Dardania]] dove con l'aiuto dell'[[Esercito Reale di Patria
 
 Il 15 di [[8 - Collis|Collis]] il gruppo sconfigge ed uccide [[Arbogh Tohunga-Toa|Arbogh]] fermando i suoi non-morti, tra cui la madre [[Wāhine-Ataahua Tohunga-Nui|Wāhine]] e il corpo non-morto di [[Lodato Numio Tullio|Lodato]]. Poi, confrontati da [[Adriano Numio Tullio|Adriano]] sulla vera identità di [[Tumanako Numio Tullio|Tumanako]] loro confessano. [[Adriano Numio Tullio|Adriano]] sembra volerlo uccidere ma viene intimato ad andarsene e alla fine cede e se ne va. 
 
-Il 28 di [[12 - Novis]] il gruppo torna finalmente in patria, dove vengono accolti come eroi. [[Tumanako Numio Tullio|Tumanako]] viene consegnato al padre [[Numio Ostilio III Tullio|Numio]] che, dopo un lunghissimo consiglio, lo nomina erede del [[Regno di Patriagis]]. [[Adriano Numio Tullio|Adriano]], mai tornato in patria, si muove con dei fedelissimi a [[Garoth-Mùk]], la conquista e fonda [[Adrianopoli]]. 
+Il 28 di [[12 - Novis|Novis]] il gruppo torna finalmente in patria, dove vengono accolti come eroi. [[Tumanako Numio Tullio|Tumanako]] viene consegnato al padre [[Numio Ostilio III Tullio|Numio]] che, dopo un lunghissimo consiglio, lo nomina erede del [[Regno di Patriagis]]. [[Adriano Numio Tullio|Adriano]], mai tornato in patria, si muove con dei fedelissimi a [[Garoth-Mùk]], la conquista e fonda [[Adrianopoli]]. 
 
 ## 1330 
 Il 15 di [[8 - Collis|Collis]], [[Tumanako Numio Tullio]] viene incoronato Imperatore del Mare, Re di Patriagis, Grande Sacerdote di Dardania e Protettore dell'Herekorenga all'età di dieci anni. Il padre [[Numio Ostilio III Tullio]] si ritira a vita privata. 
@@ -296,7 +296,7 @@ Il giorno stesso, [[Tumanako Numio Tullio|Tumanako]] designa [[Larenzia Lodato T
 
 ## 1409 
 
-Il 23 [[10 - Iria|Iria]], [[Tumanako Numio Tullio]], Imperatore del Mare, muore di vecchiaia dopo una veloce malattia all'età di 89 anni durante un tour del suo impero, in visita alle [[Colline Rocciose]], a pochi giorni dalla partenza da [[Nova]]. 
+Il 23 [[10 - Iria|Iria]], [[Tumanako Numio Tullio]], Imperatore del Mare, muore di vecchiaia dopo una veloce malattia all'età di 89 anni durante un tour del suo impero, in visita a [[Torrette]] nelle [[Colline Rocciose]], a pochi giorni dalla partenza da [[Nova]]. 
 
 ## 1410
 

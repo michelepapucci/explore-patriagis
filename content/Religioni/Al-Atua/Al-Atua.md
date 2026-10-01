@@ -5,8 +5,9 @@ tags:
 ---
 È una divinità venerato dagli [[Iwinās]] del [[Grande Deserto del Sud]]. È visto come il Signore della Terra sotto le Radici, Dio della Terra Fertile, Protettore della vita nel Deserto, Burattinaio degli Spiriti del Deserto. 
 
-Secondo gli [[Iwinās]], Al-Atua ha la forma di ===DECIDERE===.
+Secondo gli [[Iwinās]], Al-Atua ha la forma di possente umanoide a cavallo di una gigantesca lucertola.
 Al-Atua è un sovrano duro e severo, come il deserto, ma i suoi doni sono meravigliosi. Secondo gli [[Iwinās]] è lui a portare l'acqua nel [[Grande Deserto del Sud|Grande Deserto]] nelle oasi, a trasformare la sabbia in terra coltivabile. In cambio, Al-Atua chiede uno stile di vita frugale, senza sprechi, necessario per la vita in un territorio arduo come quello degli [[Iwinās]]. 
+
 Inoltre, alla morte, Al-Atua prende lo spirito dei morti, trasformandoli in [[Spiriti del Deserto]], creature al suo servizio con le quali mantiene l'ordine, e compie i suoi miracoli. 
 
 ## Culto e Riti
