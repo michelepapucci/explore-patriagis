@@ -31,7 +31,7 @@ La Comunità e gli Artigli sono infatti due cose ben distinte. Gli Artigli hanno
 ## Influenza
 La Comunità controlla ormai circa un decimo dei territori dei Bassifondi e gli Artigli sono tutti membri di rilievo della comunità, rispettati ed amati. Qualsiasi membro della Comunità mette quindi a disposizione i propri talenti agli Artigli, senza fare domande. 
 
-Il nemico principale della società è oggi la [[BDP]], che tiene sotto scacco e nel terrore gran parte dei Bassifondi. Gli Artigli lavorano costantemente per ampliare i loro territori, creando cordoni di informatori, e spie, e veri e proprie guardie per allargare i loro territori e portare in Comunità più persone possibili. 
+Il nemico principale della società è oggi la [[Organizzazioni/Regno di Patriagis/Organizzazioni Criminali/BDP]], che tiene sotto scacco e nel terrore gran parte dei Bassifondi. Gli Artigli lavorano costantemente per ampliare i loro territori, creando cordoni di informatori, e spie, e veri e proprie guardie per allargare i loro territori e portare in Comunità più persone possibili. 
 
 Gli Artigli, sono anche estremamente attenti alla presenza di Guardie Cittadine nei bassifondi, poiché sanno bene che molte di loro sono sui libri paga del BDP. 
 

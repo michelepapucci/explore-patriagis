@@ -19,10 +19,10 @@ Durante questo periodo, Dante cambiò il cognome che disprezzava già da tempo p
 Nonostante i buoni propositi però, Dante non fu mai portato per brandire una mazza, ma era un abile [[Oratore|oratore]] e al [[Dogma]] poteva far comodo questa sua caratteristica, così la sua carriera nel culto proseguì molto lentamente, ma senza grosse difficoltà avendo trovato il giusto equilibrio.
 
 > [!denied]- Segreto
-> Quello che Dante non si aspettava è che queste doti non interessavano soltanto al Dogma, ma anche alla radicata rete mafiosa nascosta a [[Nova]] e al gruppo più influente di esse: la [[BDP]].
-> Il primo approccio avvenne quando direttamente il capogruppo della [[BDP]] a [[Nova]], [[Tracco (Il Pissero)|Il Pissero]], si presentò davanti a lui in una delle chiese del [[Dogma]]. Molto semplicemente (conoscendo ormai Dante, avendo scavato nel suo passato e sapendo il tipo di persona che era nel [[Dogma]]) propose a Dante ciò che non aveva trovato nel Dogma: il potere, potere per poter diventare qualcuno che avesse influenza. 
+> Quello che Dante non si aspettava è che queste doti non interessavano soltanto al Dogma, ma anche alla radicata rete mafiosa nascosta a [[Nova]] e al gruppo più influente di esse: la [[Organizzazioni/Regno di Patriagis/Organizzazioni Criminali/BDP]].
+> Il primo approccio avvenne quando direttamente il capogruppo della [[Organizzazioni/Regno di Patriagis/Organizzazioni Criminali/BDP]] a [[Nova]], [[Tracco (Il Pissero)|Il Pissero]], si presentò davanti a lui in una delle chiese del [[Dogma]]. Molto semplicemente (conoscendo ormai Dante, avendo scavato nel suo passato e sapendo il tipo di persona che era nel [[Dogma]]) propose a Dante ciò che non aveva trovato nel Dogma: il potere, potere per poter diventare qualcuno che avesse influenza. 
 > Dante, leggermente titubante e stordito ormai dagli anni passati nel [[Dogma]] non accettò quell'invito, poco convinto che un membro di quel gruppo potesse volere qualcosa da lui.
-> Dopo qualche giorno e tanti pensieri, Dante si convinse che se il capo stesso della [[BDP]] lo aveva contattato, forse valeva la pena di provare a vedere dove lo avrebbe portato. 
+> Dopo qualche giorno e tanti pensieri, Dante si convinse che se il capo stesso della [[Organizzazioni/Regno di Patriagis/Organizzazioni Criminali/BDP]] lo aveva contattato, forse valeva la pena di provare a vedere dove lo avrebbe portato. 
 > Ricontattò la banda che lo accolsero senza troppi fronzoli (a loro serviva un membro più manipolabile e diretto al [[Dogma]]) e col tempo guadagnò fiducia all'interno del gruppo, tutti lo chiamavano ironicamente *il Credente*, per quel suo modo assurdo di professare il culto della non violenza riassunto nel suo motto: 
 > >[!quote] Motto
 > > *"Per eliminare l'uman violenza,* 
@@ -36,7 +36,7 @@ Il [[Dogma]] ha inviato vari dei suoi [[Oratore|oratori]] e [[Incutipaura|incuti
 
 
 > [!denied]- Segreto
-> Dante si è arruolato come volontario per la Guerra con la [[Dardania]]. È stato selezionato insieme ad altri membri della [[BDP]] come spia per tenere sott'occhio la situazione. 
+> Dante si è arruolato come volontario per la Guerra con la [[Dardania]]. È stato selezionato insieme ad altri membri della [[Organizzazioni/Regno di Patriagis/Organizzazioni Criminali/BDP]] come spia per tenere sott'occhio la situazione. 
 
 
 

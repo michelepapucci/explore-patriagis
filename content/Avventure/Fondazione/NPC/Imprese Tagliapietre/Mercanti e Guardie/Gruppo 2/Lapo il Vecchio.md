@@ -1,0 +1,1 @@
+[[Umani|Umano]] di 60 anni, fa parte dei lavoratori di [[Volsinio Tagliapietre]] come guardia e mercante a [[Onnia]]. Lavora nel gruppo con i due figli: [[Rabirio lo Scudiere]] e [[Ulpia, Lingua Biforcuta]].

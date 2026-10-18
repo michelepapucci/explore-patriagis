@@ -59,13 +59,13 @@ Se il gruppo dice che sono soldati di [[Patriagis]]: non vengono creduti, se rac
 
 I soldati non badano all'andirivieni via terra per [[Dubo]], in quanto tutti i porti della [[Dardania]] sono occupati e, nel [[Grande Deserto del Sud|Grande Deserto]], unico luogo raggiungibile a piedi, non vi sono né porti né persone per aiutare gli sfollati. I soldati si occupano solo di evitare arrivi e partenze dal Porticciolo di [[Dubo]]. 
 
-## [[BDP]]
+## [[Organizzazioni/Regno di Patriagis/Organizzazioni Criminali/BDP]]
 
-A [[Dubo]] è arrivata di nascosto la [[BDP]], in particolare è arrivato uno dei suoi maggiori esponenti, il maestro dei sussurri [[Cianciaratti]], il suo vice, [[Torquato Otelma]], e una decina di scagnozzi. 
-Si trovano a [[Dubo]] per localizzare [[Dante Alifiere|Dante]], principalmente sono curiosi di cosa abbia fatto [[Dante Alifiere|Dante]] sull'[[Isola di Bonaccia]]. La [[BDP]] infatti ha osservato per anni gli spostamenti di [[Dante Alifiere|Dante]], grazie ad un incantesimo di [[Scrutare]], lanciato da [[Torquato Otelma]], e hanno raccolto le seguenti informazioni:
+A [[Dubo]] è arrivata di nascosto la [[Organizzazioni/Regno di Patriagis/Organizzazioni Criminali/BDP]], in particolare è arrivato uno dei suoi maggiori esponenti, il maestro dei sussurri [[Cianciaratti]], il suo vice, [[Torquato Otelma]], e una decina di scagnozzi. 
+Si trovano a [[Dubo]] per localizzare [[Dante Alifiere|Dante]], principalmente sono curiosi di cosa abbia fatto [[Dante Alifiere|Dante]] sull'[[Isola di Bonaccia]]. La [[Organizzazioni/Regno di Patriagis/Organizzazioni Criminali/BDP]] infatti ha osservato per anni gli spostamenti di [[Dante Alifiere|Dante]], grazie ad un incantesimo di [[Scrutare]], lanciato da [[Torquato Otelma]], e hanno raccolto le seguenti informazioni:
 - [[Dante Alifiere|Dante]] e il suo gruppo sono rimasti bloccati sull'[[Isola di Bonaccia]] dopo l'assalto di [[Dardo]];
 - [[Dante Alifiere|Dante]] e il suo gruppo si porta dietro [[Tumanako Numio Tullio|Tumanako]] che deve essere un personaggio importante che ha a che fare con la nobiltà di [[Dardo]] in quanto è comparso da dopo l'assalto della città; 
-Lo scopo della [[BDP]] è incontrare [[Dante Alifiere|Dante]] e farsi dire come lui e [[Lodato Numio Tullio|Lodato]] siano riusciti ad entrare a [[Dardo]] per rivendere l'informazione al miglior offerente.
+Lo scopo della [[Organizzazioni/Regno di Patriagis/Organizzazioni Criminali/BDP]] è incontrare [[Dante Alifiere|Dante]] e farsi dire come lui e [[Lodato Numio Tullio|Lodato]] siano riusciti ad entrare a [[Dardo]] per rivendere l'informazione al miglior offerente.
 Inoltre, vogliono scoprire l'identità di [[Tumanako Numio Tullio|Tumanako]] e come usare la sua stazione per guadagnare. 
 
 La missione è particolarmente importante per [[Tracco (Il Pissero)|Tracco]] che ha inviato a monitorare la situazione il suo braccio destro [[Cianciaratti]]. [[Tracco (Il Pissero)|Tracco]] crede che la vendita di informazioni e persone in [[Dardania]] possa fruttare molto, inoltre, se [[Adriano Numio Tullio]] riuscisse davvero a vincere la guerra e annettere quel territorio al [[Regno di Patriagis]], [[Tracco (Il Pissero)|Tracco]] vuole essere il primo a mettere le radici in [[Dardania]] ed espandere lì il suo impero mafioso. 

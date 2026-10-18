@@ -26,3 +26,4 @@ Se un giocatore gioca pulito e ottiene un risultato alla prova di abilità più 
 ### Varianti
 
 Se si fa uso di una [[Botte da Tessere]], è solitamente necessario pagare una somma alla botte per poter giocare. Solitamente sono poche monete d'oro per giocatore.  
+x

@@ -12,7 +12,7 @@ Boli è il soprannome dato ad un primordio di [[Miconide]] da un avventuriero de
 ## Storia
 
 Boli nasce in un circolo [[Miconide]] nel [[Sottosuolo]] di [[Patriagis]] vicino ad uno dei suoi ingressi nei pressi di [[Millepozzi]]. 
-Il corso della sua storia cambia quando un gruppo di banditi della [[BDP]] scopre che il circolo [[Miconide]] ha fatto fruttare, nella caverna in cui vivono, un'enorme quantità di [[Corona Nera]], il fungo dal quale si ricava il [[Fiocco Nero]], una droga psichedelica molto popolare e di cui la banda criminale controlla il commercio. 
+Il corso della sua storia cambia quando un gruppo di banditi della [[Organizzazioni/Regno di Patriagis/Organizzazioni Criminali/BDP]] scopre che il circolo [[Miconide]] ha fatto fruttare, nella caverna in cui vivono, un'enorme quantità di [[Corona Nera]], il fungo dal quale si ricava il [[Fiocco Nero]], una droga psichedelica molto popolare e di cui la banda criminale controlla il commercio. 
 Il gruppo, dopo un grossolano tentativo di diplomazia, decide che è più semplice sterminare i pacifici [[Miconide|miconidi]]. 
 Molti di loro, tra cui Boli, sfuggono allo sterminio uscendo dal [[Sottosuolo]] e ritrovandosi nei boschi nei pressi di [[Millepozzi]]. La banda li insegue e li termina tutti, tranne Boli che ha la fortuna di essere trovato prima da [[Persone/Patriagis/Nova/Senzocchio/Kalys|Kalys]], un membro della [[Gilda degli Avventurieri]] che si trovava di ritorno da una missione. 
 [[Persone/Patriagis/Nova/Senzocchio/Kalys|Kalys]] difende il [[miconide]] dagli aggressori e dopo aver stabilito insieme la scomparsa del suo circolo, nomina il piccolo "*Boli*" e acconsente alla richiesta del [[Miconide|miconide]] di viaggiare con lui. 

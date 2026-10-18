@@ -1,4 +1,4 @@
-"Generale" della [[BDP]], è un warlock della spada. 
+"Generale" della [[Organizzazioni/Regno di Patriagis/Organizzazioni Criminali/BDP]], è un warlock della spada. 
 
 ## Background
 
@@ -20,11 +20,11 @@
 > 
 > Sconfitto e disprezzato, decisi di farla finita. Mi recai in un posto buio nei [[Bassifondi di Nova|Bassifondi]] e legai una corda ad una grondaia che mi sembrava resistente. Poco prima della fine, un uomo, scortato da vari ratti e topi, corse in mio soccorso: incontrai [[Cianciaratti]]. 
 > 
-> [[Cianciaratti]] mi disse che i suoi topi avevano visto cosa stavo per fare e lo hanno chiamato e lui, pur non conoscendomi, era corso da me. Decisi di raccontargli tutto, e lui ascoltò, in silenzio, condividendo il mio dolore. Infine, mi disse che se avrei voluto farla finita potevo farlo, non me lo avrebbe impedito, ma che aveva una proposta per me. Mi disse che il suo capo, [[Tracco (Il Pissero)|Tracco]], il capo di una banda locale, avrebbe sicuramente apprezzato i miei talenti e mi avrebbe dato un lavoro, uno scopo e un tetto. Inoltre, mi disse che avrei avuto anche i mezzi della banda e tutta la libertà necessaria, per indagare la maledizione, avessi voluto farlo. Capendo che mi stavo inserendo nella criminalità organizzata, decisi che se il mondo "civile" non mi voleva, tanto valeva dare una chance alla [[BDP]].
+> [[Cianciaratti]] mi disse che i suoi topi avevano visto cosa stavo per fare e lo hanno chiamato e lui, pur non conoscendomi, era corso da me. Decisi di raccontargli tutto, e lui ascoltò, in silenzio, condividendo il mio dolore. Infine, mi disse che se avrei voluto farla finita potevo farlo, non me lo avrebbe impedito, ma che aveva una proposta per me. Mi disse che il suo capo, [[Tracco (Il Pissero)|Tracco]], il capo di una banda locale, avrebbe sicuramente apprezzato i miei talenti e mi avrebbe dato un lavoro, uno scopo e un tetto. Inoltre, mi disse che avrei avuto anche i mezzi della banda e tutta la libertà necessaria, per indagare la maledizione, avessi voluto farlo. Capendo che mi stavo inserendo nella criminalità organizzata, decisi che se il mondo "civile" non mi voleva, tanto valeva dare una chance alla [[Organizzazioni/Regno di Patriagis/Organizzazioni Criminali/BDP]].
 > 
 > Fui presentato a [[Tracco (Il Pissero)|Tracco]] che mi accolse come un padre, e piano piano mi inserirono nei meccanismi della banda. Oltre a coltivare le mie abilità magiche con [[Cianciaratti]] e [[Pinaccia]] uno straordinario Artificiere, [[Tracco (Il Pissero)|Tracco]] mi insegnò l'arte della spada e imparai a sfruttare i poteri donatemi da [[Ferrearima]], con i quali riuscivo ad evocare e brandire armi fatte di pura magia. 
 > 
-> In cinque anni ho aiutato molto all'espansione della [[BDP]], e sono diventato un Capitano della banda, lavorando sotto diretto controllo di [[Tracco (Il Pissero)|Tracco]]. Nel frattempo, ho scoperto qualcosa di più su Ferrearima, anche se nei libri di storia non c'è traccia di quel luogo o di come sia stato imprigionato lì. 
+> In cinque anni ho aiutato molto all'espansione della [[Organizzazioni/Regno di Patriagis/Organizzazioni Criminali/BDP]], e sono diventato un Capitano della banda, lavorando sotto diretto controllo di [[Tracco (Il Pissero)|Tracco]]. Nel frattempo, ho scoperto qualcosa di più su Ferrearima, anche se nei libri di storia non c'è traccia di quel luogo o di come sia stato imprigionato lì. 
 > 
 > Per estrarre la spada e liberarlo è necessario effettuare un rituale particolare di cui i dettagli però ancora mi sfuggono. 
 

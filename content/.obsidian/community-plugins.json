@@ -1,13 +1,13 @@
 [
-  "obsidian-5e-statblocks",
-  "obsidian-dice-roller",
-  "initiative-tracker",
-  "dataview",
+  "obsidian-admonition",
   "calendarium",
   "customjs",
-  "tag-wrangler",
-  "templater-obsidian",
+  "dataview",
+  "obsidian-dice-roller",
+  "obsidian-5e-statblocks",
+  "obsidian-excalidraw-plugin",
+  "initiative-tracker",
   "obsidian-leaflet-plugin",
-  "obsidian-admonition",
-  "obsidian-excalidraw-plugin"
+  "tag-wrangler",
+  "templater-obsidian"
 ]

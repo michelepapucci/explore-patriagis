@@ -9,10 +9,10 @@ Il 12 di [[5 - Andunis|Andunis]] 1328 A.P., [[Tracco (Il Pissero)|Pio Cotrac]] i
 > [[Tracco (Il Pissero)|Pio Cotrac]]
 > 12 [[5 - Andunis|Andunis]] 1328 A.P
 
-Il vero significato della Lettera è in realtà una comunicazione da parte della [[BDP]], un'associazione criminale con sede a [[Nova]], ma sparsa per tutta [[Patriagis]] e con interessi in tutto il mondo, di cui [[Dante Alifiere|Dante]] fa parte. Il vero contenuto è circa il seguente: 
+Il vero significato della Lettera è in realtà una comunicazione da parte della [[Organizzazioni/Regno di Patriagis/Organizzazioni Criminali/BDP]], un'associazione criminale con sede a [[Nova]], ma sparsa per tutta [[Patriagis]] e con interessi in tutto il mondo, di cui [[Dante Alifiere|Dante]] fa parte. Il vero contenuto è circa il seguente: 
 
 > [!denied] Vero significato della Lettera
-> A [[Patriagis]] trovano strano il fatto che [[Lodato Numio Tullio|Lodato]] sia stato lasciato in guerra. Alcuni sospettano che [[Numio Ostilio III Tullio|Re Numio]] stia segretamente portando avanti la guerra, trasformandola da una guerra a campo aperto ad una guerriglia cittadina con poche unità specializzate. Se fosse vero, la [[BDP]] richiede a [[Dante Alifiere|Dante]] di fare di tutto per essere selezionato tra le truppe che rimangono in [[Dardania]].
+> A [[Patriagis]] trovano strano il fatto che [[Lodato Numio Tullio|Lodato]] sia stato lasciato in guerra. Alcuni sospettano che [[Numio Ostilio III Tullio|Re Numio]] stia segretamente portando avanti la guerra, trasformandola da una guerra a campo aperto ad una guerriglia cittadina con poche unità specializzate. Se fosse vero, la [[Organizzazioni/Regno di Patriagis/Organizzazioni Criminali/BDP]] richiede a [[Dante Alifiere|Dante]] di fare di tutto per essere selezionato tra le truppe che rimangono in [[Dardania]].
 
 
 ![[lettera_dante.png]]

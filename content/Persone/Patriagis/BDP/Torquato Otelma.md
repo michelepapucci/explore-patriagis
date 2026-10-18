@@ -2,7 +2,7 @@
 Specie: "[[Mezzelfi|Mezzelfo]]"
 Classe: Mago
 ---
-Torquato della famiglia [[Otelma]] è un potente incantatore divinatore, al contrario della sua famiglia, che, da generazioni, è composta da farlocchi veggenti che vivono rubando soldi ai più deboli. Nasce a [[Nova]] e, terminati gli studi alla [[Scuola per Iniziati alle Arti Magiche di Nova]], entra nella [[BDP]]. 
+Torquato della famiglia [[Otelma]] è un potente incantatore divinatore, al contrario della sua famiglia, che, da generazioni, è composta da farlocchi veggenti che vivono rubando soldi ai più deboli. Nasce a [[Nova]] e, terminati gli studi alla [[Scuola per Iniziati alle Arti Magiche di Nova]], entra nella [[Organizzazioni/Regno di Patriagis/Organizzazioni Criminali/BDP]]. 
 
 Torquato cresce in questo ambiente di veggenti truffatori e rimane affascinato dall'idea di predire il futuro. Entra fin da giovanissimo nel mestiere di famiglia e impara a truffare le persone leggendo loro la mano o le carte insieme alla madre e alla nonna.
 Torquato si dimostra fin da subito carico di spirito imprenditoriale e inizia ad aumentare il numero di servizi offerti dalla famiglia, fingendo di parlare coi defunti cari ai clienti, e scrivendo un oroscopo giornaliero che fu persino pubblicato per un po' di tempo sulla [[La Gazzetta di Nova|Gazzetta di Nova]]. 
@@ -11,9 +11,9 @@ Con i soldi messi da parte, a vent'anni entra nella [[Scuola per Iniziati alle A
 
 Torquato fugge quindi da [[Arum]] e torna nei [[Bassifondi di Nova]], e continua i suoi studi divinatori in privato. Inizia, pian piano, ad offrire dei piccoli servizi divinatori *reali*, oltre a quelli falsi, per un prezzo maggiorato. Velocemente, si sparge la voce nei [[Bassifondi di Nova|Bassifondi]] che Torquato sia davvero in grado di localizzare oggetti e persone e di prevedere il risultato di alcune scelte. 
 
-Torquato viene contattato dalla [[Comunità dei Bassifondi]] che offre lui un modo di redimersi dalle sue truffe aiutando le persone con i suoi talenti, e, tramite i contatti di [[Diana Versabirra]], un'importante membro della [[Comunità dei Bassifondi|Comunità]], anche di ottenere il permesso di proseguire gli studi alla scuola di [[Arum]]. Contestualmente, Torquato venne anche contattato dalla [[BDP]], una potente banda mafiosa di [[Nova]], molto attiva nei [[Bassifondi di Nova|Bassifondi]], che offrì lui una cosa molto più importante dal punto di vista di Torquato: tanti, tanti soldi. 
+Torquato viene contattato dalla [[Comunità dei Bassifondi]] che offre lui un modo di redimersi dalle sue truffe aiutando le persone con i suoi talenti, e, tramite i contatti di [[Diana Versabirra]], un'importante membro della [[Comunità dei Bassifondi|Comunità]], anche di ottenere il permesso di proseguire gli studi alla scuola di [[Arum]]. Contestualmente, Torquato venne anche contattato dalla [[Organizzazioni/Regno di Patriagis/Organizzazioni Criminali/BDP]], una potente banda mafiosa di [[Nova]], molto attiva nei [[Bassifondi di Nova|Bassifondi]], che offrì lui una cosa molto più importante dal punto di vista di Torquato: tanti, tanti soldi. 
 
-Torquato entra nella [[BDP]] e ne scala i ranghi sotto la supervisione di [[Cianciaratti]], il *Maestro dei Sussurri* della banda, diventando presto un divinatore eccezionale, e un membro altolocato e rispettato della banda. 
+Torquato entra nella [[Organizzazioni/Regno di Patriagis/Organizzazioni Criminali/BDP]] e ne scala i ranghi sotto la supervisione di [[Cianciaratti]], il *Maestro dei Sussurri* della banda, diventando presto un divinatore eccezionale, e un membro altolocato e rispettato della banda. 
 
 ---
 Parla con la 'r' moscia. 

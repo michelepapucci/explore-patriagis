@@ -6,7 +6,7 @@ Il gruppo raggiunge infine il sarcofago del Professor Jaschk e parte uno scontro
 Kalandyr corre e recupera la gemma e la lascia al professore che la usa per terminare l'incantesimo "Desidero non averti mai trasformato" sussurra in maniera straziante il professore, che guarda sotto i suoi occhi Kaldran tornare in fin di vita, come quando, anni prima, lo aveva salvato trasformandolo. Il professore gli sussurra che almeno così la sua anima sarà libera e quando anche Astrid morirà a breve, saranno insieme. 
 
 Dopo questa straziante situazione, il professore si ricompone e spiega al gruppo che lui è un membro di un famoso gruppo di avventurieri, attivo un millennio fa, molto famoso: I [[Cinque Immortali]]. 
-Lui, [[Ageus]] il Gigante, Immeral l'ineluttabile, [[Evendur]] l'infernale e [[Trinir]] la tempesta. [[Immeral]] gli ha già promesso la morte, ma lo farà per penultimo, prima di togliere la vita sé stesso, l'ultimo non-morto (la missione del revenant Immeral è uccidere TUTTI i non morti e poi togliersi la vita in quanto anche lui non morto). 
+Lui, [[Ageus]] il Gigante, Immeral l'ineluttabile, [[Evendur]] l'arma vivente e [[Trinir]] la tempesta. [[Immeral]] gli ha già promesso la morte, ma lo farà per penultimo, prima di togliere la vita sé stesso, l'ultimo non-morto (la missione del revenant Immeral è uccidere TUTTI i non morti e poi togliersi la vita in quanto anche lui non morto). 
 Il Professore dona anche al gruppo due oggetti magici: una Bacchetta dei Segreti e una Pietra Portafortuna. 
 Il professore ringrazia il gruppo e gli comunica che veglierà su Godfrey. Si accorda poi con il sindaco [[Manistrad Spaccascudi|Manistrad]] per insabbiare la cosa e per fare in modo che sarà lui a occuparsi delle punizioni per i suoi studenti. 
 

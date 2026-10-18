@@ -1,4 +1,4 @@
-La Gilda fu fondata da [[Onni Löytökivi|Torrvic Trovapietre]] in seguito alla scoperta del [[Lapisma]] lavorato. La sua prima sede fu a [[Nova]]. 
+La Gilda fu fondata da [[Onni Loytakuvo|Torrvic Trovapietre]] in seguito alla scoperta del [[Lapisma]] lavorato. La sua prima sede fu a [[Nova]]. 
 
 ## Rettorato
 

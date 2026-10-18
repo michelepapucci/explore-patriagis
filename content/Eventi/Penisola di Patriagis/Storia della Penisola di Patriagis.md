@@ -147,7 +147,7 @@ Iniziano subito le trattative per la formazione di un unico Regno, che rappresen
 <span data-date='0-6-17' data-name="Fondazione del Regno di Patriagis"></span>
 Viene ufficialmente fondato il [[Regno di Patriagis]], sposando il Re elfico [[Andúnië Aravir]] e la principessa umana [[Stella Larenzia]], creando la nuova famiglia reale [[Tullio]]. 
 
-Le città stato, accettano di entrare a far parte del Regno, mantenendo però forti autonomie. Ogni città infatti avrà un capo locale, il [[Sindaco]] che amministra la città insieme al [[Consiglio del Comune]]. Inoltre, avrà un esercito locale, al cui comando è posto un'altra figura elettiva chiamata [[Capitano del Popolo]].
+Le città stato, accettano di entrare a far parte del Regno, mantenendo però forti autonomie. Ogni città infatti avrà un capo locale, il [[Sindaco]] che amministra la città insieme al [[Consiglio del Comune]]. Inoltre, avrà un esercito locale, al cui comando è posto un'altra figura elettiva chiamata [[Capitano del Popolo]]. In altre città, sotto il controllo di potenti famiglie aristocratiche, viene formato un governo simile a quello del [[Comune]], chiamato [[Signoria]] dove la figura del [[Signore]] ha poteri simili al Sindaco, ma viene tramandata per via ereditaria. 
 
 Inoltre, un rappresentante della famiglia reale, il re o la regina, ha potere esecutivo, e perciò da indirizzo alla nazione e propone nuove leggi o la modifica di quelle esistenti. Ma solo il [[Regio Consiglio]], ha il potere legislativo, ed è formato da due rappresentati di ogni città. 
 
@@ -209,7 +209,10 @@ Muore [[Novio I Tullio]] e il figlio [[Ostilio Novio Tullio|Numio Ostilio]] dive
 
 ## 622
 <span data-date='622-06-19' data-name="Scoperta del Lapisma"></span>
-Il ricercatore [[Onni Löytökivi]] scopre ad [[Archealbero]] un frammento di [[Lapisma]] lavorato e, per la prima volta, riesce ad incantarlo. 
+Il ricercatore [[Onni Loytakuvo]] scopre ad [[Archealbero]] un frammento di [[Lapisma]] lavorato e, per la prima volta, riesce ad incantarlo. 
+
+## 626 
+[[Onni Loytakuvo]] fonda la [[Gilda degli Archeologi e degli Artificieri]] e apre due sedi: una a [[Nova]] e una ad [[Archealbero]]. 
 
 
 ## 667
@@ -261,7 +264,7 @@ I sei sopravvissuti passano un anno sull'[[Isola di Bonaccia]] dalla quale riesc
 
 Nelle settimane successive il gruppo affronta il deserto a sud della [[Dardania]], il [[Grande Deserto del Sud|Grande Deserto]] popolato dagli [[Iwinās]], di cui [[Musanda Sifa|Musanda]] è parte. Lì ottengono l'aiuto dei [[Toa'ramal]] alleandosi con la loro matriarca [[Aramiri Toa'ramal]], che accetta di aiutarli a sconfiggere [[Arbogh Tohunga-Toa|Arbogh]]. 
 
-Il gruppo solca i [[Monti Dardani]] dove scoprono che un membro della loro compagnia, [[Dante Alifiere|Dante]], è in realtà un membro della [[BDP]] oltre che un chierico del [[Dogma]]. Questo porta ad una serie di eventi e di regolazioni di conti personali tra [[Bartolomeo, Tessitore di Ombre|Bartolomeo]] e [[Dante Alifiere|Dante]] che finisce con la morte di quest'ultimo il 26 di [[9 - Noctis|Noctis]]. 
+Il gruppo solca i [[Monti Dardani]] dove scoprono che un membro della loro compagnia, [[Dante Alifiere|Dante]], è in realtà un membro della [[Organizzazioni/Regno di Patriagis/Organizzazioni Criminali/BDP]] oltre che un chierico del [[Dogma]]. Questo porta ad una serie di eventi e di regolazioni di conti personali tra [[Bartolomeo, Tessitore di Ombre|Bartolomeo]] e [[Dante Alifiere|Dante]] che finisce con la morte di quest'ultimo il 26 di [[9 - Noctis|Noctis]]. 
 
 Il gruppo si ricongiunge all'[[Esercito Reale di Patriagis]] e incontra [[Adriano Numio Tullio|Adriano]] e riescono a tenere segreta l'identità di [[Tumanako Numio Tullio|Tumanako]], temendo che il principe reale, irascibile, per paura di ciò che rappresenta il fratellastro, ovvero un possibile monarca sia sulla [[Dardania]] che su [[Patriagis]], possa arrivare ad ucciderlo. 
 

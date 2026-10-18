@@ -1,6 +1,6 @@
 Il monastero [[Sifa]] viene fondato nel 1330 A.P. da [[Musanda Sifa]], di rientro dal suo viaggio in [[Dardania]]. 
 
-Il Monastero è una struttura semplice dall'estero e si sviluppa principalmente sottoterra. Dopo la [[Diaspora Iwinās]], i [[Sifa]], sbarcati a [[Sikeola]], costruiscono la struttura come villaggio sotterraneo del proprio clan, che diventa un monastero vero e proprio solo con l'arrivo a [[Patriagis]] del suo fondatore [[Musanda Sifa|Musanda]]. 
+Il Monastero è una struttura semplice dall'esterno e si sviluppa principalmente sottoterra. Dopo la [[Diaspora Iwinās]], i [[Sifa]], sbarcati a [[Sikeola]], costruiscono la struttura come villaggio sotterraneo del proprio clan, che diventa un monastero vero e proprio solo con l'arrivo a [[Patriagis]] del suo fondatore [[Musanda Sifa|Musanda]]. 
 
 ## Pratiche e Storia
 
@@ -14,4 +14,4 @@ Il principio cardine è la preghiera e l'esercizio della gratitudine per il cibo
 
 Secondo le tradizioni [[Iwinās]], un membro del clan diventa adulto dopo il superamento della prova del [[Al-Atua#Bassari|Bassari]], che consiste in una battaglia con degli [[Spiriti del Deserto]]. Eccetto che tra i [[Toa'ramal]], per il resto dei clan la prova è un rito di passaggio che consiste nell'affrontare i saggi del clan travestiti. 
 
-Data l'assenza di spiriti del deserto, [[Musanda Sifa|Musanda]] ha stabilito una prova diversa: si esce per mare e si devono sconfiggere tre Merrow, creature dalle fattezze di ogre marini, che spesso attaccano le coste di [[Sikeola]]. 
+Data l'assenza di spiriti del deserto, [[Musanda Sifa|Musanda]] ha stabilito una prova diversa: si esce per mare durante una tempesta, e si cercano e affrontano le [[Dragunare]], tritoni un tempo fedeli a [[Takaruao]], Dio degli Abissi, che, dopo la sua scomparsa per mano proprio di [[Musanda Sifa|Musanda]] compagno di viaggio dell'Imperatore [[Tumanako Numio Tullio|Tumanako]], sono mutati in creature incontrollabili e deformi che evocano tempeste e agitano le acque.  

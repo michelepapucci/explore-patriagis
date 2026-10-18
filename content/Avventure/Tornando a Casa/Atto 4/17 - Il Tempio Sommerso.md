@@ -107,5 +107,5 @@ Intervento di Lodato:
 
 
 - Liberano [[Tirseno]], [[Libeccio]], [[Silio Versabirra]] e [[Gavio]]. 
-- [[Gavio]] racconta del naufragio, del patto con [[Takaruao]], per il quale ha chiesto qualche modo di rivederti. Per farlo ha sacrificato l'anima di [[Orosio]]. 
+- [[Gavio]] racconta del naufragio, del patto con [[Takaruao]], per il quale ha chiesto qualche modo di rivederti. Per farlo ha sacrificato l'anima di [[Orosio lo speziale]]. 
 

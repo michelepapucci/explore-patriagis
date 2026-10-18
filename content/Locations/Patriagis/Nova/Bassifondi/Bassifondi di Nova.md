@@ -11,7 +11,7 @@ Dato che il potere centrale della capitale non arriva, altre "*istituzioni*" han
 
 La [[Comunità dei Bassifondi]] è una associazione di mutuo aiuto autogestita, dove i cittadini che abitano nelle zone controllate dalla Comunità, vivono aiutandosi e condividendo al meglio le proprie risorse.
 
-La [[BDP]] controlla gran parte dei territori dei Bassifondi, nei quali racimola scagnozzi e tiene in scacco la maggior parte delle attività commerciali con l'uso di minacce e pizzi. 
+La [[Organizzazioni/Regno di Patriagis/Organizzazioni Criminali/BDP]] controlla gran parte dei territori dei Bassifondi, nei quali racimola scagnozzi e tiene in scacco la maggior parte delle attività commerciali con l'uso di minacce e pizzi. 
 
 ## Il Corridoio Pulito
 È una striscia che dei Bassifondi che va dall'inizio degli stessi, fino alla loro fine contro il centro di [[Nova]]. È una via commerciale altamente sorvegliata tenuta ben pulita e ordinata, che viene utilizzata come ingresso a [[Nova]]. 

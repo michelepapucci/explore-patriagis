@@ -38,7 +38,7 @@ La magia o [[Scintilla]], è un potente campo di energia che attraversa tutto il
 
 La magia è molto diffusa, specialmente nelle grandi città, sia a livello di numero di persone che la praticano, sia come vera e propria tecnologia al servizio del benessere dei cittadini. Con la scoperta del [[Lapisma]], molte porte si sono aperte per rendere la [[Scintilla]] accessibile a tutti.
 
-Il [[Lapisma]] è una pietra che si conosceva già in natura e apparentemente inerte. Emette un chiaro e azzurro pallore e scorre nella roccia con enormi venature. Nel 622 A.P., però, [[Onni Löytökivi]] scopre che tra la miriade di reperti [[Nifilim]], la civiltà di giganti sulle cui rovine è fondata [[Nova]], ci sono anche dei reperti che apparentemente contengono del [[Lapisma]] lavorato. 
+Il [[Lapisma]] è una pietra che si conosceva già in natura e apparentemente inerte. Emette un chiaro e azzurro pallore e scorre nella roccia con enormi venature. Nel 622 A.P., però, [[Onni Loytakuvo]] scopre che tra la miriade di reperti [[Nifilim]], la civiltà di giganti sulle cui rovine è fondata [[Nova]], ci sono anche dei reperti che apparentemente contengono del [[Lapisma]] lavorato. 
 
 Questa pietra, quando lavorata al modo dei giganti, permette di contenere incantesimi e permette la creazione di meraviglie magiche di ogni tipo. Nessuno, al momento, sa come lavorare la pietra al modo dei giganti, e pertanto lo scavo archeologico alla ricerca di queste pietre lavorate è uno dei lavori più redditizi della nazione. 
 

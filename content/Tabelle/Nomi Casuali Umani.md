@@ -156,6 +156,8 @@ Scegliere casualmente o meno un nome di famiglia.
 14. [[Battiferro]]
 15. *Spadalesta*
 16. [[Tagliapietre]]
+17. [[Serici]]
+18. [[Sortilegi]]
 
 
 ## 3c. Soprannome/Epiteto
