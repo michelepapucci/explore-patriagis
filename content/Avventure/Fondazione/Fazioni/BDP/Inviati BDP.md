@@ -12,13 +12,15 @@ Frequentano la taverna, ma parlano di affari solo di notte nella loro abitazione
 
 ## Risorse
 
-Al momento, sono ancora in modalità esplorativa e hanno soltanto 3 uomini, di cui uno è esperto in veleni. Ma hanno a disposizione molte monete d'oro che il [[Tracco (Il Pissero)|Tracco]] ha predisposto per la missione. 
+- hanno a disposizione molte monete d'oro che il [[Tracco (Il Pissero)|Tracco]] ha predisposto per la missione. 
+- [[Felice il Gobbo]]
+- [[Orosio lo speziale]] (Assassino esperto in veleni). 
 
 ## Azioni e Sviluppi
 
 - Cercheranno di farsi amici i [[Minatori di Volsinio]] e i membri del gruppo per evitare sospetti, offrendo da bere. 
 - Similmente, cercheranno di farsi amico [[Volsinio Tagliapietre|Volsinio]]. 
-- Cercheranno di entrare nello studio di [[Volsinio Tagliapietre|Volsinio]] alla ricerca di informazioni su di lui, ma dove non troveranno informazioni importanti (che sono nella sua abitazione), scopriranno però il suo vizio del gioco. 
+- La notte del 3/10 Cercheranno di entrare nello studio di [[Volsinio Tagliapietre|Volsinio]] alla ricerca di informazioni su di lui, ma dove non troveranno informazioni importanti (che sono nella sua abitazione), scopriranno però il suo vizio del gioco. 
 - Inizieranno a giocare con lui, con l'obbiettivo di farselo amico. 
 - Cercheranno di entrare nelle stanze private di [[Volsinio Tagliapietre|Volsinio]] per analizzare i suoi documenti e contabilità. Se lo fanno con successo scorpriranno del debito con [[Dardano Spaccatessere]], e inizieranno i loro loschi giochi per comprarlo, mettendo [[Volsinio Tagliapietre|Volsinio]] in una posizione estremamente svantaggiosa. 
 - Se il gruppo si intromette, proveranno prima a corromperli, altrimenti, proveranno col veleno, ma non faranno mai azioni troppo evidenti. 

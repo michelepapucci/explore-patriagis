@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1721724a8f75072c",
+            "id": "a250d739be51a818",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Avventure/Fondazione/Riassunti/1.2.md",
+                "file": "Locations/Patriagis/Pendici/Luk sacnisa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.2"
+              "title": "Luk sacnisa"
             }
           }
         ]
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.3227729797363
+    "width": 406.6435127258301
   },
   "right": {
     "id": "ed5bcd01dbafd5b9",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Avventure/Fondazione/Riassunti/1.2.md",
+                "file": "Locations/Patriagis/Pendici/Luk sacnisa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -172,21 +172,21 @@
                 "calendar": "ID_a87ab8bad85b",
                 "ephemeral": {
                   "viewing": {
-                    "day": 28,
-                    "month": 8,
+                    "day": 2,
+                    "month": 9,
                     "year": 1337
                   },
                   "viewState": 0,
                   "displaying": {
-                    "day": 7,
-                    "month": 0,
+                    "day": 2,
+                    "month": 9,
                     "year": 1337
                   },
                   "displayDayNumber": true,
                   "displayMoons": true
                 },
                 "id": "ID_0a0908eb294b",
-                "child": "ID_a88988cae869"
+                "child": "ID_3a5b1a5a8859"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -224,26 +224,6 @@
           }
         ],
         "currentTab": 5
-      },
-      {
-        "id": "2a66de0a6d144ea0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "690356565c386517",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_a87ab8bad85b",
-                "id": "ID_3a5b1a5a8859",
-                "parent": "ID_0a0908eb294b"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -266,13 +246,30 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "1721724a8f75072c",
+  "active": "a250d739be51a818",
   "lastOpenFiles": [
-    "Avventure/Fondazione/Riassunti/1.1.md",
+    "Avventure/Fondazione/NPC/Spiriti del Bosco/Velia.md",
+    "Persone/Patriagis/Pendici/Luk sacnisa/Thania.md",
+    "Avventure/Fondazione/Sessioni/1.3.md",
+    "Avventure/Fondazione/NPC/Aoife Na Cosantóirí.md",
     "Avventure/Fondazione/Riassunti/1.2.md",
-    "Avventure/Fondazione/NPC/Imprese Tagliapietre/Aoife Na Cosantóirí.md",
-    "Avventure/Fondazione/NPC/Imprese Tagliapietre/Artemisia Sortilegi.md",
+    "Avventure/Fondazione/Riassunti/1.1.md",
+    "Avventure/Fondazione/Background e Struttura.md",
     "Avventure/Fondazione/Sessioni/1.2.md",
+    "Avventure/Fondazione/Sessioni/1.1.md",
+    "Avventure/Fondazione/Fazioni/BDP/Inviati BDP.md",
+    "Avventure/Fondazione/Fazioni/Inviati del Dogma/Inviati del Dogma.md",
+    "Avventure/Fondazione/Fazioni/Spiriti del Bosco/Spiriti del Bosco.md",
+    "Avventure/Fondazione/NPC/Spiriti del Bosco",
+    "Locations/Patriagis/Pendici/Luk sacnisa.md",
+    "Creatures/Incarnazioni/Driade.md",
+    "Creatures/Specie/Spiriti.md",
+    "Persone/Patriagis/Pendici/Luk sacnisa",
+    "Avventure/Fondazione/NPC/BDP/Felice il Gobbo.md",
+    "Avventure/Fondazione/NPC/Imprese Tagliapietre/Volsinio Tagliapietre.md",
+    "Avventure/Fondazione/NPC/BDP",
+    "Avventure/Fondazione/NPC/BDP/Orosio lo speziale.md",
+    "Avventure/Fondazione/NPC/Artemisia Sortilegi.md",
     "Religioni/Tiche/Tiche.md",
     "Avventure/Gli occhi del Guardingo/Characters/Taximundar, Il Fuoco Fatuo.md",
     "Avventure/Fondazione/NPC/Purpurea, l'Egida.md",
@@ -281,29 +278,12 @@
     "Avventure/Fondazione/NPC/Dogma/Ebuzio, il Calvo.md",
     "Avventure/Fondazione/Fazioni/Inviati del Dogma",
     "Tabelle/Nomi Casuali Umani.md",
-    "Avventure/Fondazione/Sessioni/1.1.md",
     "Avventure/Fondazione/NPC/Imprese Tagliapietre/Gilda degli Archeologi e degli Artificieri/Urho Loytakuvo.md",
-    "Avventure/Fondazione/NPC/Imprese Tagliapietre/Gilda degli Archeologi e degli Artificieri/Caio lo Scriba.md",
-    "Avventure/Fondazione/NPC/Imprese Tagliapietre/Minatori/Orsinia, la Montanara.md",
-    "Persone/Patriagis/Pendici/Onnia/Cuoredoro/Tessa Cuoredoro.md",
-    "Giochi/Lancio delle Tessere.md",
-    "Avventure/Fondazione/NPC/Imprese Tagliapietre/Volsinio Tagliapietre.md",
-    "Oggetti/Giochi/Tessera.md",
-    "Avventure/Fondazione/Fazioni/Imprese Tagliapietre.md",
-    "Avventure/Fondazione/Fazioni/Minatori di Volsinio.md",
     "Avventure/Fondazione/NPC/Imprese Tagliapietre/Minatori",
-    "Avventure/Fondazione/Fazioni/BDP/Inviati BDP.md",
-    "Avventure/Fondazione/Fazioni/BDP/Orosio lo speziale.md",
-    "Creatures/Specie/Umani/Mezzuomini/Tiarna na Madraì.md",
-    "Avventure/Fondazione/Fazioni/Spiriti del Bosco/Spiriti del Bosco.md",
-    "Avventure/Fondazione/Fazioni/BDP/Felice il Gobbo.md",
     "Persone/Patriagis/Pendici/Onnia/Cuoredoro",
     "Persone/Patriagis/Pendici",
     "Persone/Patriagis/Pendici/Onnia",
     "Avventure/Fondazione/Fazioni/Spiriti del Bosco",
-    "Avventure/Fondazione/Fazioni/BDP",
-    "Persone/Patriagis/Nova/Sortilegi",
-    "Avventure/Fondazione/NPC/Imprese Tagliapietre/Gilda degli Archeologi e degli Artificieri",
     "Persone/Patriagis/Sikeola/Imeria/de Signiferis/attachments/Pasted image 20261007222816.png",
     "Persone/Patriagis/Nova/Serici/attachments/Pasted image 20261007124138.png",
     "Eventi/Eventi Ciclici/attachments/Pasted image 20250315015725.png",

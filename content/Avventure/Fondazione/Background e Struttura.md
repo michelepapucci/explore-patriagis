@@ -12,8 +12,6 @@ Per partire [[Volsinio Tagliapietre|Volsinio]] incorre in un prestito importante
 
 Gli uomini di [[Volsinio Tagliapietre|Volsinio]] trovano un artefatto [[Nifilim]] non contiene [[Lapisma]] ma conferma che la pista è giusta. Poi, da quel momento però, più niente. 
 
-<span data-date='1337-09-28' data-name="Partenza del Grupp verso Onnia" data-calendar="Default"></span> 
-
 [[Volsinio Tagliapietre]] contatta [[Zaldak Versabirra|Zaldak]] e richiede l'invio di uno dei suoi gruppi a [[Onnia]]. Il motivo è che [[Volsinio Tagliapietre|Volsinio]] crede che qualcuno lo stia sabotando tra i suoi lavoratori. Non è convinto che stiano scavando nei posti giusti, e che non seguano le sue indicazioni. 
 
 Inoltre, gli attacchi della vicina fortezza di [[Fortezza di Mor|Mor]] si fanno sempre più coraggiosi e le poche vere guardie che ha non bastano più. 

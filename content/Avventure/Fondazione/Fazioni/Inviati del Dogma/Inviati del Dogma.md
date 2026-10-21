@@ -7,6 +7,7 @@
 ## Risorse
 
 - Durante i loro riti e i loro discorsi pubblici cercheranno di spaventare gli abitanti facendo leva sulla poca sicurezza, il basso numero di guardie, cercando così di convincere il popolo a sostenere la loro richiesta di sicurezza e di farlo affidandosi al [[Dogma]]. 
+- [[Ebuzio, il Calvo]]
 
 ## Obbiettivo
 
