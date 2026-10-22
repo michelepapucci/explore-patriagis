@@ -227,7 +227,7 @@ Una volta sconfitti i ragni, il gruppo poi raggiunge il percorso originale senza
 
 ## Arrivo a [[Filobello]]
 
-A Filobello possono trovare un [[Tempio di Tiche di Filobello|Tempio di Tiche]], la [[Lo Stufato Cuore d'Oro]] e la [[Gilda dei Minatori di Filobello]]. 
+A Filobello possono trovare un [[Tempio di Tiche di Filobello|Tempio di Tiche]], la [[Lo Stufato Cuore d'Oro]] e la [[Arte dei Maestri di Pietra e dei Minatori di Filobello]]. 
 
 ## Arrivo alle [[Rovine di Archealbero]]
 

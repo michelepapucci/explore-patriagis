@@ -9,7 +9,7 @@
 
 La locanda è una delle poche strutture in mattoni della città di [[Filobello]], è un luogo familiare e accogliente, dove [[Berta Cuoredoro]], l'anziana proprietaria fa da mamma o nonna agli avventori. 
 
-La Locanda è frequentata spesso dai minatori della [[Gilda dei Minatori di Filobello|Gilda locale]] che spesso vanno a bere dopo il lavoro. Il gruppo non ama i pochi forestieri[^1] e spesso si mettono a litigare con loro. 
+La Locanda è frequentata spesso dai minatori della [[Arte dei Maestri di Pietra e dei Minatori di Filobello|Gilda locale]] che spesso vanno a bere dopo il lavoro. Il gruppo non ama i pochi forestieri[^1] e spesso si mettono a litigare con loro. 
 [[Berta Cuoredoro|Berta]] è spesso costretta ad intervenire calmando gli animi con fare materno.
 
 Solitamente in sala è presente [[Tessa Cuoredoro]], la figlia di [[Berta Cuoredoro|Berta]] che oltre ad aiutare in cucina e come cameriera, nelle giornate più calme allieta la sala con la musica della sua arpa. 

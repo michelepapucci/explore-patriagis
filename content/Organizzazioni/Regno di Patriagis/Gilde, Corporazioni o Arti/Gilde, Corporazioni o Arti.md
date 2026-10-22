@@ -60,7 +60,7 @@ Le Arti Minori sono *Quattordici*:
 2. Arte dei Calzolai;
 3. [[Corporazione dei Taglialegna e dei Falegnami]];
 4. Corporazione dei Cuoiai e Galigai;
-5. Arte dei Maestri di Pietra e dei Minatori;
+5. [[Arte dei Maestri di Pietra e dei Minatori]];
 6. Corporazione dei Vinattieri e dei Fornai;
 7. Gilda dei Locandieri e degli Oste;
 8. Corporazione degli Oliandoli e dei Pizzicagnoli;
