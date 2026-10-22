@@ -8,31 +8,57 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a250d739be51a818",
+            "id": "c061b89f5862e870",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Persone/Patriagis/Nova/Battiferro/Battiferro.md",
+                "file": "Avventure/Tornando a Casa/Giocatori/Bartolomeo Battiferro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Battiferro"
+              "title": "Bartolomeo Battiferro"
             }
           },
           {
-            "id": "44743e2ff7e0340d",
+            "id": "9c507955768cddcc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Persone/Patriagis/Nova/Tullio/attachments/Pasted image 20250115011927.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250115011927"
+            }
+          },
+          {
+            "id": "721631268090859b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organizzazioni/Regno di Patriagis/Gilde, Corporazioni o Arti/Gilde, Corporazioni e Arti di Patriagis/Arti Minori/Arte dei Maestri di Pietra e dei Minatori.md",
+                "file": "Avventure/Fondazione/Riassunti/1.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arte dei Maestri di Pietra e dei Minatori"
+              "title": "1.3"
+            }
+          },
+          {
+            "id": "2902b10a9cf49c34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Avventure/Fondazione/NPC/Aoife Na Cosantóirí.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aoife Na Cosantóirí"
             }
           }
         ]
@@ -69,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "battiferro",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Patriagis/Pendici/Luk sacnisa.md",
+                "file": "Avventure/Tornando a Casa/Giocatori/Bartolomeo Battiferro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -187,8 +213,8 @@
                 "calendar": "ID_a87ab8bad85b",
                 "ephemeral": {
                   "viewing": {
-                    "day": 26,
-                    "month": 7,
+                    "day": 1,
+                    "month": 9,
                     "year": 1337
                   },
                   "viewState": 0,
@@ -238,7 +264,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "7eb51fac67db87a7",
@@ -281,54 +307,53 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "a250d739be51a818",
+  "active": "c061b89f5862e870",
   "lastOpenFiles": [
-    "Tabelle/Nomi Casuali Umani.md",
-    "Avventure/Filobello/Gundren Cercarocce.md",
-    "Avventure/Fondazione/Sessioni/1.1.md",
-    "Avventure/Fondazione/Fazioni/Minatori di Volsinio.md",
+    "Persone/Patriagis/Nova/Serici/Serici.md",
+    "Persone/Patriagis/Nova/Tullio/Lodato Numio Tullio.md",
+    "Persone/Patriagis/Nova/Tullio/Tullio.md",
+    "Persone/Patriagis/Nova/Tullio/attachments/Pasted image 20250115011927.png",
+    "Persone/Patriagis/Nova/Tullio/Novio I Tullio.md",
+    "Persone/Patriagis/Nova/Tullio/Ostilio Novio Tullio.md",
+    "Persone/Patriagis/Nova/Tullio/Numio Ostilio I Tullio.md",
+    "Persone/Patriagis/Nova/Tullio/Adriano Numio Tullio.md",
+    "Avventure/Tornando a Casa/Giocatori/Bartolomeo, Tessitore di Ombre.md",
+    "Persone/Patriagis/Nova/Versabirra/Versabirra.md",
+    "Avventure/Tornando a Casa/Giocatori/Bartolomeo Battiferro.md",
+    "Persone/Patriagis/Nova/Battiferro/Battiferro.md",
     "Avventure/Fondazione/Sessioni/1.3.md",
-    "Organizzazioni/Regno di Patriagis/Gilde, Corporazioni o Arti/Gilde, Corporazioni e Arti di Patriagis/Arti Minori/Arte dei Maestri di Pietra e dei Minatori.md",
-    "Locations/Patriagis/Pendici/Filobello/Arte dei Maestri di Pietra e dei Minatori di Filobello.md",
-    "Organizzazioni/Regno di Patriagis/Gilde, Corporazioni o Arti/Gilde, Corporazioni o Arti.md",
-    "Avventure/Fondazione/Fazioni/Imprese Tagliapietre.md",
-    "Avventure/Fondazione/NPC/Imprese Tagliapietre/Minatori/Orsinia, la Montanara.md",
-    "Locations/Patriagis/Pendici/Luk sacnisa.md",
+    "Avventure/Fondazione/Riassunti/1.3.md",
     "Avventure/Fondazione/NPC/Spiriti del Bosco/Velia.md",
-    "Persone/Patriagis/Pendici/Luk sacnisa/Thania.md",
+    "Avventure/Gli occhi del Guardingo/Characters/Taximundar, Il Fuoco Fatuo.md",
+    "Tabelle/Nomi Casuali Umani.md",
     "Avventure/Fondazione/NPC/Aoife Na Cosantóirí.md",
+    "Avventure/Fondazione/NPC/Tabella Riassuntiva.md",
     "Avventure/Fondazione/Riassunti/1.2.md",
     "Avventure/Fondazione/Riassunti/1.1.md",
-    "Avventure/Fondazione/Background e Struttura.md",
-    "Avventure/Fondazione/Sessioni/1.2.md",
-    "Avventure/Fondazione/Fazioni/BDP/Inviati BDP.md",
-    "Avventure/Fondazione/Fazioni/Inviati del Dogma/Inviati del Dogma.md",
-    "Avventure/Fondazione/Fazioni/Spiriti del Bosco/Spiriti del Bosco.md",
-    "Avventure/Fondazione/NPC/Spiriti del Bosco",
-    "Creatures/Incarnazioni/Driade.md",
-    "Creatures/Specie/Spiriti.md",
-    "Persone/Patriagis/Pendici/Luk sacnisa",
-    "Avventure/Fondazione/NPC/BDP/Felice il Gobbo.md",
-    "Avventure/Fondazione/NPC/Imprese Tagliapietre/Volsinio Tagliapietre.md",
-    "Avventure/Fondazione/NPC/BDP",
-    "Avventure/Fondazione/NPC/BDP/Orosio lo speziale.md",
-    "Avventure/Fondazione/NPC/Dogma",
-    "Avventure/Fondazione/Fazioni/Inviati del Dogma",
-    "Avventure/Fondazione/NPC/Imprese Tagliapietre/Minatori",
-    "Persone/Patriagis/Pendici/Onnia/Cuoredoro",
-    "Persone/Patriagis/Pendici",
-    "Persone/Patriagis/Pendici/Onnia",
-    "Avventure/Fondazione/Fazioni/Spiriti del Bosco",
+    "Eventi/Herekorenga/Ārahina e ngā hēramana/Kawenata Herekore/Kawenata Herekore.md",
+    "Eventi/Storia della Dardania/01 - Età Antica/Età Antica.md",
+    "Eventi/Penisola di Patriagis/04 - Età del Regno/Gran Consiglio Speciale per i Popoli Liberi.md",
+    "Eventi/Penisola di Patriagis/04 - Età del Regno/Età del Regno.md",
+    "Eventi/Penisola di Patriagis/03 - Età dei Comuni/Età Comunale.md",
+    "Eventi/Herekorenga/Ārahina e ngā hēramana/Kawenata Herekore",
+    "Eventi/Eventi Ciclici/attachments/Pasted image 20250315015725.png",
+    "Eventi/Storia della Dardania/01 - Età Antica",
+    "Eventi/Penisola di Patriagis/04 - Età del Regno",
+    "Eventi/Penisola di Patriagis/03 - Età dei Comuni",
+    "Eventi/Penisola di Patriagis/02 - Età dei Due Regni",
+    "Eventi/Penisola di Patriagis/01 - Età Antica",
+    "Eventi/Herekorenga/Ārahina e ngā hēramana",
+    "Eventi/Eventi Ciclici/attachments",
+    "Eventi/Storia della Dardania",
+    "Eventi/Storia Mondiale",
     "Persone/Patriagis/Sikeola/Imeria/de Signiferis/attachments/Pasted image 20261007222816.png",
     "Persone/Patriagis/Nova/Serici/attachments/Pasted image 20261007124138.png",
-    "Eventi/Eventi Ciclici/attachments/Pasted image 20250315015725.png",
     "Persone/Dardania/Dardo/Tohunga-Nui/attachments/Pasted image 20251105144918.png",
     "_Impostazioni/immagini/Commissione Michele Finale Versione Viola PNG.png",
     "_Impostazioni/immagini/Commissione Michele colore forte.JPG",
     "_Impostazioni/immagini/Commissione Michele chiara.jpg",
     "_Impostazioni/immagini/Commissione Michele Finale.jpg",
     "_Impostazioni/immagini/Commissione Michele Finale Versione Viola 4.jpg",
-    "_Impostazioni/immagini/Commissione Michele Finale Versione Viola 3.jpg",
     "Untitled.canvas"
   ]
 }
